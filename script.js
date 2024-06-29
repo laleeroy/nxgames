@@ -9,13 +9,23 @@ function formatSize(size) {
 function updateTotalSize() {
     let totalSize = 0;
     const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
+    let anyChecked = false;
+    
     checkboxes.forEach(checkbox => {
         if (checkbox.checked) {
+            anyChecked = true;
             const sizeText = checkbox.dataset.size;
             totalSize += formatSize(sizeText);
         }
     });
-    document.getElementById('total-size').textContent = totalSize.toFixed(2) + ' GB';
+
+    const totalSizeContainer = document.getElementById('total-size-container');
+    if (anyChecked) {
+        totalSizeContainer.style.display = 'block'; // Show the total size container
+        document.getElementById('total-size').textContent = totalSize.toFixed(2) + ' GB';
+    } else {
+        totalSizeContainer.style.display = 'none'; // Hide the total size container
+    }
 }
 
 fetch('contents.txt')

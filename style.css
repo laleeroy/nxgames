@@ -6,3 +6,14 @@ body {
 .content-item {
     margin: 5px 0;
 }
+
+#total-size-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Ensures it stays on top of other elements */
+}

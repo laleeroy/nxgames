@@ -10,7 +10,7 @@ function updateTotalSize() {
     let totalSize = 0;
     const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
     let anyChecked = false;
-    
+
     checkboxes.forEach(checkbox => {
         if (checkbox.checked) {
             anyChecked = true;
@@ -27,6 +27,9 @@ function updateTotalSize() {
         totalSizeContainer.style.display = 'none'; // Hide the total size container
     }
 }
+
+// Initially hide the total size container
+document.getElementById('total-size-container').style.display = 'none';
 
 fetch('contents.txt')
     .then(response => response.text())

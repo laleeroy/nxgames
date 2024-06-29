@@ -52,7 +52,11 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
 
     if (checkedItems.length > 0) {
         navigator.clipboard.writeText(checkedItems.join('\n'))
-            .then(() => alert('Checked entries copied to clipboard!'))
+            .then(() => {
+                alert('Checked entries copied to clipboard!');
+                updateTotalSize(); // Update total size container after copying
+                resetInactivityTimeout(); // Reset inactivity timeout after copying
+            })
             .catch(err => console.error('Failed to copy:', err));
     } else {
         alert('No items checked!');
@@ -118,7 +122,10 @@ function resetInactivityTimeout() {
 function setupInactivityListener() {
     window.addEventListener('mousemove', resetInactivityTimeout);
     window.addEventListener('keypress', resetInactivityTimeout);
-    window.addEventListener('click', resetInactivityTimeout);
+    window.addEventListener('click', function() {
+        updateTotalSize();
+        resetInactivityTimeout();
+    });
     window.addEventListener('scroll', function() {
         updateTotalSize();
         resetInactivityTimeout();

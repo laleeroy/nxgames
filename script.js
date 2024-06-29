@@ -34,7 +34,18 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
     
     checkboxes.forEach(checkbox => {
         if (checkbox.checked) {
-            checkedItems.push(checkbox.nextElementSibling.textContent.trim());
+            let text = checkbox.nextElementSibling.textContent.trim();
+            // Remove additional information like [NSZ], [NSP], [XCI], Size: etc.
+            if (text.includes('[NSZ]')) {
+                text = text.substring(0, text.indexOf('[NSZ]')).trim();
+            } else if (text.includes('[NSP]')) {
+                text = text.substring(0, text.indexOf('[NSP]')).trim();
+            } else if (text.includes('[XCI]')) {
+                text = text.substring(0, text.indexOf('[XCI]')).trim();
+            } else if (text.includes('Size')) {
+                text = text.substring(0, text.indexOf('Size')).trim();
+            }
+            checkedItems.push(text);
         }
     });
 
@@ -67,7 +78,17 @@ fetch('contents.txt')
                 checkbox.addEventListener('change', updateTotalSize);
 
                 const label = document.createElement('label');
-                label.textContent = item;
+                let labelText = item.trim();
+                if (labelText.includes('[NSZ]')) {
+                    labelText = labelText.substring(0, labelText.indexOf('[NSZ]')).trim();
+                } else if (labelText.includes('[NSP]')) {
+                    labelText = labelText.substring(0, labelText.indexOf('[NSP]')).trim();
+                } else if (labelText.includes('[XCI]')) {
+                    labelText = labelText.substring(0, labelText.indexOf('[XCI]')).trim();
+                } else if (labelText.includes('Size')) {
+                    labelText = labelText.substring(0, labelText.indexOf('Size')).trim();
+                }
+                label.textContent = labelText;
 
                 div.appendChild(checkbox);
                 div.appendChild(label);

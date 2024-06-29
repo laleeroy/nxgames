@@ -23,10 +23,10 @@ function updateTotalSize() {
     if (anyChecked) {
         totalSizeContainer.style.display = 'block'; // Show the total size container
         document.getElementById('total-size').textContent = totalSize.toFixed(2) + ' GB';
+        resetInactivityTimeout(); // Reset the inactivity timeout whenever the total size is updated
     } else {
         totalSizeContainer.style.display = 'none'; // Hide the total size container
     }
-    resetInactivityTimeout(); // Reset the inactivity timeout whenever the total size is updated
 }
 
 document.getElementById('copy-entries-button').addEventListener('click', function() {
@@ -76,7 +76,10 @@ fetch('contents.txt')
                 const checkbox = document.createElement('input');
                 checkbox.type = 'checkbox';
                 checkbox.dataset.size = sizeMatch[1];
-                checkbox.addEventListener('change', updateTotalSize);
+                checkbox.addEventListener('change', function() {
+                    updateTotalSize();
+                    resetInactivityTimeout();
+                });
 
                 const label = document.createElement('label');
                 let labelText = item.trim();
@@ -105,7 +108,10 @@ let inactivityTimeout;
 function resetInactivityTimeout() {
     clearTimeout(inactivityTimeout);
     inactivityTimeout = setTimeout(() => {
-        document.getElementById('total-size-container').style.display = 'none';
+        const totalSizeContainer = document.getElementById('total-size-container');
+        if (!totalSizeContainer.contains(document.activeElement)) {
+            totalSizeContainer.style.display = 'none';
+        }
     }, 5000); // 5 seconds
 }
 
@@ -113,9 +119,15 @@ function setupInactivityListener() {
     window.addEventListener('mousemove', resetInactivityTimeout);
     window.addEventListener('keypress', resetInactivityTimeout);
     window.addEventListener('click', resetInactivityTimeout);
-    window.addEventListener('scroll', resetInactivityTimeout);
+    window.addEventListener('scroll', function() {
+        updateTotalSize();
+        resetInactivityTimeout();
+    });
     window.addEventListener('touchstart', resetInactivityTimeout); // Added for mobile devices
-    window.addEventListener('touchmove', resetInactivityTimeout); // Added for mobile devices
+    window.addEventListener('touchmove', function() {
+        updateTotalSize();
+        resetInactivityTimeout();
+    }); // Added for mobile devices
 }
 
 // Start the inactivity listener

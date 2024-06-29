@@ -28,6 +28,25 @@ function updateTotalSize() {
     }
 }
 
+document.getElementById('copy-entries-button').addEventListener('click', function() {
+    const checkedItems = [];
+    const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
+    
+    checkboxes.forEach(checkbox => {
+        if (checkbox.checked) {
+            checkedItems.push(checkbox.nextElementSibling.textContent.trim());
+        }
+    });
+
+    if (checkedItems.length > 0) {
+        navigator.clipboard.writeText(checkedItems.join('\n'))
+            .then(() => alert('Checked entries copied to clipboard!'))
+            .catch(err => console.error('Failed to copy:', err));
+    } else {
+        alert('No items checked!');
+    }
+});
+
 // Initially hide the total size container
 document.getElementById('total-size-container').style.display = 'none';
 

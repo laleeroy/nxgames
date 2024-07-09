@@ -1,6 +1,3 @@
-AEW Fight Forever [NSP] Size: 13G
-Animal Crossing New Horizons [NSP] Size: 11G
-Assassin's Creed III Remastered [NSZ] Size: 11G
 Assassins Creed The Ezio Collection [NSZ] Size: 29G
 Astral Chain [NSP] Size: 9.9G
 Attack on Titan 2 Final Battle [NSZ] Size: 19G
@@ -9,7 +6,7 @@ Battle Brothers [NSZ] Size: 3.7G
 Bayonetta 2 Size: 13G
 Bayonetta 3 [NSP] Size: 16G
 Bayonetta Origins Cereza and the Lost Demon [NSP] Size: 3.2G
-Bayonetta Size: 8.4G
+Bayonetta Size: 8.3G
 Big Brain Academy Brain vs Brain [NSZ] Size: 524M
 BioShock Infinite The Complete Edition Size: 17G
 Cadence of Hyrule [NSP] Size: 1.7G
@@ -17,6 +14,7 @@ Chained Echoes [NSZ] Size: 776M
 Chocobos Mystery Dungeon Every Buddy [NSZ] Size: 1.1G
 Contra Anniversary Collection [NSP] Size: 1.1G
 Contra Operation Galuga [NSZ] Size: 7.1G
+Contra Rogue Corps [NSZ] Size: 2.7G
 Crash Bandicoot 4 Its About Time [NSZ] Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Cult of the Lamb [NSZ] Size: 1.2G
@@ -28,8 +26,11 @@ Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Darksiders Genesis [NSP] Size: 11G
 Dark Souls Remastered [NSP] Size: 4.1G
 Dave the Diver [NSZ] Size: 2.8G
+Demon Slayer Kimetsu no Yaiba Sweep the Board [NSZ] Size: 2.8G
+Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba [NSP] Size: 12G
 Detective Pikachu Returns [NSZ] Size: 6.3G
 Diablo 3 [NSP] Size: 28G
+Disney Illusion Island [NSZ] Size: 5.9G
 Donkey Kong Country Tropical Freeze [NSP] Size: 6.7G
 Dragon Ball FighterZ Size: 9.1G
 Dragon Ball Xenoverse 2 Size: 13G
@@ -39,7 +40,7 @@ Dread Out 2 [NSP] Size: 5.4G
 DreamWorks All-Star Kart Racing [NSZ] Size: 3.3G
 Dying Light Definitive Edition [NSZ] Size: 11G
 EA Sports FC 24 [NSZ] Size: 29G
-Fe [NSZ] Size: 527M
+Fe [NSZ] Size: 526M
 Final Fantasy VII Reunion Crisis Core [NSP] Size: 15G
 Final Fantasy X - X-2 HD Remaster [NSP] Size: 27G
 Fire Emblem Engage [NSZ] Size: 14G
@@ -47,12 +48,13 @@ Fire Emblem Three Houses [NSP] Size: 13G
 Fire Emblem Warriors [NSZ] Size: 12G
 Fire Emblem Warriors Three Hopes [NSZ] Size: 12G
 Fitness Boxing 2 Rhythm and Exercise [NSZ] Size: 3.8G
-Fitness Boxing [NSZ] Size: 663M
+Fitness Boxing [NSZ] Size: 662M
 Food Girls 1-2 [NSZ] Size: 2.0G
-GBA, GB - Nintendo Switch Online [NSZ] Size: 970M
+FOUND.005 Size: 128K
+GBA, GB - Nintendo Switch Online [NSZ] Size: 969M
 GTA The Trilogy [NSP] Size: 26G
 Hades [NSP] Size: 5.8G
-Harvest Moon [NSZ] Size: 464M
+Harvest Moon [NSZ] Size: 463M
 Harvest Moon One World [NSP] Size: 1.4G
 Harvest Moon - The Winds of Anthos [NSZ] Size: 1.5G
 Hellblade Senua's Sacrifice [NSP] Size: 19G
@@ -79,7 +81,6 @@ Live A Live [NSP] Size: 4.8G
 Luigis Mansion 3 [NSZ] Size: 6.8G
 Mario Kart 8 Deluxe [NSZ] Size: 11G
 Mario Party Superstars [NSP] Size: 2.9G
-Mario Party Superstars [NSP] Size: 2.9G
 Mario + Rabbids Kingdom Battle [NSP] Size: 5.0G
 Mario Tennis Aces [NSP] Size: 2.6G
 Marvel Ultimate Alliance 3 The Black Order + DLC [NSZ] Size: 15G
@@ -92,12 +93,11 @@ My Time at Sandrock [NSP] Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 58G
 Needy Streamer Overload (Girl Overdose) [NSZ] Size: 997M
-NES, SNES - Nintendo Switch Online (NSO Official Games) [NSZ] Size: 1.4G
-New Super Mario Bros U Deluxe [NSZ] Size: 1.4G
+NES, SNES - Nintendo Switch Online (NSO Official Games) [NSZ] Size: 1.3G
 New Super Mario Bros U Deluxe [NSZ] Size: 1.4G
 Nintendo 64 Nintendo Switch Online [NSP] Size: 2.7G
 Oceanhorn 2 Knights of the Lost Realm [NSP] Size: 3.8G
-Oceanhorn Monster of Uncharted Seas [NSP] Size: 457M
+Oceanhorn Monster of Uncharted Seas [NSP] Size: 456M
 Octopath Traveler 2 [NSP] Size: 5.8G
 Octopath Traveler [NSP] Size: 3.2G
 Ori and the Blind Forest Definitive Edition [NSP] Size: 3.6G
@@ -125,16 +125,16 @@ Pokken Tournament DX Size: 4.1G
 Prince of Persia the Lost Crown [NSZ] Size: 4.9G
 Rain World [NSZ] Size: 4.5G
 Red Dead Redemption [NSZ] Size: 11G
-Roller Coaster Tycoon Adventures Deluxe [NSZ] Size: 578M
+Roller Coaster Tycoon Adventures Deluxe [NSZ] Size: 577M
 Sea of Stars [NSZ] Size: 3.3G
-SEGA Genesis Nintendo Switch Online [NSZ] Size: 941M
+SEGA Genesis Nintendo Switch Online [NSZ] Size: 860M
 Skater XL [NSZ] Size: 2.0G
 Slave Zero X [NSZ] Size: 1.2G
 Smurfs Kart [NSZ] Size: 1.4G
 Song of Nunu (A League of Legends Story) [NSZ] Size: 6.4G
 Stardew Valley [NSZ] Size: 904M
 Star Ocean The Second Story R [NSZ] Size: 9.9G
-Story of Seasons Friends of Mineral Town (Harvest Moon) [NSZ] Size: 690M
+Story of Seasons Friends of Mineral Town (Harvest Moon) [NSZ] Size: 689M
 Street Fighterr 30th Anniversary Collection [NSP] Size: 5.2G
 Streets of Rage 4 [NSP] Size: 4.0G
 Super Dragon Ball Heroes World Mission Size: 1.5G
@@ -152,12 +152,18 @@ The Legend of Zelda Skyward Sword HD [NSZ] Size: 3.9G
 The Legend of Zelda Tears of the Kingdom [NSP] Size: 17G
 The Simpsons Hit and Run homebrew Port for Nintendo Switch [NSP] Size: 1.3G
 The Smurfs 2 The Prisoner of the Green Stone [NSP] Size: 3.4G
-The Smurfs Mission Vileaf [NSZ] Size: 804M
+The Smurfs Mission Vileaf [NSZ] Size: 803M
 The Walking Dead Destinies [NSZ] Size: 5.4G
 The Witcher 3 Wild Hunt - Complete Edition (EU) [NSZ] Size: 37G
+TowerFall [NSP] Size: 425M
+Unravel Two [NSZ] Size: 1.9G
+Untitled Goose Game [NSZ] Size: 342M
+Vampire Survivors [NSZ] Size: 536M
+WarioWare Get It Together [NSP] Size: 1.6G
+WarioWare Move It [NSP] Size: 1.4G
 What the Duck [NSZ] Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC [NSZ] Size: 15G
 Xenoblade Chronicles 3 [NSP] Size: 19G
 Xenoblade Chronicles Definitive Edition [NSZ] Size: 11G
-Youtube for Nintendo Switch (patched) [NSP] Size: 165M
+Youtube for Nintendo Switch (patched) [NSP] Size: 164M
 Ys VIII Lacrimosa of DANA [NSZ] Size: 6.0G

@@ -15,6 +15,8 @@ BioShock Infinite The Complete Edition Size: 17G
 Cadence of Hyrule [NSP] Size: 1.7G
 Chained Echoes [NSZ] Size: 776M
 Chocobos Mystery Dungeon Every Buddy [NSZ] Size: 1.1G
+Contra Anniversary Collection [NSP] Size: 1.1G
+Contra Operation Galuga [NSZ] Size: 7.1G
 Crash Bandicoot 4 Its About Time [NSZ] Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Cult of the Lamb [NSZ] Size: 1.2G
@@ -26,7 +28,6 @@ Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Darksiders Genesis [NSP] Size: 11G
 Dark Souls Remastered [NSP] Size: 4.1G
 Dave the Diver [NSZ] Size: 2.8G
-Delete Me! Size: 28K
 Detective Pikachu Returns [NSZ] Size: 6.3G
 Diablo 3 [NSP] Size: 28G
 Donkey Kong Country Tropical Freeze [NSP] Size: 6.7G
@@ -82,6 +83,8 @@ Mario Party Superstars [NSP] Size: 2.9G
 Mario + Rabbids Kingdom Battle [NSP] Size: 5.0G
 Mario Tennis Aces [NSP] Size: 2.6G
 Marvel Ultimate Alliance 3 The Black Order + DLC [NSZ] Size: 15G
+Metal Slug 1,2,3,4,5-X (Aca Neogeo) [NSP] Size: 786M
+Metal Slug Attack Reloaded [NSP] Size: 1.7G
 Metroid Prime Remastered [NSP] Size: 6.8G
 Metro Redux [NSZ] Size: 10G
 MGS Master Collection [NSP] Size: 27G

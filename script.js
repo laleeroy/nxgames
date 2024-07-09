@@ -37,7 +37,7 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
         if (checkbox.checked) {
             let text = checkbox.nextElementSibling.textContent.trim();
 	    // Include the size information in the copied text
-            text += ` Size: ${checkbox.dataset.size}`;
+            text += ` #Size: ${checkbox.dataset.size}`;
             checkedItems.push(text);
         }
     });

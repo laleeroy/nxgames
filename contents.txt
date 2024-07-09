@@ -89,6 +89,10 @@ Metal Slug Attack Reloaded [NSP] Size: 1.7G
 Metroid Prime Remastered [NSP] Size: 6.8G
 Metro Redux [NSZ] Size: 10G
 MGS Master Collection [NSP] Size: 27G
+Minecraft Dungeons [NSZ] Size: 3.9G
+Minecraft Legends [NSP] Size: 7.4G
+Minecraft [NSP] Size: 1.6G
+Minecraft Story Mode [NSP] Size: 11G
 My Time at Sandrock [NSP] Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 58G
@@ -146,6 +150,7 @@ Super Mario Odyssey [NSP] Size: 5.8G
 Super Mario Party [NSP] Size: 2.9G
 Super Mario RPG [NSZ] Size: 5.6G
 Super Smash Bros Ultimate [NSZ] Size: 14G
+Teenage Mutant Ninja Turtles Shredder's Revenge [NSZ] Size: 1.8G
 The Legend of Zelda Breath of the Wild [NSP] Size: 16G
 The Legend of Zelda Links Awakening [NSZ] Size: 2.0G
 The Legend of Zelda Skyward Sword HD [NSZ] Size: 3.9G
@@ -155,6 +160,8 @@ The Smurfs 2 The Prisoner of the Green Stone [NSP] Size: 3.4G
 The Smurfs Mission Vileaf [NSZ] Size: 803M
 The Walking Dead Destinies [NSZ] Size: 5.4G
 The Witcher 3 Wild Hunt - Complete Edition (EU) [NSZ] Size: 37G
+TMNT Arcade Wrath of the Mutants [NSZ] Size: 2.4G
+TMNT The Cowabunga Collection [NSP] Size: 3.5G
 TowerFall [NSP] Size: 425M
 Unravel Two [NSZ] Size: 1.9G
 Untitled Goose Game [NSZ] Size: 342M

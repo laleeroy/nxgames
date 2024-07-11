@@ -3,10 +3,10 @@ Astral Chain [NSP] Size: 9.9G
 Attack on Titan 2 Final Battle [NSZ] Size: 19G
 Batman Arkham Trilogy [NSZ] Size: 45G
 Battle Brothers [NSZ] Size: 3.7G
-Bayonetta 2 Size: 13G
+Bayonetta 2 Size: 11G
 Bayonetta 3 [NSP] Size: 16G
 Bayonetta Origins Cereza and the Lost Demon [NSP] Size: 3.2G
-Bayonetta Size: 8.3G
+Bayonetta Size: 7.8G
 Big Brain Academy Brain vs Brain [NSZ] Size: 524M
 BioShock Infinite The Complete Edition Size: 17G
 Cadence of Hyrule [NSP] Size: 1.7G
@@ -40,7 +40,7 @@ Dread Out 2 [NSP] Size: 5.4G
 DreamWorks All-Star Kart Racing [NSZ] Size: 3.3G
 Dying Light Definitive Edition [NSZ] Size: 11G
 EA Sports FC 24 [NSZ] Size: 29G
-Fe [NSZ] Size: 526M
+Fe [NSZ] Size: 464M
 Final Fantasy VII Reunion Crisis Core [NSP] Size: 15G
 Final Fantasy X - X-2 HD Remaster [NSP] Size: 27G
 Fire Emblem Engage [NSZ] Size: 14G
@@ -57,7 +57,7 @@ Hades [NSP] Size: 5.8G
 Harvest Moon [NSZ] Size: 463M
 Harvest Moon One World [NSP] Size: 1.4G
 Harvest Moon - The Winds of Anthos [NSZ] Size: 1.5G
-Hellblade Senua's Sacrifice [NSP] Size: 19G
+Hellblade Senuas Sacrifice [NSP] Size: 19G
 Hitman Blood Money Reprisal [NSZ] Size: 3.8G
 Hogwarts Legacy [NSP] Size: 15G
 Hollow Knight [NSZ] Size: 931M
@@ -69,7 +69,7 @@ It Takes Two [NSP] Size: 13G
 Jump Force Deluxe Edition [NSZ] Size: 9.6G
 Killer Frequency [NSZ] Size: 1.7G
 Kirby and the Forgotten Land [NSP] Size: 5.8G
-Kirby's Return to Dream Land Deluxe [NSP] Size: 5.0G
+Kirbys Return to Dream Land Deluxe [NSP] Size: 5.0G
 L.A. Noire [NSZ] Size: 15G
 Life is Strange 2 [NSP] Size: 32G
 Life is Strange Arcadia Bay Collection [NSP] Size: 18G
@@ -97,9 +97,9 @@ My Time at Sandrock [NSP] Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 58G
 Needy Streamer Overload (Girl Overdose) [NSZ] Size: 997M
-NES, SNES - Nintendo Switch Online (NSO Official Games) [NSZ] Size: 1.3G
+NES, SNES - Nintendo Switch Online (NSO Official Games) [NSZ] Size: 612M
 New Super Mario Bros U Deluxe [NSZ] Size: 1.4G
-Nintendo 64 Nintendo Switch Online [NSP] Size: 2.7G
+Nintendo 64 Nintendo Switch Online [NSP] Size: 2.2G
 Oceanhorn 2 Knights of the Lost Realm [NSP] Size: 3.8G
 Oceanhorn Monster of Uncharted Seas [NSP] Size: 456M
 Octopath Traveler 2 [NSP] Size: 5.8G
@@ -117,8 +117,8 @@ Pikmin 3 Deluxe [NSZ] Size: 4.9G
 Pikmin 4 [NSP] Size: 11G
 Pokemon Brilliant Diamond Size: 3.9G
 Pokemon Legends Arceus [NSZ] Size: 2.3G
-Pokemon Let’s Go Eevee Size: 4.2G
-Pokemon Let's Go Pikachu Size: 4.2G
+Pokemon Lets Go Eevee Size: 4.2G
+Pokemon Lets Go Pikachu Size: 4.2G
 Pokemon Quest Size: 265M
 Pokemon Scarlet Size: 9.2G
 Pokemon Shield Size: 5.6G
@@ -131,7 +131,7 @@ Rain World [NSZ] Size: 4.5G
 Red Dead Redemption [NSZ] Size: 11G
 Roller Coaster Tycoon Adventures Deluxe [NSZ] Size: 577M
 Sea of Stars [NSZ] Size: 3.3G
-SEGA Genesis Nintendo Switch Online [NSZ] Size: 860M
+SEGA Genesis Nintendo Switch Online [NSZ] Size: 126M
 Skater XL [NSZ] Size: 2.0G
 Slave Zero X [NSZ] Size: 1.2G
 Smurfs Kart [NSZ] Size: 1.4G
@@ -150,7 +150,7 @@ Super Mario Odyssey [NSP] Size: 5.8G
 Super Mario Party [NSP] Size: 2.9G
 Super Mario RPG [NSZ] Size: 5.6G
 Super Smash Bros Ultimate [NSZ] Size: 14G
-Teenage Mutant Ninja Turtles Shredder's Revenge [NSZ] Size: 1.8G
+Teenage Mutant Ninja Turtles Shredders Revenge [NSZ] Size: 992M
 The Legend of Zelda Breath of the Wild [NSP] Size: 16G
 The Legend of Zelda Links Awakening [NSZ] Size: 2.0G
 The Legend of Zelda Skyward Sword HD [NSZ] Size: 3.9G
@@ -172,5 +172,5 @@ What the Duck [NSZ] Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC [NSZ] Size: 15G
 Xenoblade Chronicles 3 [NSP] Size: 19G
 Xenoblade Chronicles Definitive Edition [NSZ] Size: 11G
-Youtube for Nintendo Switch (patched) [NSP] Size: 164M
+Youtube for Nintendo Switch (patched) [NSP] Size: 146M
 Ys VIII Lacrimosa of DANA [NSZ] Size: 6.0G

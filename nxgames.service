@@ -1,0 +1,15 @@
+[Unit]
+Description=HTTP Server for nxgames
+After=network.target
+
+[Service]
+User=laleeroy
+WorkingDirectory=/home/laleeroy/nxgames
+ExecStart=/usr/bin/python3 -m http.server 8070
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=nxgames
+
+[Install]
+WantedBy=multi-user.target

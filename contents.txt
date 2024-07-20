@@ -131,7 +131,7 @@ Rain World [NSZ] Size: 4.5G
 Red Dead Redemption [NSZ] Size: 11G
 Roller Coaster Tycoon Adventures Deluxe [NSZ] Size: 577M
 Sea of Stars [NSZ] Size: 3.3G
-SEGA Genesis Nintendo Switch Online [NSZ] Size: 126M
+SEGA Genesis Nintendo Switch Online [NSZ] Size: 117M
 Skater XL [NSZ] Size: 2.0G
 Slave Zero X [NSZ] Size: 1.2G
 Smurfs Kart [NSZ] Size: 1.4G
@@ -172,5 +172,5 @@ What the Duck [NSZ] Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC [NSZ] Size: 15G
 Xenoblade Chronicles 3 [NSP] Size: 19G
 Xenoblade Chronicles Definitive Edition [NSZ] Size: 11G
-Youtube for Nintendo Switch (patched) [NSP] Size: 146M
+Youtube Size: 70M
 Ys VIII Lacrimosa of DANA [NSZ] Size: 6.0G

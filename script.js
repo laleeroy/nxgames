@@ -36,8 +36,16 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
     checkboxes.forEach(checkbox => {
         if (checkbox.checked) {
             let text = checkbox.nextElementSibling.textContent.trim();
-	    // Include the size information in the copied text
-            text += ` #Size: ${checkbox.dataset.size}`;
+            // Remove additional information like [NSZ], [NSP], [XCI], Size: etc.
+            if (text.includes('[NSZ]')) {
+                text = text.substring(0, text.indexOf('[NSZ]')).trim();
+            } else if (text.includes('[NSP]')) {
+                text = text.substring(0, text.indexOf('[NSP]')).trim();
+            } else if (text.includes('[XCI]')) {
+                text = text.substring(0, text.indexOf('[XCI]')).trim();
+            } else if (text.includes('Size')) {
+                text = text.substring(0, text.indexOf('Size')).trim();
+            }
             checkedItems.push(text);
         }
     });

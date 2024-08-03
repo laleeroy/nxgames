@@ -1,5 +1,6 @@
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
+Amnesia collection Size: 2.6G
 Another Crabs Treasure Size: 1.1G
 Assassins Creed The Ezio Collection Size: 29G
 Astral Chain Size: 9.9G
@@ -16,9 +17,11 @@ BioShock Infinite The Complete Edition Size: 17G
 BLAZBLUE Collection Size: 17G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
+Carrion Size: 355M
 Chained Echoes Size: 776M
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
 Contra Anniversary Collection Size: 1.1G
+Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
 Crash Bandicoot 4 Its About Time Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
@@ -46,6 +49,7 @@ Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
+Fatal Frame 4 Project Zero Mask of the Lunar Eclipse Size: 6.1G
 Fe Size: 464M
 Final Fantasy VII Reunion Crisis Core Size: 15G
 Final Fantasy X - X-2 HD Remaster Size: 27G
@@ -55,6 +59,7 @@ Fire Emblem Warriors Size: 12G
 Fire Emblem Warriors Three Hopes Size: 12G
 Fitness Boxing 2 Rhythm and Exercise Size: 3.8G
 Fitness Boxing Size: 662M
+Five Nights at Freddys Size: 21G
 Food Girls 1-2 Size: 2.0G
 GBA, GB - Nintendo Switch Online Size: 969M
 Ghostrunner Size: 12G
@@ -72,6 +77,7 @@ Hyper Light Drifter Size: 704M
 Hyrule Warriors Age of Calamity Size: 11G
 Hyrule Warriors Definitive Edition Size: 13G
 Immortals Fenyx Rising Size: 19G
+Inside Size: 612M
 It Takes Two Size: 13G
 Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
@@ -89,12 +95,14 @@ Little Nightmares Size: 3.1G
 Live A Live Size: 4.8G
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
+Madison Size: 1.2G
 Mario Kart 8 Deluxe Size: 11G
 Mario Party Superstars Size: 2.9G
 Mario + Rabbids Kingdom Battle Size: 5.0G
 Mario Tennis Aces Size: 2.6G
 Mario vs. Donkey Kong Size: 1.4G
 Marvel Ultimate Alliance 3 The Black Order + DLC Size: 15G
+Mega Man Collection Size: 19G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
 Metal Slug Attack Reloaded Size: 1.7G
 Metroid Prime Remastered Size: 6.8G
@@ -116,8 +124,10 @@ Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
+One Piece Odyssey Deluxe Edition Size: 10G
 Ori and the Blind Forest Definitive Edition Size: 3.6G
 Outer Wilds Size: 2.7G
+Outlast 1+2 Size: 8.9G
 Overcooked! 2 Size: 4.1G
 Overcooked! All You Can Eat Size: 5.2G
 Overcooked Special Edition Size: 318M
@@ -145,6 +155,8 @@ Princess Peach Showtime! Size: 4.7G
 Rain World Size: 4.5G
 Red Dead Redemption Size: 11G
 Resident Evil 4 Size: 8.3G
+Resident Evil 5-6 Size: 26G
+Resident Evil Revelations 1-2 Size: 28G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
 Samurai Shodown Neogeo Collection Size: 7.0G
 Sea of Stars Size: 3.3G
@@ -152,9 +164,12 @@ SEGA Genesis Nintendo Switch Online Size: 117M
 Skater XL Size: 2.0G
 Slave Zero X Size: 1.2G
 Smurfs Kart Size: 1.4G
+Sniper Hunter Scope Size: 983M
+SNK vs Capcom SVC Chaos Size: 200M
 Song of Nunu (A League of Legends Story) Size: 6.4G
 Stardew Valley Size: 904M
 Star Ocean The Second Story R Size: 9.9G
+Star Wars Bounty Hunter Size: 8.0G
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
 Street Fighterr 30th Anniversary Collection Size: 5.2G
 Streets of Rage 4 Size: 4.0G
@@ -193,4 +208,5 @@ What the Duck Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC Size: 15G
 Xenoblade Chronicles 3 Size: 19G
 Xenoblade Chronicles Definitive Edition Size: 11G
+Yomawari 1-2-3 Size: 2.7G
 Ys VIII Lacrimosa of DANA Size: 6.0G

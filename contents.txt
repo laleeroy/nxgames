@@ -14,6 +14,7 @@ Bayonetta Size: 7.8G
 Big Brain Academy Brain vs Brain Size: 524M
 Biomutant Size: 7.6G
 BioShock Infinite The Complete Edition Size: 17G
+Blasphemous II Size: 1.6G
 BLAZBLUE Collection Size: 17G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
@@ -154,6 +155,7 @@ Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Rain World Size: 4.5G
 Red Dead Redemption Size: 11G
+Resident Evil 0 Size: 41G
 Resident Evil 4 Size: 8.3G
 Resident Evil 5-6 Size: 26G
 Resident Evil Revelations 1-2 Size: 28G

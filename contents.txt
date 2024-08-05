@@ -1,6 +1,7 @@
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
+Animal Crossing New Horizons Size: 11G
 Another Crabs Treasure Size: 1.1G
 Assassins Creed The Ezio Collection Size: 29G
 Astral Chain Size: 9.9G
@@ -16,6 +17,8 @@ Biomutant Size: 7.6G
 BioShock Infinite The Complete Edition Size: 17G
 Blasphemous II Size: 1.6G
 BLAZBLUE Collection Size: 17G
+Bloodstained Curse of the Moon 1-2 Size: 80M
+Bloodstained Ritual of the Night Size: 14G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Carrion Size: 355M
@@ -35,10 +38,12 @@ Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Darksiders Genesis Size: 11G
 Dark Souls Remastered Size: 4.1G
 Dave the Diver Size: 2.8G
+Deaths Door Size: 749M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
 Detective Pikachu Returns Size: 6.3G
 Diablo 3 Size: 28G
+Disco Elysium The Final Cut Size: 7.9G
 Disney Illusion Island Size: 5.9G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Double Dragon 1-6 Size: 613M
@@ -106,6 +111,7 @@ Marvel Ultimate Alliance 3 The Black Order + DLC Size: 15G
 Mega Man Collection Size: 19G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
 Metal Slug Attack Reloaded Size: 1.7G
+Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 Metro Redux Size: 10G
 MGS Master Collection Size: 27G
@@ -127,6 +133,7 @@ Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
 One Piece Odyssey Deluxe Edition Size: 10G
 Ori and the Blind Forest Definitive Edition Size: 3.6G
+Ori and the Will of the Wisps Size: 3.3G
 Outer Wilds Size: 2.7G
 Outlast 1+2 Size: 8.9G
 Overcooked! 2 Size: 4.1G

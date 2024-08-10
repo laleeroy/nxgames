@@ -74,6 +74,7 @@ Hades Size: 5.8G
 Harvest Moon One World Size: 1.4G
 Harvest Moon Size: 463M
 Harvest Moon - The Winds of Anthos Size: 1.5G
+Haven Size: 5.2G
 Hellblade Senuas Sacrifice Size: 19G
 Hitman Blood Money Reprisal Size: 3.8G
 Hogwarts Legacy Size: 15G
@@ -127,6 +128,7 @@ Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 609M
 New Super Mario Bros U Deluxe Size: 1.4G
 Nintendo 64 Nintendo Switch Online Size: 2.2G
+Nintendo Switch Sports Size: 3.3G
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
@@ -170,6 +172,7 @@ Roller Coaster Tycoon Adventures Deluxe Size: 577M
 Samurai Shodown Neogeo Collection Size: 7.0G
 Sea of Stars Size: 3.3G
 SEGA Genesis Nintendo Switch Online Size: 117M
+Shin chan 1-2 Size: 3.7G
 Skater XL Size: 2.0G
 Slave Zero X Size: 1.2G
 Smurfs Kart Size: 1.4G
@@ -207,6 +210,8 @@ The Walking Dead Destinies Size: 5.4G
 The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.5G
+Torchlight 2 Size: 2.1G
+Torchlight 3 Size: 11G
 TowerFall Size: 425M
 Under Night In Birth 2 Sys Celes Size: 2.5G
 Unravel Two Size: 1.9G

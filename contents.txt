@@ -6,6 +6,7 @@ Another Crabs Treasure Size: 1.1G
 Assassins Creed The Ezio Collection Size: 29G
 Astral Chain Size: 9.9G
 Attack on Titan 2 Final Battle Size: 19G
+Bastion Size: 2.0G
 Batman Arkham Trilogy Size: 45G
 Battle Brothers Size: 3.7G
 Bayonetta 2 Size: 11G
@@ -110,6 +111,7 @@ Mario + Rabbids Kingdom Battle Size: 5.0G
 Mario Tennis Aces Size: 2.6G
 Mario vs. Donkey Kong Size: 1.4G
 Marvel Ultimate Alliance 3 The Black Order + DLC Size: 15G
+Max The Curse Of The Brotherhood Size: 2.8G
 Mega Man Collection Size: 19G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
 Metal Slug Attack Reloaded Size: 1.7G
@@ -132,6 +134,8 @@ NBA 2K24 Size: 58G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 609M
 New Super Mario Bros U Deluxe Size: 1.4G
+Ni no Kuni II Revenant Kingdom Princes Edition Size: 9.6G
+Ni No Kuni Wrath of the White Witch Size: 5.8G
 Nintendo 64 Nintendo Switch Online Size: 2.2G
 Nintendo Switch Sports Size: 3.3G
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
@@ -201,6 +205,7 @@ Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Smash Bros Ultimate Size: 14G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
+That Time I Got Reincarnated as a Slime Size: 5.0G
 The Great Ace Attorney Chronicles Size: 2.7G
 The House of The Dead Remake Size: 1.6G
 The King of Fighters 13 Global Match Size: 2.6G
@@ -220,6 +225,7 @@ Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
 TowerFall Size: 425M
 Under Night In Birth 2 Sys Celes Size: 2.5G
+Unicorn Overlord Size: 5.8G
 Unravel Two Size: 1.9G
 Untitled Goose Game Size: 342M
 Vampire Survivors Size: 536M

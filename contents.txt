@@ -24,6 +24,7 @@ Capcom Fighting Collection Size: 3.3G
 Carrion Size: 355M
 Chained Echoes Size: 776M
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
+Cities Skylines Size: 992M
 Contra Anniversary Collection Size: 1.1G
 Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
@@ -189,7 +190,7 @@ Star Wars Bounty Hunter Size: 8.0G
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
 Street Fighterr 30th Anniversary Collection Size: 5.2G
 Streets of Rage 4 Size: 4.0G
-Super Bomberman R2 Size: 589M
+Super Bomberman R2 Size: 2.7G
 Super Dragon Ball Heroes World Mission Size: 1.5G
 Super Mario 3D All-Stars Size: 5.0G
 Super Mario 3D World Bowsers Fury Size: 2.2G

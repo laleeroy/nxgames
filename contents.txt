@@ -20,6 +20,7 @@ Blasphemous II Size: 1.6G
 BLAZBLUE Collection Size: 17G
 Bloodstained Curse of the Moon 1-2 Size: 80M
 Bloodstained Ritual of the Night Size: 14G
+Bridge Constructor 1-3 Size: 444M
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Carrion Size: 355M
@@ -71,6 +72,7 @@ Five Nights at Freddys Size: 21G
 Food Girls 1-2 Size: 2.0G
 GBA, GB - Nintendo Switch Online Size: 969M
 Ghostrunner Size: 12G
+Good Pizza Great Pizza Size: 150M
 GTA The Trilogy Size: 26G
 Hades Size: 5.8G
 Harvest Moon One World Size: 1.4G
@@ -94,6 +96,7 @@ Killer Frequency Size: 1.7G
 Kirby and the Forgotten Land Size: 5.8G
 Kirbys Return to Dream Land Deluxe Size: 5.0G
 L.A. Noire Size: 15G
+Legends of Ethernal Size: 572M
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
 Life is Strange Before the Storm Remastered Size: 13G
@@ -134,7 +137,7 @@ NBA 2K24 Size: 58G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 609M
 New Super Mario Bros U Deluxe Size: 1.4G
-Ni no Kuni II Revenant Kingdom Princes Edition Size: 9.6G
+Ni no Kuni II Revenant Kingdom Princes Edition Size: 20G
 Ni No Kuni Wrath of the White Witch Size: 5.8G
 Nintendo 64 Nintendo Switch Online Size: 2.2G
 Nintendo Switch Sports Size: 3.3G
@@ -208,6 +211,7 @@ Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 That Time I Got Reincarnated as a Slime Size: 5.0G
 The Great Ace Attorney Chronicles Size: 2.7G
 The House of The Dead Remake Size: 1.6G
+The Hundred Year Kingdom Size: 489M
 The King of Fighters 13 Global Match Size: 2.6G
 The Legend of Heroes Trails Through Daybreak Size: 6.1G
 The Legend of Zelda Breath of the Wild Size: 16G
@@ -217,7 +221,8 @@ The Legend of Zelda Tears of the Kingdom Size: 17G
 The Simpsons Hit and Run homebrew Port for Nintendo Switch Size: 1.3G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
 The Smurfs Mission Vileaf Size: 803M
-The Walking Dead Destinies Size: 5.4G
+The Walking Dead Destinies Size: 5.5G
+The Walking Dead for Nintendo Switch Size: 32G
 The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.5G

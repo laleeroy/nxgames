@@ -184,6 +184,7 @@ Pokken Tournament DX Size: 4.1G
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Rain World Size: 4.5G
+Rayman Legends Def. Edition Size: 3.0G
 Red Dead Redemption Size: 11G
 Resident Evil 0 Size: 41G
 Resident Evil 4 Size: 8.3G
@@ -252,4 +253,5 @@ Xenoblade Chronicles 2 + Torna - The Golden Country + DLC Size: 15G
 Xenoblade Chronicles 3 Size: 19G
 Xenoblade Chronicles Definitive Edition Size: 11G
 Yomawari 1-2-3 Size: 2.7G
+Yooka-Laylee 1-2 Size: 6.2G
 Ys VIII Lacrimosa of DANA Size: 6.0G

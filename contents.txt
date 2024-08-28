@@ -24,6 +24,9 @@ Bridge Constructor 1-3 Size: 443M
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Carrion Size: 355M
+Castlevania Dominus Collection Size: 1.2G
+Cat Quest III Size: 865M
+Celeste Size: 932M
 Chained Echoes Size: 776M
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
 Cities Skylines Size: 992M
@@ -41,6 +44,7 @@ Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Dark Souls Remastered Size: 4.1G
 Darksiders Genesis Size: 11G
 Dave the Diver Size: 2.8G
+Dead Cells Size: 2.4G
 Deaths Door Size: 749M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
@@ -54,6 +58,7 @@ Dragon Ball FighterZ Size: 9.1G
 Dragon Ball Xenoverse 2 Size: 13G
 Dragon Ball Z Kakarot + A New Power Awakens Set Size: 19G
 Dragon Quest XI S Echoes of an Elusive Age Definitive Edition Size: 11G
+Dread Nautical Size: 1.6G
 Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
@@ -70,6 +75,7 @@ Fitness Boxing 2 Rhythm and Exercise Size: 3.8G
 Fitness Boxing Size: 662M
 Five Nights at Freddys Size: 21G
 Food Girls 1-2 Size: 2.0G
+Forest Fire Size: 106M
 GBA, GB - Nintendo Switch Online Size: 968M
 Ghostrunner Size: 12G
 Good Pizza Great Pizza Size: 149M
@@ -94,8 +100,10 @@ Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
 Killer Frequency Size: 1.7G
 Kirby and the Forgotten Land Size: 5.8G
+Kirby Star Allies Size: 2.4G
 Kirbys Return to Dream Land Deluxe Size: 5.0G
 L.A. Noire Size: 15G
+Lambs On The Road The Beginning Size: 201M
 Legends of Ethernal Size: 572M
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
@@ -122,6 +130,7 @@ Metro Redux Size: 10G
 Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 MGS Master Collection Size: 27G
+Mika and the Witchs Mountain Size: 683M
 Minecraft Dungeons Size: 3.9G
 Minecraft Legends Size: 7.4G
 Minecraft Size: 1.6G
@@ -208,6 +217,7 @@ Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Smash Bros Ultimate Size: 14G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
+Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
 The Great Ace Attorney Chronicles Size: 2.7G
 The House of The Dead Remake Size: 1.6G
@@ -226,6 +236,7 @@ The Walking Dead for Nintendo Switch Size: 32G
 The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.5G
+Tomb Raider I-II-III Remastered Starring Lara Croft Size: 4.1G
 Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
 TowerFall Size: 424M

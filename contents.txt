@@ -53,6 +53,7 @@ Diablo 3 Size: 28G
 Disco Elysium The Final Cut Size: 7.9G
 Disney Illusion Island Size: 5.9G
 Donkey Kong Country Tropical Freeze Size: 6.7G
+Doom (2017) Size: 20G
 Double Dragon 1-6 Size: 611M
 Dragon Ball FighterZ Size: 9.1G
 Dragon Ball Xenoverse 2 Size: 13G
@@ -98,6 +99,8 @@ Inside Size: 612M
 It Takes Two Size: 13G
 Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
+Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 Size: 48G
+Just Dance 2023-2024 Size: 18G
 Killer Frequency Size: 1.7G
 Kirby and the Forgotten Land Size: 5.8G
 Kirby Star Allies Size: 2.4G
@@ -142,7 +145,7 @@ Monster Hunter Stories Size: 7.8G
 Mortal Kombat 11 [1.0.2] Size: 29G
 My Time at Sandrock Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
-NBA 2K24 Size: 58G
+NBA 2K24 Size: 64G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 New Super Mario Bros U Deluxe Size: 1.4G

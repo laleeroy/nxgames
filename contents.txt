@@ -81,6 +81,7 @@ GBA, GB - Nintendo Switch Online Size: 968M
 Ghostrunner Size: 12G
 Good Pizza Great Pizza Size: 149M
 GTA The Trilogy Size: 26G
+Gundam Breaker 4 Size: 5.7G
 Hades Size: 5.8G
 Harvest Moon - The Winds of Anthos Size: 1.5G
 Harvest Moon One World Size: 1.4G
@@ -195,6 +196,8 @@ Resident Evil 5-6 Size: 26G
 Resident Evil Revelations 1-2 Size: 28G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
 Samurai Shodown Neogeo Collection Size: 7.0G
+SD Gundam 1-2 Size: 26G
+SD GUNDAM Battle Alliance Size: 19G
 Sea of Stars Size: 3.3G
 SEGA Genesis Nintendo Switch Online Size: 117M
 Shin chan 1-2 Size: 3.7G

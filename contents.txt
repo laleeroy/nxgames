@@ -1,3 +1,4 @@
+1-2-Switch Size: 1.4G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
@@ -64,6 +65,7 @@ Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
+Famicom Detective Club 3 - Emio the Smiling Man Size: 5.5G
 Fatal Frame 4 Project Zero Mask of the Lunar Eclipse Size: 6.1G
 Fe Size: 464M
 Final Fantasy VII Reunion Crisis Core Size: 15G
@@ -91,6 +93,7 @@ Hellblade Senuas Sacrifice Size: 19G
 Hitman Blood Money Reprisal Size: 3.8G
 Hogwarts Legacy Size: 15G
 Hollow Knight Size: 931M
+Hotline Miami Collection Size: 1.3G
 Huntdown Size: 793M
 Hyper Light Drifter Size: 704M
 Hyrule Warriors Age of Calamity Size: 11G
@@ -108,6 +111,8 @@ Kirby Star Allies Size: 2.4G
 Kirbys Return to Dream Land Deluxe Size: 5.0G
 L.A. Noire Size: 15G
 Lambs On The Road The Beginning Size: 201M
+Layers of Fear 2 Size: 5.7G
+Layers of Fear Legacy Size: 4.7G
 Legends of Ethernal Size: 572M
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
@@ -147,6 +152,7 @@ Mortal Kombat 11 [1.0.2] Size: 29G
 My Time at Sandrock Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 64G
+NBA 2K25 Size: 54G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 New Super Mario Bros U Deluxe Size: 1.4G
@@ -173,6 +179,7 @@ Pikmin 1 Size: 1.2G
 Pikmin 2 Size: 1.2G
 Pikmin 3 Deluxe Size: 4.9G
 Pikmin 4 Size: 11G
+Pizza Tower Size: 770M
 Plants vs Zombies Battle for Neighborville Size: 4.9G
 Pokemon Brilliant Diamond Size: 3.9G
 Pokemon Legends Arceus Size: 2.3G
@@ -235,7 +242,6 @@ The Legend of Zelda Breath of the Wild Size: 16G
 The Legend of Zelda Links Awakening Size: 2.0G
 The Legend of Zelda Skyward Sword HD Size: 3.9G
 The Legend of Zelda Tears of the Kingdom Size: 17G
-The Simpsons Hit and Run homebrew Port for Nintendo Switch Size: 1.3G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
 The Smurfs Mission Vileaf Size: 803M
 The Walking Dead Destinies Size: 5.5G
@@ -249,10 +255,11 @@ Torchlight 3 Size: 11G
 TowerFall Size: 424M
 Under Night In Birth 2 Sys Celes Size: 2.5G
 Unicorn Overlord Size: 5.8G
+Unpacking Size: 330M
 Unravel Two Size: 1.9G
 Untitled Goose Game Size: 342M
 Vampire Survivors Size: 535M
-WarioWare Get It Together Size: 1.6G
+WarioWare Get It Together Size: 1.4G
 WarioWare Move It Size: 1.4G
 What the Duck Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC Size: 15G

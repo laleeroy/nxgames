@@ -1,4 +1,5 @@
 1-2-Switch Size: 1.4G
+A Hat in Time Size: 7.1G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
@@ -21,9 +22,11 @@ Blasphemous II Size: 1.6G
 Blazblue Collection Size: 17G
 Bloodstained Curse of the Moon 1-2 Size: 80M
 Bloodstained Ritual of the Night Size: 14G
+Borderlands 3 Ultimate edition Size: 25G
 Bridge Constructor 1-3 Size: 443M
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
+Caravan Sand Witch Size: 1.5G
 Carrion Size: 355M
 Castlevania Dominus Collection Size: 1.2G
 Cat Quest III Size: 865M
@@ -52,6 +55,8 @@ Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
 Detective Pikachu Returns Size: 6.3G
 Diablo 3 Size: 28G
 Disco Elysium The Final Cut Size: 7.9G
+Disney Dreamlight Valley Size: 4.5G
+Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Doom (2017) Size: 20G
@@ -65,6 +70,9 @@ Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
+Eiyuden Chronicle Hundred Heroes (EU) Size: 19G
+Eiyuden Chronicle Rising Size: 1.4G
+Fabledom Size: 872M
 Famicom Detective Club 3 - Emio the Smiling Man Size: 5.5G
 Fatal Frame 4 Project Zero Mask of the Lunar Eclipse Size: 6.1G
 Fe Size: 464M
@@ -93,6 +101,7 @@ Hellblade Senuas Sacrifice Size: 19G
 Hitman Blood Money Reprisal Size: 3.8G
 Hogwarts Legacy Size: 15G
 Hollow Knight Size: 931M
+Hot Lap Racing Size: 2.1G
 Hotline Miami Collection Size: 1.3G
 Huntdown Size: 793M
 Hyper Light Drifter Size: 704M
@@ -122,15 +131,18 @@ Little Kitty Big City Size: 662M
 Little Nightmares 2 Size: 2.7G
 Little Nightmares Size: 3.1G
 Live A Live Size: 4.8G
+Lollipop Chainsaw RePop Size: 6.9G
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
 Madison Size: 1.2G
+Mail Time Size: 491M
 Mario + Rabbids Kingdom Battle Size: 5.0G
 Mario Kart 8 Deluxe Size: 11G
 Mario Party Superstars Size: 2.9G
 Mario Tennis Aces Size: 2.6G
 Mario vs. Donkey Kong Size: 1.4G
 Marvel Ultimate Alliance 3 The Black Order + DLC Size: 15G
+Marvel vs Capcom Fighting Collection Arcade Classics Size: 3.2G
 Max The Curse Of The Brotherhood Size: 2.8G
 Mega Man Collection Size: 19G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
@@ -201,7 +213,10 @@ Resident Evil 0 Size: 41G
 Resident Evil 4 Size: 8.3G
 Resident Evil 5-6 Size: 26G
 Resident Evil Revelations 1-2 Size: 28G
+Reynatis (US) Size: 8.2G
+Ring Fit Adventure Size: 3.4G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
+Sam and Max Seasons 1-2-3 Size: 5.8G
 Samurai Shodown Neogeo Collection Size: 7.0G
 SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
@@ -239,9 +254,11 @@ The Hundred Year Kingdom Size: 489M
 The King of Fighters 13 Global Match Size: 2.6G
 The Legend of Heroes Trails Through Daybreak Size: 6.1G
 The Legend of Zelda Breath of the Wild Size: 16G
+The Legend of Zelda Echoes of Wisdom Size: 4.5G
 The Legend of Zelda Links Awakening Size: 2.0G
 The Legend of Zelda Skyward Sword HD Size: 3.9G
 The Legend of Zelda Tears of the Kingdom Size: 17G
+The Plucky Squire Size: 11G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
 The Smurfs Mission Vileaf Size: 803M
 The Walking Dead Destinies Size: 5.5G
@@ -253,6 +270,8 @@ Tomb Raider I-II-III Remastered Starring Lara Croft Size: 4.1G
 Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
 TowerFall Size: 424M
+Trek to Yomi Size: 4.0G
+Ultra Age Size: 5.9G
 Under Night In Birth 2 Sys Celes Size: 2.5G
 Unicorn Overlord Size: 5.8G
 Unpacking Size: 330M
@@ -265,6 +284,8 @@ What the Duck Size: 1.4G
 Xenoblade Chronicles 2 + Torna - The Golden Country + DLC Size: 15G
 Xenoblade Chronicles 3 Size: 19G
 Xenoblade Chronicles Definitive Edition Size: 11G
+Xuan Yuan Sword 7 Size: 8.4G
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G
 Ys VIII Lacrimosa of DANA Size: 6.0G
+YS X Nordics (JAP) Size: 4.9G

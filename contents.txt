@@ -54,6 +54,9 @@ Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
 Detective Pikachu Returns Size: 6.3G
 Diablo 3 Size: 28G
+Digimon Story Cyber Sleuth Complete Edition Size: 3.9G
+Digimon Survive Size: 3.8G
+Digimon World Next Order (EU) Size: 4.6G
 Disco Elysium The Final Cut Size: 7.9G
 Disney Dreamlight Valley Size: 4.5G
 Disney Epic Mickey Rebrushed Size: 12G
@@ -110,6 +113,8 @@ Hyrule Warriors Definitive Edition Size: 13G
 Immortals Fenyx Rising Size: 19G
 Inside Size: 612M
 It Takes Two Size: 13G
+Jim is Moving Out Size: 280M
+Jorel's Brother Size: 1.9G
 Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
 Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 Size: 48G
@@ -127,11 +132,13 @@ Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
 Life is Strange Before the Storm Remastered Size: 13G
 Life is Strange True Colors Size: 12G
+Limbo Size: 164M
 Little Kitty Big City Size: 662M
 Little Nightmares 2 Size: 2.7G
 Little Nightmares Size: 3.1G
 Live A Live Size: 4.8G
 Lollipop Chainsaw RePop Size: 6.9G
+Looney Tunes Wacky World of Sports Size: 2.2G
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
 Madison Size: 1.2G
@@ -151,6 +158,7 @@ Metro Redux Size: 10G
 Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 MGS Master Collection Size: 27G
+Miitopia Size: 2.1G
 Mika and the Witchs Mountain Size: 683M
 Minecraft Dungeons Size: 3.9G
 Minecraft Legends Size: 7.4G
@@ -160,7 +168,10 @@ Monster Hunter Generations Ultimate Size: 7.4G
 Monster Hunter Rise Size: 20G
 Monster Hunter Stories 2 Wings of Ruin Size: 11G
 Monster Hunter Stories Size: 7.8G
+Moonglow Bay Size: 548M
 Mortal Kombat 11 [1.0.2] Size: 29G
+Moving Out 2 Size: 1.7G
+Moving Out Size: 817M
 My Time at Sandrock Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 64G
@@ -170,6 +181,8 @@ NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 New Super Mario Bros U Deluxe Size: 1.4G
 Ni no Kuni II Revenant Kingdom Princes Edition Size: 20G
 Ni No Kuni Wrath of the White Witch Size: 5.8G
+Nickelodeon All-Star Brawl 2 Size: 6.4G
+Nickelodeon All-Star Brawl Size: 4.7G
 Nintendo 64 Nintendo Switch Online Size: 2.2G
 Nintendo Switch Sports Size: 3.3G
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
@@ -193,10 +206,12 @@ Pikmin 3 Deluxe Size: 4.9G
 Pikmin 4 Size: 11G
 Pizza Tower Size: 770M
 Plants vs Zombies Battle for Neighborville Size: 4.9G
+Plate Up Size: 364M
 Pokemon Brilliant Diamond Size: 3.9G
 Pokemon Legends Arceus Size: 2.3G
 Pokemon Lets Go Eevee Size: 4.2G
 Pokemon Lets Go Pikachu Size: 4.2G
+Pokemon Mystery Dungeon Rescue Team DX Size: 1.4G
 Pokemon Quest Size: 265M
 Pokemon Scarlet Size: 9.2G
 Pokemon Shield Size: 5.6G
@@ -204,6 +219,7 @@ Pokemon Shining Pearl Size: 3.9G
 Pokemon Sword Size: 5.7G
 Pokemon Violet Size: 9.2G
 Pokken Tournament DX Size: 4.1G
+Potion Craft Size: 555M
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Rain World Size: 4.5G
@@ -218,6 +234,7 @@ Ring Fit Adventure Size: 3.4G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
 Sam and Max Seasons 1-2-3 Size: 5.8G
 Samurai Shodown Neogeo Collection Size: 7.0G
+SAO Fractured Daydream Size: 14G
 SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
 Sea of Stars Size: 3.3G
@@ -245,6 +262,8 @@ Super Mario Odyssey Size: 5.8G
 Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Smash Bros Ultimate Size: 14G
+Sword Art Online Alicization Lycoris Size: 11G
+Sword Art Online Size: 17G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
@@ -267,10 +286,13 @@ The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.5G
 Tomb Raider I-II-III Remastered Starring Lara Croft Size: 4.1G
+Tools Up Ultimate edition Size: 1.2G
 Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
 TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
+Trials of Mana Size: 11G
+Trine 5 a Clockwork Conspiracy Size: 4.7G
 Ultra Age Size: 5.9G
 Under Night In Birth 2 Sys Celes Size: 2.5G
 Unicorn Overlord Size: 5.8G
@@ -287,5 +309,6 @@ Xenoblade Chronicles Definitive Edition Size: 11G
 Xuan Yuan Sword 7 Size: 8.4G
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G
+Ys IX Monstrum Nox Size: 3.3G
 Ys VIII Lacrimosa of DANA Size: 6.0G
 YS X Nordics (JAP) Size: 4.9G

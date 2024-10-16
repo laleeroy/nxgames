@@ -58,7 +58,6 @@ Digimon Story Cyber Sleuth Complete Edition Size: 3.9G
 Digimon Survive Size: 3.8G
 Digimon World Next Order (EU) Size: 4.6G
 Disco Elysium The Final Cut Size: 7.9G
-Disney Dreamlight Valley Size: 4.5G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Donkey Kong Country Tropical Freeze Size: 6.7G
@@ -170,6 +169,7 @@ Monster Hunter Stories 2 Wings of Ruin Size: 11G
 Monster Hunter Stories Size: 7.8G
 Moonglow Bay Size: 548M
 Mortal Kombat 11 [1.0.2] Size: 29G
+MotoGP24 Size: 11G
 Moving Out 2 Size: 1.7G
 Moving Out Size: 817M
 My Time at Sandrock Size: 5.0G
@@ -244,6 +244,7 @@ Skater XL Size: 2.0G
 Slave Zero X Size: 1.2G
 Smurfs Kart Size: 1.4G
 Sniper Hunter Scope Size: 983M
+Snipperclips Cut it out Together Size: 572M
 SNK vs Capcom SVC Chaos Size: 200M
 Song of Nunu (A League of Legends Story) Size: 6.4G
 Star Ocean The Second Story R Size: 9.9G

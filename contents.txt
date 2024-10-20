@@ -47,7 +47,7 @@ Danganronpa Trigger Happy Havoc Anniversary Edition (2010) Size: 2.1G
 Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Dark Souls Remastered Size: 4.1G
 Darksiders Genesis Size: 11G
-Dave the Diver Size: 2.8G
+Dave the Diver Size: 3.7G
 Dead Cells Size: 2.4G
 Deaths Door Size: 749M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
@@ -260,6 +260,7 @@ Super Mario 3D World Bowsers Fury Size: 2.2G
 Super Mario Bros Wonder Size: 3.6G
 Super Mario Maker 2 Size: 15G
 Super Mario Odyssey Size: 5.8G
+Super Mario Party Jamboree Size: 5.4G
 Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Smash Bros Ultimate Size: 14G
@@ -310,6 +311,7 @@ Xenoblade Chronicles Definitive Edition Size: 11G
 Xuan Yuan Sword 7 Size: 8.4G
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G
+YouTube Size: 70M
 Ys IX Monstrum Nox Size: 3.3G
 Ys VIII Lacrimosa of DANA Size: 6.0G
 YS X Nordics (JAP) Size: 4.9G

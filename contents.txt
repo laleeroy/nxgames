@@ -16,6 +16,7 @@ Bayonetta 3 Size: 16G
 Bayonetta Origins Cereza and the Lost Demon Size: 3.2G
 Bayonetta Size: 7.8G
 Big Brain Academy Brain vs Brain Size: 524M
+Big Rumble Boxing Creed Champions Size: 2.8G
 Biomutant Size: 7.6G
 BioShock Infinite The Complete Edition Size: 17G
 Blasphemous II Size: 1.6G
@@ -323,4 +324,4 @@ Yooka-Laylee 1-2 Size: 6.2G
 YouTube Size: 70M
 Ys IX Monstrum Nox Size: 3.3G
 Ys VIII Lacrimosa of DANA Size: 6.0G
-YS X Nordics (JAP) Size: 4.9G
+Ys X Nordics Size: 5.3G

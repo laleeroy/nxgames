@@ -7,7 +7,9 @@ Animal Crossing New Horizons Size: 11G
 Another Crabs Treasure Size: 1.1G
 Assassins Creed The Ezio Collection Size: 29G
 Astral Chain Size: 9.9G
+Astral Flux Size: 279M
 Attack on Titan 2 Final Battle Size: 19G
+Barbie 1-2 Size: 2.9G
 Bastion Size: 2.0G
 Batman Arkham Trilogy Size: 45G
 Battle Brothers Size: 3.7G
@@ -73,7 +75,7 @@ Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
-Eiyuden Chronicle Hundred Heroes (EU) Size: 19G
+Eiyuden Chronicle Hundred Heroes (EU) Size: 25G
 Eiyuden Chronicle Rising Size: 1.4G
 Europa Size: 3.4G
 Fabledom Size: 872M
@@ -91,6 +93,8 @@ Fitness Boxing Size: 662M
 Five Nights at Freddys Size: 21G
 Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
+Forgotten Memories Remastered Size: 3.3G
+Forwarders Size: 736K
 GBA, GB - Nintendo Switch Online Size: 968M
 Ghostrunner Size: 12G
 Good Pizza Great Pizza Size: 149M
@@ -120,6 +124,7 @@ Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
 Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 Size: 48G
 Just Dance 2023-2024 Size: 18G
+Keeper's Toll Size: 196M
 Killer Frequency Size: 1.7G
 Kirby and the Forgotten Land Size: 5.8G
 Kirby Star Allies Size: 2.4G
@@ -166,6 +171,7 @@ Minecraft Dungeons Size: 3.9G
 Minecraft Legends Size: 7.4G
 Minecraft Size: 1.6G
 Minecraft Story Mode Size: 11G
+Monster High Skulltimate Secrets Size: 1.8G
 Monster Hunter Generations Ultimate Size: 7.4G
 Monster Hunter Rise Size: 20G
 Monster Hunter Stories 2 Wings of Ruin Size: 11G
@@ -237,6 +243,7 @@ Resident Evil Revelations 1-2 Size: 28G
 Reynatis (US) Size: 8.2G
 Ring Fit Adventure Size: 3.4G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
+S.T.A.L.K.E.R. Legends of the Zone Trilogy Size: 14G
 Sam and Max Seasons 1-2-3 Size: 5.8G
 Samurai Shodown Neogeo Collection Size: 7.0G
 SAO Fractured Daydream Size: 14G
@@ -244,6 +251,7 @@ SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
 Sea of Stars Size: 3.3G
 SEGA Genesis Nintendo Switch Online Size: 117M
+Shadows of the Damned Hella Remastered Size: 5.0G
 Shin chan 1-2 Size: 3.7G
 Skater XL Size: 2.0G
 Slave Zero X Size: 1.2G
@@ -275,6 +283,7 @@ Sword Art Online Alicization Lycoris Size: 11G
 Sword Art Online Size: 17G
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
+Terraria Size: 320M
 Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
 The Great Ace Attorney Chronicles Size: 2.7G
@@ -293,6 +302,7 @@ The Smurfs Mission Vileaf Size: 803M
 The Walking Dead Destinies Size: 5.5G
 The Walking Dead for Nintendo Switch Size: 32G
 The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
+The World of Kungfu Dragon and Eagle Size: 479M
 Tintin Reporter Cigars of the Pharaoh Size: 6.3G
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.5G
@@ -300,6 +310,7 @@ Tomb Raider I-II-III Remastered Starring Lara Croft Size: 4.1G
 Tools Up Ultimate edition Size: 1.2G
 Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
+Totally Spies Cyber Mission Size: 1.9G
 TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
 Trials of Mana Size: 11G
@@ -310,6 +321,7 @@ Unicorn Overlord Size: 5.8G
 Unpacking Size: 330M
 Unravel Two Size: 1.9G
 Untitled Goose Game Size: 342M
+Vampire Hunters Size: 601M
 Vampire Survivors Size: 535M
 WarioWare Get It Together Size: 1.4G
 WarioWare Move It Size: 1.4G
@@ -321,7 +333,6 @@ Xuan Yuan Sword 7 Size: 8.4G
 Yakuza Kiwami Switch edition Size: 23G
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G
-YouTube Size: 70M
 Ys IX Monstrum Nox Size: 3.3G
 Ys VIII Lacrimosa of DANA Size: 6.0G
 Ys X Nordics Size: 5.3G

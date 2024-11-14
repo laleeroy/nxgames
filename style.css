@@ -42,8 +42,6 @@ p {
     align-items: center;
     margin: 5px 0;
     padding: 10px;
-    border-radius: 8px;
-    background-color: #2d2d3f;
 }
 
 /* Styling for checkboxes to look more customized */
@@ -58,8 +56,8 @@ p {
 }
 
 .content-item input[type="checkbox"]:checked {
-    background-color: #ffab40;
-    border-color: #ffab40;
+    border-color: #ffa;
+    width: 1px;
 }
 
 .content-item label {
@@ -72,7 +70,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 12px 20px;
     background-color: #2d2d3f;
     color: #ffffff;
     position: fixed;
@@ -86,12 +84,13 @@ p {
     background-color: #ffab40;
     color: #1f1f2e;
     border: none;
-    padding: 8px 16px;
+    padding: 10px 16px;
+    margin-left: 5px;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 #copy-entries-button:hover {
-    background-color: #ff8a00;
+    background-color: #ffa;
 }

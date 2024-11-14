@@ -3,6 +3,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #1a1b26; /* Editor Background (Night) */
+  color: #c0caf5; /* Variables, Class names, Terminal White */
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -114,12 +116,14 @@ body {
 h1 {
   text-align: center;
   font-size: 1.8em;
+  color: #bb9af7; /* Control Keywords, Storage Types, Terminal Magenta */
   margin-top: 20px;
 }
 
 p {
   text-align: center;
   font-size: 0.9em;
+  color: #565f89; /* Comments */
   margin: 5px;
 }
 
@@ -158,6 +162,7 @@ p {
   appearance: none;
   width: 20px;
   height: 20px;
+  border: 2px solid #ff9e64; /* Number and Boolean constants */
   border-radius: 50%;
   background-color: transparent;
   margin-right: 10px;
@@ -173,7 +178,8 @@ p {
 }
 
 .content-item input[type="checkbox"]:not(:checked) {
-  animation: animOnUncheck 1.0s ease forwards;
+  animation: animOnUncheck 1.0s ease forwards; /* Increased duration for better visibility */
+  border-color: #9ece6a; /* Strings, CSS class names */
 }
 
 .content-item input[type="checkbox"]:checked::before,
@@ -182,6 +188,7 @@ p {
   position: absolute;
   width: 2px;
   height: 20px;
+  background-color: #e0af68; /* Function parameters */
   top: 50%;
   left: 50%;
   transform-origin: center;
@@ -201,17 +208,20 @@ p {
 
 .content-item label {
   font-size: 1em;
+  color: #c0caf5; /* Variables, Class names, Terminal White */
   white-space: normal;
   overflow: hidden;
   flex-grow: 1;
   cursor: pointer;
 }
 
+/* Fixed container at the bottom for total size */
 #total-size-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 12px 20px;
+  background-color: #24283b; /* Editor Background (Storm) */
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -222,12 +232,14 @@ p {
   0% { transform: scale(1); }
   50% { transform: scale(0.9); } /* Slightly shrink on press */
   100% { transform: scale(1); }
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+  color: #c0caf5; /* Variables, Class names, Terminal White */
 }
 
 /* Styling for the copy button */
 #copy-entries-button {
-  background-color: #7aa2f7; /* Function names, CSS property names, Terminal Blue */
-  color: #282a36; /* Editor Background */
+  background-color: #bb9af7;
+  color: #ffffff;
   border: none;
   padding: 10px 16px;
   margin-left: 5px;
@@ -238,8 +250,8 @@ p {
 
 /* Hover effect */
 #copy-entries-button:hover {
-  background-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
-  color: #1a1b26; /* Editor Background (Night) */
+  background-color: #73daca;
+  color: #282a36;
 }
 
 /* Animation trigger on button press */

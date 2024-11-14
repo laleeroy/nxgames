@@ -3,8 +3,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #1f1f2e;
-  color: #e0e0e0;
+  background-color: #1a1b26; /* Editor Background (Night) */
+  color: #c0caf5; /* Variables, Class names, Terminal White */
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -15,14 +15,14 @@ body {
 h1 {
   text-align: center;
   font-size: 1.8em;
-  color: #ffffff;
+  color: #bb9af7; /* Control Keywords, Storage Types, Terminal Magenta */
   margin-top: 20px;
 }
 
 p {
   text-align: center;
   font-size: 0.9em;
-  color: #b0b0b0;
+  color: #565f89; /* Comments */
   margin: 5px;
 }
 
@@ -66,7 +66,7 @@ p {
   appearance: none;
   width: 20px;
   height: 20px;
-  border: 2px solid;
+  border: 2px solid #ff9e64; /* Number and Boolean constants */
   border-radius: 50%;
   background-color: transparent;
   margin-right: 10px;
@@ -85,7 +85,7 @@ p {
 /* Apply spin animation when the checkbox is unchecked */
 .content-item input[type="checkbox"]:not(:checked) {
   animation: animOnUncheck 1.0s ease forwards; /* Increased duration for better visibility */
-  border-color: #9ece6a;
+  border-color: #9ece6a; /* Strings, CSS class names */
 }
 
 /* Create the "X" effect when checked */
@@ -95,7 +95,7 @@ p {
   position: absolute;
   width: 2px;
   height: 20px;
-  background-color: #e0af68;
+  background-color: #e0af68; /* Function parameters */
   top: 50%;
   left: 50%;
   transform-origin: center;
@@ -116,26 +116,11 @@ p {
 /* Styling for the label */
 .content-item label {
   font-size: 1em;
-  color: #ffffff;
+  color: #c0caf5; /* Variables, Class names, Terminal White */
   white-space: normal;
   overflow: hidden;
   flex-grow: 1;
   cursor: pointer;
-}
-
-/* Animation for changing text colors using your custom color pool */
-@keyframes colorChange {
-  0% { color: #8c4351; } /* Terminal Red */
-  10% { color: #965027; } /* Number and Boolean constants */
-  20% { color: #8f5e15; } /* Function parameters */
-  30% { color: #634f30; } /* Parameters inside functions */
-  40% { color: #485e30; } /* Strings, CSS class names */
-  50% { color: #33635c; } /* Object literal keys */
-  60% { color: #166775; } /* Language support functions */
-  70% { color: #0f4b6e; } /* Object properties */
-  80% { color: #34548a; } /* Function names */
-  90% { color: #5a4a78; } /* Control Keywords */
-  100% { color: #343b58; } /* Editor Foreground */
 }
 
 /* Fixed container at the bottom for total size */
@@ -144,18 +129,18 @@ p {
   justify-content: space-between;
   align-items: center;
   padding: 12px 20px;
-  background-color: #2d2d3f;
+  background-color: #24283b; /* Editor Background (Storm) */
   position: fixed;
   bottom: 0;
   width: 100%;
   box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
-  animation: colorChange 5s infinite; /* Apply the custom color change animation */
+  color: #c0caf5; /* Variables, Class names, Terminal White */
 }
 
 /* Styling for the copy button */
 #copy-entries-button {
-  background-color: #bb9af7;
-  color: #ffffff;
+  background-color: #7aa2f7; /* Function names, CSS property names, Terminal Blue */
+  color: #282a36; /* Editor Background */
   border: none;
   padding: 10px 16px;
   margin-left: 5px;
@@ -165,6 +150,6 @@ p {
 }
 
 #copy-entries-button:hover {
-  background-color: #73daca;
-  color: #282a36;
+  background-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
+  color: #1a1b26; /* Editor Background (Night) */
 }

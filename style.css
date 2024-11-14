@@ -1,33 +1,97 @@
+/* Base styling for the body */
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
-    position: relative; /* Ensure relative positioning for absolute positioning children */
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f2e;
+    color: #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+    overflow: hidden; /* Prevent page scroll */
 }
 
+/* Styling for the header/title area */
+h1 {
+    text-align: center;
+    font-size: 1.8em;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 0.9em;
+    color: #b0b0b0;
+    margin: 5px;
+}
+
+/* Container for the list, allowing internal scrolling */
+#content-list {
+    flex-grow: 1; /* Fills available space */
+    overflow-y: auto; /* Enables internal scrolling */
+    padding: 10px 20px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Each item in the list */
 .content-item {
+    display: flex;
+    align-items: center;
     margin: 5px 0;
-}
-
-#total-size-container {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    background-color: white;
-    border: 1px solid #ccc;
     padding: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    z-index: 1000; /* Ensures it stays on top of other elements */
+    border-radius: 8px;
+    background-color: #2d2d3f;
 }
 
+/* Styling for checkboxes to look more customized */
+.content-item input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ffab40;
+    border-radius: 4px;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.content-item input[type="checkbox"]:checked {
+    background-color: #ffab40;
+    border-color: #ffab40;
+}
+
+.content-item label {
+    font-size: 1em;
+    color: #ffffff;
+}
+
+/* Fixed container at the bottom for total size */
+#total-size-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #2d2d3f;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Styling for the copy button */
 #copy-entries-button {
-    margin-left: 10px;
-    padding: 8px 12px;
-    background-color: #007bff;
-    color: white;
+    background-color: #ffab40;
+    color: #1f1f2e;
     border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
 #copy-entries-button:hover {
-    background-color: #0056b3;
+    background-color: #ff8a00;
 }

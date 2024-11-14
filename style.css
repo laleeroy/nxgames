@@ -3,30 +3,126 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #1a1b26; /* Editor Background (Night) */
-  color: #c0caf5; /* Variables, Class names, Terminal White */
   display: flex;
   flex-direction: column;
   height: 100vh;
   overflow: hidden;
 }
 
-/* Styling for the header/title area */
+@media (prefers-color-scheme: dark) {
+  /* Dark theme styling */
+  body {
+    background-color: #1a1b26; /* Dark background */
+    color: #c0caf5; /* Light text */
+  }
+
+  h1 {
+    color: #bb9af7; /* Magenta for headers */
+  }
+
+  p {
+    color: #565f89; /* Grey for subtext */
+  }
+
+  #total-size-container {
+    background-color: #24283b;
+    color: #c0caf5;
+    border-top: 1px solid #565f89;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+  }
+
+  #copy-entries-button {
+    background-color: #7aa2f7;
+    color: ##c0caf5;;
+  }
+
+  #copy-entries-button:hover {
+    background-color: #73daca;
+    color: #1a1b26;
+  }
+
+  .content-item input[type="checkbox"] {
+    border: 2px solid #ff9e64;
+  }
+
+  .content-item input[type="checkbox"]:not(:checked) {
+    border-color: #9ece6a;
+  }
+
+  .content-item input[type="checkbox"]:checked::before,
+  .content-item input[type="checkbox"]:checked::after {
+    background-color: #e0af68;
+  }
+
+  .content-item label {
+    color: #c0caf5;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  /* Light theme styling */
+  body {
+    background-color: #ffffff; /* Light background */
+    color: ##9394a5; /* Dark text */
+  }
+
+  h1 {
+    color: #bb9af7; /* Magenta for headers, same as dark */
+  }
+
+  p {
+    color: #484b6a; /* Slightly darker grey for subtext */
+  }
+
+  #total-size-container {
+    background-color: #e6e9ef; /* Light grey for the container */
+    color: #4c4f69; /* Dark text */
+    border-top: 1px solid #9ca0b0;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  #copy-entries-button {
+    background-color: #7aa2f7; /* Same as dark theme */
+    color: #eff1f5; /* Light theme body background for contrast */
+  }
+
+  #copy-entries-button:hover {
+    background-color: #73daca;
+    color: #eff1f5;
+  }
+
+  .content-item input[type="checkbox"] {
+    border: 2px solid #ff9e64; /* Same border color as dark theme */
+  }
+
+  .content-item input[type="checkbox"]:not(:checked) {
+    border-color: #9ece6a; /* Same as dark theme */
+  }
+
+  .content-item input[type="checkbox"]:checked::before,
+  .content-item input[type="checkbox"]:checked::after {
+    background-color: #e0af68; /* Same as dark theme */
+  }
+
+  .content-item label {
+    color: #4c4f69; /* Darker text color for labels */
+  }
+}
+
+/* Common styling for both themes */
+
 h1 {
   text-align: center;
   font-size: 1.8em;
-  color: #bb9af7; /* Control Keywords, Storage Types, Terminal Magenta */
   margin-top: 20px;
 }
 
 p {
   text-align: center;
   font-size: 0.9em;
-  color: #565f89; /* Comments */
   margin: 5px;
 }
 
-/* Container for the list, allowing internal scrolling */
 #content-list {
   flex-grow: 1;
   overflow-y: auto;
@@ -36,7 +132,6 @@ p {
   flex-direction: column;
 }
 
-/* Each item in the list */
 .content-item {
   display: flex;
   align-items: center;
@@ -47,26 +142,22 @@ p {
   white-space: normal;
 }
 
-/* Spinning animation when checkbox is checked */
 @keyframes animOnCheck {
   0% { transform: rotate(0deg); }
   50% { transform: rotate(180deg); }
   100% { transform: rotate(360deg); }
 }
 
-/* Rotation animation when checkbox is unchecked */
 @keyframes animOnUncheck {
   0% { transform: rotate(0deg) scale(1); }
-  50% { transform: rotate(-180deg) scale(1.2); } /* Increased scale */
+  50% { transform: rotate(-180deg) scale(1.2); }
   100% { transform: rotate(-360deg) scale(1); }
 }
 
-/* Styling for checkboxes */
 .content-item input[type="checkbox"] {
   appearance: none;
   width: 20px;
   height: 20px;
-  border: 2px solid #ff9e64; /* Number and Boolean constants */
   border-radius: 50%;
   background-color: transparent;
   margin-right: 10px;
@@ -76,26 +167,21 @@ p {
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-/* Apply spin animation when the checkbox is checked */
 .content-item input[type="checkbox"]:checked {
   animation: animOnCheck 1s ease forwards;
   border-color: transparent;
 }
 
-/* Apply spin animation when the checkbox is unchecked */
 .content-item input[type="checkbox"]:not(:checked) {
-  animation: animOnUncheck 1.0s ease forwards; /* Increased duration for better visibility */
-  border-color: #9ece6a; /* Strings, CSS class names */
+  animation: animOnUncheck 1.0s ease forwards;
 }
 
-/* Create the "X" effect when checked */
 .content-item input[type="checkbox"]:checked::before,
 .content-item input[type="checkbox"]:checked::after {
   content: '';
   position: absolute;
   width: 2px;
   height: 20px;
-  background-color: #e0af68; /* Function parameters */
   top: 50%;
   left: 50%;
   transform-origin: center;
@@ -113,28 +199,29 @@ p {
   opacity: 1;
 }
 
-/* Styling for the label */
 .content-item label {
   font-size: 1em;
-  color: #c0caf5; /* Variables, Class names, Terminal White */
   white-space: normal;
   overflow: hidden;
   flex-grow: 1;
   cursor: pointer;
 }
 
-/* Fixed container at the bottom for total size */
 #total-size-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 12px 20px;
-  background-color: #24283b; /* Editor Background (Storm) */
   position: fixed;
   bottom: 0;
   width: 100%;
-  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
-  color: #c0caf5; /* Variables, Class names, Terminal White */
+}
+
+/* Keyframe for button press animation */
+@keyframes buttonPress {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.9); } /* Slightly shrink on press */
+  100% { transform: scale(1); }
 }
 
 /* Styling for the copy button */
@@ -149,7 +236,13 @@ p {
   transition: background-color 0.3s ease;
 }
 
+/* Hover effect */
 #copy-entries-button:hover {
   background-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
   color: #1a1b26; /* Editor Background (Night) */
+}
+
+/* Animation trigger on button press */
+#copy-entries-button:active {
+  animation: buttonPress 0.2s ease;
 }

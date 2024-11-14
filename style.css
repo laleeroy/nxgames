@@ -1,97 +1,170 @@
 /* Base styling for the body */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #1f1f2e;
-    color: #e0e0e0;
-    display: flex;
-    flex-direction: column;
-    height: 100vh; /* Full viewport height */
-    overflow: hidden; /* Prevent page scroll */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1f1f2e;
+  color: #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
 }
 
 /* Styling for the header/title area */
 h1 {
-    text-align: center;
-    font-size: 1.8em;
-    color: #ffffff;
-    margin-top: 20px;
+  text-align: center;
+  font-size: 1.8em;
+  color: #ffffff;
+  margin-top: 20px;
 }
 
 p {
-    text-align: center;
-    font-size: 0.9em;
-    color: #b0b0b0;
-    margin: 5px;
+  text-align: center;
+  font-size: 0.9em;
+  color: #b0b0b0;
+  margin: 5px;
 }
 
 /* Container for the list, allowing internal scrolling */
 #content-list {
-    flex-grow: 1; /* Fills available space */
-    overflow-y: auto; /* Enables internal scrolling */
-    padding: 10px 20px;
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 10px 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Each item in the list */
 .content-item {
-    display: flex;
-    align-items: center;
-    margin: 5px 0;
-    padding: 10px;
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+  padding: 10px;
+  width: 100%;
+  flex-shrink: 0;
+  white-space: normal;
 }
 
-/* Styling for checkboxes to look more customized */
+/* Spinning animation when checkbox is checked */
+@keyframes animOnCheck {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(180deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Rotation animation when checkbox is unchecked */
+@keyframes animOnUncheck {
+  0% { transform: rotate(0deg) scale(1); }
+  50% { transform: rotate(-180deg) scale(1.2); } /* Increased scale */
+  100% { transform: rotate(-360deg) scale(1); }
+}
+
+/* Styling for checkboxes */
 .content-item input[type="checkbox"] {
-    appearance: none;
-    width: 20px;
-    height: 20px;
-    border: 2px solid #ffab40;
-    border-radius: 4px;
-    margin-right: 10px;
-    transition: background-color 0.3s ease;
-    flex-shrink: 0;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid;
+  border-radius: 50%;
+  background-color: transparent;
+  margin-right: 10px;
+  position: relative;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
+/* Apply spin animation when the checkbox is checked */
 .content-item input[type="checkbox"]:checked {
-    border-color: #ffa;
-    width: 1px;
+  animation: animOnCheck 1s ease forwards;
+  border-color: transparent;
 }
 
+/* Apply spin animation when the checkbox is unchecked */
+.content-item input[type="checkbox"]:not(:checked) {
+  animation: animOnUncheck 1.0s ease forwards; /* Increased duration for better visibility */
+  border-color: #9ece6a;
+}
+
+/* Create the "X" effect when checked */
+.content-item input[type="checkbox"]:checked::before,
+.content-item input[type="checkbox"]:checked::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 20px;
+  background-color: #e0af68;
+  top: 50%;
+  left: 50%;
+  transform-origin: center;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.content-item input[type="checkbox"]:checked::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+  opacity: 1;
+}
+
+.content-item input[type="checkbox"]:checked::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+  opacity: 1;
+}
+
+/* Styling for the label */
 .content-item label {
-    font-size: 1em;
-    color: #ffffff;
+  font-size: 1em;
+  color: #ffffff;
+  white-space: normal;
+  overflow: hidden;
+  flex-grow: 1;
+  cursor: pointer;
+}
+
+/* Animation for changing text colors using your custom color pool */
+@keyframes colorChange {
+  0% { color: #8c4351; } /* Terminal Red */
+  10% { color: #965027; } /* Number and Boolean constants */
+  20% { color: #8f5e15; } /* Function parameters */
+  30% { color: #634f30; } /* Parameters inside functions */
+  40% { color: #485e30; } /* Strings, CSS class names */
+  50% { color: #33635c; } /* Object literal keys */
+  60% { color: #166775; } /* Language support functions */
+  70% { color: #0f4b6e; } /* Object properties */
+  80% { color: #34548a; } /* Function names */
+  90% { color: #5a4a78; } /* Control Keywords */
+  100% { color: #343b58; } /* Editor Foreground */
 }
 
 /* Fixed container at the bottom for total size */
 #total-size-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 20px;
-    background-color: #2d2d3f;
-    color: #ffffff;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background-color: #2d2d3f;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+  animation: colorChange 5s infinite; /* Apply the custom color change animation */
 }
 
 /* Styling for the copy button */
 #copy-entries-button {
-    background-color: #ffab40;
-    color: #1f1f2e;
-    border: none;
-    padding: 10px 16px;
-    margin-left: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+  background-color: #bb9af7;
+  color: #ffffff;
+  border: none;
+  padding: 10px 16px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 #copy-entries-button:hover {
-    background-color: #ffa;
+  background-color: #73daca;
+  color: #282a36;
 }

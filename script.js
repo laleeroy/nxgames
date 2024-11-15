@@ -29,25 +29,27 @@ function updateTotalSize() {
     }
 }
 
+// An array to keep track of checked items in order
+let checkedItemsOrder = [];
+
 document.getElementById('copy-entries-button').addEventListener('click', function() {
     const checkedItems = [];
     const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
-    
-    checkboxes.forEach(checkbox => {
-        if (checkbox.checked) {
-            let text = checkbox.nextElementSibling.textContent.trim();
-            // Remove additional information like [NSZ], [NSP], [XCI], Size: etc.
-            if (text.includes('Size')) {
-                text = text.substring(0, text.indexOf('Size')).trim();
-            }
-            checkedItems.push(text);
+
+    // Collect the checked items in the order they were checked (in the array 'checkedItemsOrder')
+    checkedItemsOrder.forEach(item => {
+        // Remove "Size: X.XG" part of the text
+        let text = item.trim();
+        if (text.includes('Size')) {
+            text = text.substring(0, text.indexOf('Size')).trim();  // Remove everything from "Size"
         }
+        checkedItems.push(text);
     });
 
     if (checkedItems.length > 0) {
         navigator.clipboard.writeText(checkedItems.join('\n'))
             .then(() => {
-		alert('The selected games have been copied to the clipboard. Please send them to me.');
+                alert('The selected games have been copied to the clipboard.');
                 updateTotalSize(); // Update total size container after copying
                 resetInactivityTimeout(); // Reset inactivity timeout after copying
             })
@@ -77,12 +79,23 @@ fetch('contents.txt')
                 checkbox.addEventListener('change', function() {
                     updateTotalSize();
                     resetInactivityTimeout();
+
+                    // Track the order of checked items
+                    const labelText = item.trim();
+                    if (checkbox.checked) {
+                        checkedItemsOrder.push(labelText);  // Add item to the checked order
+                    } else {
+                        const index = checkedItemsOrder.indexOf(labelText);
+                        if (index > -1) {
+                            checkedItemsOrder.splice(index, 1);  // Remove item if unchecked
+                        }
+                    }
                 });
 
                 const label = document.createElement('label');
                 let labelText = item.trim();
                 if (labelText.includes('Size')) {
-                    labelText = labelText.substring(0, labelText.indexOf('Size')).trim();
+                    labelText = labelText.substring(0, labelText.indexOf('Size')).trim();  // Remove "Size" part for display
                 }
                 label.textContent = labelText;
 

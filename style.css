@@ -199,3 +199,29 @@ p {
   background-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
   color: #1a1b26; /* Editor Background (Night) */
 }
+
+/* Themed styling for the search bar */
+#search-bar {
+  padding: 10px;
+  width: calc(100% - 50px); /* 100% width minus 10px margin on each side */
+  font-size: 1em;
+  border: 2px solid #ff9e64; /* Number and Boolean constants */
+  border-radius: 5px;
+  background-color: #24283b; /* Editor Background (Storm) */
+  color: #c0caf5; /* Variables, Class names, Terminal White */
+  margin: 10px; /* 10px margin on all sides */
+  display: block;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+/* Focus effect for the search bar */
+#search-bar:focus {
+  outline: none;
+  border-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
+  background-color: #1a1b26; /* Editor Background (Night) */
+}
+
+/* Placeholder text styling */
+#search-bar::placeholder {
+  color: #565f89; /* Comments */
+}

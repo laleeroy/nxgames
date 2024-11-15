@@ -128,3 +128,18 @@ function setupInactivityListener() {
 // Start the inactivity listener
 setupInactivityListener();
 resetInactivityTimeout(); // Initialize the inactivity timeout
+
+// Filter functionality for the search bar
+document.getElementById('search-bar').addEventListener('input', function () {
+    const searchTerm = this.value.toLowerCase();
+    const items = document.querySelectorAll('.content-item');
+
+    items.forEach(item => {
+        const labelText = item.querySelector('label').textContent.toLowerCase();
+        if (labelText.includes(searchTerm)) {
+            item.style.display = '';
+        } else {
+            item.style.display = 'none';
+        }
+    });
+});

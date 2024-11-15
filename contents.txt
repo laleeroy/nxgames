@@ -3,6 +3,7 @@ A Hat in Time Size: 7.1G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
+Angel at Dusk Size: 636M
 Animal Crossing New Horizons Size: 11G
 Another Crabs Treasure Size: 1.1G
 Assassins Creed The Ezio Collection Size: 29G
@@ -27,6 +28,7 @@ Bloodstained Curse of the Moon 1-2 Size: 80M
 Bloodstained Ritual of the Night Size: 14G
 Borderlands 3 Ultimate edition Size: 25G
 Bridge Constructor 1-3 Size: 443M
+Broken Sword - Shadow of the Templars Reforged Size: 2.6G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Caravan Sand Witch Size: 1.5G
@@ -55,6 +57,7 @@ Dead Cells Size: 2.4G
 Deaths Door Size: 749M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
+Deserted Size: 1.7G
 Detective Pikachu Returns Size: 6.3G
 Diablo 3 Size: 28G
 Digimon Story Cyber Sleuth Complete Edition Size: 3.9G
@@ -69,6 +72,7 @@ Double Dragon 1-6 Size: 611M
 Dragon Ball FighterZ Size: 9.1G
 Dragon Ball Xenoverse 2 Size: 13G
 Dragon Ball Z Kakarot + A New Power Awakens Set Size: 19G
+Dragon Quest III HD 2D Remake Size: 7.1G
 Dragon Quest XI S Echoes of an Elusive Age Definitive Edition Size: 11G
 Dread Nautical Size: 1.6G
 Dread Out 2 Size: 5.4G
@@ -91,6 +95,7 @@ Fire Emblem Warriors Three Hopes Size: 12G
 Fitness Boxing 2 Rhythm and Exercise Size: 3.8G
 Fitness Boxing Size: 662M
 Five Nights at Freddys Size: 21G
+Flip It Size: 83M
 Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
 Forgotten Memories Remastered Size: 3.3G
@@ -100,6 +105,7 @@ Ghostrunner Size: 12G
 Good Pizza Great Pizza Size: 149M
 GTA The Trilogy Size: 26G
 Gundam Breaker 4 Size: 5.7G
+Gylt Size: 3.4G
 Hades Size: 5.8G
 Harvest Moon - The Winds of Anthos Size: 1.5G
 Harvest Moon One World Size: 1.4G
@@ -119,12 +125,12 @@ Immortals Fenyx Rising Size: 19G
 Inside Size: 612M
 It Takes Two Size: 13G
 Jim is Moving Out Size: 280M
-Jorel's Brother Size: 1.9G
+Jorels Brother Size: 1.9G
 Jujutsu Kaisen Cursed Clash Size: 7.9G
 Jump Force Deluxe Edition Size: 9.6G
 Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 Size: 48G
 Just Dance 2023-2024 Size: 18G
-Keeper's Toll Size: 196M
+Keepers Toll Size: 196M
 Killer Frequency Size: 1.7G
 Kirby and the Forgotten Land Size: 5.8G
 Kirby Star Allies Size: 2.4G
@@ -134,6 +140,8 @@ Lambs On The Road The Beginning Size: 201M
 Layers of Fear 2 Size: 5.7G
 Layers of Fear Legacy Size: 4.7G
 Legends of Ethernal Size: 572M
+LEGO Horizon Adventures Size: 7.2G
+Lets Sing 2025 Size: 3.8G
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
 Life is Strange Before the Storm Remastered Size: 13G
@@ -201,6 +209,7 @@ Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
 One Piece Odyssey Deluxe Edition Size: 10G
+OnlyUp Size: 1.1G
 Ori and the Blind Forest Definitive Edition Size: 3.6G
 Ori and the Will of the Wisps Size: 3.3G
 Outer Wilds Size: 2.7G
@@ -236,6 +245,7 @@ Princess Peach Showtime! Size: 4.7G
 Rain World Size: 4.5G
 Rayman Legends Def. Edition Size: 3.0G
 Red Dead Redemption Size: 11G
+Remnant From the Ashes Size: 7.2G
 Resident Evil 0 Size: 41G
 Resident Evil 4 Size: 8.3G
 Resident Evil 5-6 Size: 26G
@@ -279,11 +289,14 @@ Super Mario Party Jamboree Size: 5.4G
 Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Smash Bros Ultimate Size: 14G
+Sweet Survivors Size: 65M
 Sword Art Online Alicization Lycoris Size: 11G
 Sword Art Online Size: 17G
+Tales from Toyotoki Arrival of the Witch (US) Size: 790M
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 Terraria Size: 320M
+Tetris Forever Size: 5.4G
 Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
 The Great Ace Attorney Chronicles Size: 2.7G
@@ -323,6 +336,7 @@ Unravel Two Size: 1.9G
 Untitled Goose Game Size: 342M
 Vampire Hunters Size: 601M
 Vampire Survivors Size: 535M
+Ved Size: 2.8G
 WarioWare Get It Together Size: 1.4G
 WarioWare Move It Size: 1.4G
 What the Duck Size: 1.4G

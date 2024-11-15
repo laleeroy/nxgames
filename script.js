@@ -49,7 +49,7 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
     if (checkedItems.length > 0) {
         navigator.clipboard.writeText(checkedItems.join('\n'))
             .then(() => {
-                alert('The selected games have been copied to the clipboard.');
+                alert("The games you've chosen have been copied.\nPaste them in our conversation to proceed with the installation.");
                 updateTotalSize(); // Update total size container after copying
                 resetInactivityTimeout(); // Reset inactivity timeout after copying
             })

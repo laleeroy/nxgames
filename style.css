@@ -67,8 +67,8 @@ h1 {
 /* Styling for paragraphs */
 p {
   text-align: center;
-  font-size: 0.9em;
-  color: #565f89; /* Comments */
+  font-size: 1em;
+  color: #c0caf5;
   margin: 5px;
 }
 

@@ -96,7 +96,6 @@ p {
 /* Spinning animation when checkbox is checked */
 @keyframes animOnCheck {
   0% { transform: rotate(0deg); }
-  50% { transform: rotate(180deg); }
   100% { transform: rotate(360deg); }
 }
 
@@ -169,15 +168,15 @@ p {
   cursor: pointer;
 }
 
-/* Fixed container at the bottom for total size */
+/* Fixed container at the top for total size */
 #total-size-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 12px 20px;
+  padding: 15px 20px;
   background-color: #24283b; /* Editor Background (Storm) */
   position: fixed;
-  bottom: 0;
+  top: 0;
   width: 100%;
   box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
   color: #c0caf5; /* Variables, Class names, Terminal White */
@@ -192,12 +191,32 @@ p {
   margin-left: 5px;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
+/* Add a flip animation */
+@keyframes flip {
+  0% {
+    transform: rotateY(0);
+  }
+  50% {
+    transform: rotateY(180deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+/* Apply the flip animation on hover */
 #copy-entries-button:hover {
   background-color: #73daca; /* Object literal keys, Markdown links, Terminal Green */
   color: #1a1b26; /* Editor Background (Night) */
+  animation: flip 0.6s ease;
+}
+
+/* Apply the flip animation on click */
+#copy-entries-button:active {
+  animation: flip 0.6s ease;
 }
 
 /* Themed styling for the search bar */
@@ -224,4 +243,28 @@ p {
 /* Placeholder text styling */
 #search-bar::placeholder {
   color: #565f89; /* Comments */
+}
+
+/* Styling for the send to messenger button */
+#facebook-messenger-button {
+  background-color: #ff9e64; /* Adjusted to a different color from the palette */
+  color: #282a36; /* Editor Background */
+  border: none;
+  padding: 10px 16px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Apply the flip animation on hover */
+#facebook-messenger-button:hover {
+  background-color: #73daca; /* Hover color (can adjust as needed) */
+  color: #1a1b26; /* Editor Background (Night) */
+  animation: flip 0.6s ease;
+}
+
+/* Apply the flip animation on click */
+#facebook-messenger-button:active {
+  animation: flip 0.6s ease;
 }

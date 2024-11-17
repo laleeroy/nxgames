@@ -59,6 +59,31 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
     }
 });
 
+// Add an event listener to the "Message Me" button (Facebook Messenger)
+document.getElementById('facebook-messenger-button').addEventListener('click', function() {
+    const checkedItems = [];
+    const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
+
+    // Collect the checked items to send as a message to Messenger
+    checkedItemsOrder.forEach(item => {
+        let text = item.trim();
+        if (text.includes('Size')) {
+            text = text.substring(0, text.indexOf('Size')).trim();  // Remove "Size" part
+        }
+        checkedItems.push(text);
+    });
+
+    if (checkedItems.length > 0) {
+        // Construct a Messenger URL with the message pre-filled
+        const message = checkedItems.join('\n');
+        const messengerUrl = `https://m.me/8bitgamer2024?text=${encodeURIComponent(message)}`; // Pre-fill message
+        window.open(messengerUrl, "_blank"); // Open Messenger with the pre-filled message
+        resetInactivityTimeout(); // Reset inactivity timeout after clicking
+    } else {
+        alert('No items selected to send!');
+    }
+});
+
 // Initially hide the total size container
 document.getElementById('total-size-container').style.display = 'none';
 

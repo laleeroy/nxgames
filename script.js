@@ -32,16 +32,15 @@ function updateTotalSize() {
 // An array to keep track of checked items in order
 let checkedItemsOrder = [];
 
-document.getElementById('copy-entries-button').addEventListener('click', function() {
+document.getElementById('copy-entries-button').addEventListener('click', function () {
     const checkedItems = [];
     const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
 
     // Collect the checked items in the order they were checked (in the array 'checkedItemsOrder')
     checkedItemsOrder.forEach(item => {
-        // Remove "Size: X.XG" part of the text
         let text = item.trim();
         if (text.includes('Size')) {
-            text = text.substring(0, text.indexOf('Size')).trim();  // Remove everything from "Size"
+            text = text.substring(0, text.indexOf('Size')).trim();  // Remove "Size"
         }
         checkedItems.push(text);
     });
@@ -49,7 +48,11 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
     if (checkedItems.length > 0) {
         navigator.clipboard.writeText(checkedItems.join('\n'))
             .then(() => {
-                alert("The games you've chosen have been copied.\nPaste them in our conversation to proceed with the installation.");
+                const message = `
+                    <p>The games you've chosen have been copied.</p>
+                    <p>Paste them in our conversation to proceed with the installation.</p>
+                `;
+                showNotification(message); // Pass HTML content as the message
                 updateTotalSize(); // Update total size container after copying
                 resetInactivityTimeout(); // Reset inactivity timeout after copying
             })
@@ -60,7 +63,7 @@ document.getElementById('copy-entries-button').addEventListener('click', functio
 });
 
 // Add an event listener to the "Message Me" button (Facebook Messenger)
-document.getElementById('facebook-messenger-button').addEventListener('click', function() {
+document.getElementById('facebook-messenger-button').addEventListener('click', function () {
     const checkedItems = [];
     const checkboxes = document.querySelectorAll('.content-item input[type="checkbox"]');
 
@@ -86,7 +89,6 @@ document.getElementById('facebook-messenger-button').addEventListener('click', f
 
 // Initially hide the total size container
 document.getElementById('total-size-container').style.display = 'none';
-
 fetch('contents.txt')
     .then(response => response.text())
     .then(text => {
@@ -101,7 +103,7 @@ fetch('contents.txt')
                 const checkbox = document.createElement('input');
                 checkbox.type = 'checkbox';
                 checkbox.dataset.size = sizeMatch[1];
-                checkbox.addEventListener('change', function() {
+                checkbox.addEventListener('change', function () {
                     updateTotalSize();
                     resetInactivityTimeout();
 
@@ -148,16 +150,16 @@ function resetInactivityTimeout() {
 function setupInactivityListener() {
     window.addEventListener('mousemove', resetInactivityTimeout);
     window.addEventListener('keypress', resetInactivityTimeout);
-    window.addEventListener('click', function() {
+    window.addEventListener('click', function () {
         updateTotalSize();
         resetInactivityTimeout();
     });
-    window.addEventListener('scroll', function() {
+    window.addEventListener('scroll', function () {
         updateTotalSize();
         resetInactivityTimeout();
     });
     window.addEventListener('touchstart', resetInactivityTimeout); // Added for mobile devices
-    window.addEventListener('touchmove', function() {
+    window.addEventListener('touchmove', function () {
         updateTotalSize();
         resetInactivityTimeout();
     }); // Added for mobile devices
@@ -181,3 +183,15 @@ document.getElementById('search-bar').addEventListener('input', function () {
         }
     });
 });
+
+// Function to show notification with HTML content
+function showNotification(message) {
+    const notification = document.getElementById('notification');
+    notification.innerHTML = message; // Insert HTML content as the message
+
+    notification.classList.add('show'); // Add the 'show' class to display the notification
+
+    setTimeout(() => {
+        notification.classList.remove('show'); // Remove the 'show' class to hide the notification after 5 seconds
+    }, 5000);
+}

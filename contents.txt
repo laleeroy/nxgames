@@ -3,6 +3,7 @@ A Hat in Time Size: 7.1G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
+An Airport for Aliens Currently Run by Dogs Size: 2.2G
 Angel at Dusk Size: 636M
 Animal Crossing New Horizons Size: 11G
 Another Crabs Treasure Size: 1.1G
@@ -79,6 +80,7 @@ Dread Out 2 Size: 5.4G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
+EA SPORTS FC 25 Size: 32G
 Eiyuden Chronicle Hundred Heroes (EU) Size: 25G
 Eiyuden Chronicle Rising Size: 1.4G
 Europa Size: 3.4G
@@ -102,6 +104,7 @@ Forgotten Memories Remastered Size: 3.3G
 Forwarders Size: 736K
 GBA, GB - Nintendo Switch Online Size: 968M
 Ghostrunner Size: 12G
+Goblin Slayer Another Adventurer Nightmare Feast Size: 2.7G
 Good Pizza Great Pizza Size: 149M
 GTA The Trilogy Size: 26G
 Gundam Breaker 4 Size: 5.7G
@@ -145,6 +148,7 @@ Lets Sing 2025 Size: 3.8G
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
 Life is Strange Before the Storm Remastered Size: 13G
+Life is Strange Double Exposure Size: 14G
 Life is Strange True Colors Size: 12G
 Limbo Size: 164M
 Little Kitty Big City Size: 662M
@@ -169,6 +173,7 @@ Max The Curse Of The Brotherhood Size: 2.8G
 Mega Man Collection Size: 19G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
 Metal Slug Attack Reloaded Size: 1.7G
+Metal Slug Tactics Size: 1.1G
 Metro Redux Size: 10G
 Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
@@ -189,6 +194,7 @@ Mortal Kombat 11 [1.0.2] Size: 29G
 MotoGP24 Size: 11G
 Moving Out 2 Size: 1.7G
 Moving Out Size: 817M
+My Sims Cozy Bundle Size: 3.2G
 My Time at Sandrock Size: 5.0G
 Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 NBA 2K24 Size: 64G
@@ -220,6 +226,7 @@ Overcooked! All You Can Eat Size: 5.2G
 Paper Mario The Thousand-Year Door Size: 5.2G
 Persona 5 Royal Size: 12G
 Persona 5 Strikers Size: 11G
+Petit Island Size: 1.1G
 Pikmin 1 Size: 1.2G
 Pikmin 2 Size: 1.2G
 Pikmin 3 Deluxe Size: 4.9G
@@ -239,6 +246,7 @@ Pokemon Shining Pearl Size: 3.9G
 Pokemon Sword Size: 5.7G
 Pokemon Violet Size: 9.2G
 Pokken Tournament DX Size: 4.1G
+Poppy Playtime Size: 12G
 Potion Craft Size: 555M
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
@@ -276,6 +284,7 @@ Star Ocean The Second Story R Size: 9.9G
 Star Wars Bounty Hunter Size: 8.0G
 Stardew Valley Size: 904M
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
+Stray Size: 4.5G
 Street Fighterr 30th Anniversary Collection Size: 5.2G
 Streets of Rage 4 Size: 4.0G
 Super Bomberman R2 Size: 2.7G

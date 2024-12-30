@@ -36,6 +36,7 @@ Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Caravan Sand Witch Size: 1.5G
 Carrion Size: 355M
+Cars 3 Size: 3.3G
 Castlevania Dominus Collection Size: 1.2G
 Cat Quest III Size: 865M
 Celeste Size: 932M
@@ -49,6 +50,7 @@ Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
 Crash Bandicoot 4 Its About Time Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
+Crash Team Racing Nitro-Fueled Size: 6.8G
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
 Danganronpa 2 Goodbye Despair Anniversary Edition (2012) Size: 3.0G
@@ -153,6 +155,7 @@ Layers of Fear Legacy Size: 4.7G
 Legacy of Kain Soul Reaver 1-2 Remastered Size: 6.7G
 Legends of Ethernal Size: 572M
 LEGO Horizon Adventures Size: 7.2G
+LEGO Jurassic World Size: 4.8G
 Lets Sing 2025 Size: 3.8G
 Life is Strange 2 Size: 32G
 Life is Strange Arcadia Bay Collection Size: 18G
@@ -160,6 +163,7 @@ Life is Strange Before the Storm Remastered Size: 13G
 Life is Strange Double Exposure Size: 14G
 Life is Strange True Colors Size: 12G
 Limbo Size: 164M
+Linelight Size: 83M
 Little Kitty Big City Size: 662M
 Little Nightmares 2 Size: 2.7G
 Little Nightmares Size: 3.1G
@@ -236,6 +240,9 @@ Overcooked Special Edition Size: 317M
 Overcooked! 2 Size: 4.1G
 Overcooked! All You Can Eat Size: 5.2G
 Paper Mario The Thousand-Year Door Size: 5.2G
+Persona 3 Portable Size: 5.0G
+Persona 4 Arena Ultimax Size: 9.2G
+Persona 4 Golden Size: 7.7G
 Persona 5 Royal Size: 12G
 Persona 5 Strikers Size: 11G
 Petit Island Size: 1.1G
@@ -292,11 +299,14 @@ Snipperclips Cut it out Together Size: 572M
 SNK vs Capcom SVC Chaos Size: 200M
 Snow Bros. Wonderland Size: 4.2G
 Song of Nunu (A League of Legends Story) Size: 6.4G
+SONIC FORCES Digital Bonus Edition (Eur) Size: 6.9G
 Sonic x Shadow Generation Size: 11G
 Splatoon 2 + Octo Expansion (EUR) Size: 6.1G
 Splatoon 3 Size: 14G
+SpongeBob SquarePants Battle for Bikini Bottom Rehydrated Size: 9.4G
 SpongeBob SquarePants the Patrick Star Game Size: 694M
 Star Ocean The Second Story R Size: 9.9G
+Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Stardew Valley Size: 904M
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
@@ -314,6 +324,7 @@ Super Mario Odyssey Size: 5.8G
 Super Mario Party Jamboree Size: 5.4G
 Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
+Super Pixel Racers Size: 639M
 Super Smash Bros Ultimate Size: 14G
 Sweet Survivors Size: 65M
 Sword Art Online Alicization Lycoris Size: 11G
@@ -355,6 +366,7 @@ Totally Spies Cyber Mission Size: 1.9G
 TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
 Trials of Mana Size: 11G
+Trials Rising Size: 11G
 Trine 5 a Clockwork Conspiracy Size: 4.7G
 Ultra Age Size: 5.9G
 Under Night In Birth 2 Sys Celes Size: 2.5G

@@ -60,6 +60,7 @@ Danganronpa V3 Killing Harmony Anniversary Edition (2017) Size: 4.9G
 Dark Souls Remastered Size: 4.1G
 Darkest Dungeon 2 Size: 2.0G
 Darksiders Genesis Size: 11G
+Darkwood Size: 1.8G
 Dave the Diver Size: 3.7G
 Dead Cells Size: 2.4G
 Deaths Door Size: 749M
@@ -74,6 +75,7 @@ Digimon World Next Order (EU) Size: 4.6G
 Disco Elysium The Final Cut Size: 7.9G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
+Divinity Original Sin 2 Definitive Edition Size: 17G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Doom (2017) Size: 20G
 Double Dragon 1-6 Size: 611M
@@ -111,6 +113,7 @@ Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
 Forgotten Memories Remastered Size: 3.3G
 Forwarders Size: 736K
+Freedom Wars Remastered Size: 4.3G
 GBA, GB - Nintendo Switch Online Size: 968M
 Ghostrunner Size: 12G
 Goblin Slayer Another Adventurer Nightmare Feast Size: 2.7G
@@ -129,6 +132,7 @@ Hogwarts Legacy Size: 15G
 Hollow Knight Size: 931M
 Hot Lap Racing Size: 2.1G
 Hotline Miami Collection Size: 1.3G
+Hungry Shark World Size: 1.5G
 Huntdown Size: 793M
 Hyper Light Drifter Size: 704M
 Hyrule Warriors Age of Calamity Size: 11G
@@ -232,6 +236,8 @@ Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
 One Piece Odyssey Deluxe Edition Size: 10G
+One Piece Size: 30G
+One Piece Unlimited World Red Deluxe Edition Size: 8.9G
 Ori and the Blind Forest Definitive Edition Size: 3.6G
 Ori and the Will of the Wisps Size: 3.3G
 Outer Wilds Size: 2.7G
@@ -329,6 +335,8 @@ Super Smash Bros Ultimate Size: 14G
 Sweet Survivors Size: 65M
 Sword Art Online Alicization Lycoris Size: 11G
 Sword Art Online Size: 17G
+Taiko no Tatsujin Drum and Fun Size: 1.4G
+Taiko No Tatsujin Rhythmic Adventure Pack Size: 1.5G
 Tales from Toyotoki Arrival of the Witch (US) Size: 790M
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M

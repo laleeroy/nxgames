@@ -24,11 +24,13 @@ Big Brain Academy Brain vs Brain Size: 524M
 Big Rumble Boxing Creed Champions Size: 2.8G
 Biomutant Size: 7.6G
 BioShock Infinite The Complete Edition Size: 17G
+Blade Chimera Size: 313M
 Blasphemous II Size: 1.6G
 Blazblue Collection Size: 17G
 Bloodstained Curse of the Moon 1-2 Size: 80M
 Bloodstained Ritual of the Night Size: 14G
 Borderlands 3 Ultimate edition Size: 25G
+Boti Byteland Overclocked Size: 1.7G
 Bravely Default II Size: 13G
 Bridge Constructor 1-3 Size: 443M
 Broken Sword - Shadow of the Templars Reforged Size: 2.6G
@@ -63,6 +65,7 @@ Darksiders Genesis Size: 11G
 Darkwood Size: 1.8G
 Dave the Diver Size: 3.7G
 Dead Cells Size: 2.4G
+Death End Re Quest Code Z (JAP) Size: 6.8G
 Deaths Door Size: 749M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
@@ -76,6 +79,7 @@ Disco Elysium The Final Cut Size: 7.9G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Divinity Original Sin 2 Definitive Edition Size: 17G
+Donkey Kong Country Returns HD Size: 8.4G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Doom (2017) Size: 20G
 Double Dragon 1-6 Size: 611M
@@ -86,6 +90,7 @@ Dragon Quest III HD 2D Remake Size: 7.1G
 Dragon Quest XI S Echoes of an Elusive Age Definitive Edition Size: 11G
 Dread Nautical Size: 1.6G
 Dread Out 2 Size: 5.4G
+Dread Out Remastered Size: 3.0G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
@@ -235,6 +240,7 @@ Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
+Once Again Size: 412M
 One Piece Odyssey Deluxe Edition Size: 10G
 One Piece Size: 30G
 One Piece Unlimited World Red Deluxe Edition Size: 8.9G
@@ -245,6 +251,7 @@ Outlast 1+2 Size: 8.9G
 Overcooked Special Edition Size: 317M
 Overcooked! 2 Size: 4.1G
 Overcooked! All You Can Eat Size: 5.2G
+Overdungeon Size: 507M
 Paper Mario The Thousand-Year Door Size: 5.2G
 Persona 3 Portable Size: 5.0G
 Persona 4 Arena Ultimax Size: 9.2G
@@ -275,6 +282,7 @@ Poppy Playtime Size: 12G
 Potion Craft Size: 555M
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
+Professor Doctor Jetpack Size: 217M
 Rain World Size: 4.5G
 Rayman Legends Def. Edition Size: 3.0G
 Red Dead Redemption Size: 11G
@@ -338,6 +346,7 @@ Sword Art Online Size: 17G
 Taiko no Tatsujin Drum and Fun Size: 1.4G
 Taiko No Tatsujin Rhythmic Adventure Pack Size: 1.5G
 Tales from Toyotoki Arrival of the Witch (US) Size: 790M
+Tales of Graces F Remastered Size: 8.9G
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 Terraria Size: 320M
@@ -348,6 +357,8 @@ The Great Ace Attorney Chronicles Size: 2.7G
 The House of The Dead Remake Size: 1.6G
 The Hundred Year Kingdom Size: 489M
 The King of Fighters 13 Global Match Size: 2.6G
+The Legend of Cyber Cowboy Size: 100M
+The Legend of Heroes Kuro no Kiseki II (CHN) Size: 8.7G
 The Legend of Heroes Trails Through Daybreak Size: 6.1G
 The Legend of Zelda Breath of the Wild Size: 16G
 The Legend of Zelda Echoes of Wisdom Size: 4.5G

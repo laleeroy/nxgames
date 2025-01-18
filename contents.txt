@@ -1,12 +1,16 @@
 1-2-Switch Size: 1.4G
 A Hat in Time Size: 7.1G
+A Little to the Left Size: 2.0G
+Ace Attorney Miles Edgeworth 1 - 2 Prosecutors Gambit Size: 5.9G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Alan Wake Remastered Size: 13G
 Amnesia collection Size: 2.6G
 Angel at Dusk Size: 636M
 Animal Crossing New Horizons Size: 11G
 Another Crabs Treasure Size: 1.1G
+Apollo Justice Ace Attorney Trilogy Size: 13G
 Arms Size: 2.6G
+Assassins Creed III Remastered Size: 11G
 Assassins Creed The Ezio Collection Size: 29G
 Astral Chain Size: 9.9G
 Astral Flux Size: 279M
@@ -20,6 +24,7 @@ Bayonetta 2 Size: 11G
 Bayonetta 3 Size: 16G
 Bayonetta Origins Cereza and the Lost Demon Size: 3.2G
 Bayonetta Size: 7.8G
+Beacon Pines Size: 564M
 Big Brain Academy Brain vs Brain Size: 524M
 Big Rumble Boxing Creed Champions Size: 2.8G
 Biomutant Size: 7.6G
@@ -53,6 +58,7 @@ Contra Rogue Corps Size: 2.7G
 Crash Bandicoot 4 Its About Time Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Crash Team Racing Nitro-Fueled Size: 6.8G
+Crysis 1-2-3 Remastered Size: 24G
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
 Danganronpa 2 Goodbye Despair Anniversary Edition (2012) Size: 3.0G
@@ -109,11 +115,13 @@ Fire Emblem Engage Size: 14G
 Fire Emblem Three Houses Size: 13G
 Fire Emblem Warriors Size: 12G
 Fire Emblem Warriors Three Hopes Size: 12G
+Firebird Size: 458M
 Fitness Boxing 2 Rhythm and Exercise Size: 3.8G
 Fitness Boxing 3 Size: 2.3G
 Fitness Boxing Size: 662M
 Five Nights at Freddys Size: 21G
 Flip It Size: 83M
+Florence Size: 328M
 Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
 Forgotten Memories Remastered Size: 3.3G
@@ -179,6 +187,7 @@ Little Nightmares Size: 3.1G
 Live A Live Size: 4.8G
 Lollipop Chainsaw RePop Size: 6.9G
 Looney Tunes Wacky World of Sports Size: 2.2G
+Loretta Size: 517M
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
 Madison Size: 1.2G
@@ -241,10 +250,12 @@ Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
+Old Mans Journey Size: 343M
 Once Again Size: 412M
 One Piece Odyssey Deluxe Edition Size: 10G
 One Piece Size: 30G
 One Piece Unlimited World Red Deluxe Edition Size: 8.9G
+Open Roads Size: 3.7G
 Ori and the Blind Forest Definitive Edition Size: 3.6G
 Ori and the Will of the Wisps Size: 3.3G
 Outer Wilds Size: 2.7G
@@ -254,12 +265,14 @@ Overcooked! 2 Size: 4.1G
 Overcooked! All You Can Eat Size: 5.2G
 Overdungeon Size: 507M
 Paper Mario The Thousand-Year Door Size: 5.2G
+Paper Trail Size: 338M
 Persona 3 Portable Size: 5.0G
 Persona 4 Arena Ultimax Size: 9.2G
 Persona 4 Golden Size: 7.7G
 Persona 5 Royal Size: 12G
 Persona 5 Strikers Size: 11G
 Petit Island Size: 1.1G
+Phoenix Wright Ace Attorney Trilogy Size: 2.3G
 Pikmin 1 Size: 1.2G
 Pikmin 2 Size: 1.2G
 Pikmin 3 Deluxe Size: 4.9G
@@ -281,6 +294,7 @@ Pokemon Violet Size: 9.2G
 Pokken Tournament DX Size: 4.1G
 Poppy Playtime Size: 12G
 Potion Craft Size: 555M
+PowerWash Simulator Size: 8.0G
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Professor Doctor Jetpack Size: 217M
@@ -297,6 +311,7 @@ Ring Fit Adventure Size: 3.4G
 Risk of Rain 1-2 Size: 2.2G
 Roller Coaster Tycoon Adventures Deluxe Size: 577M
 S.T.A.L.K.E.R. Legends of the Zone Trilogy Size: 14G
+Sally Face Size: 472M
 Sam and Max Seasons 1-2-3 Size: 5.8G
 Samurai Shodown Neogeo Collection Size: 7.0G
 SAO Fractured Daydream Size: 14G
@@ -313,6 +328,7 @@ Sniper Hunter Scope Size: 983M
 Snipperclips Cut it out Together Size: 572M
 SNK vs Capcom SVC Chaos Size: 200M
 Snow Bros. Wonderland Size: 4.2G
+Snufkin Melody of Moominvalley Size: 1.8G
 Song of Nunu (A League of Legends Story) Size: 6.4G
 SONIC FORCES Digital Bonus Edition (Eur) Size: 6.9G
 Sonic x Shadow Generation Size: 11G
@@ -324,7 +340,9 @@ Star Ocean The Second Story R Size: 9.9G
 Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Stardew Valley Size: 904M
+Stitch Size: 229M
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
+Storyteller Size: 838M
 Stray Size: 4.5G
 Street Fighterr 30th Anniversary Collection Size: 5.2G
 Streets of Rage 4 Size: 4.0G
@@ -341,6 +359,7 @@ Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
 Super Pixel Racers Size: 639M
 Super Smash Bros Ultimate Size: 14G
+Superfluous Returnz Size: 219M
 Sweet Survivors Size: 65M
 Sword Art Online Alicization Lycoris Size: 11G
 Sword Art Online Size: 17G
@@ -354,6 +373,7 @@ Terraria Size: 320M
 Tetris Forever Size: 5.4G
 Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
+The Exit 8, Platform 8 Size: 2.4G
 The Great Ace Attorney Chronicles Size: 2.7G
 The House of The Dead Remake Size: 1.6G
 The Hundred Year Kingdom Size: 489M
@@ -382,7 +402,9 @@ Tomb Raider I-II-III Remastered Starring Lara Croft Size: 4.1G
 Tools Up Ultimate edition Size: 1.2G
 Torchlight 2 Size: 2.1G
 Torchlight 3 Size: 11G
+Torn Away Size: 1.1G
 Totally Spies Cyber Mission Size: 1.9G
+Touch Detective 1-2-3 The Complete Case Files Size: 1.2G
 TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
 Trials of Mana Size: 11G

@@ -298,3 +298,11 @@ p {
   display: block;
   opacity: 1;
 }
+
+/* Styling for the credit text (Updated as of) */
+#credit-text {
+  font-size: 0.8em; /* Smaller font size */
+  color: #73daca;   /* Secondary color */
+  text-align: center;
+  margin: 10px 0;
+}

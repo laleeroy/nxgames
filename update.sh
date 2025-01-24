@@ -14,7 +14,12 @@ bash /home/pi5/.bin/nxgames-update /srv/dev-disk-by-uuid-b37d7069-0eb1-4ce4-bb3b
 # Update index.html with the current date and time
 sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $date $time</p>|" index.html
 
-# Git things done
+# Check if there are changes to commit
 git add .
-git commit -m "Update list of games as of $date $time" || echo "No changes to commit"
-git push
+if git diff --exit-code --quiet; then
+    echo "No changes to commit"
+else
+    # Git commit and push
+    git commit -m "Update list of games as of $date $time"
+    git push
+fi

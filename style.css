@@ -177,7 +177,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 20px;
+  padding: 30px 20px;
   background-color: #24283b; /* Editor Background (Storm) */
   position: fixed;
   top: 0;

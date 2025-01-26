@@ -15,7 +15,7 @@ bash /home/pi5/.bin/nxgames-update /srv/dev-disk-by-uuid-b37d7069-0eb1-4ce4-bb3b
 sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $date $time</p>|" index.html
 
 # Check if there are changes to commit
-git add .
+git add index.html contents.txt
 if git diff --exit-code --quiet; then
     echo "No changes to commit"
 else

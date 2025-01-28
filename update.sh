@@ -12,7 +12,7 @@ python3 /home/pi5/.bin/nxgames-rename
 bash /home/pi5/.bin/nxgames-update
 
 # Update index.html with the current date and time
-sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $date $time</p>|" index.html
+sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $date $time PHT</p>|" index.html
 
 # Check for changes specifically in contents.txt
 if git status --porcelain | grep -q "contents.txt"; then

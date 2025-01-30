@@ -1,32 +1,43 @@
 #!/bin/bash
 
-# Add timestamps to each line of output
+# Function to log messages with timestamps
+log() {
+    echo "$(date +"[%Y-%m-%d %H:%M:%S]") $1"
+}
+
+# Main script logic
 {
     # Get the current date and time
-    date=$(date +"%b %d %Y")
-    time=$(date +"%I:%M%p")
+    current_date=$(date +"%b %d %Y")
+    current_time=$(date +"%I:%M%p")
 
     # Change to the working directory
-    cd /home/pi5/nxgames || { echo "Failed to change directory"; exit 1; }
+    cd /home/pi5/nxgames || { log "Failed to change directory"; exit 1; }
 
     # Run multiple scripts
-    python3 /home/pi5/.bin/nxgames-rename
-    bash /home/pi5/.bin/nxgames-update
+    log "Running nxgames-rename..."
+    python3 /home/pi5/.bin/nxgames-rename || { log "nxgames-rename failed"; exit 1; }
+
+    log "Running nxgames-update..."
+    bash /home/pi5/.bin/nxgames-update || { log "nxgames-update failed"; exit 1; }
 
     # Update index.html with the current date and time
-    sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $date $time PHT</p>|" index.html
+    log "Updating index.html..."
+    sed -i "s|<p id=\"credit-text\">.*</p>|<p id=\"credit-text\">Updated as of $current_date $current_time PHT</p>|" index.html
 
     # Check for changes specifically in contents.txt
     if git status --porcelain | grep -q "contents.txt"; then
-        # Stage the specific files
+        log "Changes detected in contents.txt. Staging files..."
         git add contents.txt index.html
 
-        # Commit and push changes
-        git commit -m "Update list of games as of $date $time"
-        git push
+        log "Committing and pushing changes..."
+        git commit -m "Update list of games as of $current_date $current_time" || { log "Commit failed"; exit 1; }
+        git push || { log "Push failed"; exit 1; }
     else
-        echo "No changes to contents.txt, skipping push"
+        log "No changes to contents.txt, skipping push"
     fi
+
+    log "Script completed successfully."
 } 2>&1 | while read -r line; do
-    echo "$(date +"[%Y-%m-%d %H:%M:%S]") $line"
+    log "$line"
 done

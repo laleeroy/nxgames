@@ -55,11 +55,14 @@ Bridge Constructor 1-3 Size: 443M
 Broken Age Size: 2.0G
 Broken Sword - Shadow of the Templars Reforged Size: 2.6G
 Burnhouse Lane Size: 1.4G
+Burnout Paradise Remastered Size: 2.5G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Caravan Sand Witch Size: 1.5G
 Carrion Size: 355M
 Cars 3 Size: 3.3G
+CarX Drift Racing Size: 3.2G
+CarX Highway Racing Size: 892M
 Castlevania Dominus Collection Size: 1.2G
 Cat Quest III Size: 865M
 Celeste Size: 932M
@@ -304,6 +307,7 @@ Naruto X Boruto - Ultimate Ninja Storm Connections Size: 14G
 Natsumon 20th Century Summer Kid Size: 3.4G
 NBA 2K24 Size: 64G
 NBA 2K25 Size: 54G
+Need for Speed Hot Pursuit Remastered Size: 6.3G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 Neva Size: 2.8G

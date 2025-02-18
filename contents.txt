@@ -3,6 +3,7 @@
 A Hat in Time Size: 7.1G
 A Little to the Left Size: 2.0G
 A Perfect Day Size: 2.2G
+A Space for the Unbound Size: 358M
 Ace Attorney Miles Edgeworth 1 - 2 Prosecutors Gambit Size: 5.9G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Achilles Legends Untold Size: 8.3G
@@ -113,6 +114,7 @@ Disco Elysium The Final Cut Size: 7.9G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Divinity Original Sin 2 Definitive Edition Size: 17G
+Doki Doki Literature Club Plus Size: 1.1G
 Donkey Kong Country Returns HD Size: 8.4G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Doom (2017) Size: 20G
@@ -138,6 +140,7 @@ Edna and Harvey Size: 2.1G
 Eiyuden Chronicle Hundred Heroes (EU) Size: 25G
 Eiyuden Chronicle Rising Size: 1.4G
 Ender Magnolia Bloom in the Mist Size: 3.1G
+Endling Extinction is Forever Size: 2.2G
 Escape Room Adventures - M9 Games Size: 9.8G
 Europa Size: 3.4G
 Expeditions a Mudrunner Size: 4.1G
@@ -474,6 +477,7 @@ Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 Tell Me Your Story Size: 329M
 Terraria Size: 320M
+Tetris Effect Connected Size: 3.6G
 Tetris Forever Size: 5.4G
 Thank Goodness Youre Here! Size: 969M
 That Time I Got Reincarnated as a Slime Size: 5.0G
@@ -523,6 +527,7 @@ TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
 Trials of Mana Size: 11G
 Trials Rising Size: 11G
+Triangle Strategy Size: 7.1G
 Trine 5 a Clockwork Conspiracy Size: 4.7G
 Ultra Age Size: 5.9G
 Under Night In Birth 2 Sys Celes Size: 2.5G

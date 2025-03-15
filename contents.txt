@@ -98,6 +98,7 @@ Darkest Dungeon 2 Size: 2.0G
 Darksiders Genesis Size: 11G
 Darkwood Size: 1.8G
 Dave the Diver Size: 3.7G
+Daydream Forgotten Sorrow Size: 3.2G
 Dead Cells Size: 2.4G
 Death End Re Quest Code Z (JAP) Size: 6.8G
 Deaths Door Size: 749M
@@ -454,7 +455,7 @@ Star Ocean The Second Story R Size: 9.9G
 Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Star Wars Episode 1 Jedi Power Battles Size: 3.6G
-Stardew Valley Size: 904M
+Stardew Valley Size: 930M
 Stitch Size: 229M
 Story of Seasons A Wonderful Life Size: 843M
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M

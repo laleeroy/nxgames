@@ -60,6 +60,7 @@ Burnhouse Lane Size: 1.4G
 Burnout Paradise Remastered Size: 2.5G
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
+Captain Toad Treasure Tracker Size: 1.9G
 Caravan Sand Witch Size: 1.5G
 Carrion Size: 355M
 Cars 3 Size: 3.3G
@@ -157,6 +158,7 @@ Fantasy General 2 Invasion Size: 857M
 Fantasy Hero Unsigned Legacy Size: 974M
 Fantasy Strike Size: 6.9G
 Fantasy Tavern Sextet Size: 2.6G
+Fast RMX Size: 721M
 Fatal Frame 4 Project Zero Mask of the Lunar Eclipse Size: 6.1G
 Fe Size: 464M
 Final Fantasy IX Size: 4.5G
@@ -328,6 +330,7 @@ Need for Speed Hot Pursuit Remastered Size: 6.3G
 Needy Streamer Overload (Girl Overdose) Size: 997M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 Neva Size: 2.8G
+Never Alone Size: 1.8G
 New Super Mario Bros U Deluxe Size: 1.4G
 Ni no Kuni II Revenant Kingdom Princes Edition Size: 20G
 Ni No Kuni Wrath of the White Witch Size: 5.8G
@@ -457,6 +460,7 @@ Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Star Wars Episode 1 Jedi Power Battles Size: 3.6G
 Stardew Valley Size: 930M
+Steven Universe 1-2 + OK KO, CN Battle Crashers Size: 2.3G
 Stitch Size: 229M
 Story of Seasons A Wonderful Life Size: 843M
 Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
@@ -505,6 +509,8 @@ The Case of the Golden Idol Size: 3.3G
 The Coma 1-2-3 Size: 3.3G
 The Elder Scrolls V - Skyrim Size: 31G
 The Exit 8, Platform 8 Size: 2.4G
+The First Tree Size: 1.1G
+The Gardens Between Size: 641M
 The Great Ace Attorney Chronicles Size: 2.7G
 The Hokkaido Serial Murder Case Size: 897M
 The House of The Dead Remake Size: 1.6G
@@ -581,6 +587,7 @@ Yakuza Kiwami Switch edition Size: 23G
 Yeo games for NIntendo Switch Size: 898M
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G
+Yoshis Crafted World Size: 5.6G
 Youtube for Nintendo Switch (patched) Size: 163M
 Ys IX Monstrum Nox Size: 3.3G
 Ys VIII Lacrimosa of DANA Size: 6.0G

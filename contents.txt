@@ -80,6 +80,7 @@ Contra Anniversary Collection Size: 1.1G
 Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
 Cooking Mama Cookstar Size: 1.7G
+Cozy Grove Size: 398M
 Crash Bandicoot 4 Its About Time Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Crash Team Racing Nitro-Fueled Size: 6.8G
@@ -384,6 +385,7 @@ Pikmin 4 Size: 11G
 Pine a Story of Loss Size: 1.3G
 Pixel Cafe Size: 491M
 Pizza Tower Size: 770M
+Planet of Lana Size: 3.6G
 Plants vs Zombies Battle for Neighborville Size: 4.9G
 Plate Up Size: 364M
 Pokemon Brilliant Diamond Size: 3.9G
@@ -556,6 +558,7 @@ Trials of Mana Size: 11G
 Trials Rising Size: 11G
 Triangle Strategy Size: 7.1G
 Trine 5 a Clockwork Conspiracy Size: 4.7G
+Trinity Fusion Size: 3.1G
 Ultra Age Size: 5.9G
 Under Night In Birth 2 Sys Celes Size: 2.5G
 Undying Size: 1019M

@@ -43,6 +43,7 @@ Big Rumble Boxing Creed Champions Size: 2.8G
 Bilkins Folly Size: 518M
 Biomutant Size: 7.6G
 BioShock Infinite The Complete Edition Size: 17G
+Bioweaver Size: 491M
 Birth Size: 281M
 Blade Chimera Size: 313M
 Blasphemous II Size: 1.6G
@@ -54,11 +55,13 @@ Boti Byteland Overclocked Size: 1.7G
 Boulder Dash 1-2 Size: 323M
 Boxville Size: 1.5G
 Bravely Default II Size: 13G
+Breakout Beyond Size: 197M
 Bridge Constructor 1-3 Size: 443M
 Broken Age Size: 2.0G
 Broken Sword - Shadow of the Templars Reforged Size: 2.6G
 Burnhouse Lane Size: 1.4G
 Burnout Paradise Remastered Size: 2.5G
+Burst Hero Size: 95M
 Cadence of Hyrule Size: 1.7G
 Capcom Fighting Collection Size: 3.3G
 Captain Toad Treasure Tracker Size: 1.9G
@@ -77,6 +80,7 @@ Cities Skylines Size: 992M
 Clem Size: 1.5G
 Clubhouse Games 51 Worldwide Classics Size: 2.4G
 Coffee Talk 1-2 Size: 735M
+Colorful Boi Size: 75M
 Contra Anniversary Collection Size: 1.1G
 Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
@@ -452,6 +456,7 @@ Shanghai Summer Size: 345M
 Shin chan 1-2 Size: 3.7G
 Sid Meiers Civilization VII Size: 3.8G
 Skater XL Size: 2.0G
+Slam and Roll Size: 180M
 Slave Zero X Size: 1.2G
 Smurfs Kart Size: 1.4G
 Sniper Hunter Scope Size: 983M

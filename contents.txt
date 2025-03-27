@@ -77,6 +77,7 @@ Chained Echoes Size: 776M
 Chernobylite Complete edition Size: 12G
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
 Cities Skylines Size: 992M
+Citizen Sleeper 1-2 Size: 928M
 Clem Size: 1.5G
 Clubhouse Games 51 Worldwide Classics Size: 2.4G
 Coffee Talk 1-2 Size: 735M
@@ -187,7 +188,6 @@ Florence Size: 328M
 Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
 Forgotten Memories Remastered Size: 3.3G
-Forwarders Size: 736K
 Fran Bow Size: 615M
 Frank and Drake Size: 8.7G
 Freaky Trip Size: 908M
@@ -366,6 +366,7 @@ Oceanhorn Monster of Uncharted Seas Size: 456M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
 Old Mans Journey Size: 343M
+Omega 6 the Triangle Stars Size: 165M
 Omori Size: 1.6G
 On Your Tail Size: 4.5G
 Once Again Size: 412M
@@ -565,6 +566,7 @@ The Wardrobe Even Better Edition Size: 870M
 The Witcher 3 Wild Hunt - Complete Edition (EU) Size: 37G
 The World of Kungfu Dragon and Eagle Size: 479M
 The Wreck Size: 2.2G
+Theatrhythm Final Bar Line (US) Size: 8.1G
 Thirteen Sentinels Aegis Rim Size: 3.8G
 Tintin Reporter Cigars of the Pharaoh Size: 6.3G
 TMNT Arcade Wrath of the Mutants Size: 2.4G

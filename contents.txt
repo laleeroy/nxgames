@@ -38,6 +38,7 @@ Bayonetta Origins Cereza and the Lost Demon Size: 3.2G
 Bayonetta Size: 7.8G
 Beacon Pines Size: 564M
 Before the Green Moon Size: 642M
+Beyblade X Xone Size: 2.4G
 Big Brain Academy Brain vs Brain Size: 524M
 Big Rumble Boxing Creed Champions Size: 2.8G
 Bilkins Folly Size: 518M
@@ -95,6 +96,7 @@ Cricket Jaes Really Peculiar Game Size: 3.4G
 Cricket Through the Ages Size: 204M
 Crime OClock, Crowded Mysteries Size: 626M
 CROSSNIQ+ Size: 1.1G
+Cruisn Blast Size: 1.8G
 Crysis 1-2-3 Remastered Size: 24G
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
@@ -255,6 +257,7 @@ Layers of Fear 2 Size: 5.7G
 Layers of Fear Legacy Size: 4.7G
 Legacy of Kain Soul Reaver 1-2 Remastered Size: 6.7G
 Legends of Ethernal Size: 572M
+LEGO City Undercover Size: 6.6G
 LEGO Horizon Adventures Size: 7.2G
 LEGO Jurassic World Size: 4.8G
 Lets Build a Zoo Size: 165M
@@ -426,6 +429,7 @@ Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Professor Doctor Jetpack Size: 217M
 Rain World Size: 4.5G
+Rainbow Billy The Curse of The Leviathan Size: 3.6G
 Ravenswatch Size: 1.6G
 Rayman Legends Def. Edition Size: 3.0G
 Red Dead Redemption Size: 11G
@@ -480,6 +484,7 @@ SpongeBob SquarePants Battle for Bikini Bottom Rehydrated Size: 9.4G
 SpongeBob SquarePants the Patrick Star Game Size: 694M
 Sports Story Size: 617M
 Spy x Anya Operation Memories (US) Size: 3.1G
+Spyro Reignited Trilogy Size: 16G
 Star Ocean The Second Story R Size: 9.9G
 Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
@@ -508,6 +513,9 @@ Super Mario Odyssey Size: 5.8G
 Super Mario Party Jamboree Size: 5.4G
 Super Mario Party Size: 2.9G
 Super Mario RPG Size: 5.6G
+Super Monkey Ball Banana Blitz HD Size: 1.3G
+Super Monkey Ball Banana Mania Size: 1.7G
+Super Monkey Ball Banana Rumble Size: 3.6G
 Super Pixel Racers Size: 639M
 Super Smash Bros Ultimate Size: 14G
 Superfluous Returnz Size: 219M
@@ -580,6 +588,7 @@ Torchlight 3 Size: 11G
 Torn Away Size: 1.1G
 Totally Spies Cyber Mission Size: 1.9G
 Touch Detective 1-2-3 The Complete Case Files Size: 1.2G
+Touhou Project for Nintendo Switch Size: 37G
 TowerFall Size: 424M
 Trek to Yomi Size: 4.0G
 Trials of Mana Size: 11G

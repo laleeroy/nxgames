@@ -225,6 +225,8 @@ Hogwarts Legacy Size: 15G
 Hollow Knight Size: 931M
 Hot Lap Racing Size: 2.1G
 Hot Wheels Monster Trucks Stunt Mayhem Size: 1.8G
+Hot Wheels Unleashed 2 Turbocharged Size: 7.0G
+Hot Wheels Unleashed Size: 7.2G
 Hotline Miami Collection Size: 1.3G
 Hungry Shark World Size: 1.5G
 Huntdown Size: 793M
@@ -453,6 +455,7 @@ Roller Coaster Tycoon Adventures Deluxe Size: 577M
 Room of Depression Size: 311M
 Rose and Camellia Collection Size: 926M
 S.T.A.L.K.E.R. Legends of the Zone Trilogy Size: 14G
+Saints Row Size: 13G
 Sally Face Size: 472M
 Sam and Max Seasons 1-2-3 Size: 5.9G
 Samurai Shodown Neogeo Collection Size: 7.0G

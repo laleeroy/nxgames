@@ -344,6 +344,7 @@ MotoGP24 Size: 11G
 Moving Out 2 Size: 1.7G
 Moving Out Size: 817M
 Muse Dash Size: 6.1G
+Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 2.7G
 Mutazione Size: 2.1G
 My Friend Peppa Pig 1-2 Size: 4.1G
 My Hero Ones Justice Size: 12G
@@ -471,6 +472,9 @@ SEGA Genesis Nintendo Switch Online Size: 117M
 Shadows of the Damned Hella Remastered Size: 5.0G
 Shanghai Summer Size: 345M
 Shin chan 1-2 Size: 3.7G
+Shin Megami Tensei 5 Vengeance Size: 14G
+Shin Megami Tensei III Nocturne HD Remaster Size: 7.1G
+Shin Megami Tensei V Size: 18G
 Sid Meiers Civilization VII Size: 3.8G
 Skater XL Size: 2.0G
 Slam and Roll Size: 180M
@@ -548,6 +552,7 @@ Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 992M
 Teenage Mutant Ninja Turtles Splintered Fate Size: 1.1G
 Tell Me Your Story Size: 329M
+Tensei Size: 202M
 Terraria Size: 320M
 Tetris 99 Size: 0
 Tetris Effect Connected Size: 3.6G

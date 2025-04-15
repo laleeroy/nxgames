@@ -329,7 +329,8 @@ Mercenaries 1-5 Size: 1.2G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
 Metal Slug Attack Reloaded Size: 1.7G
 Metal Slug Tactics Size: 1.1G
-Metro Redux Size: 10G
+Metro 2033 Redux Size: 4.5G
+Metro Last Light Redux Size: 5.6G
 Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 MGS Master Collection Size: 27G

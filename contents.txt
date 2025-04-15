@@ -292,6 +292,7 @@ Lollipop Chainsaw RePop Size: 6.9G
 Looney Tunes Wacky World of Sports Size: 2.2G
 Loretta Size: 517M
 Lost in Play Size: 1.2G
+Lost in Random Size: 4.3G
 Lucy Dreaming Size: 642M
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
@@ -519,7 +520,7 @@ Spy x Anya Operation Memories (US) Size: 3.1G
 Spyro Reignited Trilogy Size: 16G
 Star Ocean The Second Story R Size: 9.9G
 Star of Providence Size: 232M
-Star Overdrive Size: 3.1G
+Star Overdrive Size: 3.3G
 Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Star Wars Episode 1 Jedi Power Battles Size: 3.6G

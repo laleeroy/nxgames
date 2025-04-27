@@ -1,5 +1,6 @@
 1-2-Switch Size: 1.4G
 3 Minutes to Midnight Size: 3.3G
+9th Dawn Size: 555M
 A Hat in Time Size: 7.1G
 A Little to the Left Size: 2.0G
 A Perfect Day Size: 2.2G
@@ -13,6 +14,7 @@ Afterparty Size: 2.5G
 Agatha Christie 1-4 Size: 9.2G
 Alan Wake Remastered Size: 13G
 Alba A Wildlife Adventure Size: 432M
+All in Abyss Judge the Fake Size: 1.3G
 Amnesia collection Size: 2.6G
 Angel at Dusk Size: 636M
 Animal Crossing New Horizons Size: 11G
@@ -305,6 +307,7 @@ Looney Tunes Wacky World of Sports Size: 2.2G
 Loretta Size: 517M
 Lost in Play Size: 1.2G
 Lost in Random Size: 4.3G
+Love Live! Nijigasaki High School Idol Club Tokimeki Roadmap to Future Size: 1.8G
 Lucy Dreaming Size: 643M
 Luigis Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 6.8G
@@ -312,6 +315,7 @@ Machinarium Size: 358M
 Mad Father Size: 126M
 Madison Size: 1.2G
 Mail Time Size: 492M
+Maliki Poison of the Past Size: 1.1G
 Mario + Rabbids Kingdom Battle Size: 5.0G
 Mario and Luigi Brothership Size: 10G
 Mario and Sonic at the Olympic Games Tokyo 2020 Size: 4.5G
@@ -575,6 +579,7 @@ Super Smash Bros Ultimate Size: 14G
 Super Sports Blast Collection Size: 900M
 Superfluous Returnz Size: 219M
 Sweet Survivors Size: 65M
+Switch Size: 512
 Sword Art Online Alicization Lycoris Size: 11G
 Sword Art Online Size: 18G
 Sword of the Necromancer Resurrection Size: 991M

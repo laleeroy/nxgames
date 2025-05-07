@@ -160,8 +160,6 @@ Doraemon Story of Seasons - Friends of the Great Kingdom Size: 3.0G
 Dordogne Size: 3.4G
 Dorfromantik Size: 549M
 Double Dragon 1-6 Size: 612M
-Dragon Ball FighterZ Size: 9.1G
-Dragon Ball Xenoverse 2 Size: 13G
 Dragon Ball Z Kakarot + A New Power Awakens Set Size: 19G
 Dragon Marked for Death Size: 686M
 Dragon Quest III HD 2D Remake Size: 7.1G
@@ -579,7 +577,6 @@ SummerDays Size: 234M
 Sun Haven Size: 824M
 Sunrise GP Size: 1.8G
 Super Bomberman R2 Size: 2.7G
-Super Dragon Ball Heroes World Mission Size: 1.5G
 Super Mario 3D All-Stars Size: 5.0G
 Super Mario 3D World Bowsers Fury Size: 2.2G
 Super Mario Bros Wonder Size: 3.6G

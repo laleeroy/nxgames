@@ -475,6 +475,7 @@ Pokemon Lets Go Eevee Size: 4.2G
 Pokemon Lets Go Pikachu Size: 4.2G
 Pokemon Mystery Dungeon Rescue Team DX Size: 1.4G
 Pokemon Quest Size: 265M
+Pokemon Scarlet and Violet Size: 23G
 Pokemon Shield Size: 5.6G
 Pokemon Shining Pearl Size: 3.9G
 Pokemon Sword Size: 5.7G
@@ -591,7 +592,7 @@ Super Monkey Ball Banana Mania Size: 1.7G
 Super Monkey Ball Banana Rumble Size: 3.6G
 Super Pixel Racers Size: 639M
 Super Robot Wars Size: 23G
-Super Smash Bros Ultimate Size: 14G
+Super Smash Bros Ultimate Size: 15G
 Super Sports Blast Collection Size: 900M
 Super Technos World River City and Technos Arcade Classics Size: 267M
 Superfluous Returnz Size: 219M

@@ -121,6 +121,7 @@ Croc Legend of the Gobbos Size: 6.0G
 CROSSNIQ+ Size: 1.1G
 Cruisn Blast Size: 1.8G
 Crysis 1-2-3 Remastered Size: 24G
+Cthuloot Size: 315M
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
 Cynthia Hidden in the Moonshadow Size: 880M
@@ -227,6 +228,7 @@ Flip It Size: 83M
 Florence Size: 328M
 Food Girls 1-2 Size: 2.0G
 Forest Fire Size: 106M
+Forgotten Fields Size: 1.6G
 Forgotten Memories Remastered Size: 3.3G
 Fort Boyard Size: 6.1G
 Fran Bow Size: 615M
@@ -301,7 +303,9 @@ Kirby and the Forgotten Land Size: 5.8G
 Kirby Star Allies Size: 2.4G
 Kirbys Return to Dream Land Deluxe Size: 5.1G
 Know by heart... Size: 1.1G
+Kvark Size: 1.8G
 L.A. Noire Size: 15G
+Labyrinth of the Demon King Size: 5.2G
 Laika Aged Through Blood Size: 1.4G
 Lambs On The Road The Beginning Size: 201M
 Layers of Fear 2 Size: 5.7G
@@ -398,6 +402,7 @@ Moonless Moon Size: 514M
 Moorhuhn series Size: 4.0G
 Mortal Kombat 1 Size: 44G
 Mortal Kombat 11 [1.0.2] Size: 29G
+Mostroscopy Size: 634M
 MotoGP 25 Size: 644M
 MotoGP24 Size: 11G
 Moving Out 2 Size: 1.7G

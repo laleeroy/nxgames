@@ -203,6 +203,7 @@ Famicom Detective Club 3 - Emio the Smiling Man Size: 5.5G
 Fantasian Neo Dimension Size: 5.3G
 Fantasy General 2 Invasion Size: 858M
 Fantasy Hero Unsigned Legacy Size: 975M
+Fantasy Life i The Girl Who Steals Time Size: 5.7G
 Fantasy Strike Size: 6.9G
 Fantasy Tavern Sextet Size: 2.6G
 Farm simulators for Nintendo Switch Size: 2.9G
@@ -388,6 +389,7 @@ Minecraft Legends Size: 7.4G
 Minecraft Size: 1.6G
 Minecraft Story Mode Size: 11G
 Minekos Night Market Size: 690M
+Mobile Suit Gundam Seed Battle Destiny Size: 5.5G
 Momibosu Size: 1.3G
 Monoquous 2 Size: 77M
 Monorail Stories Size: 744M
@@ -548,7 +550,7 @@ Scott Pilgrim vs The World The Game Size: 757M
 Scott Whiskers in the Search for Mr Fumbleclaw Size: 1.1G
 SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
-Sea of Stars Size: 3.3G
+Sea of Stars Size: 4.7G
 Seedsow Lullaby Size: 4.5G
 SEGA Genesis Nintendo Switch Online Size: 117M
 Shadows of the Damned Hella Remastered Size: 5.0G

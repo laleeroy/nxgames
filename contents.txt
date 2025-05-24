@@ -182,6 +182,7 @@ Dreamers Size: 2.5G
 DreamWorks All-Star Kart Racing Size: 3.3G
 Dredge Size: 1003M
 Drova Forsaken Kin Size: 1.6G
+Duck Detective 1-2 Size: 848M
 Dude Where Is My Beer Size: 763M
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
@@ -514,6 +515,7 @@ Pokemon Sword Size: 5.7G
 Pokken Tournament DX Size: 4.1G
 Poppy Playtime Size: 12G
 Potion Craft Size: 555M
+Power Sink Size: 1.1G
 PowerWash Simulator Size: 8.0G
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
@@ -688,6 +690,7 @@ The Legend of Zelda Tears of the Kingdom Size: 17G
 The Making of Karateka Size: 3.0G
 The Many Pieces of Mr Coo Size: 885M
 The Medical Examination Diary Teamwork In Paradise Complete Edition Size: 859M
+The Operator Size: 796M
 The Plucky Squire Size: 11G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
 The Smurfs Dreams Size: 3.2G

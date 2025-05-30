@@ -396,6 +396,7 @@ Minecraft Size: 1.6G
 Minecraft Story Mode Size: 11G
 Minekos Night Market Size: 690M
 Mini Golf Simulator Size: 124M
+Missing Banban Size: 394M
 Mobile Suit Gundam Seed Battle Destiny Size: 5.5G
 Momibosu Size: 1.3G
 Monoquous 2 Size: 77M
@@ -640,6 +641,7 @@ Super Robot Wars Size: 23G
 Super Smash Bros Ultimate Size: 15G
 Super Sports Blast Collection Size: 900M
 Super Technos World River City and Technos Arcade Classics Size: 267M
+Superation Size: 320M
 Superfluous Returnz Size: 219M
 Sweet Survivors Size: 65M
 Switch Size: 512

@@ -92,6 +92,7 @@ CarX Drift Racing Size: 3.2G
 CarX Highway Racing Size: 893M
 Castlevania Dominus Collection Size: 1.2G
 Cat Quest III Size: 866M
+Cattle Country Size: 329M
 Celeste Size: 933M
 Chained Echoes Size: 776M
 Chernobylite Complete edition Size: 12G
@@ -110,6 +111,7 @@ Coneru Dimension Girl Size: 1.4G
 Contra Anniversary Collection Size: 1.1G
 Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
+Cookie Clicker Size: 94M
 Cookie Cutter Overkill Edition Size: 839M
 Cooking Companions Size: 7.6G
 Cooking Mama Cookstar Size: 1.7G
@@ -146,6 +148,7 @@ Death End Re Quest Code Z (JAP) Size: 6.8G
 Deaths Door Size: 750M
 Decarnation Size: 524M
 Deemo + Deemo Reborn Size: 8.3G
+Deltarune Chap. 1-4 Size: 637M
 Demon Slayer Kimetsu no Yaiba Sweep the Board Size: 2.8G
 Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba Size: 12G
 Deserted Size: 1.7G
@@ -293,6 +296,7 @@ Immortals Fenyx Rising Size: 19G
 Implosion Size: 2.3G
 Inside Size: 612M
 Instant Sports 1-7 Size: 6.1G
+Into the Restless Ruins Size: 309M
 Is It Wrong to Try to Pick Up Girls in a Dungeon 1-2 Size: 4.4G
 It Takes Two Size: 13G
 Jackbox Games Size: 23G
@@ -348,6 +352,7 @@ Looney Tunes Wacky World of Sports Size: 2.2G
 Loretta Size: 517M
 Lost in Play Size: 1.2G
 Lost in Random Size: 4.3G
+Love Elysium Secret of the Goddess Size: 265M
 Love Live! Nijigasaki High School Idol Club Tokimeki Roadmap to Future Size: 1.8G
 Lucy Dreaming Size: 643M
 Luigis Mansion 2 HD Size: 3.0G
@@ -533,6 +538,7 @@ Pureya Size: 124M
 Puyo Puyo Size: 4.5G
 Rain World Size: 4.5G
 Rainbow Billy The Curse of The Leviathan Size: 3.6G
+Rally Arcade Classics Size: 1.1G
 Ravenswatch Size: 1.6G
 Rayman Legends Def. Edition Size: 3.0G
 Real Boxing 2 Remastered Size: 1.5G

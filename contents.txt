@@ -33,6 +33,7 @@ Arms Size: 2.6G
 Asphalt 9 Legends (Offline Custom CFW) Size: 5.2G
 Assassins Creed III Remastered Size: 11G
 Assassins Creed The Ezio Collection Size: 29G
+Astral Ascent Size: 1.4G
 Astral Chain Size: 9.9G
 Astral Flux Size: 280M
 Atelier Collection Size: 95G
@@ -558,6 +559,7 @@ Reynatis (US) Size: 8.3G
 Rift of the NecroDancer Size: 2.7G
 Ring Fit Adventure Size: 3.4G
 Risk of Rain 1-2 Size: 2.2G
+Rogue Legacy 1-2 Size: 1.1G
 Rogue Waters Size: 1.5G
 Roki Size: 852M
 Roller Coaster Tycoon Adventures Deluxe Size: 578M

@@ -426,6 +426,7 @@ Monster Hunter Generations Ultimate Size: 7.4G
 Monster Hunter Rise Size: 20G
 Monster Hunter Stories 2 Wings of Ruin Size: 11G
 Monster Hunter Stories Size: 7.8G
+Monster Survivors Size: 162M
 Monster Train 1-2 Size: 2.3G
 Monument Valley 1-2 Size: 515M
 Moonglow Bay Size: 549M
@@ -519,6 +520,7 @@ Pikmin 2 Size: 1.2G
 Pikmin 3 Deluxe Size: 4.9G
 Pikmin 4 Size: 11G
 Pine a Story of Loss Size: 1.3G
+Pipistrello and the Cursed Yoyo Size: 524M
 Pixel Cafe Size: 492M
 Pizza Tower Size: 771M
 Planet of Lana Size: 3.6G

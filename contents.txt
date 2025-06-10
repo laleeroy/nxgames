@@ -53,6 +53,7 @@ Before the Green Moon Size: 642M
 Beyblade X Xone Size: 2.4G
 Beyond Memories -Tales From The Heart [0100B2E01FFD8000][v0] (4.66 GB).nsz Size: 1.4G
 Big Brain Academy Brain vs Brain Size: 524M
+Big Helmet Heroes Size: 5.2G
 Big Rumble Boxing Creed Champions Size: 2.8G
 Bilkins Folly Size: 519M
 Biomutant Size: 7.6G
@@ -471,7 +472,7 @@ Nikoderiko the Magical World Size: 12G
 Nine Sols Size: 2.0G
 Nintendo 64 Nintendo Switch Online Size: 2.2G
 Nintendo Switch Sports Size: 3.3G
-No Mans Sky Size: 5.7G
+No Mans Sky Size: 13G
 No More Heroes III Size: 9.1G
 Notebook Artillery Size: 92M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G

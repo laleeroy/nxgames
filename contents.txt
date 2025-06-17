@@ -137,6 +137,7 @@ Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
 Cynthia Hidden in the Moonshadow Size: 880M
 Dagger Froggy Size: 103M
+Damikira (Doomies) Size: 128M
 Danganronpa 2 Goodbye Despair Anniversary Edition (2012) Size: 3.0G
 Danganronpa S Ultimate Summer Camp (2021) Size: 956M
 Danganronpa Trigger Happy Havoc Anniversary Edition (2010) Size: 2.1G
@@ -262,6 +263,7 @@ Freedom Wars Remastered Size: 4.3G
 Fuga Melodies of Steel 1-2-3 Size: 6.4G
 Garten of Banban Size: 3.4G
 GBA, GB - Nintendo Switch Online Size: 969M
+GEX Trilogy Size: 1.8G
 Ghostrunner Size: 12G
 Glad Mort Size: 52M
 Goblin Slayer Another Adventurer Nightmare Feast Size: 2.7G
@@ -369,6 +371,7 @@ Looney Tunes Wacky World of Sports Size: 2.2G
 Loretta Size: 517M
 Lost in Play Size: 1.2G
 Lost in Random Size: 4.3G
+Lost in Random the Eternal Die Size: 1.9G
 Love Elysium Secret of the Goddess Size: 265M
 Love Live! Nijigasaki High School Idol Club Tokimeki Roadmap to Future Size: 1.8G
 Lucy Dreaming Size: 643M

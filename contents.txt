@@ -16,6 +16,7 @@ Adventure Bar Story Size: 208M
 Aery EpiXR Collection Size: 24G
 Afterdream Size: 977M
 Afterparty Size: 2.5G
+Against the Storm Size: 1.4G
 Agatha Christie 1-4 Size: 9.2G
 Alan Wake Remastered Size: 13G
 Alba A Wildlife Adventure Size: 432M
@@ -110,6 +111,7 @@ Chess and Checkers Size: 6.7G
 Chess Knights 1-2 Size: 737M
 Chess Ultra Size: 2.9G
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
+Chronicles of the Wolf Size: 301M
 Cities Skylines Size: 992M
 Citizen Sleeper 1-2 Size: 928M
 Clem Size: 1.5G
@@ -667,6 +669,7 @@ Star Trek Legends Size: 1.8G
 Star Wars Bounty Hunter Size: 8.0G
 Star Wars Episode 1 Jedi Power Battles Size: 3.6G
 Stardew Valley Size: 931M
+Stasis Size: 2.2G
 Steven Universe 1-2 + OK KO, CN Battle Crashers Size: 2.3G
 Stitch Size: 229M
 Story of Seasons A Wonderful Life Size: 843M

@@ -436,6 +436,7 @@ Metro Last Light Redux Size: 5.6G
 Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 MGS Master Collection Size: 27G
+Micegard Size: 92M
 Mighty Morphin Power Rangers Ritas Rewind Size: 714M
 Miitopia Size: 2.1G
 Mika and the Witchs Mountain Size: 684M
@@ -619,6 +620,7 @@ Saints Row Size: 13G
 Sally Face Size: 473M
 Sam and Max Seasons 1-2-3 Size: 5.9G
 Samurai Shodown Neogeo Collection Size: 7.0G
+Sanya Size: 481M
 SAO Fractured Daydream Size: 14G
 SAT-BOX 47 games Size: 11G
 Schedule I - Mafia Empire Size: 753M
@@ -626,6 +628,7 @@ Scott Pilgrim vs The World The Game Size: 757M
 Scott Whiskers in the Search for Mr Fumbleclaw Size: 1.1G
 SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
+Sea Fantasy Size: 199M
 Sea of Stars Size: 4.7G
 Seedsow Lullaby Size: 4.5G
 SEGA Genesis Nintendo Switch Online Size: 117M
@@ -643,6 +646,7 @@ Skater XL Size: 2.0G
 Skyline Bowling Size: 190M
 Slam and Roll Size: 180M
 Slave Zero X Size: 1.2G
+Slender Threads Size: 958M
 Smurfs Kart Size: 1.5G
 Sniper - Elite Shooter Squad Size: 3.6G
 Sniper Elite 2-3 Size: 14G

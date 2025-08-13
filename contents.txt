@@ -74,6 +74,7 @@ Bish Bash Bots Size: 1.5G
 Blade Chimera Size: 314M
 Blasphemous II Size: 1.6G
 Blazblue Collection Size: 17G
+Block Tower TD Size: 161M
 Bloodstained Curse of the Moon 1-2 Size: 80M
 Bloodstained Ritual of the Night Size: 14G
 Boomerang Fu Size: 258M
@@ -844,6 +845,7 @@ Trek to Yomi Size: 4.1G
 Trials of Mana Size: 11G
 Trials Rising Size: 11G
 Triangle Strategy Size: 7.1G
+Tricky Taps Size: 43M
 Tridents Tale Size: 3.3G
 Trine 5 a Clockwork Conspiracy Size: 4.7G
 Trinity Fusion Size: 3.1G

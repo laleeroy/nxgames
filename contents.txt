@@ -355,6 +355,7 @@ Inside Size: 612M
 Instant Sports 1-7 Size: 6.1G
 Into the Restless Ruins Size: 309M
 Is It Wrong to Try to Pick Up Girls in a Dungeon 1-2 Size: 4.4G
+Is This Seat Taken Size: 127M
 It Takes Two Size: 13G
 Jackbox Games Size: 23G
 Jewel Fever 2-3 Size: 93M
@@ -529,6 +530,7 @@ Ni No Kuni Wrath of the White Witch Size: 5.8G
 Nickelodeon All-Star Brawl 2 Size: 6.4G
 Nickelodeon All-Star Brawl Size: 4.7G
 NieR Automata The End of YoRHa Edition Size: 11G
+Night in the Woods Size: 1.5G
 Nikoderiko the Magical World Size: 12G
 Nine Sols Size: 2.0G
 Ninja Gaiden Ragebound Size: 1.1G
@@ -896,6 +898,7 @@ What Comes After Size: 165M
 What Remains of Edith Finch Size: 2.3G
 What the Duck Size: 1.6G
 Whateverland Size: 1.8G
+When the Past was Around Size: 306M
 While We Wait Here Size: 2.5G
 Whiskey Mafia 1-2 Size: 301M
 Wildermyth Size: 1.2G

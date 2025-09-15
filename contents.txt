@@ -406,6 +406,7 @@ LEGO Jurassic World Size: 4.8G
 LEGO Marvel Super Heroes 2 Size: 12G
 LEGO Marvel Super Heroes Size: 4.6G
 LEGO Star Wars The Skywalker Saga Size: 17G
+LEGO Voyagers Size: 2.5G
 Lets Build a Zoo Size: 166M
 Lets Sing 2025 Size: 3.8G
 Life is Strange 2 Size: 32G
@@ -728,6 +729,7 @@ Spiritfall Size: 478M
 Spiritfarer Size: 2.1G
 Splatoon 2 + Octo Expansion (EUR) Size: 6.1G
 Splatoon 3 Size: 14G
+SplatterBot Size: 151M
 SpongeBob - Krusty Cook-Off Size: 748M
 SpongeBob SquarePants Battle for Bikini Bottom Rehydrated Size: 9.4G
 SpongeBob SquarePants the Patrick Star Game Size: 694M

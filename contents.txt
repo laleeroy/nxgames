@@ -234,6 +234,7 @@ Dude Where Is My Beer Size: 763M
 Dying Light Definitive Edition Size: 11G
 EA Sports FC 24 Size: 29G
 EA SPORTS FC 25 Size: 32G
+EA Sports FC 26 Size: 11G
 Eastward Size: 2.2G
 Edna and Harvey Size: 2.1G
 Eiyuden Chronicle Hundred Heroes (EU) Size: 25G
@@ -695,6 +696,7 @@ SEGA Genesis Nintendo Switch Online Size: 117M
 Shadow Labyrinth Size: 3.9G
 Shadows of the Damned Hella Remastered Size: 5.0G
 Shanghai Summer Size: 345M
+Shape Hero Factory Size: 439M
 Shin chan 1-2 Size: 3.7G
 Shin Megami Tensei 5 Vengeance Size: 14G
 Shin Megami Tensei III Nocturne HD Remaster Size: 7.0G

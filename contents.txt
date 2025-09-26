@@ -4,7 +4,7 @@
 13 Hunting games for Nintendo Switch Size: 2.1G
 160-in-1 Game Collection Size: 3.2G
 3 Minutes to Midnight Size: 3.3G
-9th Dawn Size: 555M
+9th Dawn Size: 556M
 A Hat in Time Size: 7.1G
 A Little to the Left Size: 2.0G
 A Perfect Day Size: 2.2G
@@ -90,7 +90,7 @@ Boulder Dash 1-2 Size: 315M
 Boxville Size: 1.5G
 Bratz - Flaunt Your Fashion Size: 3.8G
 Bravely Default II Size: 13G
-Breakout Beyond Size: 197M
+Breakout Beyond Size: 198M
 Bridge Constructor 1-3 Size: 444M
 Bright Memory Infinite Size: 2.2G
 Bring You Home Size: 487M
@@ -113,7 +113,7 @@ Carrion Size: 355M
 Cars 3 Size: 3.3G
 CarX Drift Racing Size: 3.2G
 CarX Highway Racing Size: 893M
-Castle Crashers Remastered Size: 113M
+Castle Crashers Remastered Size: 114M
 Castlevania Dominus Collection Size: 1.2G
 Cat 2 Size: 54M
 Cat Quest III Size: 866M
@@ -123,7 +123,7 @@ Celeste Size: 933M
 Chained Echoes Size: 776M
 Chernobylite Complete edition Size: 12G
 Chess and Checkers Size: 6.7G
-Chess Knights 1-2 Size: 737M
+Chess Knights 1-2 Size: 738M
 Chess Ultra Size: 2.9G
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
 Chronicles of the Wolf Size: 301M
@@ -292,7 +292,6 @@ Fiz and the Rainbow Planet Size: 711M
 Flip It Size: 83M
 Florence Size: 328M
 Fly Corp Size: 181M
-folder.jpg Size: 809K
 Folk Hero Size: 502M
 Food Girls 1-2 Size: 2.0G
 Fools Pub Size: 316M
@@ -342,7 +341,7 @@ Harvest Moon the Lost Valley and Skytree Village Size: 371M
 Hatch Tales (Chicken Wiggle Workshop) Size: 1.4G
 Haven Size: 5.2G
 Hellblade Senuas Sacrifice Size: 19G
-Hello Goodboy Size: 457M
+Hello Goodboy Size: 458M
 Hello Kitty Island Adventure Size: 2.0G
 Hentai vs Evil, Succubus with Guns, Kawaii Slime Arena, Demon Sword Incubus etc Size: 11G
 Hidden Through Time 1-2 Size: 710M
@@ -406,7 +405,7 @@ Layers of Fear 2 Size: 5.7G
 Layers of Fear Legacy Size: 4.7G
 Leftovers KO Size: 422M
 Legacy of Kain Soul Reaver 1-2 Remastered Size: 6.7G
-Legends of Ethernal Size: 572M
+Legends of Ethernal Size: 573M
 LEGO City Undercover Size: 6.6G
 LEGO Horizon Adventures Size: 7.2G
 LEGO Jurassic World Size: 4.8G
@@ -473,7 +472,7 @@ Mega Man Collection Size: 19G
 Megaton Musashi Size: 8.2G
 Megaton Musashi W Wired Size: 16G
 Megaton Rainfall Size: 724M
-Melatonin Size: 523M
+Melatonin Size: 524M
 Melon Journey Bittersweet Memories Size: 648M
 Mercenaries 1-5 Size: 1.2G
 Metal Slug 1,2,3,4,5-X (Aca Neogeo) Size: 786M
@@ -617,7 +616,7 @@ Pikmin 2 Size: 1.2G
 Pikmin 3 Deluxe Size: 4.9G
 Pikmin 4 Size: 11G
 Pine a Story of Loss Size: 1.3G
-Pipistrello and the Cursed Yoyo Size: 524M
+Pipistrello and the Cursed Yoyo Size: 525M
 Pixel Cafe Size: 492M
 Pizza Tower Size: 771M
 Planet of Lana Size: 3.6G
@@ -745,7 +744,7 @@ SplatterBot Size: 151M
 SpongeBob - Krusty Cook-Off Size: 748M
 SpongeBob SquarePants Battle for Bikini Bottom Rehydrated Size: 9.4G
 SpongeBob SquarePants the Patrick Star Game Size: 694M
-Sports Story Size: 617M
+Sports Story Size: 618M
 Spy x Anya Operation Memories (US) Size: 3.1G
 Spyro Reignited Trilogy Size: 16G
 Sqrt3 Casual games Size: 490M
@@ -786,7 +785,7 @@ Super Mario RPG Size: 5.6G
 Super Monkey Ball Banana Blitz HD Size: 1.3G
 Super Monkey Ball Banana Mania Size: 1.7G
 Super Monkey Ball Banana Rumble Size: 3.6G
-Super Pixel Racers Size: 639M
+Super Pixel Racers Size: 640M
 Super Robot Wars Size: 34G
 Super Smash Bros Ultimate Size: 15G
 Super Sports Blast Collection Size: 900M
@@ -822,7 +821,7 @@ Terraria Size: 320M
 Tetris 99 Size: 1.4G
 Tetris Effect Connected Size: 3.6G
 Tetris Forever Size: 5.4G
-Thank Goodness Youre Here! Size: 969M
+Thank Goodness Youre Here! Size: 970M
 That Time I Got Reincarnated as a Slime Size: 5.0G
 The Backrooms 1998 Size: 421M
 The Bunny Graveyard Size: 310M
@@ -858,7 +857,7 @@ The Legend of Zelda Tears of the Kingdom Size: 17G
 The Making of Karateka Size: 3.0G
 The Many Pieces of Mr Coo Size: 885M
 The Medical Examination Diary Teamwork In Paradise Complete Edition Size: 859M
-The Operator Size: 796M
+The Operator Size: 797M
 The Plucky Squire Size: 11G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
 The Smurfs Dreams Size: 3.2G
@@ -923,7 +922,7 @@ Urban Trial Playground Size: 3.2G
 V-Rally 4 Size: 9.7G
 VA-11 Hall-A Cyberpunk Bartender Action Size: 1.1G
 Valiant Hearts Coming Home Size: 1.6G
-Vampire Hunters Size: 601M
+Vampire Hunters Size: 602M
 Vampire Survivors Size: 938M
 Ved Size: 2.8G
 Venba Size: 916M
@@ -962,7 +961,7 @@ Xenoblade Chronicles X Definitive Edition Size: 14G
 Xuan Yuan Sword 7 Size: 8.5G
 Yakuza Kiwami Switch edition Size: 23G
 Yasha Legends of the Demon Blade Size: 1.3G
-Yeo games for NIntendo Switch Size: 898M
+Yeo games for NIntendo Switch Size: 900M
 Yo-kai Watch (JAP) Size: 19G
 Yomawari 1-2-3 Size: 2.7G
 Yooka-Laylee 1-2 Size: 6.2G

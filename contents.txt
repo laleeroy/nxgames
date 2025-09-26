@@ -132,7 +132,7 @@ Citizen Sleeper 1-2 Size: 928M
 Clem Size: 1.5G
 Cloudy Valley Size: 495M
 Clubhouse Games 51 Worldwide Classics Size: 2.4G
-Cobalt Core Size: 336M
+Cobalt Core Size: 337M
 Coffee Talk 1-2 Size: 735M
 Colorful Boi Size: 75M
 Company of Heroes 1 Collection Size: 8.7G
@@ -292,6 +292,7 @@ Fiz and the Rainbow Planet Size: 711M
 Flip It Size: 83M
 Florence Size: 328M
 Fly Corp Size: 181M
+folder.jpg Size: 809K
 Folk Hero Size: 502M
 Food Girls 1-2 Size: 2.0G
 Fools Pub Size: 316M
@@ -641,7 +642,7 @@ PowerWash Simulator Size: 8.0G
 Prince of Persia the Lost Crown Size: 4.9G
 Princess Peach Showtime! Size: 4.7G
 Professor Doctor Jetpack Size: 217M
-Pureya Size: 124M
+Pureya Size: 125M
 Puyo Puyo Size: 4.5G
 Raidou Remastered (US) Size: 205M
 Rain World Size: 4.5G
@@ -715,7 +716,7 @@ Sid Meiers Civilization VII Size: 3.8G
 Sifu Size: 5.9G
 Skater XL Size: 2.0G
 Skyline Bowling Size: 190M
-Slam and Roll Size: 180M
+Slam and Roll Size: 181M
 Slave Zero X Size: 1.2G
 Slender Threads Size: 958M
 Smurfs Kart Size: 1.5G
@@ -747,7 +748,7 @@ SpongeBob SquarePants the Patrick Star Game Size: 694M
 Sports Story Size: 617M
 Spy x Anya Operation Memories (US) Size: 3.1G
 Spyro Reignited Trilogy Size: 16G
-Sqrt3 Casual games Size: 489M
+Sqrt3 Casual games Size: 490M
 Staffer Case Size: 1.1G
 Star Ocean The Second Story R Size: 9.9G
 Star of Providence Size: 232M

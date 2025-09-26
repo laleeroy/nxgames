@@ -13,24 +13,24 @@ A Space for the Unbound Size: 359M
 Ace Attorney Miles Edgeworth 1 - 2 Prosecutors Gambit Size: 5.9G
 Ace Combat 7 Skies Unknown (US) Size: 14G
 Achilles Legends Untold Size: 8.3G
-Adventure Bar Story Size: 208M
+Adventure Bar Story Size: 209M
 Aery EpiXR Collection Size: 24G
 Afterdream Size: 977M
-Afterparty Size: 2.5G
+Afterparty Size: 2.6G
 Against the Storm Size: 1.4G
 Agatha Christie 1-4 Size: 9.2G
 AirJet Fighter 3 games Size: 2.6G
 Alan Wake Remastered Size: 13G
-Alba A Wildlife Adventure Size: 432M
+Alba A Wildlife Adventure Size: 433M
 All in Abyss Judge the Fake Size: 1.3G
 All of You Size: 739M
-Alpaca Ball Allstars Size: 728M
-Ambidextro Size: 176M
+Alpaca Ball Allstars Size: 729M
+Ambidextro Size: 177M
 Amnesia collection Size: 2.6G
 Angel at Dusk Size: 636M
 Animal Crossing New Horizons Size: 11G
-Animal Well Size: 74M
-Anomaly Collapse Size: 751M
+Animal Well Size: 75M
+Anomaly Collapse Size: 752M
 Another Code Recollection Size: 4.3G
 Another Crabs Treasure Size: 1.1G
 AO Tennis 2 Size: 8.2G
@@ -67,7 +67,7 @@ Best Served Cold Size: 1.9G
 Beyblade X Xone Size: 2.4G
 Beyond Memories -Tales From The Heart [0100B2E01FFD8000][v0] (4.66 GB).nsz Size: 1.4G
 Beyond the Ice Palace 2 Size: 615M
-Big Brain Academy Brain vs Brain Size: 524M
+Big Brain Academy Brain vs Brain Size: 525M
 Big Helmet Heroes Size: 5.2G
 Big Rumble Boxing Creed Champions Size: 2.8G
 Bilkins Folly Size: 519M
@@ -86,7 +86,7 @@ Boo Boo Booster Size: 412M
 Boomerang Fu Size: 258M
 Borderlands 3 Ultimate edition Size: 25G
 Boti Byteland Overclocked Size: 1.7G
-Boulder Dash 1-2 Size: 315M
+Boulder Dash 1-2 Size: 316M
 Boxville Size: 1.5G
 Bratz - Flaunt Your Fashion Size: 3.8G
 Bravely Default II Size: 13G
@@ -109,17 +109,17 @@ Caravan Sand Witch Size: 1.5G
 Card-en-Ciel Size: 3.5G
 Carmageddon 1997 (Dethrace NX) for Nintendo Switch Size: 182M
 Carmen Sandiego Size: 1.3G
-Carrion Size: 355M
+Carrion Size: 357M
 Cars 3 Size: 3.3G
 CarX Drift Racing Size: 3.2G
-CarX Highway Racing Size: 893M
+CarX Highway Racing Size: 894M
 Castle Crashers Remastered Size: 114M
 Castlevania Dominus Collection Size: 1.2G
 Cat 2 Size: 54M
 Cat Quest III Size: 866M
 CATO Buttered Cat Size: 356M
-Cattle Country Size: 329M
-Celeste Size: 933M
+Cattle Country Size: 330M
+Celeste Size: 934M
 Chained Echoes Size: 776M
 Chernobylite Complete edition Size: 12G
 Chess and Checkers Size: 6.7G
@@ -128,7 +128,7 @@ Chess Ultra Size: 2.9G
 Chocobos Mystery Dungeon Every Buddy Size: 1.1G
 Chronicles of the Wolf Size: 301M
 Cities Skylines Size: 992M
-Citizen Sleeper 1-2 Size: 928M
+Citizen Sleeper 1-2 Size: 930M
 Clem Size: 1.5G
 Cloudy Valley Size: 495M
 Clubhouse Games 51 Worldwide Classics Size: 2.4G
@@ -141,7 +141,7 @@ Contra Anniversary Collection Size: 1.1G
 Contra Operation Galuga Size: 7.1G
 Contra Rogue Corps Size: 2.7G
 Cookie Clicker Size: 94M
-Cookie Cutter Overkill Edition Size: 839M
+Cookie Cutter Overkill Edition Size: 840M
 Cooking Companions Size: 7.6G
 Cooking Mama Cookstar Size: 1.7G
 Cozy Grove Size: 398M
@@ -156,12 +156,12 @@ Croc Legend of the Gobbos Size: 6.0G
 CROSSNIQ+ Size: 1.1G
 Cruisn Blast Size: 1.8G
 Crysis 1-2-3 Remastered Size: 24G
-Cthuloot Size: 315M
+Cthuloot Size: 316M
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
-Cynthia Hidden in the Moonshadow Size: 880M
+Cynthia Hidden in the Moonshadow Size: 881M
 Dagger Froggy Size: 103M
-Damikira (Doomies) Size: 128M
+Damikira (Doomies) Size: 129M
 Danganronpa 2 Goodbye Despair Anniversary Edition (2012) Size: 3.0G
 Danganronpa S Ultimate Summer Camp (2021) Size: 956M
 Danganronpa Trigger Happy Havoc Anniversary Edition (2010) Size: 2.1G
@@ -171,7 +171,7 @@ Darkest Dungeon 2 Size: 2.7G
 Darksiders Genesis Size: 11G
 Darkwood Size: 1.8G
 Date Everything Size: 3.1G
-Date with Devils Size: 213M
+Date with Devils Size: 214M
 Date Z Size: 1.9G
 Dave the Diver Size: 3.7G
 Daydream Forgotten Sorrow Size: 3.2G
@@ -203,7 +203,7 @@ Disney Dreamlight Valley Size: 6.1G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Divinity Original Sin 2 Definitive Edition Size: 16G
-Dokapon Sword of Fury Size: 399M
+Dokapon Sword of Fury Size: 400M
 Doki Doki Literature Club Plus Size: 1.1G
 Donkey Kong Country Returns HD Size: 8.4G
 Donkey Kong Country Tropical Freeze Size: 6.7G
@@ -213,11 +213,11 @@ DOOM Eternal Size: 627K
 Doom Sweeper Rapid Fire Edition Size: 245M
 Doraemon Story of Seasons - Friends of the Great Kingdom Size: 3.0G
 Dordogne Size: 3.4G
-Dorfromantik Size: 549M
+Dorfromantik Size: 550M
 Double Dragon 1-6 Size: 612M
 Dragon Ball series for Nintendo Switch Size: 17G
 Dragon Ball Z Kakarot + A New Power Awakens Set Size: 22G
-Dragon Eclipse Size: 314M
+Dragon Eclipse Size: 315M
 Dragon Marked for Death Size: 686M
 Dragon Quest Heroes I and II (JAP) Size: 27G
 Dragon Quest III HD 2D Remake Size: 7.1G
@@ -283,19 +283,20 @@ Fire Emblem Warriors Size: 12G
 Fire Emblem Warriors Three Hopes Size: 12G
 Firebird Size: 458M
 Fishing games for Nintendo Switch Size: 26G
-Fit My, 3 games Size: 529M
+Fit My, 3 games Size: 532M
 Fitness Boxing 2 Rhythm and Exercise Size: 3.8G
 Fitness Boxing 3 Size: 2.3G
 Fitness Boxing Size: 663M
 Five Nights at Freddys Size: 21G
-Fiz and the Rainbow Planet Size: 711M
+Fiz and the Rainbow Planet Size: 712M
 Flip It Size: 83M
 Florence Size: 328M
-Fly Corp Size: 181M
-Folk Hero Size: 502M
+Fly Corp Size: 182M
+folder.jpg Size: 809K
+Folk Hero Size: 503M
 Food Girls 1-2 Size: 2.0G
-Fools Pub Size: 316M
-Forest Fire Size: 106M
+Fools Pub Size: 317M
+Forest Fire Size: 107M
 Forgotten Fields Size: 1.6G
 Forgotten Memories Remastered Size: 3.3G
 Formula Legends Size: 5.3G
@@ -315,9 +316,9 @@ Ghostrunner Size: 12G
 Glad Mort Size: 52M
 Goblin Slayer Another Adventurer Nightmare Feast Size: 2.7G
 God Eater 3 Size: 14G
-God Wars Size: 488M
+God Wars Size: 490M
 Golden Warden Size: 176M
-Good Pizza Great Pizza Size: 149M
+Good Pizza Great Pizza Size: 150M
 Grid Autosport Size: 7.7G
 Griftlands Size: 2.7G
 Grim (Gal) Guardians 1-2 Size: 3.2G
@@ -332,11 +333,11 @@ Hades II Size: 6.5G
 Hades Size: 5.8G
 Hannahs Day Size: 2.8G
 Hanwell 1-2 Size: 11G
-Happy Animals Bowling, Mini Golf Size: 559M
+Happy Animals Bowling, Mini Golf Size: 560M
 Happy Game Size: 750M
 Harvest Moon - The Winds of Anthos Size: 1.5G
 Harvest Moon One World Size: 1.4G
-Harvest Moon Size: 462M
+Harvest Moon Size: 463M
 Harvest Moon the Lost Valley and Skytree Village Size: 371M
 Hatch Tales (Chicken Wiggle Workshop) Size: 1.4G
 Haven Size: 5.2G
@@ -344,12 +345,12 @@ Hellblade Senuas Sacrifice Size: 19G
 Hello Goodboy Size: 458M
 Hello Kitty Island Adventure Size: 2.0G
 Hentai vs Evil, Succubus with Guns, Kawaii Slime Arena, Demon Sword Incubus etc Size: 11G
-Hidden Through Time 1-2 Size: 710M
+Hidden Through Time 1-2 Size: 711M
 High on Life Size: 9.7G
 Hitman Blood Money Reprisal Size: 3.8G
 Hogtie Size: 278M
 Hogwarts Legacy Size: 15G
-Hollow Knight Silksong Size: 1.9G
+Hollow Knight Silksong Size: 2.0G
 Hollow Knight Size: 931M
 Horrific Xanatorium Size: 299M
 Horror Night With Tung Tung Tung Sahur Size: 1.5G
@@ -359,19 +360,19 @@ Hot Wheels Unleashed 2 Turbocharged Size: 7.0G
 Hot Wheels Unleashed Size: 7.2G
 Hotline Miami Collection Size: 1.3G
 Hungry Shark World Size: 1.5G
-Huntdown Size: 794M
+Huntdown Size: 795M
 Hunter x Hunter Nen x Impact Size: 2.0G
 HYKE Northern Light(s) Size: 2.1G
-Hyper Light Drifter Size: 704M
+Hyper Light Drifter Size: 705M
 Hyrule Warriors Age of Calamity Size: 11G
 Hyrule Warriors Definitive Edition Size: 13G
 Immortals Fenyx Rising Size: 19G
 Implosion Size: 2.3G
-Inside Size: 612M
+Inside Size: 613M
 Instant Sports 1-7 Size: 6.1G
 Into the Restless Ruins Size: 309M
 Is It Wrong to Try to Pick Up Girls in a Dungeon 1-2 Size: 4.4G
-Is This Seat Taken Size: 127M
+Is This Seat Taken Size: 128M
 It Takes Two Size: 13G
 Jackbox Games Size: 23G
 Jewel Fever 2-3 Size: 93M
@@ -384,7 +385,7 @@ Just Axe Size: 593M
 Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 Size: 48G
 Just Dance 2023-2024 Size: 18G
 Just Dance 2025 plus Offline Mod Size: 19G
-Justin Wack and the Big Time Hack Size: 543M
+Justin Wack and the Big Time Hack Size: 544M
 Kairosoft Games Pack for Nintendo Switch Size: 3.5G
 Keepers Toll Size: 197M
 KEMCO RPG Collection Size: 14G
@@ -400,7 +401,7 @@ L.A. Noire Size: 15G
 Labyrinth of the Demon King Size: 5.2G
 Laika Aged Through Blood Size: 1.4G
 Lambs On The Road The Beginning Size: 201M
-Last Time I Saw You Size: 665M
+Last Time I Saw You Size: 666M
 Layers of Fear 2 Size: 5.7G
 Layers of Fear Legacy Size: 4.7G
 Leftovers KO Size: 422M
@@ -466,7 +467,7 @@ Matchpoint Tennis Championships Size: 2.2G
 Max Payne (max_nx) + PCAE for Nintendo Switch Size: 1.2G
 Max The Curse Of The Brotherhood Size: 2.8G
 MazM Pechka Size: 650M
-MazM Series 1-3 Size: 811M
+MazM Series 1-3 Size: 813M
 Mechanika, Agatha Knife Size: 296M
 Mega Man Collection Size: 19G
 Megaton Musashi Size: 8.2G
@@ -484,31 +485,31 @@ Metroid Dread Size: 3.3G
 Metroid Prime Remastered Size: 6.8G
 MGS Master Collection Size: 27G
 Micegard Size: 92M
-Mighty Morphin Power Rangers Ritas Rewind Size: 714M
+Mighty Morphin Power Rangers Ritas Rewind Size: 716M
 Miitopia Size: 2.1G
-Mika and the Witchs Mountain Size: 684M
+Mika and the Witchs Mountain Size: 685M
 Minami Lane Size: 225M
 Minecraft Dungeons Size: 3.9G
 Minecraft Legends Size: 7.4G
 Minecraft Size: 1.6G
 Minecraft Story Mode Size: 11G
-Minekos Night Market Size: 690M
+Minekos Night Market Size: 691M
 Mini Golf Simulator Size: 124M
 Misc a Tiny Tale Size: 4.7G
-Missile Command Delta Size: 327M
+Missile Command Delta Size: 329M
 Missing Banban Size: 394M
 Mobile Suit Gundam Seed Battle Destiny Size: 5.5G
 Momibosu Size: 1.3G
 Monoquous 2 Size: 77M
-Monorail Stories Size: 744M
+Monorail Stories Size: 745M
 Monster Energy Supercross - The Official Videogame 1-2-3 Size: 14G
-Monster Harvest Size: 294M
+Monster Harvest Size: 295M
 Monster High Skulltimate Secrets Size: 1.8G
 Monster Hunter Generations Ultimate Size: 7.4G
 Monster Hunter Rise Size: 20G
 Monster Hunter Stories 2 Wings of Ruin Size: 11G
 Monster Hunter Stories Size: 7.8G
-Monster Survivors Size: 162M
+Monster Survivors Size: 163M
 Monster Train 1-2 Size: 2.2G
 Monument Valley 1-2 Size: 515M
 Monument Valley 3 Size: 508M
@@ -539,8 +540,8 @@ NBA 2K24 Size: 64G
 NBA 2K25 Size: 60G
 NBA 2K26 Size: 60G
 Need for Speed Hot Pursuit Remastered Size: 6.3G
-Needy Streamer Overload (Girl Overdose) Size: 997M
-Neon Apex - Beyond the Limit Size: 459M
+Needy Streamer Overload (Girl Overdose) Size: 998M
+Neon Apex - Beyond the Limit Size: 460M
 Neon Noodles Size: 280M
 NES, SNES - Nintendo Switch Online (NSO Official Games) Size: 608M
 Neva Size: 2.8G
@@ -565,7 +566,7 @@ No More Heroes III Size: 9.1G
 No Son of Mine Size: 1.1G
 Notebook Artillery Size: 92M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
-Oceanhorn Monster of Uncharted Seas Size: 456M
+Oceanhorn Monster of Uncharted Seas Size: 457M
 Octopath Traveler 2 Size: 5.8G
 Octopath Traveler Size: 3.2G
 Ogu and the Secret Forest Size: 929M
@@ -596,14 +597,14 @@ Pac-Man World Re-Pac 1-2 Size: 5.8G
 Palia Size: 9.1G
 Paper Ghost Stories Third Eye Open Size: 3.3G
 Paper Mario The Thousand-Year Door Size: 5.2G
-Paper Trail Size: 338M
-Paranormasight The Seven Mysteries of Honjo Size: 626M
+Paper Trail Size: 339M
+Paranormasight The Seven Mysteries of Honjo Size: 627M
 Patapon 1+2 Size: 1.4G
 PAW Patrol World Size: 3.0G
 Pentiment Size: 2.9G
 Persona 3 Portable Size: 5.0G
 Persona 4 Arena Ultimax Size: 9.3G
-Persona 4 Golden Size: 7.7G
+Persona 4 Golden Size: 7.8G
 Persona 5 Royal Size: 12G
 Persona 5 Strikers Size: 11G
 Petit Island Size: 1.1G
@@ -647,7 +648,7 @@ Raidou Remastered (US) Size: 205M
 Rain World Size: 4.5G
 Rainbow Billy The Curse of The Leviathan Size: 3.6G
 Rally Arcade Classics Size: 1.1G
-Ratshaker Size: 730M
+Ratshaker Size: 731M
 Ratyrinth Size: 48M
 Ravenous Devils Size: 1.4G
 Ravenswatch Size: 1.6G
@@ -669,13 +670,13 @@ River City Saga Three Kingdoms 1-2 Size: 4.3G
 River City Size: 13G
 Rogue Legacy 1-2 Size: 1.1G
 Rogue Waters Size: 1.5G
-Roki Size: 852M
-Roller Coaster Tycoon Adventures Deluxe Size: 578M
+Roki Size: 853M
+Roller Coaster Tycoon Adventures Deluxe Size: 579M
 Romancing SaGa 2 Revenge of the Seven Size: 9.3G
 Romancing SaGa Minstrel Song Remastered Size: 8.3G
 Romancing Saga Size: 4.8G
 Rooftops and Alleys the Parkour game Size: 981M
-Room of Depression Size: 311M
+Room of Depression Size: 312M
 Rose and Camellia Collection Size: 927M
 Rune Factory 3 Special Size: 2.2G
 Rune Factory 4 Special Size: 2.8G
@@ -692,7 +693,7 @@ Sanya Size: 481M
 SAO Fractured Daydream Size: 14G
 SAT-BOX 47 games Size: 11G
 Schedule I - Mafia Empire Size: 753M
-Scott Pilgrim vs The World The Game Size: 757M
+Scott Pilgrim vs The World The Game Size: 758M
 Scott Whiskers in the Search for Mr Fumbleclaw Size: 1.1G
 SD Gundam 1-2 Size: 26G
 SD GUNDAM Battle Alliance Size: 19G
@@ -703,7 +704,7 @@ SEGA Genesis Nintendo Switch Online Size: 117M
 Shadow Labyrinth Size: 3.9G
 Shadows of the Damned Hella Remastered Size: 5.0G
 Shanghai Summer Size: 345M
-Shape Hero Factory Size: 439M
+Shape Hero Factory Size: 440M
 Shin chan 1-2 Size: 3.7G
 Shin Megami Tensei 5 Vengeance Size: 14G
 Shin Megami Tensei III Nocturne HD Remaster Size: 7.0G
@@ -722,10 +723,10 @@ Smurfs Kart Size: 1.5G
 Sniper - Elite Shooter Squad Size: 3.6G
 Sniper Elite 2-3 Size: 14G
 Sniper Elite 4 Size: 9.1G
-Sniper Hunter Scope Size: 983M
-Snipperclips Cut it out Together Size: 572M
+Sniper Hunter Scope Size: 984M
+Snipperclips Cut it out Together Size: 573M
 SNK NeoGeo Pocket Games Size: 3.5G
-SNK vs Capcom SVC Chaos Size: 200M
+SNK vs Capcom SVC Chaos Size: 202M
 Snow Bros. Wonderland Size: 4.2G
 Snowrunner Size: 14G
 Snufkin Melody of Moominvalley Size: 1.8G
@@ -758,9 +759,9 @@ Star Wars Episode 1 Jedi Power Battles Size: 3.6G
 Stardew Valley Size: 931M
 Stasis Size: 2.2G
 Steven Universe 1-2 + OK KO, CN Battle Crashers Size: 2.3G
-Stitch Size: 229M
-Story of Seasons A Wonderful Life Size: 843M
-Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 689M
+Stitch Size: 231M
+Story of Seasons A Wonderful Life Size: 844M
+Story of Seasons Friends of Mineral Town (Harvest Moon) Size: 690M
 Story of Seasons Grand Bazaar Size: 2.5G
 Story of Seasons Pioneers of Olive Town Size: 1.8G
 Storyteller Size: 839M
@@ -788,10 +789,10 @@ Super Monkey Ball Banana Rumble Size: 3.6G
 Super Pixel Racers Size: 640M
 Super Robot Wars Size: 34G
 Super Smash Bros Ultimate Size: 15G
-Super Sports Blast Collection Size: 900M
+Super Sports Blast Collection Size: 901M
 Super Technos World River City and Technos Arcade Classics Size: 267M
 Superation Size: 320M
-Superfluous Returnz Size: 219M
+Superfluous Returnz Size: 220M
 Sweet Survivors Size: 65M
 Switch Size: 512
 Sword Art Online Alicization Lycoris Size: 11G
@@ -804,7 +805,7 @@ Taiko no Tatsujin Rhythm Festival (with 2 Mods) Size: 16G
 Taiko No Tatsujin Rhythmic Adventure Pack Size: 1.5G
 Taiko no Tatsujin Shin Ultramix PLUS ULTRA v3 Size: 12G
 Tails of Iron Size: 1.5G
-Tales from Toyotoki Arrival of the Witch (US) Size: 791M
+Tales from Toyotoki Arrival of the Witch (US) Size: 792M
 Tales of Graces F Remastered (EU) Size: 9.6G
 Tales of Graces F Remastered Size: 8.9G
 Tales of the Shire a The Lord of The Rings Game Size: 1.3G
@@ -813,11 +814,11 @@ Tchia Size: 2.2G
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredders Revenge Size: 993M
 Teenage Mutant Ninja Turtles Splintered Fate Size: 1.1G
-Tell Me Your Story Size: 329M
+Tell Me Your Story Size: 330M
 Tennis World Tour 1-2 Size: 12G
-Tensei Size: 202M
-Terminal 81 Size: 619M
-Terraria Size: 320M
+Tensei Size: 203M
+Terminal 81 Size: 620M
+Terraria Size: 321M
 Tetris 99 Size: 1.4G
 Tetris Effect Connected Size: 3.6G
 Tetris Forever Size: 5.4G
@@ -834,7 +835,7 @@ The Fairys Secret Size: 682M
 The First Tree Size: 1.1G
 The Gardens Between Size: 641M
 The Great Ace Attorney Chronicles Size: 2.7G
-The Hokkaido Serial Murder Case Size: 897M
+The Hokkaido Serial Murder Case Size: 898M
 The House of the Dead 2 Remake Size: 2.2G
 The House of The Dead Remake Size: 1.6G
 The Hundred Line Last Defense Academy Size: 15G
@@ -856,7 +857,7 @@ The Legend of Zelda Skyward Sword HD Size: 3.9G
 The Legend of Zelda Tears of the Kingdom Size: 17G
 The Making of Karateka Size: 3.0G
 The Many Pieces of Mr Coo Size: 885M
-The Medical Examination Diary Teamwork In Paradise Complete Edition Size: 859M
+The Medical Examination Diary Teamwork In Paradise Complete Edition Size: 860M
 The Operator Size: 797M
 The Plucky Squire Size: 11G
 The Smurfs 2 The Prisoner of the Green Stone Size: 3.4G
@@ -874,7 +875,7 @@ Thirteen Sentinels Aegis Rim Size: 3.8G
 Through the Nightmares Size: 3.2G
 Tiebreak Plus Ace edition Size: 11G
 Tintin Reporter Cigars of the Pharaoh Size: 6.3G
-Tiny Bookshop Size: 415M
+Tiny Bookshop Size: 416M
 TMNT Arcade Wrath of the Mutants Size: 2.4G
 TMNT The Cowabunga Collection Size: 3.6G
 To The Moon, Finding Paradise Size: 1.3G
@@ -892,7 +893,7 @@ Touhou Project for Nintendo Switch Size: 37G
 Towa and the Guardians of the Sacred Tree Size: 5.0G
 TowerFall Size: 425M
 Trails in the Sky 1st Chapter Size: 7.4G
-Trash Sailors Size: 1023M
+Trash Sailors Size: 1.0G
 Trek to Yomi Size: 4.1G
 Trials of Mana Size: 11G
 Trials Rising Size: 11G
@@ -926,7 +927,7 @@ Vampire Hunters Size: 602M
 Vampire Survivors Size: 938M
 Ved Size: 2.8G
 Venba Size: 916M
-Vengeance Hunters Size: 123M
+Vengeance Hunters Size: 124M
 Vinebound Tangled Together Size: 194M
 Vivitter Size: 226M
 Wand Wars Size: 135M
@@ -941,7 +942,7 @@ What the Duck Size: 1.6G
 Whateverland Size: 1.8G
 When the Past was Around Size: 306M
 While We Wait Here Size: 2.5G
-Whiskey Mafia 1-2 Size: 301M
+Whiskey Mafia 1-2 Size: 302M
 Wildermyth Size: 1.2G
 Wobbly Life Size: 1.3G
 Wolfenstein II The New Colossus Size: 23G
@@ -971,11 +972,11 @@ Ys IX Monstrum Nox Size: 3.3G
 Ys Memories of Celceta (JAP+ENG MOD) Size: 6.0G
 Ys VIII Lacrimosa of DANA Size: 6.0G
 Ys X Nordics Size: 5.3G
-Yu-Gi-Oh Legacy of the Duelist Link Evolution Size: 1.7G
+Yu-Gi-Oh Legacy of the Duelist Link Evolution Size: 1.8G
 Yu-Gi-Oh Rush Duel Dawn of the Battle Royale Size: 2.2G
 Yu-Gi-Oh! Early Days Collection Size: 895M
 Yu-Gi-Oh! RUSH DUEL Saikyo Battle Royale!! Lets Go! Go Rush!! Special edition (ENG Mod) [ENG] Size: 2.0G
 YU-NO A girl who chants love at the bound of this world Size: 5.0G
 Yuppie Psycho Executive Edition Size: 1.4G
 Zombieland Double Tap Road Trip Size: 2.7G
-Тысяча девятьсот девяносто седьмой Size: 537M
+Тысяча девятьсот девяносто седьмой Size: 538M

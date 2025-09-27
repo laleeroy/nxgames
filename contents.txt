@@ -447,7 +447,6 @@ Madison Size: 1.2G
 Mail Time Size: 492M
 Maliki Poison of the Past Size: 1.1G
 Mandragora Whispers of the Witch Tree (EU) Size: 6.4G
-Mandragora Whispers of the Witch Tree Size: 5.7G
 Mario + Rabbids Kingdom Battle Size: 5.0G
 Mario and Luigi Brothership Size: 10G
 Mario and Sonic at the Olympic Games Tokyo 2020 Size: 4.5G
@@ -806,7 +805,6 @@ Taiko no Tatsujin Shin Ultramix PLUS ULTRA v3 Size: 12G
 Tails of Iron Size: 1.5G
 Tales from Toyotoki Arrival of the Witch (US) Size: 792M
 Tales of Graces F Remastered (EU) Size: 9.6G
-Tales of Graces F Remastered Size: 8.9G
 Tales of the Shire a The Lord of The Rings Game Size: 1.3G
 Tangle Tower Size: 509M
 Tchia Size: 2.2G

@@ -387,7 +387,7 @@ Barbie DreamHouse Adventures Size: 1.7G
 Barbie Project Friendship Size: 1.3G
 Barry the Bunny Size: 22M
 Basketball Club Story Size: 73M
-Bastion Size: 995M
+Bastion Size: 1.8G
 Batman Arkham Asylum Size: 9.5G
 Batman Arkham City Size: 13G
 Batman Arkham Knight Size: 23G
@@ -858,6 +858,7 @@ G-MODE Archives Idol Janshi Suchie-Pai Milkys Ambition Size: 53M
 G-MODE Archives Kaibs + Ketsui Kizuna Jigokutachi DX Size: 52M
 G-MODE Archives Kaibus 28 Sepas Channel Size: 78M
 G-MODE Archives Persona 3 Aigis The First Mission Size: 63M
+G-MODE Archives Psycho Mystery Series Vol.5 Cold Rain Size: 52M
 G-MODE Archives Psycho Mystery Series Vol.6 Bloody Tears Size: 54M
 G-MODE Archives+ DoDonPachi Daioujou DX (JAP) Size: 81M
 G-MODE Archives+ Life and Love (JAP) Size: 43M
@@ -1027,7 +1028,7 @@ Lambs on the road The Beginning Size: 201M
 Last 4 Alive Escape From Zombies Size: 259M
 Last Time I Saw You Size: 665M
 Layers of Fear 2 Size: 5.7G
-Layers of Fear Legacy Size: 1.6G
+Layers of Fear Legacy Size: 4.7G
 Leftovers KO Size: 422M
 Legacy of Kain Soul Reaver 1&2 Remastered Size: 6.7G
 Legend of Ixtona Size: 63M
@@ -1074,7 +1075,7 @@ LumineNight Size: 1.4G
 LUNAR Remastered Collection Size: 7.4G
 Machinarium Size: 358M
 Mad Father Size: 126M
-MADiSON Size: 789M
+MADiSON Size: 1.2G
 Magazine Mogul Size: 59M
 Mai Child of Ages Size: 2.1G
 Mail Time Size: 492M
@@ -1103,7 +1104,7 @@ Master Detective Archives RAIN CODE Size: 16G
 Matchpoint - Tennis Championships Size: 2.2G
 Max The Curse of Brotherhood Size: 2.8G
 MazM Jekyll and Hyde Size: 198M
-MazM Pechka Size: 650M
+MazM Pechka Size: 958M
 MazM The Phantom of the Opera Size: 306M
 MechaNika Size: 97M
 Mega Mall Story 2 Size: 67M
@@ -1236,7 +1237,7 @@ New York Mysteries Power of Art Size: 1022M
 New York Mysteries Secrets of the Mafia Size: 660M
 New York Mysteries The Lantern of Souls Size: 557M
 New York Mysteries The Outbreak Size: 957M
-Ni no Kuni II Revenant Kingdom PRINCES EDITION Size: 9.6G
+Ni no Kuni II Revenant Kingdom PRINCES EDITION Size: 20G
 Ni no Kuni Wrath of the White Witch Size: 5.8G
 Nickelodeon All-Star Brawl 2 Size: 6.4G
 Nickelodeon All-Star Brawl Size: 4.7G
@@ -1251,7 +1252,7 @@ Nintendo Entertainment System - Nintendo Switch Online Size: 84M
 Nintendo Switch Sports Size: 3.3G
 No Heroes Here 2 Size: 265M
 No Heroes Here Size: 117M
-No Mans Sky Size: 6.9G
+No Mans Sky Size: 10G
 No More Heroes 3 Size: 9.1G
 No More Snow Size: 217M
 No Son Of Mine Size: 1.1G
@@ -1351,19 +1352,25 @@ Pocket Fishing Size: 1.5G
 Pocket Harvest Size: 55M
 Pocket League Story Size: 50M
 Pocket Stables Size: 58M
-Pokemon Brilliant Diamond Size: 3.9G
-Pokemon Friends Size: 598M
-Pokemon Legends Arceus Size: 2.3G
-Pokemon Lets Go, Eevee Size: 4.2G
-Pokemon Lets Go, Pikachu Size: 4.2G
-Pokemon Mystery Dungeon Rescue Team DX Size: 1.4G
-Pokemon Quest Size: 265M
-Pokemon Scarlet Size: 12G
-Pokemon Shield Size: 5.6G
-Pokemon Shining Pearl Size: 3.9G
-Pokemon Sword Size: 5.7G
-Pokemon Violet Size: 12G
-Pokken Tournament DX Size: 4.1G
+Pokemon Quest Size: 25K
+Pokemon Scarlet Size: 25K
+Pokemon Shield Size: 25K
+Pokemon Sword Size: 25K
+Pokemon Violet Size: 25K
+Pokken Tournament DX Size: 25K
+Pokkén Tournament DX Size: 4.1G
+Pokémon Brilliant Diamond Size: 3.9G
+Pokémon Friends Size: 598M
+Pokémon Legends Arceus Size: 2.3G
+Pokémon Lets Go, Eevee Size: 4.2G
+Pokémon Lets Go, Pikachu Size: 4.2G
+Pokémon Mystery Dungeon Rescue Team DX Size: 1.4G
+Pokémon Quest Size: 265M
+Pokémon Scarlet Size: 12G
+Pokémon Shield Size: 5.6G
+Pokémon Shining Pearl Size: 3.9G
+Pokémon Sword Size: 5.7G
+Pokémon Violet Size: 12G
 Pool Slide Story Size: 65M
 Poppy Playtime Chapter 1 Size: 2.7G
 Poppy Playtime Chapter 2 Size: 6.0G
@@ -1577,7 +1584,7 @@ SUBNET - Escape Room Adventure Size: 942M
 Succubus With Guns Size: 437M
 Sugar Tanks 2 Size: 179M
 Sugar Tanks Size: 178M
-Sugardew Island Size: 764M
+Sugardew Island Size: 1.6G
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars Size: 6.4G
 Summer Days Size: 234M
 Summer Party Time Size: 560M
@@ -1698,7 +1705,7 @@ The Jackbox Party Pack 9 Size: 8.7G
 The Jackbox Party Starter Size: 5.5G
 THE KING OF FIGHTERS XIII GLOBAL MATCH Size: 2.6G
 THE LAST BLADE Beyond the Destiny Size: 135M
-The Legend of Cyber Cowboy Size: 101M
+The Legend of Cyber Cowboy Size: 174M
 The Legend of Heroes Kuro no Kiseki 2 (CHN) Size: 8.7G
 The Legend of Heroes Trails from Zero Size: 3.5G
 The Legend of Heroes Trails of Cold Steel 2 Kai The Erebonian Civil War Size: 4.1G

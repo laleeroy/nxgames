@@ -1075,7 +1075,7 @@ LumineNight Size: 1.4G
 LUNAR Remastered Collection Size: 7.4G
 Machinarium Size: 358M
 Mad Father Size: 126M
-MADiSON Size: 1.2G
+MADiSON Size: 521M
 Magazine Mogul Size: 59M
 Mai Child of Ages Size: 2.1G
 Mail Time Size: 492M
@@ -1104,7 +1104,7 @@ Master Detective Archives RAIN CODE Size: 16G
 Matchpoint - Tennis Championships Size: 2.2G
 Max The Curse of Brotherhood Size: 2.8G
 MazM Jekyll and Hyde Size: 198M
-MazM Pechka Size: 958M
+MazM Pechka Size: 309M
 MazM The Phantom of the Opera Size: 306M
 MechaNika Size: 97M
 Mega Mall Story 2 Size: 67M
@@ -1252,7 +1252,7 @@ Nintendo Entertainment System - Nintendo Switch Online Size: 84M
 Nintendo Switch Sports Size: 3.3G
 No Heroes Here 2 Size: 265M
 No Heroes Here Size: 117M
-No Mans Sky Size: 10G
+No Mans Sky Size: 6.9G
 No More Heroes 3 Size: 9.1G
 No More Snow Size: 217M
 No Son Of Mine Size: 1.1G
@@ -1352,11 +1352,6 @@ Pocket Fishing Size: 1.5G
 Pocket Harvest Size: 55M
 Pocket League Story Size: 50M
 Pocket Stables Size: 58M
-Pokemon Quest Size: 25K
-Pokemon Scarlet Size: 25K
-Pokemon Shield Size: 25K
-Pokemon Sword Size: 25K
-Pokemon Violet Size: 25K
 Pokken Tournament DX Size: 25K
 Pokkén Tournament DX Size: 4.1G
 Pokémon Brilliant Diamond Size: 3.9G
@@ -1584,7 +1579,7 @@ SUBNET - Escape Room Adventure Size: 942M
 Succubus With Guns Size: 437M
 Sugar Tanks 2 Size: 179M
 Sugar Tanks Size: 178M
-Sugardew Island Size: 1.6G
+Sugardew Island Size: 1.2G
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars Size: 6.4G
 Summer Days Size: 234M
 Summer Party Time Size: 560M

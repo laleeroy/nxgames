@@ -431,7 +431,6 @@ Bloodstained Curse of the Moon 2 Size: 50M
 Bloodstained Curse of the Moon Size: 30M
 Bloodstained Ritual of the Night Size: 14G
 Bonds of the Skies Size: 81M
-Bonus Standalone DLC FC ver. Okhotsk ni Kiyu (JAP) Size: 32M
 BooBooBooster Size: 412M
 Boomerang Fu Size: 258M
 Borderlands 3 Ultimate Edition Size: 25G
@@ -1102,8 +1101,6 @@ MARVEL vs. CAPCOM Fighting Collection Arcade Classics Size: 3.2G
 Mask of the Rose Size: 898M
 Master Detective Archives RAIN CODE Size: 16G
 Matchpoint - Tennis Championships Size: 2.2G
-Max Payne NX Size: 333K
-Max Payne PCAE Size: 333K
 Max The Curse of Brotherhood Size: 2.8G
 MazM Jekyll and Hyde Size: 198M
 MazM Pechka Size: 650M
@@ -1161,7 +1158,6 @@ MisBloody Size: 26M
 Misc. A Tiny Tale Size: 4.7G
 Missile Command Delta Size: 327M
 Missing Banban Size: 394M
-mmlinx Size: 16M
 MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED Size: 5.5G
 MOMIBOSU Size: 1.3G
 Monochrome Order Size: 116M

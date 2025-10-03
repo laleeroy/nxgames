@@ -627,6 +627,7 @@ Disco Elysium - The Final Cut Size: 7.9G
 Discounty Size: 293M
 Disney Classic Games Aladdin and The Lion King Size: 3.2G
 Disney Dreamlight Valley Size: 6.0G
+Disney Dreamlight Valley [NSP] Size: 2.1G
 Disney Epic Mickey Rebrushed Size: 12G
 Disney Illusion Island Size: 5.9G
 Divinity Original Sin 2 - Definitive Edition Size: 12G
@@ -1597,8 +1598,8 @@ Super Mario 3D All-Stars Size: 5.0G
 Super Mario 3D World + Bowsers Fury Size: 2.2G
 Super Mario Bros. Wonder Size: 3.6G
 Super Mario Galaxy 1-2 [NSP] Size: 6.6G
-Super Mario Galaxy 2 Size: 2.7G
-Super Mario Galaxy Size: 3.4G
+Super Mario Galaxy 2 Size: 2.9G
+Super Mario Galaxy Size: 3.7G
 Super Mario Maker 2 Size: 3.1G
 Super Mario Odyssey Size: 5.8G
 Super Mario Party Jamboree Size: 5.4G

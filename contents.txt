@@ -369,7 +369,7 @@ Asdivine Menace Size: 117M
 Asdivine Saga Size: 177M
 Asphalt Legends Unite Size: 5.1G
 Assassin's Creed III Remastered Size: 11G
-Assassins Creed III Remastered Size: 49K
+Assassins Creed III Remastered Size: 25K
 ASSASSINS CREED THE EZIO COLLECTION Size: 29G
 Astral Ascent Size: 1.4G
 ASTRAL CHAIN Size: 9.9G
@@ -504,7 +504,7 @@ Chess Royal Size: 47M
 Chess Size: 132M
 Chess Ultra Size: 2.9G
 Chocobo's Mystery Dungeon EVERY BUDDY Size: 1.1G
-Chocobos Mystery Dungeon EVERY BUDDY Size: 49K
+Chocobos Mystery Dungeon EVERY BUDDY Size: 25K
 Chroma Quaternion Size: 407M
 Chrome Wolf Size: 86M
 Chronicles of the Wolf Size: 301M
@@ -637,7 +637,7 @@ Don't Starve Nintendo Switch Edition Size: 1.3G
 Don't Starve Together Size: 3.5G
 Donkey Kong Country Returns HD Size: 8.4G
 Donkey Kong Country Tropical Freeze Size: 6.7G
-Dont Starve Nintendo Switch Edition Size: 49K
+Dont Starve Nintendo Switch Edition Size: 25K
 DOOM Size: 20G
 Doom Sweeper Rapid-Fire Edition Size: 245M
 Doraemon Dorayaki Shop Story Size: 111M
@@ -774,7 +774,7 @@ Five Nights at Freddy's 4 Size: 453M
 Five Nights at Freddy's Help Wanted Size: 9.2G
 Five Nights at Freddy's Security Breach Size: 8.8G
 Five Nights at Freddy's Sister Location Size: 733M
-Five Nights at Freddys Help Wanted Size: 49K
+Five Nights at Freddys Help Wanted Size: 25K
 Fiz and the Rainbow Planet Size: 711M
 Flip It Size: 83M
 Florence Size: 328M
@@ -792,7 +792,7 @@ Formula Legends Size: 5.3G
 Fort Boyard Size: 1.2G
 Fortress Challenge - Fort Boyard Size: 1.5G
 Fran Bow Size: 615M
-Frane Dragons Odyssey Size: 49K
+Frane Dragons Odyssey Size: 25K
 Frane Dragons' Odyssey Size: 317M
 Frank and Drake Size: 8.7G
 Freaky Trip Size: 908M
@@ -972,7 +972,7 @@ Hyper Light Drifter -Special Edition Size: 704M
 Hyrule Warriors Age of Calamity Size: 11G
 Hyrule Warriors Definitive Edition Size: 13G
 Illusion of L'Phalcia Size: 121M
-Illusion of LPhalcia Size: 49K
+Illusion of LPhalcia Size: 25K
 Immortals Fenyx Rising Size: 19G
 IMPLOSION Size: 2.3G
 Infinite Links Size: 169M
@@ -1054,8 +1054,8 @@ LEGO Star Wars The Skywalker Saga Size: 17G
 LEGO Voyagers Size: 2.5G
 Let's Build a Zoo Size: 166M
 Let's Sing 2025 Size: 3.8G
-Lets Build a Zoo Size: 49K
-Lets Sing 2025 Size: 49K
+Lets Build a Zoo Size: 25K
+Lets Sing 2025 Size: 25K
 Liege Dragon Size: 115M
 Life is Strange 2 Size: 32G
 Life is Strange Before the Storm Remastered Size: 13G
@@ -1219,8 +1219,8 @@ Mutazione Size: 2.1G
 My Friend Peppa Pig Size: 2.1G
 MY HERO ONE'S JUSTICE 2 Size: 9.5G
 MY HERO ONE'S JUSTICE Size: 2.5G
-MY HERO ONES JUSTICE 2 Size: 49K
-MY HERO ONES JUSTICE Size: 49K
+MY HERO ONES JUSTICE 2 Size: 25K
+MY HERO ONES JUSTICE Size: 25K
 My Time at Sandrock Size: 5.0G
 MySims Kingdom Size: 1.8G
 MySims Size: 1.5G
@@ -1651,7 +1651,7 @@ Taboo Trial Size: 2.6G
 Tachyon Project Size: 125M
 TACTICAL BANDITS Size: 1.6G
 Taiko no Tatsujin Drum 'n' Fun Size: 1.4G
-Taiko no Tatsujin Drum n Fun Size: 49K
+Taiko no Tatsujin Drum n Fun Size: 25K
 Taiko no Tatsujin Rhythm Festival Size: 7.3G
 Taiko no Tatsujin Rhythmic Adventure Pack Size: 1.5G
 Tails Of Iron Size: 1.5G
@@ -1664,7 +1664,7 @@ Tchia Size: 2.2G
 Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants Size: 2.4G
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.0G
 Teenage Mutant Ninja Turtles Shredder's Revenge Size: 993M
-Teenage Mutant Ninja Turtles Shredders Revenge Size: 49K
+Teenage Mutant Ninja Turtles Shredders Revenge Size: 25K
 Teenage Mutant Ninja Turtles Splintered Fate Size: 1.1G
 Teenage Mutant Ninja Turtles The Cowabunga Collection Size: 3.6G
 Tell Me Your Story Size: 329M
@@ -1770,8 +1770,8 @@ Tokyo Mirage Sessions #FE Encore Size: 9.2G
 Tomb Raider I-III Remastered Starring Lara Croft Size: 4.1G
 Tony Hawk's Pro Skater 1 + 2 Size: 8.9G
 Tony Hawk's Pro Skater 3 + 4 Size: 19G
-Tony Hawks Pro Skater 1 + 2 Size: 49K
-Tony Hawks Pro Skater 3 + 4 Size: 49K
+Tony Hawks Pro Skater 1 + 2 Size: 25K
+Tony Hawks Pro Skater 3 + 4 Size: 25K
 Tools Up Ultimate Edition Size: 1.2G
 Torchlight II Size: 2.1G
 Torchlight III Size: 11G

@@ -730,6 +730,7 @@ Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 467M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 602M
 Fashion Dreamer Size: 2.6G
 FAST RMX Size: 721M
+FATAL FRAME Maiden of Black Water Size: 11G
 FATAL FRAME Mask of the Lunar Eclipse Size: 6.1G
 FATAL FURY FIRST CONTACT Size: 141M
 Fe Size: 464M
@@ -769,9 +770,12 @@ Fitness Boxing Size: 663M
 Five Nights at Freddy's 2 Size: 430M
 Five Nights at Freddy's 3 Size: 246M
 Five Nights at Freddy's 4 Size: 453M
+Five Nights at Freddy's Help Wanted 2 Size: 5.3G
 Five Nights at Freddy's Help Wanted Size: 9.2G
+Five Nights at Freddy's Into the Pit Size: 1.3G
 Five Nights at Freddy's Security Breach Size: 8.8G
 Five Nights at Freddy's Sister Location Size: 733M
+Five Nights at Freddy's Size: 338M
 Fiz and the Rainbow Planet Size: 711M
 Flip It Size: 83M
 Florence Size: 328M
@@ -1202,6 +1206,7 @@ Mortal Kombat 1 Size: 44G
 Mortal Kombat11 Size: 29G
 Mostroscopy Size: 634M
 MotoGP24 Size: 11G
+MotoGP25 Size: 9.5G
 Mourning Tide Size: 109M
 Moving Out 2 Size: 1.7G
 Moving Out Size: 818M

@@ -474,6 +474,7 @@ Cartoon Network Battle Crashers Size: 158M
 CarX Drift Racing Online Size: 3.2G
 CarX Highway Racing Size: 893M
 Castle Crashers Remastered Size: 113M
+Castle Crumble Size: 725M
 Castle of Heart Retold Size: 2.5G
 Castle of Heart Size: 1.4G
 Castlevania Dominus Collection Size: 1.2G
@@ -565,6 +566,7 @@ Crystal Ortha Size: 117M
 CTHULOOT Size: 315M
 Cult of the Lamb Size: 1.2G
 Cuphead Size: 4.2G
+CyberCorp Size: 2.5G
 Cynthia Hidden in the Moonshadow Size: 880M
 Dagger Froggy Size: 103M
 Damikira Size: 128M

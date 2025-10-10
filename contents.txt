@@ -29,6 +29,7 @@ ACA NEOGEO METAL SLUG 4 Size: 143M
 ACA NEOGEO METAL SLUG 5 Size: 104M
 ACA NEOGEO METAL SLUG Size: 151M
 ACA NEOGEO METAL SLUG X Size: 108M
+Accolade Sports Collection (QUByte Classics) Size: 145M
 Ace Attorney Investigations Collection Size: 5.9G
 ACE COMBAT7 SKIES UNKNOWN DELUXE EDITION Size: 14G
 Achilles Legends Untold Size: 8.3G
@@ -400,6 +401,8 @@ Bayonetta Size: 7.8G
 Beacon Pines Size: 565M
 Bear and Breakfast Size: 1.2G
 Beastie Bay DX Size: 60M
+Beat 'Em Up Archives (QUByte Classics) Size: 62M
+Beat 'Em Up Collection (QUByte Classics) Size: 612M
 Before the Green Moon Size: 642M
 Bendy and the Dark Revival Size: 1.5G
 Bendy Lone Wolf Size: 1.8G
@@ -444,6 +447,7 @@ Boxville Size: 1.5G
 Bratz Flaunt your fashion Size: 3.8G
 BRAVELY DEFAULT II Size: 13G
 Brawl Chess Size: 273M
+Breakers Collection Size: 328M
 Breakout Beyond Size: 197M
 Bridge Constructor Portal Size: 180M
 Bridge Constructor The Walking Dead Size: 197M
@@ -902,12 +906,14 @@ GEX Trilogy Size: 1.8G
 Ghost Sync Size: 243M
 Ghostrunner Size: 12G
 GladMort Size: 52M
+Glover (QUByte Classics) Size: 167M
 Goblin Slayer -ANOTHER ADVENTURER- NIGHTMARE FEAST Size: 2.7G
 GOD EATER 3 Size: 14G
 God Wars Size: 488M
 GoFishing 3D Size: 101M
 Golden Warden Size: 176M
 Good Pizza, Great Pizza Size: 149M
+Gourmet Warriors (QUByte Classics) Size: 38M
 Grace of Letoile Size: 186M
 Grand Prix Story Size: 57M
 Grand Theft Auto III The Definitive Edition Size: 3.4G
@@ -938,6 +944,7 @@ Harvest Moon The Winds of Anthos Size: 1.5G
 Hatch Tales A Heroic Hookshot Adventure Size: 1.4G
 Haunted Zombie School Size: 981M
 Haven Size: 5.2G
+Head over Heels Size: 185M
 Heirs of the Kings Size: 226M
 Hellblade Senua's Sacrifice Size: 19G
 Hello Goodboy Size: 457M
@@ -1034,6 +1041,7 @@ Labyrinth of Legends Roguelike Battle Quest Size: 72M
 LABYRINTH OF THE DEMON KING Size: 5.2G
 Laika Aged Through Blood Size: 1.4G
 Lambs on the road The Beginning Size: 201M
+LAPIN Size: 520M
 Last 4 Alive Escape From Zombies Size: 259M
 Last Time I Saw You Size: 665M
 Layers of Fear 2 Size: 5.7G
@@ -1066,6 +1074,7 @@ Linelight Size: 83M
 Little Kitty, Big City Size: 663M
 Little Nightmares Complete Edition Size: 3.1G
 Little Nightmares II Size: 2.7G
+Little Nightmares III Size: 9.5G
 LIVE A LIVE Size: 4.8G
 LOLLIPOP CHAINSAW RePOP Size: 6.9G
 Looney Tunes Wacky World of Sports Size: 2.2G
@@ -1156,6 +1165,7 @@ Mighty Mage Size: 59M
 Mighty Morphin Power Rangers Rita's Rewind Size: 714M
 Miitopia Size: 2.1G
 Mika and the Witch's Mountain Size: 684M
+Milli & Greg Size: 65M
 Mina & Michi Size: 23M
 Minami Lane Size: 205M
 Minecraft Dungeons Size: 3.9G
@@ -1205,7 +1215,7 @@ Moorhuhn Remake Size: 114M
 Moorhuhn Wanted Size: 180M
 Moorhuhn X - Crazy Chicken X Size: 121M
 Mortal Kombat 1 Size: 44G
-Mortal Kombat11 Size: 29G
+Mortal Kombat11 Size: 30G
 Mostroscopy Size: 634M
 MotoGP24 Size: 11G
 MotoGP25 Size: 9.5G
@@ -1399,6 +1409,12 @@ Puzzle & Chess Size: 26M
 Puzzle Quest Immortal Edition Size: 470M
 Puzzle Quest The Legend Returns Size: 304M
 Quantum Recharged Size: 253M
+QUByte Classics - The Humans by PIKO Size: 34M
+QUByte Classics - The Immortal by PIKO Size: 65M
+QUByte Classics Jim Power The Lost Dimension by PIKO Size: 124M
+QUByte Classics Thunderbolt Collection by PIKO Size: 62M
+QUByte Classics Zero Tolerance Collection by PIKO Size: 57M
+Radical Rex (QUByte Classics) Size: 32M
 Rage Swarm Size: 188M
 Raging Bytes Size: 151M
 Rain World Size: 4.5G
@@ -1434,6 +1450,7 @@ RingFit Adventure Size: 3.4G
 Risk of Rain 2 Size: 1.7G
 Risk of Rain Returns Size: 351M
 Risk of Rain Size: 143M
+Risky Woods (QUByte Classics) Size: 33M
 River City Girls 2 Size: 5.1G
 River City Girls Size: 2.5G
 River City Girls Zero Size: 3.0G
@@ -1736,6 +1753,7 @@ The Plucky Squire Size: 11G
 The Pyraplex Size: 50M
 The Ramen Sensei Size: 69M
 The Rise of the Golden Idol Size: 2.7G
+The Samurai Collection (QUByte Classics) Size: 61M
 The Seed Unit 7 Size: 39M
 The Smile Alchemist Size: 137M
 The Smurfs - Mission Vileaf Size: 804M
@@ -1744,6 +1762,7 @@ The Smurfs Dreams Size: 3.2G
 The Star Named EOS Size: 1.4G
 The Strike - Championship Edition Size: 515M
 The Sushi Spinnery Size: 56M
+The Tale of Clouds and Wind (QUByte Classics) Size: 61M
 The Walking Dead A New Frontier Size: 8.0G
 The Walking Dead Destinies Size: 5.5G
 The Walking Dead Season Two Size: 5.5G
@@ -1760,6 +1779,7 @@ THOTH Size: 168M
 Through the Nightmares Size: 3.2G
 Tiebreak+ Official Game of the ATP and WTA Size: 11G
 Time Rift Size: 276M
+Tinhead (QUByte Classics) Size: 34M
 Tintin Reporter - Cigars of the Pharaoh Size: 6.3G
 Tiny Bookshop Size: 415M
 To the Moon Size: 345M
@@ -1769,6 +1789,7 @@ Tomb Raider I-III Remastered Starring Lara Croft Size: 4.1G
 Tony Hawk's Pro Skater 1 + 2 Size: 8.9G
 Tony Hawk's Pro Skater 3 + 4 Size: 19G
 Tools Up Ultimate Edition Size: 1.2G
+Top Racer Collection Size: 359M
 Torchlight II Size: 2.1G
 Torchlight III Size: 11G
 Torn Away Size: 1.1G
@@ -1868,6 +1889,7 @@ Village Tycoon Farm City Simulator Size: 42M
 Vinebound Tangled Together Size: 194M
 Virtual Battle Size: 217M
 Virus Rush Size: 1018M
+VISCO Collection Size: 410M
 Vivitter for Nintendo Switch Size: 226M
 Void Prison Size: 33M
 Void Scrappers Size: 326M

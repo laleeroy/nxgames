@@ -23,6 +23,7 @@ A Little to the Left Size: 2.0G
 A Perfect Day Size: 2.2G
 A Short Hike Size: 262M
 A Space for the Unbound Size: 359M
+Absolum Size: 2.4G
 ACA NEOGEO METAL SLUG 2 Size: 93M
 ACA NEOGEO METAL SLUG 3 Size: 190M
 ACA NEOGEO METAL SLUG 4 Size: 143M
@@ -1582,6 +1583,7 @@ STAR OCEAN THE SECOND STORY R Size: 9.9G
 Star of Providence Size: 232M
 Star Overdrive Size: 3.3G
 Star Trek Legends Size: 1.8G
+Star Trek Resurgence Size: 4.7G
 STAR WARS Bounty Hunter Size: 8.0G
 Star Wars Episode I Jedi Power Battles Size: 3.6G
 Stardew Valley Size: 931M
@@ -1960,6 +1962,7 @@ YouTube Size: 70M
 Ys IX Monstrum Nox Size: 3.3G
 Ys Memories of Celceta (JAP) Size: 4.9G
 Ys VIII Lacrimosa of DANA Size: 6.0G
+Ys vs. Trails in the Sky Alternative Saga Size: 2.7G
 Ys X Nordics Size: 5.3G
 Yu-Gi-Oh Legacy of the Duelist Link Evolution Size: 1.7G
 Yu-Gi-Oh RUSH DUEL Dawn of the Battle Royale Size: 2.2G

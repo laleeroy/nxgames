@@ -524,6 +524,7 @@ CLeM Size: 1.5G
 Cloudy Valley Size: 495M
 Clubhouse Games 51 Worldwide Classics Size: 2.4G
 Cobalt Core Size: 336M
+Cobra Kai The Karate Kid Saga Continues Size: 2.3G
 Coffee Talk Episode 2 Hibiscus & Butterfly Size: 379M
 Coffee Talk Size: 357M
 Colorful Boi Size: 75M
@@ -1381,6 +1382,7 @@ Pokkén Tournament DX Size: 4.1G
 Pokémon Brilliant Diamond Size: 3.9G
 Pokémon Friends Size: 598M
 Pokémon Legends Arceus Size: 2.3G
+Pokémon Legends Z-A Size: 3.6G
 Pokémon Lets Go, Eevee Size: 4.2G
 Pokémon Lets Go, Pikachu Size: 4.2G
 Pokémon Mystery Dungeon Rescue Team DX Size: 1.4G
@@ -1731,6 +1733,7 @@ The Jackbox Party Pack 10 Size: 2.5G
 The Jackbox Party Pack 8 Size: 1.5G
 The Jackbox Party Pack 9 Size: 8.7G
 The Jackbox Party Starter Size: 5.5G
+The Karate Kid Street Rumble Size: 252M
 THE KING OF FIGHTERS XIII GLOBAL MATCH Size: 2.6G
 THE LAST BLADE Beyond the Destiny Size: 135M
 The Legend of Cyber Cowboy Size: 74M

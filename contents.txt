@@ -385,6 +385,7 @@ Attack on Titan 2 Size: 19G
 Azure Reflections Size: 1.1G
 Baki Hanma Blood Arena Size: 1.7G
 Balatro Size: 101M
+Bandle Tale A League of Legends Story Size: 1.4G
 Barbarous Tavern of Emyr Size: 246M
 Barbie DreamHouse Adventures Size: 1.7G
 Barbie Project Friendship Size: 1.3G
@@ -1084,6 +1085,7 @@ LOLLIPOP CHAINSAW RePOP Size: 6.9G
 Looney Tunes Wacky World of Sports Size: 2.2G
 Loretta Size: 518M
 Lorn's Lure Size: 716M
+Lost In Fantaland Size: 226M
 Lost in Play Size: 1.2G
 Lost in Random Size: 4.3G
 Lost in Random The Eternal Die Size: 1.9G
@@ -1887,6 +1889,7 @@ Valiant Hearts Coming Home Size: 1.6G
 Vampire Hunters Size: 602M
 Vampire Survivors Size: 938M
 VED Size: 2.8G
+Veil of the Witch Size: 3.7G
 VENARI - Escape Room Adventure Size: 2.0G
 Venba Size: 917M
 Vengeance Hunters Size: 124M

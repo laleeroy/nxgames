@@ -712,6 +712,7 @@ Epic Astro Story Size: 55M
 Escape Game - FORT BOYARD 2022 Size: 1.5G
 Escape Game Fort Boyard Size: 2.0G
 ESCAPE SITE 13 Size: 2.8G
+Eternights Size: 3.2G
 Europa Size: 3.4G
 Everdark Tower Size: 29M
 Everdeep Aurora Size: 181M
@@ -1484,6 +1485,7 @@ Rooftops & Alleys The Parkour Game Size: 1007M
 Room of Depression Size: 312M
 Rose & Camellia Collection Size: 928M
 RPGolf Legends Size: 248M
+Rugby Challenge 4 Size: 12G
 Ruinverse Size: 139M
 Rune Factory 3 Special Size: 2.2G
 Rune Factory 4 Special Size: 2.8G

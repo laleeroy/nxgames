@@ -553,6 +553,7 @@ Cozy Grove Size: 398M
 Crash Bandicoot 4 Its About Time Size: 9.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Crash Team Racing Nitro-Fueled Size: 6.8G
+Crashnauts Size: 187M
 Crazy Chicken Xtreme Size: 489M
 Creepy Tale 2 Size: 486M
 Creepy Tale Ingrid Penance Size: 331M
@@ -1487,6 +1488,7 @@ Rose & Camellia Collection Size: 928M
 RPGolf Legends Size: 248M
 Rugby Challenge 4 Size: 12G
 Ruinverse Size: 139M
+Runbow Size: 243M
 Rune Factory 3 Special Size: 2.2G
 Rune Factory 4 Special Size: 2.8G
 Rune Factory 5 Size: 5.1G
@@ -1603,6 +1605,7 @@ Station Manager Size: 69M
 STAY COOL, KOBAYASHI-SAN A RIVER CITY RANSOM STORY Size: 350M
 Steven Universe Save the Light Size: 513M
 Steven Universe Unleash the Light Size: 537M
+Stikbold A Dodgeball Adventure DELUXE Size: 377M
 stitch Size: 231M
 StormEdge Size: 951M
 STORY OF SEASONS A Wonderful Life Size: 844M
@@ -1945,6 +1948,7 @@ World War Fury Wave Size: 525M
 World War Prologue Size: 618M
 World War Tank Battle Size: 825M
 World War Z Size: 7.2G
+Worms Armageddon Anniversary Edition Size: 2.8G
 Wreckfest Size: 7.4G
 Wreckin' Ball Adventure Size: 1.6G
 Wurroom Size: 343M

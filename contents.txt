@@ -984,6 +984,7 @@ Huntdown Size: 795M
 HUNTERxHUNTER NENxIMPACT Size: 2.0G
 HYKENorthern Light(s) Size: 2.1G
 HYPER DRONE X Size: 144M
+Hyper Jam Size: 1.2G
 Hyper Light Drifter -Special Edition Size: 705M
 Hyrule Warriors Age of Calamity Size: 11G
 Hyrule Warriors Definitive Edition Size: 13G
@@ -1229,6 +1230,7 @@ Mostroscopy Size: 634M
 MotoGP24 Size: 11G
 MotoGP25 Size: 9.5G
 Mourning Tide Size: 109M
+Move or Die Unleashed Size: 633M
 Moving Out 2 Size: 1.7G
 Moving Out Size: 819M
 MudRunner - American Wilds Size: 2.5G
@@ -1295,6 +1297,7 @@ Oceanhorn - Monster of Uncharted Seas Size: 457M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 OCTOPATH TRAVELER II Size: 5.8G
 Octopath Traveler Size: 3.2G
+OddBallers Size: 1.8G
 Ogu and the Secret Forest Size: 929M
 OhEdo Towns Size: 51M
 OK K.O. Lets Play Heroes Size: 1.1G

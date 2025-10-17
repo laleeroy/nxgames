@@ -820,6 +820,7 @@ Frane Dragons' Odyssey Size: 575.0M
 Frank and Drake Size: 7.2G
 Freaky Trip Size: 7.0G
 Freddy Fazbear's Pizzeria Simulator Size: 402.0M
+Fruitbus Size: 1.5G
 Fuga Melodies of Steel Size: 1.5G
 Fuga Melodies of Steel 2 Size: 4.8G
 Fuga Melodies of Steel 3 Size: 5.3G
@@ -1748,6 +1749,7 @@ The Backrooms 1998 Size: 734.0M
 The Binding of Isaac Afterbirth+ Size: 1.7G
 The Book of Death Size: 2.2G
 The Bunny Graveyard Size: 553.0M
+The Cabin Factory Size: 2.1G
 The Case of the Golden Idol Size: 461.0M
 The Case of the Golden Idol Complete Edition Size: 420.0M
 The Coma 2 Vicious Sisters Size: 1.1G
@@ -1955,6 +1957,7 @@ Wild Park Manager Size: 195.0M
 Wildermyth Console Edition Size: 893.0M
 Winkeltje The Little Shop Size: 487.0M
 Wizards of Brandel Size: 276.0M
+Wizordum Size: 472.0M
 Wobbly Life Size: 2.6G
 Wolfenstein II The New Colossus Size: 22.0G
 Work It Out Job Challenge Size: 324.0M

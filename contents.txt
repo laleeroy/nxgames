@@ -35,6 +35,7 @@ ACE COMBAT7 SKIES UNKNOWN DELUXE EDITION Size: 14.2G
 ALUMNI - Escape Room Adventure Size: 2.2G
 ANIMAL WELL Size: 84.0M
 AO Tennis 2 Size: 8.1G
+ARCADE FUZZ Size: 406.0M
 ARMS Size: 3.2G
 ASSASSINS CREED THE EZIO COLLECTION Size: 35.4G
 ASTRAL CHAIN Size: 9.8G
@@ -485,6 +486,7 @@ CTHULOOT Size: 1.4G
 Cadence of Hyrule Crypt of the NecroDancer Featuring The Legend of Zelda Size: 1.7G
 Cafe Master Story Size: 126.0M
 Cafeteria Nipponica Size: 251.0M
+Candylands Journey Size: 279.0M
 Capcom Fighting Collection Size: 3.2G
 Capcom Fighting Collection 2 Size: 3.0G
 Captain Toad Treasure Tracker Size: 1.9G
@@ -599,6 +601,7 @@ DORAEMON STORY OF SEASONS Friends of the Great Kingdom Size: 3.0G
 DOUBLE DRAGON Size: 363.0M
 DOUBLE DRAGON The Revenge Size: 397.0M
 DOUBLE DRAGON The Sacred Stones Size: 359.0M
+DRAGON BALL FighterZ Size: 10.0G
 DRAGON BALL XENOVERSE 2 for Nintendo Switch Size: 18.5G
 DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET Size: 25.0G
 DRAGON QUEST III HD-2D Remake Size: 7.8G
@@ -1613,6 +1616,7 @@ Sniper Elite 3 Ultimate Edition Size: 6.3G
 Sniper Elite 4 Size: 9.1G
 Sniper Elite V2 Remastered Size: 7.2G
 Snipperclips Cut it out, together Size: 1.8G
+Snoopy & The Great Mystery Club Size: 1.6G
 SnowRunner Size: 14.7G
 Snufkin Melody of Moominvalley Size: 2.2G
 Solomon Snow First Contact Size: 1.9G
@@ -1717,6 +1721,7 @@ TRAXION 2 Size: 109.7M
 TRIANGLE STRATEGY Size: 7.0G
 TRON Catalyst Size: 2.1G
 TRON Identity Size: 2.6G
+TTV2 Size: 219.0M
 TV Studio Story Size: 142.0M
 Taboo Trial Size: 8.7G
 Tachyon Project Size: 366.0M

@@ -43,6 +43,7 @@ Absolum Size: 2.5G
 Accolade Sports Collection (QUByte Classics) Size: 326.0M
 Ace Attorney Investigations Collection Size: 7.0G
 Achilles Legends Untold Size: 8.3G
+Adrenaline Rampage Size: 641.0M
 Adventure Bar Story Size: 323.0M
 Aery - Ancient Empires Size: 4.4G
 Aery - Broken Memories Size: 1.4G
@@ -388,6 +389,7 @@ Atelier Yumia The Alchemist of Memories & the Envisioned Land Size: 5.1G
 Attack on Titan 2 Size: 21.1G
 Azure Reflections Size: 3.4G
 BALL x PIT Size: 572.0M
+BEAST Bio Exo Arena Suit Team Size: 1.6G
 BEYBLADE X XONE Size: 2.6G
 BIG BALL SPORTS Size: 412.0M
 BIG BANG PRO WRESTLING Size: 161.0M
@@ -773,6 +775,7 @@ Fantasy Tavern Sextet -Vol.1 New World Days- Size: 642.0M
 Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 704.0M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 858.0M
 Fashion Dreamer Size: 7.0G
+FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fernz Gate Size: 192.0M
 Find Love Or Die Trying Size: 1.5G
@@ -1979,6 +1982,7 @@ World War Tank Battle Size: 1.5G
 World War Z Size: 11.3G
 World of Horror Size: 431.0M
 Worms Armageddon Anniversary Edition Size: 2.6G
+Worms W.M.D Size: 5.0G
 Wreckfest Size: 10.8G
 Wreckin' Ball Adventure Size: 1.7G
 Wurroom Size: 1.1G

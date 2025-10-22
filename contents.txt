@@ -680,6 +680,7 @@ Dordogne Size: 3.3G
 Dorfromantik Size: 564.0M
 Double Dragon 4 Size: 1.3G
 Double Dragon Advance Size: 134.0M
+Double Dragon Revive Size: 4.0G
 Dragon Eclipse Size: 404.0M
 Dragon Lapis Size: 195.0M
 Dragon Marked for Death Frontline Fighters Size: 718.0M
@@ -1098,6 +1099,7 @@ Legends of Ethernal Size: 3.5G
 Legends of Heropolis DX Size: 73.0M
 Let's Build a Zoo Size: 871.0M
 Let's Sing 2025 Size: 3.5G
+Lets School Size: 658.0M
 Liege Dragon Size: 246.0M
 Life is Strange 2 Size: 26.5G
 Life is Strange Before the Storm Remastered Size: 12.6G
@@ -1333,6 +1335,7 @@ Old Man's Journey Size: 1.3G
 Omega 6 The Triangle Stars Size: 546.0M
 On Your Tail Size: 5.7G
 Once Again Size: 506.0M
+Once Upon A KATAMARI Size: 2.3G
 Onigo Hunter Size: 432.0M
 Onimusha 2 Samurai's Destiny Size: 14.2G
 Onimusha Warlords Size: 9.6G
@@ -1739,6 +1742,7 @@ Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants Size: 3.1G
 Teenage Mutant Ninja Turtles Mutants Unleashed Size: 3.5G
 Teenage Mutant Ninja Turtles Shredder's Revenge Size: 1.6G
 Teenage Mutant Ninja Turtles Splintered Fate Size: 2.3G
+Teenage Mutant Ninja Turtles Tactical Takedown Size: 805.0M
 Teenage Mutant Ninja Turtles The Cowabunga Collection Size: 3.5G
 Tell Me Your Story Size: 1.9G
 Temp Zero Size: 340.0M

@@ -81,6 +81,7 @@ Agatha Knife Size: 293.0M
 Air Jet Fighter Combat - Europe Fly Plane Attack Size: 413.0M
 AirJet Fighter Sky Assault Size: 1.9G
 AirJet Fighter Sky Dominators Aerial Assault Size: 3.9G
+Akatsuki Lord of the Dawn Size: 198.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 All in Abyss Judge the Fake Size: 1.5G
@@ -697,6 +698,8 @@ Dream Park Story Size: 158.0M
 Dream Town Island Size: 168.0M
 DreamWorks All-Star Kart Racing Size: 4.6G
 DreamWorks Gabbys Dollhouse Ready to Party Size: 1.4G
+Drift Legends Size: 1.5G
+Drift Legends 2 Size: 882.0M
 Drova Size: 3.5G
 Duck Detective - The Secret Salami Size: 262.0M
 Duck Detective The Ghost of Glamping Size: 398.0M
@@ -943,6 +946,7 @@ Ghost Sync Size: 258.0M
 Ghostrunner Size: 11.2G
 GladMort Size: 111.0M
 Glover (QUByte Classics) Size: 225.0M
+Gnomdom Size: 161.0M
 GoFishing 3D Size: 245.0M
 Goblin Slayer -ANOTHER ADVENTURER- NIGHTMARE FEAST Size: 2.6G
 God Wars Size: 3.6G
@@ -1001,6 +1005,7 @@ Hot Blood Size: 1.6G
 Hot Lap Racing Size: 2.9G
 Hot Springs Story Size: 249.0M
 Hot Springs Story 2 Size: 284.0M
+Hot Wheels Let's Race Ultimate Speed Size: 2.3G
 Hot Wheels Monster Trucks Stunt Mayhem Size: 1.7G
 Hotline Miami Collection Size: 1.2G
 How to Be a Master Detective A Yakou Furio Case Size: 174.0M
@@ -1627,9 +1632,12 @@ Son of a Gun Size: 2.8G
 Song of Nunu A League of Legends Story Size: 11.9G
 Sonic Racing CrossWorlds Size: 7.9G
 Space Battle Size: 148.0M
+Space Blast Zom A Matching Game Size: 220.0M
 Space Cows Size: 1.1G
 Space Genesis Size: 1.9G
 Space Robinson Size: 75.0M
+Sparkle 2 Size: 110.0M
+Sparkle Unleashed Size: 117.0M
 Spellagis Size: 90.0M
 Spellbearers Size: 404.0M
 Spiritfall Size: 1.9G
@@ -1909,6 +1917,7 @@ UltraGoodness 2 Size: 203.0M
 Unalive 010 Size: 1.7G
 Undead Battle Royale Size: 545.0M
 Undying Size: 1.3G
+Unfair Rampage Knightfall Size: 369.0M
 Unforeseen Incidents Size: 2.4G
 Unicorn Overlord Size: 3.4G
 Unicorn Overlord 16-bit Arranged Music Album and Digital Artbook Size: 3.1G
@@ -2029,6 +2038,15 @@ Zombies, Aliens and Guns Size: 82.0M
 Zombiewood Survival Shooter Size: 1.3G
 Zoo Park Story Size: 87.0M
 ZooKeeper Size: 1.4G
+Zumania - Magic Casual Puzzle Size: 189.0M
+Zumatch Size: 218.0M
+Zumba - Marble Zombie Invasion Size: 188.6M
+Zumba - Soccer Marble League Size: 557.0M
+Zumba - Treasure of the Marble Sea Size: 568.0M
+Zumba Aqua Size: 107.0M
+Zumba Blitz Size: 49.0M
+Zumba Garden Size: 70.0M
+Zumba Royal Marble Shooter Mania Size: 232.0M
 megaton musashi Size: 10.7G
 pureya Size: 152.0M
 resident evil 4 Size: 12.1G

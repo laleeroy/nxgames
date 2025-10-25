@@ -779,6 +779,7 @@ Fantasy Tavern Sextet -Vol.1 New World Days- Size: 642.0M
 Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 704.0M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 858.0M
 Fashion Dreamer Size: 7.0G
+Fast and Furious Arcade Edition Size: 1.6G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fernz Gate Size: 192.0M
@@ -1941,6 +1942,7 @@ VISCO Collection Size: 1.2G
 Valiant Hearts Coming Home Size: 2.0G
 Vampire Hunters Size: 1.6G
 Vampire Survivors Size: 988.0M
+Vampire The Masquerade - Swansong Size: 5.9G
 Veil of the Witch Size: 4.9G
 Venba Size: 1.8G
 Vengeance Hunters Size: 193.0M

@@ -653,6 +653,7 @@ Detective Pikachu Returns Size: 9.0G
 Devil May Cry Size: 9.2G
 Devil May Cry 2 Size: 1.8G
 Devil May Cry 3 Special Edition Size: 5.1G
+Diablo II Resurrected Size: 8.4G
 Diablo III Eternal Collection Size: 27.3G
 Digimon Story Cyber Sleuth Complete Edition Size: 4.8G
 Digimon Survive Size: 5.2G
@@ -1609,6 +1610,7 @@ Shiny Ski Resort Size: 267.0M
 Ship of Fools Size: 1.2G
 Shotgun Cop Man Size: 386.0M
 Sid Meier's Civilization VII Size: 5.7G
+Sid Meiers Civilization VI Size: 36.4G
 Sifu Size: 10.3G
 Silver Falls - Guardians And Metal Exterminators S Size: 349.0M
 Silver Nornir Size: 198.0M

@@ -598,6 +598,7 @@ DEEMO -Reborn- Size: 4.5G
 DELTARUNE Size: 676.0M
 DELTARUNE Chapter 1&2 Size: 268.0M
 DESERTED Size: 1.6G
+DIGIMON SURVIVE Size: 5.2G
 DOKAPON Sword of Fury Size: 516.0M
 DOOM Size: 22.0G
 DORAEMON STORY OF SEASONS Friends of the Great Kingdom Size: 3.0G
@@ -656,7 +657,7 @@ Devil May Cry 3 Special Edition Size: 5.1G
 Diablo II Resurrected Size: 8.4G
 Diablo III Eternal Collection Size: 27.3G
 Digimon Story Cyber Sleuth Complete Edition Size: 4.8G
-Digimon Survive Size: 5.2G
+Digimon Survive Size: Unknown
 Digimon World Next Order Size: 6.8G
 Diluvian Winds Size: 1.5G
 Dirt Trackin 2 Size: 846.0M
@@ -821,7 +822,8 @@ Florence Size: 814.0M
 Fly Corp Size: 494.0M
 Folk Hero Size: 559.0M
 Food Girls Size: 1.9G
-Food Girls 2 Gourmand Civil War Size: 1.9G
+Food Girls 2 Civil War Size: 1.9G
+Food Girls 2 Gourmand Civil War Size: Unknown
 Fool's Pub Size: 702.0M
 Forest Camp Story Size: 287.0M
 Forest Fire Size: 249.0M

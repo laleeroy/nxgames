@@ -43,6 +43,7 @@ Absolum Size: 2.5G
 Accolade Sports Collection (QUByte Classics) Size: 326.0M
 Ace Attorney Investigations Collection Size: 7.0G
 Achilles Legends Untold Size: 8.3G
+Achilles Survivor Size: 3.9G
 Adrenaline Rampage Size: 641.0M
 Adventure Bar Story Size: 323.0M
 Aery - Ancient Empires Size: 4.4G
@@ -380,6 +381,13 @@ Asphalt Legends Size: Unknown
 Asphalt Legends Unite Size: 3.2G
 Assassin's Creed III Remastered Size: 18.6G
 Assassins Creed The Rebel Collection Size: 27.8G
+Asterix & Obelix Heroes Size: 1.3G
+Asterix & Obelix Slap Them All 2 Size: 2.4G
+Asterix & Obelix Slap them All Size: 2.5G
+Asterix & Obelix XXL 3 - The Crystal Menhir Size: 2.2G
+Asterix & Obelix XXL Romastered Size: 3.0G
+Asterix & Obelix XXXL The Ram From Hibernia Size: 3.2G
+Asterix and Obelix Mission Babylon Size: 1.7G
 Astral Ascent Size: 1.7G
 Astral Flux Size: 632.0M
 Atelier Lydie & Suelle The Alchemists and the Mysterious Paintings DX Size: 9.2G
@@ -701,6 +709,7 @@ Dream Park Story Size: 158.0M
 Dream Town Island Size: 168.0M
 DreamWorks All-Star Kart Racing Size: 4.6G
 DreamWorks Gabbys Dollhouse Ready to Party Size: 1.4G
+Dreamed Away Size: 723.0M
 Drift Legends Size: 1.5G
 Drift Legends 2 Size: 882.0M
 Drova Size: 3.5G
@@ -1518,6 +1527,7 @@ Rogue Legacy 2 Size: 1.2G
 Rogue Sentry Size: 176.0M
 Rogue Waters Size: 2.1G
 RollerCoaster Tycoon Adventures Deluxe Size: 1.5G
+Roman Rumble in Las Vegum - Asterix & Obelix XXL 2 Size: 1.9G
 Romancing SaGa -Minstrel Song- Remastered Size: 9.5G
 Romancing SaGa 2 Size: 1.4G
 Romancing SaGa 2 Revenge of the Seven Size: 9.7G
@@ -1597,6 +1607,7 @@ Scott Pilgrim vs. The World The Game Complete Edition Size: 1.1G
 Scott Whiskers in the Search for Mr. Fumbleclaw Size: 1.0G
 Sea Fantasy Size: 289.0M
 Sea of Stars Size: 6.1G
+Sedap a Culinary Adventure Size: 1.3G
 Seedsow Lullaby Size: 4.4G
 Seek Hearts Size: 219.0M
 Sentry Paragon Size: 39.0M
@@ -1613,6 +1624,9 @@ Shin chan Shiro and the Coal Town Size: 3.1G
 Shiny Ski Resort Size: 267.0M
 Ship of Fools Size: 1.2G
 Shotgun Cop Man Size: 386.0M
+Shujinkou Size: 3.6G
+Shujinkou Digital Artbook Size: 271.0M
+Shujinkou Select Soundtrack Size: 217.0M
 Sid Meier's Civilization VII Size: 5.7G
 Sid Meiers Civilization VI Size: 36.4G
 Sifu Size: 10.3G
@@ -1620,6 +1634,7 @@ Silver Falls - Guardians And Metal Exterminators S Size: 349.0M
 Silver Nornir Size: 198.0M
 Silver Screen Story Size: 249.0M
 SilverStarChess Size: 196.0M
+Simon the Sorcerer Origins Size: 1.3G
 Skater XL Size: 2.3G
 Skyline Bowling Size: 201.0M
 Slam and Roll Size: 186.0M
@@ -1721,6 +1736,7 @@ Superfluous Returnz Size: 297.0M
 Sweet Survivors Size: 309.0M
 Sword of Elpisia Size: 619.0M
 Sword of the Necromancer Resurrection Size: 2.9G
+Sworn Size: 2.2G
 Symphonia Size: 1.0G
 System Shock 2 25th Anniversary Remaster Size: 3.5G
 TACTICAL BANDITS Size: 1.9G
@@ -1751,6 +1767,7 @@ Tales from Toyotoki Arrival of the Witch Size: 937.0M
 Tales of Graces f Remastered - Digital Artbook & Soundtrack Size: Unknown
 Tales of Gracesf Remastered Size: 10.3G
 Tales of Gracesf Remastered - Digital Artbook & Soundtrack Size: 1.0G
+Tales of Xillia Remastered Size: 8.4G
 Tales of the Shire A The Lord of The Rings Game Size: 1.2G
 Tangle Tower Size: 783.0M
 Tchia Size: 6.7G

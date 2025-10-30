@@ -688,6 +688,7 @@ Dragon Eclipse Size: 404.0M
 Dragon Lapis Size: 195.0M
 Dragon Marked for Death Frontline Fighters Size: 718.0M
 Dragon Prana Size: 194.0M
+Dragon Quest 1-2 HD-2D Remake Size: 8.3G
 Dragon Quest Heroes I and II (JAP) Size: 26.9G
 Dragon Sinker Size: 246.0M
 Dragon Takers Size: 612.0M
@@ -1259,6 +1260,7 @@ Moorhuhn Remake Size: 236.0M
 Moorhuhn Wanted Size: 651.0M
 Moorhuhn X - Crazy Chicken X Size: 176.0M
 Mortal Kombat 1 Size: 46.4G
+Mortal Kombat Legacy Kollection Size: 9.9G
 Mortal Kombat11 Size: 32.6G
 Mostroscopy Size: 1.6G
 MotoGP24 Size: 10.2G

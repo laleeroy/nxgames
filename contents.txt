@@ -18,6 +18,7 @@
 30-in-1 Game Collection Size: 1.6G
 30-in-1 Game Collection Volume 1 Size: 1.5G
 3D Arcade Fishing Size: 1.2G
+7th Domain Tree of Chaos Size: 3.0G
 8-Bit Farm Size: 261.0M
 9th Dawn III Size: 867.0M
 9th Dawn Remake Size: 1.1G
@@ -415,6 +416,7 @@ Balatro Size: 156.0M
 Bandle Tale A League of Legends Story Size: 1.9G
 Barbarous Tavern of Emyr Size: 955.0M
 Barbie DreamHouse Adventures Size: 2.0G
+Barbie Horse Trails Size: 1.7G
 Barbie Project Friendship Size: 1.3G
 Barry the Bunny Size: 39.0M
 Basketball Club Story Size: 260.0M
@@ -440,6 +442,9 @@ Best Served Cold Size: 2.6G
 Beyond Hanwell Nintendo Switch Edition Size: 7.9G
 Beyond Memories - Tales From the Heart Size: 4.8G
 Beyond the Ice Palace 2 Size: 779.0M
+Bibi & Tina Adventures with Horses Size: 706.0M
+Bibi & Tina New adventures with horses Size: 1.9G
+Bibi & Tina at the horse farm Size: 1.3G
 Big Brain Academy Brain vs. Brain Size: 720.0M
 Big Helmet Heroes Size: 5.1G
 Big Rumble Boxing Creed Champions Size: 6.8G
@@ -660,6 +665,7 @@ Desktop Soccer Size: 351.0M
 Desktop Soccer 2 Size: 381.0M
 Desktop Table Tennis Size: 826.0M
 Desktop Volleyball Size: 833.0M
+Detective Dotson Size: 1.5G
 Detective Pikachu Returns Size: 9.0G
 Devil May Cry Size: 9.2G
 Devil May Cry 2 Size: 1.8G
@@ -699,7 +705,6 @@ Dragon Eclipse Size: 404.0M
 Dragon Lapis Size: 195.0M
 Dragon Marked for Death Frontline Fighters Size: 718.0M
 Dragon Prana Size: 194.0M
-Dragon Quest 1-2 HD-2D Remake Size: Unknown
 Dragon Quest Heroes I and II (JAP) Size: 26.9G
 Dragon Sinker Size: 246.0M
 Dragon Takers Size: 612.0M
@@ -748,6 +753,7 @@ Emio The Smiling Man Famicom Detective Club Size: 5.4G
 Endling - Extinction is Forever Size: 5.4G
 Enter the Gungeon Size: 443.0M
 Epic Astro Story Size: 261.0M
+Equestrian Training Size: 1.4G
 Escape Game - FORT BOYARD 2022 Size: 2.0G
 Escape Game Fort Boyard Size: 2.6G
 Eternights Size: 4.3G
@@ -940,6 +946,7 @@ GYLT Size: 3.4G
 Gal Guardians Demon Purge Size: 876.0M
 Gal Guardians Servants of the Dark Size: 1.2G
 Gale of Windoria Size: 225.0M
+Gallop Glory Obstacle Racing & Horse Simulator Size: 942.0M
 Game Boy - NSO (JAP) Size: 115.0M
 Game Boy Advance - NSO (JAP) Size: 247.0M
 Game Boy Advance Nintendo Classics Size: 408.0M
@@ -987,6 +994,7 @@ HYKENorthern Light(s) Size: 2.0G
 HYPER DRONE X Size: 212.0M
 Hades Size: 5.8G
 Hades II Size: 6.5G
+Hannah Size: 5.9G
 Hannah's Day Size: 2.8G
 Happy Animals Bowling Size: 348.0M
 Happy Animals Mini Golf Size: 388.0M
@@ -1020,6 +1028,12 @@ Home Run High Size: 270.0M
 Horrific Xanatorium Size: 468.0M
 Horror Night With Tung Tung Tung Sahur Size: Unknown
 Horror Night with Tung Tung Tung Sahur Size: 1.4G
+Horse Club Adventures Size: 2.1G
+Horse Club Adventures 2 Hazelwood Stories Size: 2.8G
+Horse Farm Size: 309.0M
+Horse Racing Size: 306.0M
+Horse Stable Herd Care Simulator Size: 201.0M
+Horse Tales Emerald Valley Ranch Size: 2.8G
 Hot Blood Size: 1.6G
 Hot Lap Racing Size: 2.9G
 Hot Springs Story Size: 249.0M
@@ -1123,7 +1137,6 @@ Legends of Ethernal Size: 3.5G
 Legends of Heropolis DX Size: 73.0M
 Let's Build a Zoo Size: 871.0M
 Let's Sing 2025 Size: 3.5G
-Lets School Size: Unknown
 Liege Dragon Size: 246.0M
 Life is Strange 2 Size: 26.5G
 Life is Strange Before the Storm Remastered Size: 12.6G
@@ -1174,6 +1187,7 @@ Mad Father Size: 239.0M
 Magazine Mogul Size: 259.0M
 Mai Child of Ages Size: 4.7G
 Mail Time Size: 1.8G
+Majogami Size: 3.1G
 Make it Crepe Size: 256.0M
 Make it Ikayaki Size: 327.0M
 Make it Oden Size: 252.0M
@@ -1222,6 +1236,7 @@ Metro 2033 Redux Size: 6.3G
 Metro Last Light Redux Size: 7.6G
 Metroid Dread Size: 4.3G
 Metroid Prime Remastered Size: 6.8G
+Mia and me Magic Friends Size: 431.0M
 MiceGard Size: 95.0M
 Miden Tower Size: 928.0M
 Mighty Mage Size: 79.0M
@@ -1291,6 +1306,11 @@ Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 3.2G
 Mustache In Hell Size: 149.0M
 Mutazione Size: 2.5G
 My Friend Peppa Pig Size: 2.8G
+My Horse Stories Size: 895.0M
+My Life Riding Stables 3 Size: 1.3G
+My Little Riding Champion Size: 2.0G
+My Riding Stables 2 A New Adventure Size: 1.5G
+My Riding Stables Life with Horses Size: 1.3G
 My Time at Sandrock Size: 6.6G
 MySims Size: Unknown
 MySims Cozy Bundle Size: 2.7G
@@ -1393,6 +1413,7 @@ PAC-MAN WORLD Re-PAC Size: 3.6G
 PARANORMASIGHT The Seven Mysteries of Honjo Size: 953.0M
 PATAPON 1+2 REPLAY Size: 1.4G
 PAW Patrol World Size: 3.0G
+PHAR LAP - Horse Racing Challenge Size: 2.2G
 PICO PARK Size: 111.0M
 PICO PARK 2 Size: 263.0M
 PIPELINE PANIC Size: 164.0M
@@ -1429,7 +1450,8 @@ Pixel Cafe Size: 511.0M
 Pizza Tower Size: 1010.0M
 Planet of Lana Size: 7.2G
 Plants vs. Zombies Battle for Neighborville Complete Edition Size: 6.4G
-Plants vs. Zombies Replanted for Nintendo Switch Size: 1.6G
+Plants vs. Zombies Replanted Size: 1.6G
+Plants vs. Zombies Replanted for Nintendo Switch Size: Unknown
 PlateUp Size: 1.3G
 Platform 8 Size: 1.1G
 Pocket Academy Size: 271.0M
@@ -1455,6 +1477,7 @@ Pokémon Shield Size: 12.4G
 Pokémon Shining Pearl Size: 6.9G
 Pokémon Sword Size: 12.4G
 Pokémon Violet Size: 9.9G
+Pony World 3 Size: 438.0M
 Pool Slide Story Size: 266.0M
 Poppy Playtime Chapter 1 Size: 2.7G
 Poppy Playtime Chapter 2 Size: 5.9G
@@ -1604,6 +1627,7 @@ SWORD ART ONLINE Alicization Lycoris Size: 17.0G
 SWORD ART ONLINE FATAL BULLET Complete Edition Size: 8.8G
 SWORD ART ONLINE Fractured Daydream Size: 12.5G
 SWORD ART ONLINE Hollow Realization Deluxe Edition Size: 13.3G
+SWORN Size: 2.2G
 SaGa SCARLET GRACE AMBITIONS Size: 2.7G
 Saints Row IV Re-Elected Size: 8.6G
 Sally Face Size: 1.9G
@@ -1744,7 +1768,6 @@ Superfluous Returnz Size: 297.0M
 Sweet Survivors Size: 309.0M
 Sword of Elpisia Size: 619.0M
 Sword of the Necromancer Resurrection Size: 2.9G
-Sworn Size: 2.2G
 Symphonia Size: 1.0G
 System Shock 2 25th Anniversary Remaster Size: 3.5G
 TACTICAL BANDITS Size: 1.9G
@@ -1792,6 +1815,7 @@ Tennis Club Story Size: 272.0M
 Tennis World Tour Size: 6.1G
 Tennis World Tour 2 Size: 5.4G
 Terminal 81 Size: 1.0G
+Terra Memoria Size: 1.8G
 Terraria Size: 455.0M
 Tetris 99 Size: 1.7G
 Tetris Effect Connected Size: 4.0G
@@ -1861,6 +1885,7 @@ The Star Named EOS Size: 1.7G
 The Strike - Championship Edition Size: 1.3G
 The Sushi Spinnery Size: 249.0M
 The Tale of Clouds and Wind (QUByte Classics) Size: 179.0M
+The Unicorn Princess Size: 1.8G
 The Walking Dead A New Frontier Size: 7.9G
 The Walking Dead Destinies Size: 7.2G
 The Walking Dead Season Two Size: 5.5G
@@ -2010,6 +2035,9 @@ Whiskey Mafia Frank's Story Size: 900.0M
 Whiskey Mafia Leo's Family Size: 295.0M
 Wild Park Manager Size: 195.0M
 Wildermyth Console Edition Size: 893.0M
+Wildshade Unicorn Champions Size: 1.5G
+Windstorm An Unexpected Arrival Size: 8.2G
+Windstorm Start of a Great Friendship Size: 5.4G
 Winkeltje The Little Shop Size: 487.0M
 Wizards of Brandel Size: 276.0M
 Wizordum Size: 472.0M

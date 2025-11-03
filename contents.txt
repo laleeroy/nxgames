@@ -94,12 +94,14 @@ Alphadia Genesis Size: 199.0M
 Alphadia Genesis 2 Size: 234.0M
 Alphadia I & II Size: 1.0G
 Alphadia Neo Size: 433.0M
+Alruna and the Necro-Industrialists Size: 290.0M
 Alvastia Chronicles Size: 101.0M
 Ambidextro Size: 260.0M
 Ambition Record Size: 850.0M
 America Wild Hunting Size: 136.0M
 Amnesia Collection Size: 5.3G
 Angel at Dusk Size: 766.0M
+Angry Video Game Nerd 8-bit Size: 2.5G
 Animal Crossing New Horizons Size: 10.8G
 Animal Crossing New Horizons Island Transfer Tool Size: 46.0M
 Anime Girls Highschool of Dead Size: 430.0M
@@ -435,6 +437,7 @@ Bear and Breakfast Size: 1.6G
 Beastie Bay DX Size: 170.0M
 Beat 'Em Up Archives (QUByte Classics) Size: 182.0M
 Beat 'Em Up Collection (QUByte Classics) Size: 1.3G
+Becastled Size: 532.0M
 Before the Green Moon Size: 647.0M
 Bendy Lone Wolf Size: 1.8G
 Bendy and the Dark Revival Size: 2.1G
@@ -1393,6 +1396,7 @@ Onimusha 2 Samurai's Destiny Size: 14.2G
 Onimusha Warlords Size: 10.2G
 OnlyUP Size: 1.5G
 Open Roads Size: 6.0G
+Operation Night Strikers Size: 1.1G
 Ori and the Blind Forest Definitive Edition Size: 3.5G
 Ori and the Will of the Wisps Size: 4.3G
 Our After-School Playzone Size: 324.0M
@@ -1507,6 +1511,7 @@ QUByte Classics Jim Power The Lost Dimension by PIKO Size: 227.0M
 QUByte Classics Thunderbolt Collection by PIKO Size: 179.0M
 QUByte Classics Zero Tolerance Collection by PIKO Size: 159.0M
 Quantum Recharged Size: 355.0M
+Quit Today Size: 1.1G
 REYNATIS Size: 8.5G
 ROAD59-A Yakuzas Last Stand- Size: 1.1G
 ROAD59A Yakuzas Last Stand Size: Unknown
@@ -1697,8 +1702,10 @@ Space Genesis Size: 1.9G
 Space Robinson Size: 75.0M
 Sparkle 2 Size: 110.0M
 Sparkle Unleashed Size: 117.0M
+Speedway Racing Size: 534.0M
 Spellagis Size: 90.0M
 Spellbearers Size: 404.0M
+Spindle Size: 950.0M
 Spiritfall Size: 1.9G
 Spiritfarer Size: 4.1G
 Splatoon 2 Size: 8.1G
@@ -1826,6 +1833,7 @@ Tetris Effect Connected Size: 4.0G
 Tetris Forever Size: 5.4G
 Thank Goodness You're Here Size: 1.3G
 That Time I Got Reincarnated as a Slime ISEKAI Chronicles Size: 5.9G
+The Ancient Magus' Bride Midsummer Pilgrimage Size: 964.0M
 The Backrooms 1998 Size: 734.0M
 The Binding of Isaac Afterbirth+ Size: 1.7G
 The Book of Death Size: 2.2G
@@ -2067,6 +2075,7 @@ Wreckfest Size: 10.8G
 Wreckin' Ball Adventure Size: 1.7G
 Wurroom Size: 1.1G
 Wylde Flowers Size: 3.4G
+XENOTILT HOSTILE PINBALL ACTION Size: 1.4G
 Xatrom Command Size: 526.0M
 Xenoblade Chronicles 2 Size: 17.8G
 Xenoblade Chronicles 3 Size: 18.8G

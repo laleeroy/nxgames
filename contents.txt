@@ -1676,6 +1676,8 @@ Silver Nornir Size: 198.0M
 Silver Screen Story Size: 249.0M
 SilverStarChess Size: 196.0M
 Simon the Sorcerer Origins Size: 1.6G
+Siralim 3 Size: 276.0M
+Siralim Ultimate Size: 535.0M
 Skater XL Size: 2.3G
 Skyline Bowling Size: 894.0M
 Slam and Roll Size: 263.0M
@@ -1941,6 +1943,8 @@ Touhou New World Size: 5.1G
 Touhou Spell Carnival Size: 1.8G
 Towa and the Guardians of the Sacred Tree Size: 5.9G
 TowerFall Size: 435.0M
+Toziuha Night Dracula's Revenge Size: 221.0M
+Toziuha Night Order of the Alchemists Size: 767.0M
 Trails in the Sky 1st Chapter Size: 9.7G
 Trash Punk Size: 267.0M
 Trash Sailors Size: 1.5G

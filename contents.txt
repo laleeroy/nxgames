@@ -101,6 +101,7 @@ Ambition Record Size: 850.0M
 America Wild Hunting Size: 136.0M
 Amnesia Collection Size: 5.3G
 Angel at Dusk Size: 766.0M
+Angry Alligator Size: 1.5G
 Angry Video Game Nerd 8-bit Size: 2.5G
 Animal Crossing New Horizons Size: 10.8G
 Animal Crossing New Horizons Island Transfer Tool Size: 46.0M
@@ -623,6 +624,7 @@ DOUBLE DRAGON Size: 363.0M
 DOUBLE DRAGON The Revenge Size: 397.0M
 DOUBLE DRAGON The Sacred Stones Size: 359.0M
 DRAGON BALL FighterZ Size: 10.0G
+DRAGON BALL Sparking ZERO Size: 6.7G
 DRAGON BALL XENOVERSE 2 for Nintendo Switch Size: 17.6G
 DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET Size: 25.0G
 DRAGON QUEST I & II HD-2D Remake Size: 8.3G
@@ -679,6 +681,7 @@ Digimon Story Cyber Sleuth Complete Edition Size: 4.8G
 Digimon Survive Size: Unknown
 Digimon World Next Order Size: 6.8G
 Diluvian Winds Size: 1.7G
+Dinkum Size: 811.0M
 Dirt Trackin 2 Size: 714.0M
 Dirt Trackin 3 Size: Unknown
 Dirt Trackin Sprint Cars Size: 704.0M
@@ -697,6 +700,7 @@ Disney Epic Mickey Rebrushed Size: 11.7G
 Disney Illusion Island Size: 7.8G
 Divinity Original Sin 2 - Definitive Edition Size: 11.9G
 Doki Doki Literature Club Plus Size: 2.1G
+Doll Dress Up Size: 185.0M
 Don't Starve Nintendo Switch Edition Size: 2.3G
 Don't Starve Together Size: 5.3G
 Donkey Kong Country Returns HD Size: 8.3G
@@ -1007,6 +1011,7 @@ Hannah's Day Size: 2.8G
 Happy Animals Bowling Size: 348.0M
 Happy Animals Mini Golf Size: 388.0M
 Happy Game Size: 1.3G
+Harvest Moon Home Sweet Home Special Edition Size: 1.0G
 Harvest Moon Light of Hope Special Edition Size: 1002.0M
 Harvest Moon Mad Dash Size: 474.0M
 Harvest Moon One World Size: 1.3G
@@ -1313,6 +1318,7 @@ Muse Dash Size: 3.9G
 Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 3.2G
 Mustache In Hell Size: 149.0M
 Mutazione Size: 2.5G
+Mute Crimson DX Size: 393.0M
 My Friend Peppa Pig Size: 2.8G
 My Horse Stories Size: 895.0M
 My Life Riding Stables 3 Size: 1.3G
@@ -1343,6 +1349,7 @@ Neon Apex Beyond the Limit Size: 723.0M
 Neon Noodles Size: 1.2G
 Neva Size: 4.9G
 Never Alone Arctic Collection Size: 1.8G
+New Super Lucky's Tale Size: 7.6G
 New Super Mario Bros. U Deluxe Size: 2.5G
 New York Mysteries High Voltage Size: 1.2G
 New York Mysteries Power of Art Size: 1.7G
@@ -1575,6 +1582,7 @@ Romancing SaGa 3 Size: 1.8G
 Rooftops & Alleys The Parkour Game Size: 1.2G
 Room of Depression Size: 423.0M
 Rose & Camellia Collection Size: 1.6G
+Rue Valley Size: 1.2G
 Rugby Challenge 4 Size: 11.1G
 Ruinverse Size: 291.0M
 Runbow Size: 1.3G
@@ -1778,6 +1786,7 @@ Super Trunko Go Size: 2.5G
 Super Wiloo Demake Size: 92.0M
 Superation Size: 1.3G
 Superfluous Returnz Size: 297.0M
+Survivor - Castaway Island Size: 909.0M
 Sweet Survivors Size: 309.0M
 Sword of Elpisia Size: 1014.0M
 Sword of the Necromancer Resurrection Size: 3.2G
@@ -2051,6 +2060,7 @@ Whiskey Mafia Frank's Story Size: 900.0M
 Whiskey Mafia Leo's Family Size: 295.0M
 Wild Park Manager Size: 195.0M
 Wildermyth Console Edition Size: 893.0M
+Wildkeepers Rising Size: 1.0G
 Wildshade Unicorn Champions Size: 1.5G
 Windstorm An Unexpected Arrival Size: 8.2G
 Windstorm Start of a Great Friendship Size: 5.4G

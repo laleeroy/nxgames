@@ -405,6 +405,7 @@ Attack on Titan 2 Size: 21.1G
 Azure Reflections Size: 3.4G
 BALL x PIT Size: 795.0M
 BEAST Bio Exo Arena Suit Team Size: 1.6G
+BEYBLADE X EVOBATTLE Size: 1.8G
 BEYBLADE X XONE Size: 2.7G
 BIG BALL SPORTS Size: 412.0M
 BIG BANG PRO WRESTLING Size: 161.0M
@@ -499,6 +500,7 @@ Burst Hero Size: 325.0M
 Bye Sweet Carole Size: 4.9G
 CARRION Size: 590.0M
 CATO Buttered Cat Size: 533.0M
+CLAWPUNK Size: 973.0M
 CLeM Size: 1.7G
 CONERU -DIMENSION GIRL- Size: 1.8G
 CONTRA ROGUE CORPS Size: 4.3G
@@ -551,6 +553,7 @@ Chess Maiden Size: 82.0M
 Chess Minimal Size: 185.0M
 Chess Royal Size: 189.0M
 Chess Ultra Size: 4.0G
+Children of Morta Size: 2.5G
 Chocobo's Mystery Dungeon EVERY BUDDY Size: 1.5G
 Chroma Quaternion Size: 483.0M
 Chrome Wolf Size: 175.0M
@@ -819,6 +822,7 @@ Fast & Furious Arcade Edition Size: 1.6G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fernz Gate Size: 192.0M
+Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
 Find Love Or Die Trying Size: 1.5G
 Finding Paradise Size: 2.4G
@@ -1035,6 +1039,7 @@ Hidden Through Time Size: 1.0G
 Hidden Through Time 2 Myths & Magic Size: 714.0M
 High On Life Size: 9.7G
 High Sea Saga DX Size: 129.0M
+Hitman Absolution Size: 14.5G
 Hitman Blood Money Reprisal Size: 4.5G
 Hogtie Size: 830.0M
 Hogwarts Legacy Size: 17.1G
@@ -1044,6 +1049,9 @@ Home Run High Size: 270.0M
 Horrific Xanatorium Size: 468.0M
 Horror Night With Tung Tung Tung Sahur Size: Unknown
 Horror Night with Tung Tung Tung Sahur Size: 1.4G
+Horror Tale 1 Kidnapper Size: 322.0M
+Horror Tale 2 Samantha Size: 387.0M
+Horror Tale 3 The Witch Size: 533.0M
 Horse Club Adventures Size: 2.1G
 Horse Club Adventures 2 Hazelwood Stories Size: 2.8G
 Horse Farm Size: 309.0M
@@ -1154,6 +1162,7 @@ Legends of Ethernal Size: 3.5G
 Legends of Heropolis DX Size: 119.0M
 Let's Build a Zoo Size: 871.0M
 Let's Sing 2025 Size: 3.7G
+Lia Hacking Destiny Size: 579.0M
 Liege Dragon Size: 246.0M
 Life is Strange 2 Size: 26.5G
 Life is Strange Before the Storm Remastered Size: 12.6G
@@ -1688,6 +1697,8 @@ Silver Nornir Size: 198.0M
 Silver Screen Story Size: 249.0M
 SilverStarChess Size: 196.0M
 Simon the Sorcerer Origins Size: 1.6G
+Sin Slayers Size: 1.2G
+Sin Slayers Reign of The 8th Size: 1015.0M
 Siralim 3 Size: 276.0M
 Siralim Ultimate Size: 535.0M
 Skater XL Size: 2.3G
@@ -2069,6 +2080,7 @@ Wildshade Unicorn Champions Size: 1.5G
 Windstorm An Unexpected Arrival Size: 8.2G
 Windstorm Start of a Great Friendship Size: 5.4G
 Winkeltje The Little Shop Size: 487.0M
+Winter Burrow Size: 1.5G
 Wizards of Brandel Size: 276.0M
 Wizordum Size: 472.0M
 Wobbly Life Size: 2.6G

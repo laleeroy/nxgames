@@ -1227,6 +1227,7 @@ Marenian Tavern Story Patty and the Hungry God Size: 995.0M
 Mario & Luigi Brothership Size: 10.0G
 Mario & Sonic at the Olympic Games Tokyo 2020 Size: 6.4G
 Mario + Rabbids Kingdom Battle Size: 4.5G
+Mario Golf Super Rush Size: 4.2G
 Mario Kart 8 Deluxe Size: 11.3G
 Mario Party Superstars Size: 2.9G
 Mario Tennis Aces Size: 2.4G
@@ -1914,6 +1915,7 @@ The Making of Karateka Size: 2.9G
 The Manga Works Size: 275.0M
 The Many Pieces of Mr. Coo Size: 895.0M
 The Operator Size: 1.7G
+The Pathless Size: 1.9G
 The Plucky Squire Size: 10.4G
 The Pyraplex Size: 250.0M
 The Ramen Sensei Size: 286.0M

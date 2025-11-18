@@ -1079,7 +1079,7 @@ Hyrule Warriors Age of Calamity Size: 12.5G
 Hyrule Warriors Definitive Edition Size: 12.9G
 IMPLOSION Size: 4.9G
 INAZUMA ELEVEN Victory Road Size: 29.1G
-INDIKA Size: Unknown
+INDIKA Size: 11.3G
 INSIDE Size: 1.5G
 INSTANT SPORTS All-Stars Size: 1.4G
 INSTANT SPORTS TENNIS Size: 1.1G
@@ -1192,8 +1192,8 @@ Lost in Random Size: 4.3G
 Lost in Random The Eternal Die Size: 2.5G
 Love Elysium Secret of the Goddess Size: 772.0M
 Love Live Nijigasaki High School Idol Club TOKIMEKI Roadmap to Future Size: 1.9G
-Love is all around Size: Unknown
-LoveIsAllAround2 Size: Unknown
+Love is all around Size: 6.6G
+LoveIsAllAround2 Size: 8.9G
 Lucy Dreaming Size: 682.0M
 Luigi's Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 7.7G
@@ -1386,7 +1386,7 @@ New York Mysteries The Outbreak Size: 1.6G
 Ni no Kuni II Revenant Kingdom PRINCE'S EDITION Size: 10.7G
 Ni no Kuni II Revenant Kingdom PRINCES EDITION Size: 10.7G
 Ni no Kuni Wrath of the White Witch Size: 5.8G
-Nice Day for Fishing Size: Unknown
+Nice Day for Fishing Size: 600.7M
 Nickelodeon All-Star Brawl Size: 5.9G
 Nickelodeon All-Star Brawl 2 Size: 6.1G
 Nicktoons & The Dice of Destiny Size: 2.7G
@@ -1497,7 +1497,7 @@ Plants vs. Zombies Battle for Neighborville Complete Edition Size: 6.4G
 Plants vs. Zombies Replanted Size: 3.0G
 PlateUp Size: 1.3G
 Platform 8 Size: 1.3G
-Please Be Happy Size: Unknown
+Please Be Happy Size: 3.2G
 Pocket Academy Size: 267.0M
 Pocket Academy 3 Size: 135.0M
 Pocket Academy ZERO Size: 189.0M
@@ -1534,7 +1534,7 @@ Prince of Persia The Lost Crown Size: 7.1G
 Princess Peach Showtime Size: 4.7G
 Professional Construction The Simulation Size: 1.3G
 Professor Doctor Jetpack Size: 423.0M
-Pudding Monsters Size: Unknown
+Pudding Monsters Size: 106.0M
 Pummel Party Size: 1.5G
 Puyo Puyo Champions Size: 2.8G
 Puyo Puyo Tetris Size: 1.1G

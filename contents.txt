@@ -530,6 +530,7 @@ Castlevania Dominus Collection Size: 1.2G
 Cat Quest III Size: 1.5G
 Catching Spirits Size: 457.0M
 Cattle Country Size: 822.0M
+Cavern Adventurers Size: 84.0M
 Celeste Size: 1.5G
 Chained Echoes Size: 1.2G
 Chalk Dash Carnival Size: 401.0M
@@ -828,6 +829,7 @@ Fear Effect Size: 1.9G
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
+Final Frontier Story Size: 84.0M
 Find Love Or Die Trying Size: 1.5G
 Finding Paradise Size: 2.4G
 Fire Emblem Engage Size: 16.6G
@@ -1034,6 +1036,7 @@ Hatch Tales A Heroic Hookshot Adventure Size: 1.4G
 Haunted Zombie School Size: 2.6G
 Haven Size: 6.1G
 Head over Heels Size: 258.0M
+Heian City Story Size: 80.0M
 Heirs of the Kings Size: 462.0M
 Hellblade Senua's Sacrifice Size: 18.4G
 Hello Goodboy Size: 1.8G
@@ -1533,6 +1536,7 @@ PowerWash Simulator Size: 5.9G
 Prehistoric Dude Size: 64.0M
 Prince of Persia The Lost Crown Size: 7.1G
 Princess Peach Showtime Size: 4.7G
+Pro Wrestler Story Size: 164.0M
 Professional Construction The Simulation Size: 1.3G
 Professor Doctor Jetpack Size: 423.0M
 Pudding Monsters Size: 106.0M
@@ -1584,6 +1588,7 @@ Return to Monkey Island Size: 5.9G
 Rev Up RC Grand Prix Size: 242.0M
 Revenant Dogma Size: 141.0M
 Revenant Saga Size: 229.0M
+Revival Recolonization Size: 645.0M
 Rift of the NecroDancer Size: 2.8G
 RingFit Adventure Size: 3.3G
 Risk of Rain Size: 175.0M
@@ -1720,6 +1725,7 @@ Sin Slayers Reign of The 8th Size: 1015.0M
 Siralim 3 Size: 276.0M
 Siralim Ultimate Size: 535.0M
 Skater XL Size: 2.3G
+Skating Rink Story Size: 139.0M
 Skyline Bowling Size: 894.0M
 Slam and Roll Size: 263.0M
 Slave Zero X Size: 5.6G
@@ -1897,6 +1903,7 @@ The First Tree Size: 2.4G
 The Gardener Simulator - Plant, Grow, Decorate, Build Sim Size: 1.7G
 The Gardens Between Size: 1.7G
 The Great Ace Attorney Chronicles Size: 3.6G
+The Great Rebellion Edition 2084 Size: 1.7G
 The Hokkaido Serial Murder Case The Okhotsk Disappearance Memories in Ice, Tearful Figurine Size: 1.1G
 The Hundred Line -Last Defense Academy- Size: 13.4G
 The Hundred Line -Last Defense Academy- Artbook Size: 1000.0M

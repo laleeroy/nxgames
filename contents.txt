@@ -1607,7 +1607,7 @@ Pikmin 3 Deluxe Size: 6.5G
 Pikmin 4 Size: 10.5G
 Pine A Story of Loss Size: 1.7G
 Piofiore Episodio 1926 Size: 6.5G
-Piofiore Fated Memories Size: Unknown
+Piofiore Fated Memories Size: 4.9G
 Pipistrello and the Cursed Yoyo Size: 535.0M
 Pixel Cafe Size: 516.0M
 Pizza Tower Size: 1.1G
@@ -1650,13 +1650,13 @@ Power Sink Size: 1.6G
 PowerWash Simulator Size: 5.9G
 Prehistoric Dude Size: 64.0M
 Prince of Persia The Lost Crown Size: 7.1G
-Princess Closet Size: Unknown
-Princess Closet - Fashion and love will change me - Size: Unknown
+Princess Closet Size: 875.0M
+Princess Closet - Fashion and love will change me - Size: 859.0M
 Princess Peach Showtime Size: 4.7G
 Pro Wrestler Story Size: 164.0M
 Professional Construction The Simulation Size: 1.3G
 Professor Doctor Jetpack Size: 423.0M
-Pub Encounter Size: Unknown
+Pub Encounter Size: 213.0M
 Pudding Monsters Size: 106.0M
 Pummel Party Size: 1.5G
 Puyo Puyo Champions Size: 2.8G
@@ -1677,8 +1677,8 @@ ROAD59-A Yakuzas Last Stand- Size: 1.1G
 ROAD59A Yakuzas Last Stand Size: Unknown
 ROCK BOSHERS DX Director's Cut Size: 382.0M
 RPGolf Legends Size: 410.0M
-Radiant Tale Size: Unknown
-Radiant Tale -Fanfare- Size: Unknown
+Radiant Tale Size: 6.0G
+Radiant Tale -Fanfare- Size: 5.5G
 Radical Rex (QUByte Classics) Size: 114.0M
 Rage Swarm Size: 298.0M
 Raging Bytes Size: 214.0M
@@ -1687,7 +1687,7 @@ Rainbow Billy The Curse of the Leviathan Size: 3.6G
 Rainbow Laser Disco Dungeon Size: 279.0M
 Rally Arcade Classics Size: 1.5G
 Rapala Fishing Pro Series Size: 1.0G
-Raptor Boyfriend A High School Romance Size: Unknown
+Raptor Boyfriend A High School Romance Size: 1.1G
 Ratshaker Size: 1.3G
 Ratyrinth Size: 79.0M
 Ravenous Devils Size: 1.3G
@@ -1732,12 +1732,12 @@ Rogue Sentry Size: 176.0M
 Rogue Waters Size: 2.1G
 RollerCoaster Tycoon Adventures Deluxe Size: 1.5G
 Roman Rumble in Las Vegum - Asterix & Obelix XXL 2 Size: 1.9G
-Romance MD Always On Call Size: Unknown
+Romance MD Always On Call Size: 1.5G
 Romancing SaGa -Minstrel Song- Remastered Size: 9.5G
 Romancing SaGa 2 Size: 1.4G
 Romancing SaGa 2 Revenge of the Seven Size: 10.0G
 Romancing SaGa 3 Size: 1.8G
-Romantic Date The Perfect Boy Size: Unknown
+Romantic Date The Perfect Boy Size: 211.0M
 Rooftops & Alleys The Parkour Game Size: 1.2G
 Room of Depression Size: 423.0M
 Rose & Camellia Collection Size: 1.6G
@@ -1766,7 +1766,7 @@ SD GUNDAM G GENERATION CROSS RAYS PREMIUM G SOUND EDITION Size: 21.7G
 SD GUNDAM G GENERATION GENESIS for Nintendo Switch Size: 11.8G
 SEDAP A Culinary Adventure Size: 1.9G
 SEGA Genesis Nintendo Switch Online Size: 226.0M
-SEKIMORI GAMI - SAIEN Size: Unknown
+SEKIMORI GAMI - SAIEN Size: 3.0G
 SHAPE NEON CHAOS Size: 127.0M
 SHINOBI Art of Vengeance Size: 7.2G
 SMURFS KART Size: 1.9G
@@ -1812,14 +1812,14 @@ Sally Face Size: 1.9G
 Sam & Max Beyond Time and Space Size: 1.1G
 Sam & Max Save the World Size: 863.0M
 Sam & Max The Devil's Playhouse Size: 1.6G
-Scandal In The Spotlight Size: Unknown
+Scandal In The Spotlight Size: 1.5G
 School Race GP Size: 392.0M
 Scott Pilgrim vs. The World The Game Complete Edition Size: 1.1G
 Scott Whiskers in the Search for Mr. Fumbleclaw Size: 1.0G
 Sea Fantasy Size: 639.0M
 Sea of Stars Size: 5.1G
-Secrets of Me Size: Unknown
-Seduced in the Sleepless City Size: Unknown
+Secrets of Me Size: 395.0M
+Seduced in the Sleepless City Size: 1.5G
 Seedsow Lullaby Size: 4.4G
 Seek Hearts Size: 219.0M
 Sentry Paragon Size: 39.0M
@@ -1867,7 +1867,7 @@ Snipperclips Cut it out, together Size: 1.8G
 Snoopy & The Great Mystery Club Size: 1.6G
 SnowRunner Size: 14.7G
 Snufkin Melody of Moominvalley Size: 2.2G
-Sol Dorado Heist Size: Unknown
+Sol Dorado Heist Size: 225.0M
 Solomon Snow First Contact Size: 1.9G
 Son of a Gun Size: 3.0G
 Song of Nunu A League of Legends Story Size: 11.9G
@@ -1883,7 +1883,7 @@ Speedway Racing Size: 534.0M
 Spellagis Size: 90.0M
 Spellbearers Size: 404.0M
 Spindle Size: 950.0M
-Spiral Memoria -The Summer I Meet Myself- Size: Unknown
+Spiral Memoria -The Summer I Meet Myself- Size: 431.0M
 Spiritfall Size: 1.9G
 Spiritfarer Size: 4.1G
 Splatoon 2 Size: 8.1G
@@ -1901,15 +1901,15 @@ Star Trek Legends Size: 2.5G
 Star Trek Resurgence Size: 5.2G
 Star Wars Episode I Jedi Power Battles Size: 4.4G
 Star of Providence Size: 245.0M
-Star-Crossed Myth - The Department of Punishments - Size: Unknown
-Star-Crossed Myth - The Department of Wishes - Size: Unknown
+Star-Crossed Myth - The Department of Punishments - Size: 1.5G
+Star-Crossed Myth - The Department of Wishes - Size: 1.5G
 Stardew Valley Size: 1.6G
 Starward Rogue Size: 633.0M
 Stasis Size: 2.6G
 State of Anarchy Master of Mayhem Size: 434.0M
 Station Manager Size: 269.0M
-Steam Prison Size: Unknown
-Steam Prison -Beyond the Steam- Size: Unknown
+Steam Prison Size: 4.6G
+Steam Prison -Beyond the Steam- Size: 3.3G
 Steven Universe Save the Light Size: 2.5G
 Steven Universe Unleash the Light Size: 1.1G
 Stikbold A Dodgeball Adventure DELUXE Size: 1.0G
@@ -1925,7 +1925,7 @@ Succubus With Guns Size: 1.1G
 Sugar Tanks Size: 552.0M
 Sugar Tanks 2 Size: 566.0M
 Sugardew Island Size: 1.2G
-Suhoshin Size: Unknown
+Suhoshin Size: 657.0M
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars Size: 7.2G
 Summer Days Size: 410.0M
 Summer Party Time Size: 732.0M
@@ -1963,13 +1963,13 @@ Survivor - Castaway Island Size: 909.0M
 Sweet Survivors Size: 309.0M
 Sword of Elpisia Size: 1014.0M
 Sword of the Necromancer Resurrection Size: 3.2G
-Sympathy Kiss Size: Unknown
+Sympathy Kiss Size: 4.5G
 Symphonia Size: 1.0G
-Synthetic Lover Size: Unknown
+Synthetic Lover Size: 1.4G
 System Shock 2 25th Anniversary Remaster Size: 4.5G
 TACTICAL BANDITS Size: 1.9G
-TAISHO x ALICE ALL IN ONE Size: Unknown
-TAISHO x ALICE HEADS & TAILS Size: Unknown
+TAISHO x ALICE ALL IN ONE Size: 3.8G
+TAISHO x ALICE HEADS & TAILS Size: 3.3G
 TENSEI Size: 344.0M
 THE Bass Fishing Size: 1.6G
 THE HOUSE OF THE DEAD 2 Remake Size: 3.4G
@@ -2010,7 +2010,7 @@ Teenage Mutant Ninja Turtles Tactical Takedown Size: 805.0M
 Teenage Mutant Ninja Turtles The Cowabunga Collection Size: 3.5G
 Tell Me Your Story Size: 1.9G
 Temp Zero Size: 340.0M
-Tengoku Struggle -Strayside- Size: Unknown
+Tengoku Struggle -Strayside- Size: 6.8G
 Tennis Club Story Size: 272.0M
 Tennis World Tour Size: 6.1G
 Tennis World Tour 2 Size: 5.4G
@@ -2022,7 +2022,7 @@ Tetris Effect Connected Size: 4.0G
 Tetris Forever Size: 5.4G
 Thank Goodness You're Here Size: 1.3G
 That Time I Got Reincarnated as a Slime ISEKAI Chronicles Size: 5.9G
-The Amazing Shinsengumi Heroes in Love Size: Unknown
+The Amazing Shinsengumi Heroes in Love Size: 306.0M
 The Ancient Magus' Bride Midsummer Pilgrimage Size: 964.0M
 The Backrooms 1998 Size: 734.0M
 The Binding of Isaac Afterbirth+ Size: 1.7G
@@ -2031,12 +2031,12 @@ The Bunny Graveyard Size: 553.0M
 The Cabin Factory Size: 2.1G
 The Case of the Golden Idol Size: 461.0M
 The Case of the Golden Idol Complete Edition Size: 420.0M
-The Charming Empire Size: Unknown
+The Charming Empire Size: 603.0M
 The Coma 2 Vicious Sisters Size: 1.1G
 The Coma 2B Catacomb Size: 1.9G
 The Coma Recut Size: 1.3G
 The Crackpet Show Size: 821.0M
-The Crimson Flower that Divides Lunar Coupling Size: Unknown
+The Crimson Flower that Divides Lunar Coupling Size: 5.1G
 The Dungeon of Naheulbeuk The Amulet of Chaos - Chicken Edition Size: 3.1G
 The Elder Scrolls V Skyrim Size: 28.3G
 The Exit 8 Size: 1.7G
@@ -2075,14 +2075,14 @@ The Lost and The Wicked Size: 910.0M
 The Making of Karateka Size: 2.9G
 The Manga Works Size: 275.0M
 The Many Pieces of Mr. Coo Size: 895.0M
-The Men of Yoshiwara Kikuya Size: Unknown
-The Men of Yoshiwara Ohgiya Size: Unknown
+The Men of Yoshiwara Kikuya Size: 484.0M
+The Men of Yoshiwara Ohgiya Size: 520.0M
 The Operator Size: 1.7G
 The Pathless Size: 1.9G
 The Plucky Squire Size: 10.4G
 The Pyraplex Size: 250.0M
 The Ramen Sensei Size: 286.0M
-The Red Bell's Lament Size: Unknown
+The Red Bell's Lament Size: 6.9G
 The Rise of the Golden Idol Size: 4.3G
 The Samurai Collection (QUByte Classics) Size: 173.0M
 The Seed Unit 7 Size: 62.0M
@@ -2094,10 +2094,10 @@ The Star Named EOS Size: 1.0G
 The Strike - Championship Edition Size: 1.3G
 The Sushi Spinnery Size: 249.0M
 The Tale of Clouds and Wind (QUByte Classics) Size: 179.0M
-The Town of Nie Size: Unknown
-The Town of Nie Iromusubi Size: Unknown
+The Town of Nie Size: 3.4G
+The Town of Nie Iromusubi Size: 1.4G
 The Unicorn Princess Size: 1.8G
-The Villainess Is Adored by the Prince of the Neighbor Kingdom Size: Unknown
+The Villainess Is Adored by the Prince of the Neighbor Kingdom Size: 1017.0M
 The Walking Dead A New Frontier Size: 7.9G
 The Walking Dead Destinies Size: 7.2G
 The Walking Dead Season Two Size: 5.5G
@@ -2119,8 +2119,8 @@ Tintin Reporter - Cigars of the Pharaoh Size: 7.0G
 Tiny Bookshop Size: 1.2G
 To the Moon Size: 823.0M
 Toadomination Size: 79.0M
-Tokimeki Memorial Girl's Side 1st Love (JAP) Size: Unknown
-Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 1st Love (JAP) Size: 3.5G
+Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: 4.1G
 Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: Unknown
 Tokyo Mirage Sessions #FE Encore Size: 11.3G
 Tomb Raider Definitive Edition Size: 22.6G

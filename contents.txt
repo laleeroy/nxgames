@@ -2121,7 +2121,7 @@ To the Moon Size: 823.0M
 Toadomination Size: 79.0M
 Tokimeki Memorial Girl's Side 1st Love (JAP) Size: 3.5G
 Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: 4.1G
-Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: 8.9G
 Tokyo Mirage Sessions #FE Encore Size: 11.3G
 Tomb Raider Definitive Edition Size: 22.6G
 Tomb Raider I-III Remastered Starring Lara Croft Size: 5.5G
@@ -2218,7 +2218,7 @@ Valiant Hearts Coming Home Size: 2.0G
 Vampire Hunters Size: 2.3G
 Vampire Survivors Size: 984.0M
 Vampire The Masquerade - Swansong Size: 5.9G
-Variable Barricade Size: Unknown
+Variable Barricade Size: 5.0G
 Veil of the Witch Size: Unknown
 Venba Size: 1.8G
 Vengeance Hunters Size: 236.0M
@@ -2226,12 +2226,12 @@ Venture Towns Size: 255.0M
 Very Very Valet Size: 931.0M
 Village Tycoon Farm City Simulator Size: 108.0M
 Vinebound Tangled Together Size: 375.0M
-Virche Evermore -EpiC Lycoris- Size: Unknown
-Virche Evermore -ErroR Salvation- Size: Unknown
+Virche Evermore -EpiC Lycoris- Size: 9.5G
+Virche Evermore -ErroR Salvation- Size: 6.7G
 Virtual Battle Size: 362.0M
 Virus Rush Size: 1.3G
 Vivitter for Nintendo Switch Size: 388.0M
-Voice Love On Air Size: Unknown
+Voice Love On Air Size: 5.8G
 Void Prison Size: 150.0M
 Void Scrappers Size: 391.0M
 Voxel Galaxy Size: 1.2G
@@ -2259,12 +2259,12 @@ Wild Park Manager Size: 195.0M
 Wildermyth Console Edition Size: 893.0M
 Wildkeepers Rising Size: 1.0G
 Wildshade Unicorn Champions Size: 1.5G
-Winds Of Change Size: Unknown
+Winds Of Change Size: 1.3G
 Windstorm An Unexpected Arrival Size: 8.2G
 Windstorm Start of a Great Friendship Size: 5.4G
 Winkeltje The Little Shop Size: 487.0M
 Winter Burrow Size: 1.5G
-Winters Wish Spirits of Edo Size: Unknown
+Winters Wish Spirits of Edo Size: 4.6G
 Wizards of Brandel Size: 276.0M
 Wizordum Size: 472.0M
 Wobbly Life Size: 2.6G
@@ -2318,8 +2318,8 @@ Ys vs. Trails in the Sky Alternative Saga Size: 3.4G
 Yu-Gi-Oh Legacy of the Duelist Link Evolution Size: 1.7G
 Yu-Gi-Oh RUSH DUEL Dawn of the Battle Royale Size: 3.5G
 Yu-Gi-Oh Rush Duel Saikyo Battle Royale Lets Go Go Rush (JAP) Size: 2.4G
-Yukar From The Abyss Size: Unknown
-Yumemidori Nostalgia Size: Unknown
+Yukar From The Abyss Size: 1.4G
+Yumemidori Nostalgia Size: 339.0M
 Yuppie Psycho Executive Edition Size: 1.4G
 Zen Chess Collection Size: 72.0M
 Zero-G Gunfight Size: 919.0M
@@ -2339,8 +2339,8 @@ Zumba Aqua Size: 107.0M
 Zumba Blitz Size: 49.0M
 Zumba Garden Size: 70.0M
 Zumba Royal Marble Shooter Mania Size: 232.0M
-even if TEMPEST Size: Unknown
-even if TEMPEST Dawning Connections Size: Unknown
+even if TEMPEST Size: 4.8G
+even if TEMPEST Dawning Connections Size: 7.1G
 megaton musashi Size: 10.7G
 pureya Size: 217.0M
 resident evil 4 Size: 12.1G

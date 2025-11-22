@@ -1164,7 +1164,7 @@ INSIDE Size: 1.5G
 INSTANT SPORTS All-Stars Size: 1.4G
 INSTANT SPORTS TENNIS Size: 1.1G
 Ikkarus and the Prince of Sin Size: 176.0M
-Illusion of Itehari Size: Unknown
+Illusion of Itehari Size: 2.4G
 Illusion of L'Phalcia Size: 370.0M
 Immortals Fenyx Rising Size: 25.8G
 Infinite Links Size: 898.0M
@@ -1174,8 +1174,8 @@ Instant Sports Plus Size: 1.2G
 Instant Sports Summer Games Size: 1.4G
 Instant Sports Winter Games Size: 1.8G
 Into the Restless Ruins Size: 1.0G
-Iris School of Wizardry -Vinculum Hearts- Size: Unknown
-Irresistible Mistakes Size: Unknown
+Iris School of Wizardry -Vinculum Hearts- Size: 874.0M
+Irresistible Mistakes Size: 1.5G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Familia Myth Infinite Combate Size: 4.7G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Fullland of Water and Light Size: 1.4G
 Is This Seat Taken Size: 437.0M
@@ -1184,7 +1184,7 @@ Isle of Jura Fishing Trip Size: 634.0M
 It Takes Two Size: 12.2G
 It came from space and ate our brains Size: 1.6G
 JUMP FORCE - Deluxe Edition Size: 11.4G
-Jack Jeanne Size: Unknown
+Jack Jeanne Size: 6.1G
 Jewel Fever 2 Size: 166.0M
 Jewel Fever 3 Size: 215.0M
 Jim is Moving Out Size: 931.0M
@@ -1213,12 +1213,12 @@ Kids Party Checkers Size: 317.0M
 Killer Frequency Size: 2.2G
 King's Heir Rise to the Throne Size: 1016.0M
 Kingdom Come Deliverance Royal Edition Size: 23.2G
-Kings of Paradise Size: Unknown
+Kings of Paradise Size: 668.0M
 Kirby Star Allies Size: 4.0G
 Kirby and the Forgotten Land Size: 5.8G
 Kirbys Return to Dream Land Deluxe Size: 5.0G
-Kissed by the Baddest Bidder Size: Unknown
-Kitty Love -Way to look for love- Size: Unknown
+Kissed by the Baddest Bidder Size: 2.1G
+Kitty Love -Way to look for love- Size: 537.0M
 Knight's Night Size: 103.0M
 Knights of Grayfang Size: 541.0M
 Know by heart.. Size: 1.0G
@@ -1246,7 +1246,7 @@ Laika Aged Through Blood Size: 6.7G
 Lambs on the road The Beginning Size: 770.0M
 Last 4 Alive Escape From Zombies Size: 1.5G
 Last Time I Saw You Size: 862.0M
-Later Daters Premium Size: Unknown
+Later Daters Premium Size: 562.0M
 Layers of Fear 2 Size: 5.6G
 Layers of Fear Legacy Size: 3.1G
 Leftovers KO Size: 504.0M
@@ -1270,8 +1270,8 @@ Little Kitty, Big City Size: 2.2G
 Little Nightmares Complete Edition Size: 3.1G
 Little Nightmares II Size: 6.6G
 Little Nightmares III Size: 9.5G
-Littlewood Size: Unknown
-LongStory A dating game for the real world Size: Unknown
+Littlewood Size: 422.0M
+LongStory A dating game for the real world Size: 880.0M
 Looney Tunes Wacky World of Sports Size: 2.1G
 Loretta Size: 759.0M
 Lorn's Lure Size: 1.5G
@@ -1282,13 +1282,13 @@ Lost in Play Size: 1.5G
 Lost in Random Size: 4.3G
 Lost in Random The Eternal Die Size: 2.5G
 Love Elysium Secret of the Goddess Size: 772.0M
-Love Furry Boys Zodiac Dating App Size: Unknown
-Love Language Stories Size: Unknown
-Love Letter from Thief X Size: Unknown
+Love Furry Boys Zodiac Dating App Size: 645.0M
+Love Language Stories Size: 474.0M
+Love Letter from Thief X Size: 922.0M
 Love Live Nijigasaki High School Idol Club TOKIMEKI Roadmap to Future Size: 1.9G
 Love is all around Size: 6.6G
 LoveIsAllAround2 Size: 8.9G
-Lover Pretend Size: Unknown
+Lover Pretend Size: 3.9G
 Lucy Dreaming Size: 682.0M
 Luigi's Mansion 2 HD Size: 3.0G
 Luigis Mansion 3 Size: 7.7G
@@ -1337,7 +1337,7 @@ Mario Tennis Aces Size: 2.4G
 Mario vs. Donkey Kong Size: 1.3G
 Mark of the Deep Size: 2.0G
 Mask of the Rose Size: 2.7G
-Masquerade Kiss Size: Unknown
+Masquerade Kiss Size: 1.5G
 Master Detective Archives RAIN CODE Size: 16.6G
 Matchpoint - Tennis Championships Size: 3.4G
 Max The Curse of Brotherhood Size: 2.7G
@@ -1354,7 +1354,7 @@ Mega Man X Legacy Collection Size: 3.0G
 Mega Man X Legacy Collection 2 Size: 6.6G
 Mega Man ZeroZX Legacy Collection Size: 3.2G
 Megaton Rainfall Size: 737.0M
-Meiji Tokyo Renka Full Moon Size: Unknown
+Meiji Tokyo Renka Full Moon Size: 2.9G
 Melatonin Size: 2.1G
 Melon Journey Size: 867.0M
 Mercenaries Blaze Dawn of the Twin Dragons Size: 568.0M
@@ -1376,7 +1376,7 @@ Mighty Mage Size: 79.0M
 Mighty Morphin Power Rangers Rita's Rewind Size: 863.0M
 Miitopia Size: 3.1G
 Mika and the Witch's Mountain Size: 2.5G
-Milky Way Prince - The Vampire Star Size: Unknown
+Milky Way Prince - The Vampire Star Size: 902.0M
 Milli & Greg Size: 268.0M
 Mina & Michi Size: 40.0M
 Minami Lane Size: 840.0M
@@ -1391,7 +1391,7 @@ MisBloody Size: 66.0M
 Misc. A Tiny Tale Size: 9.8G
 Missile Command Delta Size: 1.1G
 Missing Banban Size: 524.0M
-Mistonia's Hope -The Lost Delight- Size: Unknown
+Mistonia's Hope -The Lost Delight- Size: 5.6G
 Monochrome Order Size: 336.0M
 Monoquous 2 Size: 82.0M
 Monorail Stories Size: 749.0M
@@ -1442,19 +1442,19 @@ Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 3.2G
 Mustache In Hell Size: 149.0M
 Mutazione Size: 2.5G
 Mute Crimson DX Size: 393.0M
-My Bewitching Perfume Size: Unknown
-My Butler Size: Unknown
-My Dangerous Life Size: Unknown
-My Forged Wedding Size: Unknown
+My Bewitching Perfume Size: 1.1G
+My Butler Size: 563.0M
+My Dangerous Life Size: 362.0M
+My Forged Wedding Size: 1.1G
 My Friend Peppa Pig Size: 2.8G
 My Horse Stories Size: 895.0M
-My Last First Kiss Size: Unknown
+My Last First Kiss Size: 1.9G
 My Life Riding Stables 3 Size: 1.3G
 My Little Riding Champion Size: 2.0G
-My Next Life as a Villainess All Routes Lead to Doom -Pirates of the Disturbance- Size: Unknown
+My Next Life as a Villainess All Routes Lead to Doom -Pirates of the Disturbance- Size: 3.8G
 My Riding Stables 2 A New Adventure Size: 1.5G
 My Riding Stables Life with Horses Size: 1.3G
-My Secret Pets Size: Unknown
+My Secret Pets Size: 488.0M
 My Time at Sandrock Size: 6.6G
 MySims Size: Unknown
 MySims Cozy Bundle Size: 2.9G
@@ -1497,10 +1497,10 @@ Nice Day for Fishing Size: 600.7M
 Nickelodeon All-Star Brawl Size: 5.9G
 Nickelodeon All-Star Brawl 2 Size: 6.1G
 Nicktoons & The Dice of Destiny Size: 2.7G
-Nicole Size: Unknown
+Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
 Night in the Woods Size: 6.4G
-Nightshade Size: Unknown
+Nightshade Size: 3.0G
 Nikoderiko The Magical World - Director's Cut Size: 6.9G
 Nine Sols Size: 2.7G
 Ninja Village Size: 253.0M
@@ -1515,8 +1515,8 @@ No More Heroes 3 Size: 8.1G
 No More Snow Size: 342.0M
 No Son Of Mine Size: 1.0G
 Noise of Neon Size: 434.0M
-Norn9 Last Era Size: Unknown
-Norn9 Var Commons Size: Unknown
+Norn9 Last Era Size: 9.4G
+Norn9 Var Commons Size: 6.8G
 Notebook Artillery Size: 136.0M
 Null Drifter Size: 188.0M
 OCTOPATH TRAVELER II Size: 6.1G
@@ -1531,12 +1531,12 @@ Oceanhorn - Monster of Uncharted Seas Size: 462.0M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Octopath Traveler Size: 3.1G
 OddBallers Size: 1.8G
-Of the Red, the Light, and the Ayakashi Tsuzuri Size: Unknown
-Office Lovers Size: Unknown
+Of the Red, the Light, and the Ayakashi Tsuzuri Size: 2.2G
+Office Lovers Size: 413.0M
 Ogu and the Secret Forest Size: 2.3G
 OhEdo Towns Size: 253.0M
 Old Man's Journey Size: 1.3G
-Olympia Soirée Size: Unknown
+Olympia Soirée Size: 5.7G
 Omega 6 The Triangle Stars Size: 546.0M
 On Your Tail Size: 6.4G
 Once Again Size: 601.0M
@@ -1545,7 +1545,7 @@ Onigo Hunter Size: 432.0M
 Onimusha 2 Samurai's Destiny Size: 14.2G
 Onimusha Warlords Size: 10.2G
 OnlyUP Size: 1.5G
-Oops, I Said Yes Size: Unknown
+Oops, I Said Yes Size: 1023.0M
 Open Roads Size: 6.0G
 Ori and the Blind Forest Definitive Edition Size: 3.5G
 Ori and the Will of the Wisps Size: 4.3G
@@ -1556,7 +1556,7 @@ Our Flick Erasers Size: 1.1G
 Our Ninja World Size: 238.0M
 Our Summer Festival Size: 208.0M
 Our Summer Sports Size: 292.0M
-Our Two Bedroom Story Size: Unknown
+Our Two Bedroom Story Size: 747.0M
 Our Winter Sports Size: 182.0M
 Out of Sight Size: 4.1G
 Outer Wilds Size: 6.1G
@@ -1583,7 +1583,7 @@ Pan-Dimensional Conga Combat Size: 132.0M
 Paper Ghost Stories Third Eye Open Size: 3.3G
 Paper Mario The Thousand-Year Door Size: 5.1G
 Paper Trail Size: 1.0G
-Paradigm Paradox Size: Unknown
+Paradigm Paradox Size: 5.7G
 Party Party Time Size: 747.0M
 Party Party Time 2 Size: 822.0M
 Pawn of the Dead Size: 1.1G
@@ -1606,7 +1606,7 @@ Pikmin 1+2 Size: 2.3G
 Pikmin 3 Deluxe Size: 6.5G
 Pikmin 4 Size: 10.5G
 Pine A Story of Loss Size: 1.7G
-Piofiore Episodio 1926 Size: Unknown
+Piofiore Episodio 1926 Size: 6.5G
 Piofiore Fated Memories Size: Unknown
 Pipistrello and the Cursed Yoyo Size: 535.0M
 Pixel Cafe Size: 516.0M

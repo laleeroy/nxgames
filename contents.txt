@@ -1387,6 +1387,8 @@ Minecraft Story Mode - Season Two Size: 5.9G
 Minecraft Story Mode - The Complete Adventure Size: 4.3G
 Mineko's Night Market Size: 1.8G
 Mini Golf Simulator Size: 186.0M
+Mini Metro Size: 219.0M
+Mini Motorways Size: 326.0M
 MisBloody Size: 66.0M
 Misc. A Tiny Tale Size: 9.8G
 Missile Command Delta Size: 1.1G

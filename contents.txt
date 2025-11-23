@@ -498,6 +498,7 @@ Bloodstained Ritual of the Night Size: 13.6G
 Bloomtown A Different Story Size: 831.0M
 Bonds of the Skies Size: 428.0M
 BooBooBooster Size: 417.0M
+Book of Demons Size: 830.0M
 Boomerang Fu Size: 662.0M
 Borderlands 3 Ultimate Edition Size: 25.1G
 Boti Byteland Overclocked Size: 2.6G
@@ -1081,6 +1082,7 @@ Griftlands Size: 2.6G
 Grounded Size: 3.5G
 Guilty Gear -Strive- Nintendo Switch Edition Size: 14.3G
 Guns of Fury Size: 219.0M
+HELLCARD Size: 491.0M
 HOT WHEELS UNLEASHED Size: 8.1G
 HOT WHEELS UNLEASHED 2 - Turbocharged Size: 7.8G
 HUNTERxHUNTER NENxIMPACT Size: 2.3G

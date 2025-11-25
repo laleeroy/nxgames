@@ -481,6 +481,8 @@ Bilkins' Folly Size: 528.0M
 BioShock Infinite The Complete Edition Size: 20.8G
 Biomutant Size: 7.6G
 Bioweaver Size: 673.0M
+Biped Size: 2.4G
+Biped 2 Size: 5.1G
 Birth Size: 2.2G
 Birushana Rising Flower of Genpei Size: 6.3G
 Bish Bash Bots Size: 1.9G
@@ -1819,6 +1821,7 @@ SWORN Size: 3.8G
 SaGa SCARLET GRACE AMBITIONS Size: 2.7G
 Saints Row IV Re-Elected Size: 8.6G
 Sally Face Size: 1.9G
+Salt and Sanctuary Size: 1.0G
 Sam & Max Beyond Time and Space Size: 1.1G
 Sam & Max Save the World Size: 863.0M
 Sam & Max The Devil's Playhouse Size: 1.6G

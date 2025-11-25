@@ -2255,6 +2255,7 @@ Voxel Galaxy Size: 1.2G
 Voxel Pirates Size: 1022.0M
 Voxel Shot for Nintendo Switch Size: 554.0M
 Voxel Sword Size: 439.0M
+Vs Rage Size: 835.0M
 WWE 2K Battlegrounds Size: 10.8G
 WWE 2K18 Size: 21.2G
 Wand Wars Size: 141.0M

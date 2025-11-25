@@ -2208,6 +2208,7 @@ UltraGoodness Size: 139.0M
 UltraGoodness 2 Size: 203.0M
 Unalive 010 Size: 1.7G
 Undead Battle Royale Size: 545.0M
+Undertale Size: 220.0M
 Undying Size: 1.3G
 Unfair Rampage Knightfall Size: 369.0M
 Unforeseen Incidents Size: 2.4G

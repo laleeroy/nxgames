@@ -1840,6 +1840,7 @@ Sentry Paragon Size: 39.0M
 Sephirothic Stories Size: 365.0M
 Serial Cleaner Size: 2.5G
 Serial Cleaners Size: 4.1G
+Session Skate Sim Size: 3.8G
 Shadow Labyrinth Size: 4.6G
 Shadows of the Damned Hella Remastered Size: 4.9G
 Shanghai Summer Size: 533.0M

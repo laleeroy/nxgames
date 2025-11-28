@@ -431,6 +431,9 @@ BLAZBLUE CROSS TAG BATTLE Size: 8.6G
 BOT.vinnik Chess Size: 57.0M
 BOT.vinnik Chess 2 Size: 55.0M
 BRAVELY DEFAULT II Size: 12.4G
+BUBBLE BOBBLE Sugar Dungeons Size: 356.0M
+BUBBLE BOBBLE Sugar Dungeons Deluxe Contents Size: 282.0M
+BUBBLE SYMPHONY Size: 573.0M
 BUSTAFELLOWS Size: 2.2G
 BUSTAFELLOWS season2 Size: 2.9G
 Baki Hanma Blood Arena Size: 2.1G
@@ -521,6 +524,8 @@ Bright Memory Infinite Gold Edition Size: 2.6G
 Bring You Home Size: 1.8G
 Broken Age Size: 2.0G
 Broken Sword - Shadow of the Templars Reforged Size: 2.9G
+Bubble Bobble 4 Friends The Baron is Back Size: 983.0M
+Bubble Wizard III Saga Size: 866.0M
 Bug & Seek Size: 431.0M
 Bulldozer Tycoon Construction Simulator Size: 150.0M
 Bunker Builder & Construction Simulator Size: 549.0M
@@ -895,6 +900,7 @@ Fear Effect Size: 1.9G
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
+Final Bubble Bobble Size: 19.0M
 Final Frontier Story Size: 84.0M
 Finally, in Love Again Size: 1.2G
 Find Love Or Die Trying Size: 1.5G
@@ -1601,6 +1607,7 @@ Paper Ghost Stories Third Eye Open Size: 3.3G
 Paper Mario The Thousand-Year Door Size: 5.1G
 Paper Trail Size: 1.0G
 Paradigm Paradox Size: 5.7G
+Parasol Stars - The Story of Bubble Bobble III Size: 111.0M
 Party Party Time Size: 747.0M
 Party Party Time 2 Size: 822.0M
 Pawn of the Dead Size: 1.1G
@@ -1680,6 +1687,9 @@ Puyo Puyo Champions Size: 2.8G
 Puyo Puyo Tetris Size: 1.1G
 Puyo Puyo Tetris 2 Size: 2.2G
 Puzzle & Chess Size: 86.0M
+Puzzle Bobble Bust-a-Move (16-Bit Console Version) Size: 44.0M
+Puzzle Bobble Everybubble Size: 1.7G
+Puzzle Bobble2XBUST-A-MOVE2 Arcade Edition & Puzzle Bobble3BUST-A-MOVE3 S-Tribute Size: 557.0M
 Puzzle Quest Immortal Edition Size: 475.0M
 Puzzle Quest The Legend Returns Size: 316.0M
 QUByte Classics - The Humans by PIKO Size: 112.0M

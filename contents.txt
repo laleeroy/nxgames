@@ -1060,6 +1060,7 @@ Fly Corp Size: 494.0M
 Flying Shark Shark Shark Size: 595.0M
 Flying Tank Size: 189.0M
 Folk Hero Size: 715.0M
+Folly of the Wizards Size: 1.0G
 Food Girls Size: 1.9G
 Food Girls 2 Civil War Size: 1.9G
 Food Girls 2 Gourmand Civil War Size: Unknown
@@ -1631,6 +1632,7 @@ Missing Banban Size: 524.0M
 Mistonia's Hope -The Lost Delight- Size: 5.6G
 Monkey King Master of the Clouds Size: 191.0M
 Monochrome Order Size: 336.0M
+Monomals Size: 1.4G
 Monoquous 2 Size: 82.0M
 Monorail Stories Size: 749.0M
 Monster Energy Supercross - The Official Videogame Size: 5.4G

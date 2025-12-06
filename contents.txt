@@ -718,6 +718,7 @@ Creepy Tale Size: 220.0M
 Creepy Tale 2 Size: 680.0M
 Creepy Tale Ingrid Penance Size: 847.0M
 Creepy Tale Some Other Place Size: 2.8G
+Crescent Tower Size: 463.0M
 Cricket 24 Size: 16.7G
 Cricket Jae's Really Peculiar Game Size: 3.9G
 Cricket Through the Ages Size: 680.0M
@@ -1750,6 +1751,7 @@ Nicktoons & The Dice of Destiny Size: 2.7G
 Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
 Night in the Woods Size: 6.4G
+NightmareThe Lunatic Size: 2.5G
 Nightshade Size: 3.0G
 Nikoderiko The Magical World - Director's Cut Size: 6.9G
 Nine Sols Size: 2.7G

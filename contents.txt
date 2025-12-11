@@ -1007,6 +1007,7 @@ Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 704.0M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 858.0M
 Fashion Dreamer Size: 7.0G
 Fast & Furious Arcade Edition Size: 1.6G
+FatalZone Size: 1.2G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fear Effect Size: 1.9G
@@ -1420,6 +1421,7 @@ Just Dance 2022 Size: 6.6G
 JustAxe Size: 700.0M
 Justice Chronicles Size: 604.0M
 Justin Wack and the Big Time Hack Size: 788.0M
+KIBORG Size: 7.7G
 KING OF FIGHTERS R-2 Size: 91.0M
 KORG Gadget for Nintendo Switch Size: 1.1G
 Kairobotica Size: 242.0M
@@ -1906,6 +1908,7 @@ Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
 Pokémon Friends Size: 871.0M
 Pokémon Legends Arceus Size: 6.1G
+Pokémon Legends Z-A Size: 4.1G
 Pokémon Legends Z-A-old Size: 4.1G
 Pokémon Lets Go, Eevee Size: 4.2G
 Pokémon Lets Go, Pikachu Size: 4.2G
@@ -2215,6 +2218,7 @@ Slayers X Terminal Aftermath Vengance of the Slayer Size: 1004.0M
 Sldner-X Himmelsstrmer Size: 563.0M
 Sleep Tight Size: 1.6G
 Slender Threads Size: 3.5G
+Slime Rancher Plortable Edition Size: 1.1G
 Sniper - Elite Shooter Squad Size: 3.5G
 Sniper Elite 3 Ultimate Edition Size: 6.3G
 Sniper Elite 4 Size: 9.1G
@@ -2279,6 +2283,7 @@ Star99 Size: 751.0M
 StarCrossed Size: 879.0M
 Stardew Valley Size: 1.6G
 Stardust Galaxy Warriors Stellar Climax Size: 647.0M
+StarsInTheTrash Size: 1.9G
 Startide Size: 980.0M
 Starward Rogue Size: 633.0M
 Stasis Size: 2.6G
@@ -2563,6 +2568,7 @@ Toziuha Night Order of the Alchemists Size: 879.0M
 Trails in the Sky 1st Chapter Size: 9.9G
 Trash Punk Size: 267.0M
 Trash Sailors Size: 1.5G
+Traveler's Refrain Size: 1.0G
 Trek to Yomi Size: 4.0G
 Trials Rising Standard Edition Size: 10.2G
 Trials of Mana Size: 10.7G

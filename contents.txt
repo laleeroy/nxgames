@@ -1,3 +1,4 @@
+#Funtime Size: 777.0M
 #KILLALLZOMBIES Size: 624.0M
 (Retail Only) Let's School Size: 722.0M
 .Cat2 Size: Unknown
@@ -31,6 +32,7 @@ A Little to the Left Size: 2.7G
 A Perfect Day Size: 2.2G
 A Short Hike Size: 432.0M
 A Space for the Unbound Size: 2.9G
+ABYSS SEEKERWhat Do You See Deep in The Abyss Size: 990.0M
 ACA NEOGEO METAL SLUG Size: 162.0M
 ACA NEOGEO METAL SLUG 2 Size: 98.0M
 ACA NEOGEO METAL SLUG 3 Size: 181.0M
@@ -41,6 +43,7 @@ ACE COMBAT7 SKIES UNKNOWN DELUXE EDITION Size: 14.2G
 ALIEN WAR 2 DOGFIGHT Size: 216.0M
 ALUMNI - Escape Room Adventure Size: 2.2G
 ANIMAL WELL Size: 84.0M
+ANIQUILATION Size: 1.9G
 AO Tennis 2 Size: 8.1G
 AQUA KITTY UDX Size: 87.0M
 ARCADE FUZZ Size: 406.0M
@@ -48,6 +51,7 @@ ARMS Size: 3.2G
 ASSASSINS CREED THE EZIO COLLECTION Size: 35.4G
 ASTRAL CHAIN Size: 9.8G
 ASTROSMASH Size: 766.0M
+ATOMINE Size: 427.0M
 AVENGER Size: 438.0M
 Absolum Size: 2.5G
 Accolade Sports Collection (QUByte Classics) Size: 326.0M
@@ -105,6 +109,7 @@ Akai Katana Shin Size: 1.0G
 Akash Path of the Five Size: 2.2G
 Akatsuki Lord of the Dawn Size: 198.0M
 Akinofa Size: 77.0M
+Akka Arrh Size: 272.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Aleste Collection Size: 371.0M
@@ -412,6 +417,7 @@ Arrest of a stone Buddha Size: 158.0M
 Art Heist - Escape Room Adventure Size: 4.1G
 Art of Glide Size: 216.0M
 Art of Glide 2 Size: 2.2G
+As Per My Last Email Size: 344.0M
 Asdivine Cross Size: 315.0M
 Asdivine Dios Size: 202.0M
 Asdivine Hearts Size: 233.0M
@@ -452,6 +458,7 @@ B.ARK Size: 1.0G
 BAD BOY BROTHER Size: 525.0M
 BALL x PIT Size: 795.0M
 BATSUGUN Saturn Tribute Boosted Size: 794.0M
+BATTLESLOTHS Size: 456.0M
 BEAST Bio Exo Arena Suit Team Size: 1.6G
 BEYBLADE X EVOBATTLE Size: 2.3G
 BEYBLADE X XONE Size: 2.8G
@@ -461,6 +468,7 @@ BIOMOTOR UNITRON Size: 142.0M
 BLADECHIMERA Size: 470.0M
 BLAZBLUE CENTRALFICTION Special Edition Size: 11.7G
 BLAZBLUE CROSS TAG BATTLE Size: 8.6G
+BLEED Arcade Arena Shooter Size: 597.0M
 BOT.vinnik Chess Size: 57.0M
 BOT.vinnik Chess 2 Size: 55.0M
 BRAVELY DEFAULT II Size: 12.4G
@@ -506,10 +514,13 @@ Beat 'Em Up Collection (QUByte Classics) Size: 1.3G
 Beat of Life Size: 455.0M
 Becastled Size: 532.0M
 Beekyr Reloaded Size: 432.0M
+Before The Dawn Size: 264.0M
 Before the Green Moon Size: 647.0M
 Bendy Lone Wolf Size: 1.8G
 Bendy and the Dark Revival Size: 2.1G
+Berzerk Recharged Size: 300.0M
 Best Served Cold Size: 2.6G
+Beyond Border Size: 104.0M
 Beyond Hanwell Nintendo Switch Edition Size: 7.9G
 Beyond Memories - Tales From the Heart Size: 4.8G
 Beyond the Ice Palace 2 Size: 802.0M
@@ -530,8 +541,12 @@ Biped 2 Size: 5.1G
 Birth Size: 2.2G
 Birushana Rising Flower of Genpei Size: 6.3G
 Bish Bash Bots Size: 1.9G
+Bit Dungeon Plus Size: 255.0M
+Bitmaster Size: 355.0M
 Biz Builder Delux Size: 266.0M
+Black Hole Size: 343.0M
 Black Paradox Size: 596.0M
+Black Widow Recharged Size: 467.0M
 Blacksea Odyssey Size: 1.2G
 Blacksmith of the Sand Kingdom Size: 437.0M
 Blade Chimera Size: Unknown
@@ -551,6 +566,7 @@ Blue Rider Size: 780.0M
 Bonds of the Skies Size: 428.0M
 BooBooBooster Size: 417.0M
 Book of Demons Size: 830.0M
+Boom Robots Size: 487.0M
 Boomerang Fu Size: 662.0M
 Borderlands 3 Ultimate Edition Size: 25.1G
 Boti Byteland Overclocked Size: 2.6G
@@ -563,6 +579,7 @@ Bratz Flaunt your fashion Size: 3.0G
 Brawl Chess Size: 391.0M
 Breakers Collection Size: 960.0M
 Breakout Beyond Size: 761.0M
+Breakpoint Size: 505.0M
 Bridge Constructor Portal Size: 393.0M
 Bridge Constructor The Walking Dead Size: 397.0M
 Bridge Constructor Ultimate Edition Size: 224.0M
@@ -578,6 +595,7 @@ Bubble Wizard III Saga Size: 866.0M
 Bug & Seek Size: 431.0M
 Bulldozer Tycoon Construction Simulator Size: 150.0M
 Bullet Beat Size: 108.0M
+Bullet Runner Size: 2.0G
 Bullet Soul Size: 1.7G
 Bullet Soul -Infinite Burst- Size: 1.8G
 Bunker Builder & Construction Simulator Size: 549.0M
@@ -686,6 +704,7 @@ Collar X Malice -Unlimited- Size: 6.0G
 Colorful Boi Size: 127.0M
 CometStriker DX Size: 556.0M
 Company of Heroes Collection Size: 10.3G
+Conjured Through Death Size: 1.2G
 Construction Machine Simulator 2023 Hard Truck Work Job Size: 962.0M
 Construction Machines SIM Bridges, buildings and constructor trucks simulator Size: 2.2G
 Construction Machines Simulator Size: 137.0M
@@ -708,6 +727,7 @@ Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
 Cotton Reboot High Tension Size: 2.5G
 CounterAttack Uprising Size: 1.4G
+Cowboys vs Zombies Size: 1.7G
 Cozy Grove Size: 1.3G
 Crash Bandicoot 4 Its About Time Size: 10.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
@@ -722,6 +742,7 @@ Crescent Tower Size: 463.0M
 Cricket 24 Size: 16.7G
 Cricket Jae's Really Peculiar Game Size: 3.9G
 Cricket Through the Ages Size: 680.0M
+Crime Busters Strike Area Size: 2.5G
 Crime O'Clock Size: 1.4G
 Crimson Spires Size: 4.8G
 Crimzon Clover - World EXplosion Size: 743.0M
@@ -739,9 +760,11 @@ Cult of the Lamb Size: 1.9G
 Cuphead Size: 5.1G
 Cupid Parasite Size: 6.0G
 Cupid Parasite Sweet and Spicy Darling Size: 5.6G
+Cyber Neon Bundle Size: 261.0M
 CyberCorp Size: 4.8G
 Cybxus Hearts Size: 80.0M
 Cynthia Hidden in the Moonshadow Size: 3.1G
+DAMN Size: 319.0M
 DARIUSBURST ANOTHER CHRONICLE EX+ Size: 2.3G
 DARIUSBURST CS CORE + TAITOSEGA Pack Size: 1.7G
 DARK SOULS REMASTERED Size: 4.0G
@@ -801,12 +824,17 @@ Dead of Darkness Size: 652.0M
 Deadliest Catch - Ocean Boat Driving & Fishing 2022 Simulator Size: 435.0M
 Deadliest Catch The Game Size: 1.8G
 Death Kid Size: 1.0G
+Death Ray Manta SE Size: 392.0M
 Death Road to Canada Size: 210.0M
 Death end reQuest Code Z Size: 6.8G
 Death's Door Size: 2.7G
+Deathly Dangerous Size: 184.0M
 Deathsmiles III Size: 3.6G
+Deathstate Abyssal Edition Size: 150.0M
+Debris Infinity Size: 338.0M
 Decarnation Size: 642.0M
 Deep Space Shooter Size: 121.0M
+Deleted Size: 817.0M
 Demon Slayer -Kimetsu no Yaiba- Sweep the Board Size: 4.3G
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Size: 11.1G
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Size: 14.6G
@@ -829,6 +857,7 @@ Destino Indomable Size: 1.6G
 Destiny's Princess A War Story, A Love Story Size: 517.0M
 Detective Dotson Size: 1.5G
 Detective Pikachu Returns Size: 9.0G
+Devastator Size: 309.0M
 Devil Engine Size: 1.6G
 Devil May Cry Size: 9.2G
 Devil May Cry 2 Size: 1.8G
@@ -837,6 +866,7 @@ Dezatopia Size: 774.0M
 Diablo II Resurrected Size: 8.4G
 Diablo III Eternal Collection Size: 27.3G
 Diamond Girl An Earnest Education in Love Size: 782.0M
+Die Again Size: 4.3G
 Digimon Story Cyber Sleuth Complete Edition Size: 4.8G
 Digimon Survive Size: Unknown
 Digimon World Next Order Size: 6.8G
@@ -872,6 +902,7 @@ Don't Starve Together Size: 5.3G
 Donkey Kong Country Returns HD Size: 8.3G
 Donkey Kong Country Tropical Freeze Size: 6.7G
 Doom Sweeper Rapid-Fire Edition Size: 243.9M
+Doomed to Hell Size: 180.0M
 Dora Rainforest Rescue Size: 2.1G
 Doraemon Dorayaki Shop Story Size: 190.0M
 Dordogne Size: 3.3G
@@ -881,6 +912,7 @@ Double Dragon 4 Size: 1.3G
 Double Dragon Advance Size: 134.0M
 Double Dragon Gaiden Rise of the Dragons Size: 1.6G
 Double Dragon Revive Size: 4.7G
+Doug's Nightmare Size: 2.0G
 Dr. Frank's Build a Boyfriend Size: 229.0M
 Dragon Eclipse Size: 404.0M
 Dragon Lapis Size: 195.0M
@@ -910,6 +942,7 @@ Dungeon Village Size: 254.0M
 Dungeon Village 2 Size: 289.0M
 Dungeons & Dragons Neverwinter Nights 2 Enhanced Edition Size: 21.4G
 Dungeons of Clay Size: 367.0M
+Dust & Neon Size: 684.0M
 Dusty Raging Fist Size: 2.4G
 Dying Light Definitive Edition Size: 17.7G
 EA SPORTS FC 24 Size: 32.3G
@@ -921,6 +954,7 @@ EA Sports FC 26 Size: Unknown
 EL COCO Size: 3.3G
 ELDRADOR CREATURES SHADOWFALL Size: 1.5G
 ELO 1100 Chess Size: 57.0M
+EMPTY SHELL Size: 374.0M
 ENDER LILIES Quietus of the Knights Size: 1.9G
 ENDER MAGNOLIA Bloom in the Mist Size: 3.6G
 ENDER MAGNOLIA-Bloom in the mist- Size: Unknown
@@ -944,6 +978,7 @@ Elta7 Size: 245.0M
 Emio The Smiling Man Famicom Detective Club Size: 5.4G
 Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo - Size: 1001.0M
 Enchanted in the Moonlight - Miyabi, Kyoga & Samon - Size: 999.0M
+Endless Deaths Size: 1.3G
 Endling - Extinction is Forever Size: 5.4G
 Endocrisis Size: 1.2G
 Enter the Gungeon Size: 443.0M
@@ -957,6 +992,7 @@ Eternights Size: 4.3G
 Europa Size: 3.7G
 Everdark Tower Size: 121.0M
 Everdeep Aurora Size: 699.0M
+Evil Diary Size: 58.0M
 Evo Pop Size: 624.0M
 Excessive Trim Size: 70.0M
 Exit the Gungeon Size: 548.0M
@@ -1019,6 +1055,7 @@ Final Bubble Bobble Size: 19.0M
 Final Exerion Size: 1.5G
 Final Formation Size: 3.0G
 Final Frontier Story Size: 84.0M
+Final Shot Size: 260.0M
 Finally, in Love Again Size: 1.2G
 Find Love Or Die Trying Size: 1.5G
 Finding Paradise Size: 2.4G
@@ -1084,11 +1121,13 @@ Freddy Fazbear's Pizzeria Simulator Size: 402.0M
 Freedom Finger Size: 3.9G
 Freezer Pops Size: 232.0M
 From Madness with Love Size: 235.0M
+From Space Size: 1.9G
 Fruitbus Size: 1.5G
 Fuga Melodies of Steel Size: 1.5G
 Fuga Melodies of Steel 2 Size: 4.8G
 Fuga Melodies of Steel 3 Size: 5.3G
 FullBlast Size: 247.0M
+Fusion Paradox Size: 909.0M
 G-DARIUS HD Size: 1.0G
 G-MODE Archives + Barrage Test Death Test Ketsui Edition Size: 104.0M
 G-MODE Archives + Detective Ryosuke Akikawa Case Tan Vol.1 Masked Illusion Murder Case Size: 145.0M
@@ -1178,6 +1217,7 @@ GUNBARICH for Nintendo Switch Size: 1.3G
 GUNBIRD for Nintendo Switch Size: 104.0M
 GUNBIRD2 for Nintendo Switch Size: 189.0M
 GUNDAM BREAKER 4 Size: 6.9G
+GUNPIG Firepower For Hire Size: 253.0M
 GYLT Size: 3.4G
 Gakuen Club Size: 781.0M
 Gal Guardians Demon Purge Size: 879.0M
@@ -1187,6 +1227,7 @@ Galactic Invasion Size: 161.0M
 Galactic Wars EX Size: 80.0M
 Galacticon Size: 135.0M
 Galagi Shooter Size: 172.0M
+Galaxy Champions TV Size: 483.0M
 Galaxy Revo Size: 69.0M
 Galaxy Revo 2 Size: 50.0M
 Galaxy Shooter Size: 421.0M
@@ -1217,6 +1258,7 @@ GensokyoDefenders Size: 1.6G
 Gensou -Yumegokochi- Size: 2.9G
 Geometric Brothers Size: 331.0M
 Get Packed Couch Chaos Size: 1.6G
+Ghost Assassin - Stealth Strike Size: 3.0G
 Ghost Blade HD Size: 970.0M
 Ghost Sync Size: 439.0M
 Ghostrunner Size: 11.2G
@@ -1224,8 +1266,10 @@ Girl Like A Dreaming - Flowering Sacrifice - Size: 1.2G
 GladMort Size: 111.0M
 Gleylancer Size: 49.0M
 Glitch Blaster's Waifu Size: 66.0M
+Glitchangels Size: 315.0M
 Glover (QUByte Classics) Size: 235.0M
 Gnomdom Size: 161.0M
+Go Mecha Ball Size: 2.4G
 GoFishing 3D Size: 245.0M
 Goblin Slayer -ANOTHER ADVENTURER- NIGHTMARE FEAST Size: 2.6G
 God Wars Size: 4.2G
@@ -1242,6 +1286,7 @@ Grand Theft Auto III The Definitive Edition Size: 2.8G
 Grand Theft Auto San Andreas The Definitive Edition Size: 14.8G
 Grand Theft Auto Vice City The Definitive Edition Size: 5.1G
 GraviFire Size: 148.0M
+Gravitators Size: 1.3G
 Graze Counter GM Size: 202.0M
 Green Phoenix Size: 1.2G
 Griftlands Size: 2.6G
@@ -1251,12 +1296,14 @@ Gryphon Knight Epic Definitive Edition Size: 618.0M
 Guardian Force - Saturn Tribute Size: 436.0M
 Guilty Gear -Strive- Nintendo Switch Edition Size: 14.3G
 Gunlocked Size: 98.0M
+Guns And Draguns Size: 2.6G
 Guns of Fury Size: 219.0M
 Guntech 2 Size: 2.5G
 Gunvein Size: 332.0M
 Gynoug Size: 48.0M
 GyroBlade Size: 73.0M
 GyroGunner Size: 88.0M
+HEAVEN SEEKER The Savior of This Cruel World Size: 1020.0M
 HELLCARD Size: 491.0M
 HELLO KITTY AND FRIENDS FREEZE TAG PARTY Size: 1.1G
 HELLO KITTY AND FRIENDS HAPPINESS PARADE Size: 1.6G
@@ -1267,6 +1314,7 @@ HUNTERxHUNTER NENxIMPACT Size: 2.3G
 HYKENorthern Light(s) Size: 2.1G
 HYPER DRONE X Size: 212.0M
 Habroxia 2 Size: 236.0M
+Hack and Shoot Heroes Size: 418.0M
 Hades Size: 5.8G
 Hades II Size: 6.6G
 Hakuoki Chronicles of Wind and Blossom Size: 12.3G
@@ -1288,13 +1336,20 @@ Harvest Moon Skytree Village Size: 232.0M
 Harvest Moon The Lost Valley Size: 208.0M
 Harvest Moon The Winds of Anthos Size: 3.0G
 Hashihime of the Old Book Town append Size: 3.2G
+HatLand - Pixel Impossible GAME OVER Size: 1.3G
 Hatch Tales A Heroic Hookshot Adventure Size: 1.4G
 Haunted Zombie School Size: 2.6G
+Haunted Zombie Slaughter Size: 2.3G
+Haunted Zombie Slaughter 2 Size: 2.2G
 Haven Size: 6.1G
 Hazelnut Hex Size: 189.0M
 Head over Heels Size: 258.0M
+Headbangers in Holiday Hell Size: 139.0M
+Heaven's Machine Size: 260.0M
 Heian City Story Size: 80.0M
 Heirs of the Kings Size: 462.0M
+Heist Force Size: 178.0M
+Heisting Size: 489.0M
 Hell Blasters Size: 516.0M
 Hell Pages Size: 578.0M
 Hellblade Senua's Sacrifice Size: 18.4G
@@ -1304,6 +1359,7 @@ Hello Kitty Kruisers With Sanrio Friends Size: 1.0G
 Hentai vs. Evil Size: 2.4G
 Herodes Size: 1.4G
 Heroes of Mount Dragon Size: 3.9G
+HexaWars Size: 263.0M
 Hidden Through Time Size: 1.0G
 Hidden Through Time 2 Myths & Magic Size: 714.0M
 High On Life Size: 9.7G
@@ -1351,6 +1407,7 @@ Hyperide Vector Raid Size: 330.0M
 Hyrule Warriors Age of Calamity Size: 12.5G
 Hyrule Warriors Definitive Edition Size: 12.9G
 I Hate Running Backwards Size: 1.4G
+I See Red Size: 8.4G
 I, AI Size: 1.3G
 ICHU Chibi Edition Size: 7.4G
 IMPLOSION Size: 4.9G
@@ -1378,12 +1435,15 @@ Instant Sports Plus Size: 1.2G
 Instant Sports Summer Games Size: 1.4G
 Instant Sports Winter Games Size: 1.8G
 Into the Restless Ruins Size: 1.0G
+Invasion Waves Size: 66.0M
+Invirium Size: 822.0M
 Irem Collection Volume 1 Size: 500.0M
 Irem Collection Volume 2 Size: 164.0M
 Irem Collection Volume 3 Size: 228.0M
 Iridium Size: 520.0M
 Iris School of Wizardry -Vinculum Hearts- Size: 874.0M
 Iro Hero Size: 531.0M
+Iron Crypticle Size: 115.0M
 Irresistible Mistakes Size: 1.5G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Familia Myth Infinite Combate Size: 4.7G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Fullland of Water and Light Size: 1.4G

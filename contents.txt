@@ -27,6 +27,7 @@
 9 R.I.P Size: 5.2G
 9th Dawn III Size: 867.0M
 9th Dawn Remake Size: 1.6G
+A Game About Digging A Hole Size: 210.0M
 A Hat in Time Size: 16.4G
 A Little to the Left Size: 2.7G
 A Perfect Day Size: 2.2G
@@ -1208,6 +1209,7 @@ GAIARES Size: 226.0M
 GEMINI ARMS Size: 129.0M
 GENSOU Skydrift Size: 1.7G
 GEX Trilogy Size: 3.1G
+GIGASWORD Size: 405.0M
 GOD EATER 3 Size: 14.9G
 GRADIUS ORIGINS Size: 3.4G
 GRANADA Size: 172.0M
@@ -1371,6 +1373,8 @@ Hitman Absolution Size: 14.5G
 Hitman Blood Money Reprisal Size: 4.5G
 Hogtie Size: 830.0M
 Hogwarts Legacy Size: 17.1G
+Hole Digging Master Size: 2.1G
+Hole Digging Simulator 2025 Size: 392.0M
 Hollow Knight Size: 5.3G
 Hollow Knight Silksong Size: 2.8G
 Home Run High Size: 270.0M
@@ -1618,6 +1622,7 @@ Make it Oden Size: 252.0M
 Make it Taiyaki Size: 312.0M
 Make it Takoyaki Size: 291.0M
 Maliki Poison of the Past Size: 2.4G
+Mamon King Size: 1008.0M
 Mamorukun ReCurse (JAP) Size: 857.0M
 Mandragora Whispers of the Witch Tree Size: 6.4G
 March to a Million Size: 268.0M
@@ -2369,6 +2374,7 @@ Street Fighter 30th Anniversary Collection Size: 5.0G
 Street Racer Collection (QUByte Classics) Size: 1.6G
 Streets of Rage 4 Size: 3.9G
 Strike Buster Prototype Size: 472.0M
+Strike Force Heroes Size: 1.3G
 Strike Mission Size: 391.0M
 Su-pa-famikon Nintendo Switch Online (JAP) Size: 276.0M
 Subnautica Size: 6.0G
@@ -2518,6 +2524,7 @@ The Gardens Between Size: 1.7G
 The Great Ace Attorney Chronicles Size: 3.6G
 The Great Rebellion Edition 2084 Size: 1.7G
 The Hokkaido Serial Murder Case The Okhotsk Disappearance Memories in Ice, Tearful Figurine Size: 1.1G
+The Holy Gosh Darn Size: 2.2G
 The Hundred Line -Last Defense Academy- Size: 13.4G
 The Hundred Line -Last Defense Academy- Artbook Size: 1000.0M
 The Hundred Line -Last Defense Academy- Novel Former Lives of the SDU File 03 - Hiruko Shizuhara's First Battle Size: 104.0M

@@ -1111,6 +1111,7 @@ Fool's Pub Size: 944.0M
 Forest Camp Story Size: 287.0M
 Forest Fire Size: 249.0M
 Forest Golf Planner Size: 83.0M
+Forestrike Size: 1.2G
 Forgotten Fields Size: 3.8G
 Forgotten Memories Size: 4.9G
 Formula Legends Size: 5.3G

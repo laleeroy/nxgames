@@ -735,6 +735,7 @@ Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Crash Team Racing Nitro-Fueled Size: 9.3G
 Crashnauts Size: 429.0M
 Crazy Chicken Xtreme Size: 1.2G
+Creepy Road Size: 969.0M
 Creepy Tale Size: 220.0M
 Creepy Tale 2 Size: 680.0M
 Creepy Tale Ingrid Penance Size: 847.0M
@@ -1043,6 +1044,7 @@ Fantasy Strike Size: 8.5G
 Fantasy Tavern Sextet -Vol.1 New World Days- Size: 642.0M
 Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 704.0M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 858.0M
+Farmagia Size: 4.4G
 Fashion Dreamer Size: 7.0G
 Fast & Furious Arcade Edition Size: 1.6G
 FatalZone Size: 1.2G
@@ -2454,6 +2456,7 @@ TTV2 Size: 219.0M
 TV Studio Story Size: 142.0M
 Taboo Trial Size: 8.7G
 Tachyon Project Size: 366.0M
+Taiji Size: 356.0M
 Taiko no Tatsujin Drum 'n' Fun Size: 5.6G
 Taiko no Tatsujin Rhythm Festival Size: 8.1G
 Taiko no Tatsujin Rhythmic Adventure Pack Size: 2.6G

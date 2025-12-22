@@ -532,6 +532,7 @@ Bibi & Tina at the horse farm Size: 1.3G
 Big Brain Academy Brain vs. Brain Size: 720.0M
 Big Helmet Heroes Size: 5.1G
 Big Rumble Boxing Creed Champions Size: 6.8G
+Big Trouble in Little Chimney Size: 50.0M
 Bilkins' Folly Size: 528.0M
 Binarystar Infinity Size: 72.0M
 BioShock Infinite The Complete Edition Size: 20.8G
@@ -640,6 +641,7 @@ Carmen Sandiego Size: 1.5G
 Cars 3 Driven to Win Size: 4.6G
 Cartoon Network Battle Crashers Size: 164.0M
 Cassiodora Size: 1.6G
+Cast n Chill Size: 319.5M
 Castle Crashers Remastered Size: 173.0M
 Castle Crumble Size: 1.1G
 Castle of Heart Size: 3.1G
@@ -722,6 +724,7 @@ Cookie Clicker Size: 267.0M
 Cookie Cutter Overkill Edition Size: 991.0M
 Cooking Companions Size: 7.6G
 Cooking Mama Cookstar Size: 2.6G
+Cookulo Size: 137.0M
 Cosmo Dreamer Size: 458.0M
 Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
@@ -833,6 +836,7 @@ Deathly Dangerous Size: 184.0M
 Deathsmiles III Size: 3.6G
 Deathstate Abyssal Edition Size: 150.0M
 Debris Infinity Size: 338.0M
+Debut Project Cooking Café Size: 2.5G
 Decarnation Size: 642.0M
 Deep Space Shooter Size: 121.0M
 Deleted Size: 817.0M
@@ -944,6 +948,7 @@ Dungeon Village Size: 254.0M
 Dungeon Village 2 Size: 289.0M
 Dungeons & Dragons Neverwinter Nights 2 Enhanced Edition Size: 21.4G
 Dungeons of Clay Size: 367.0M
+Dunjungle Size: 189.5M
 Dust & Neon Size: 684.0M
 Dusty Raging Fist Size: 2.4G
 Dying Light Definitive Edition Size: 17.7G
@@ -1382,6 +1387,7 @@ Hollow Knight Size: 5.3G
 Hollow Knight Silksong Size: 2.8G
 Home Run High Size: 270.0M
 Horgihugh And Friends Size: 343.0M
+Horizon Chase 2 Size: 3.5G
 Horrific Xanatorium Size: 468.0M
 Horror Night With Tung Tung Tung Sahur Size: Unknown
 Horror Night with Tung Tung Tung Sahur Size: 1.4G
@@ -2088,6 +2094,7 @@ Resident Evil 6 Size: 17.6G
 Resident Evil Revelations Size: 12.1G
 Resident Evil Revelations 2 Size: 23.7G
 Restless Night Size: 59.0M
+Retro Drive Revamped Size: 472.0M
 Return to Monkey Island Size: 5.9G
 Rev Up RC Grand Prix Size: 242.0M
 Revenant Dogma Size: 141.0M
@@ -2150,6 +2157,7 @@ S.T.A.L.K.E.R. Call of Prypiat Size: 5.5G
 S.T.A.L.K.E.R. Clear Sky Size: 6.3G
 S.T.A.L.K.E.R. Shadow of Chornobyl Size: 7.5G
 SAINTS ROW THE THIRD - THE FULL PACKAGE Size: 7.2G
+SAMURAI MAIDEN Size: 3.7G
 SAMURAI SHODOWN NEOGEO COLLECTION Size: 7.0G
 SAMURAI SHODOWN2 Size: 144.0M
 SANYA Size: 1.7G
@@ -2434,6 +2442,7 @@ Syder Reloaded Size: 1.4G
 Sympathy Kiss Size: 4.5G
 Symphonia Size: 1.0G
 Synthetic Lover Size: 1.4G
+System Shock Size: 3.0G
 System Shock 2 25th Anniversary Remaster Size: 4.5G
 TACTICAL BANDITS Size: 1.9G
 TAISHO x ALICE ALL IN ONE Size: 3.8G
@@ -2481,6 +2490,7 @@ Teenage Mutant Ninja Turtles Shredder's Revenge Size: 1.6G
 Teenage Mutant Ninja Turtles Splintered Fate Size: 1.0G
 Teenage Mutant Ninja Turtles Tactical Takedown Size: 805.0M
 Teenage Mutant Ninja Turtles The Cowabunga Collection Size: 3.5G
+Teeny Tiny Trains Size: 297.6M
 Telenet Shooting Collection Size: 1.4G
 Tell Me Your Story Size: 1.9G
 Temp Zero Size: 340.0M
@@ -2581,6 +2591,7 @@ The Sushi Spinnery Size: 249.0M
 The Tale of Clouds and Wind (QUByte Classics) Size: 179.0M
 The Town of Nie Size: 3.4G
 The Town of Nie Iromusubi Size: 1.4G
+The Unexpected Quest Size: 970.0M
 The Unicorn Princess Size: 1.8G
 The Villainess Is Adored by the Prince of the Neighbor Kingdom Size: 1017.0M
 The Walking Dead A New Frontier Size: 7.9G

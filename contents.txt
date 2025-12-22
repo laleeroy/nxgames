@@ -1305,6 +1305,7 @@ Gunvein Size: 332.0M
 Gynoug Size: 48.0M
 GyroBlade Size: 73.0M
 GyroGunner Size: 88.0M
+HEART of CROWN Size: 644.7M
 HEAVEN SEEKER The Savior of This Cruel World Size: 1020.0M
 HELLCARD Size: 491.0M
 HELLO KITTY AND FRIENDS FREEZE TAG PARTY Size: 1.1G
@@ -1606,6 +1607,7 @@ MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
 Machinarium Size: 349.0M
 Macross Shooting Insight (JAP) Size: 2.3G
+Mad Bullets Size: 426.0M
 Mad Father Size: 239.0M
 Magazine Mogul Size: 259.0M
 Magical Girl Dash Size: 313.0M
@@ -1832,6 +1834,7 @@ No More Heroes 3 Size: 8.1G
 No More Snow Size: 342.0M
 No Son Of Mine Size: 1.0G
 Noise of Neon Size: 434.0M
+Nordic Ashes The Complete Saga Size: 497.0M
 Norn9 Last Era Size: 9.4G
 Norn9 Var Commons Size: 6.8G
 Not Tonight 2 Size: 1.7G

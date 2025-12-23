@@ -2408,6 +2408,7 @@ Super Mario RPG Size: 6.5G
 Super Monkey Ball Banana Blitz HD Size: 1.8G
 Super Monkey Ball Banana Mania Size: 3.3G
 Super Monkey Ball Banana Rumble Size: 4.9G
+Super Neptunia RPG Size: 3.7G
 Super Nintendo Entertainment System Nintendo Classics Size: 278.0M
 Super Pixel Racers Size: 644.0M
 Super Rebellion Size: 253.0M
@@ -2421,6 +2422,9 @@ Super Trunko Go Size: 2.5G
 Super Wiloo Demake Size: 92.0M
 Super XYX Size: 189.0M
 Superation Size: 1.3G
+Superdimensional Game Neptune ReBirth 1 Size: 6.0G
+Superdimensional Game Neptune ReBirth 2 Sisters Generation Size: 5.4G
+Superdimensional Game Neptune ReBirth 3 V Century Size: 8.5G
 Superfluous Returnz Size: 297.0M
 Survivor - Castaway Island Size: 909.0M
 Sweet Survivors Size: 309.0M

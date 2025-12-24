@@ -2013,6 +2013,7 @@ Professor Doctor Jetpack Size: 423.0M
 Project AETHER First Contact Size: 1.3G
 Project Starship Size: 173.0M
 Project Starship X Size: 1.2G
+Promenade Size: 3.1G
 ProtoCorgi Size: 405.0M
 Psikyo Collection Vol.1 Size: 488.0M
 Psikyo Collection Vol.2 Size: 766.0M

@@ -1658,6 +1658,7 @@ Mega Man Legacy Collection 2 Size: 3.2G
 Mega Man X Legacy Collection Size: 3.0G
 Mega Man X Legacy Collection 2 Size: 6.6G
 Mega Man ZeroZX Legacy Collection Size: 3.2G
+Megadimension Neptunia VII Size: 7.0G
 Megaton Rainfall Size: 737.0M
 Meiji Tokyo Renka Full Moon Size: 2.9G
 Melatonin Size: 2.1G
@@ -1804,6 +1805,9 @@ Neon Noodles Size: 1.2G
 Nephenthesys Size: 171.0M
 Neptunia Game Maker REvolution Size: 6.8G
 Neptunia Riders VS Dogoos Size: 2.6G
+Neptunia Sisters VS Sisters Size: 6.1G
+Neptunia Sisters VS Sisters Digital Art Book Size: 709.0M
+Neptunia Sisters VS Sisters Digital Soundtrack Size: 193.0M
 Neptunia X SENRAN KAGURA Ninja Wars Size: 3.2G
 Neva Size: 4.9G
 Never Alone Arctic Collection Size: 1.8G

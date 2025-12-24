@@ -136,7 +136,7 @@ Angel Symphony Size: 172.0M
 Angel at Dusk Size: 766.0M
 AngerForce Reloaded for Nintendo Switch Size: 2.1G
 Angry Alligator Size: 1.5G
-Angry Video Game Nerd 8-bit Size: 2.5G
+Angry Video Game Nerd 8-bit Size: 2.7G
 Animal Crossing New Horizons Size: 10.8G
 Animal Crossing New Horizons Island Transfer Tool Size: 46.0M
 Animal Lover Size: 427.0M
@@ -538,7 +538,7 @@ BioShock Infinite The Complete Edition Size: 20.8G
 Biomutant Size: 7.6G
 Bioweaver Size: 673.0M
 Biped Size: 2.4G
-Biped 2 Size: 5.1G
+Biped 2 Size: 5.3G
 Birth Size: 2.2G
 Birushana Rising Flower of Genpei Size: 6.3G
 Bish Bash Bots Size: 1.9G
@@ -639,7 +639,7 @@ Carmen Sandiego Size: 1.5G
 Cars 3 Driven to Win Size: 4.6G
 Cartoon Network Battle Crashers Size: 164.0M
 Cassiodora Size: 1.6G
-Cast n Chill Size: 319.5M
+Cast n Chill Size: 556.0M
 Castle Crashers Remastered Size: 173.0M
 Castle Crumble Size: 1.1G
 Castle of Heart Size: 3.1G
@@ -1059,7 +1059,7 @@ Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
 Final Bubble Bobble Size: 19.0M
 Final Exerion Size: 1.5G
-Final Formation Size: 3.0G
+Final Formation Size: 3.1G
 Final Frontier Story Size: 84.0M
 Final Shot Size: 260.0M
 Finally, in Love Again Size: 1.2G
@@ -1113,7 +1113,7 @@ Fool's Pub Size: 944.0M
 Forest Camp Story Size: 287.0M
 Forest Fire Size: 249.0M
 Forest Golf Planner Size: 83.0M
-Forestrike Size: 1.2G
+Forestrike Size: 2.1G
 Forgotten Fields Size: 3.8G
 Forgotten Memories Size: 4.9G
 Formula Legends Size: 5.3G
@@ -1212,7 +1212,7 @@ GAIARES Size: 226.0M
 GEMINI ARMS Size: 129.0M
 GENSOU Skydrift Size: 1.7G
 GEX Trilogy Size: 3.1G
-GIGASWORD Size: 405.0M
+GIGASWORD Size: 409.0M
 GOD EATER 3 Size: 14.9G
 GRADIUS ORIGINS Size: 3.4G
 GRANADA Size: 172.0M
@@ -1329,7 +1329,7 @@ Hana Awase New Moon -Himeutsugi Volume- Size: 3.0G
 Hana Awase New Moon -Iroha Volume- Size: 2.7G
 Hana Awase New Moon -KarakurenaiUtsutsu Volume- Size: 3.3G
 Hana Awase New Moon -Mizuchi Volume- Size: 2.5G
-Hannah Size: 5.9G
+Hannah Size: 6.0G
 Hannah's Day Size: 2.8G
 Happy Animals Bowling Size: 348.0M
 Happy Animals Mini Golf Size: 388.0M
@@ -1831,7 +1831,7 @@ Nicktoons & The Dice of Destiny Size: 2.7G
 Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
 Night in the Woods Size: 6.4G
-NightmareThe Lunatic Size: 2.5G
+NightmareThe Lunatic Size: 2.7G
 Nightshade Size: 3.0G
 Nikoderiko The Magical World - Director's Cut Size: 6.9G
 Nine Sols Size: 2.7G
@@ -1847,7 +1847,7 @@ No More Heroes 3 Size: 8.1G
 No More Snow Size: 342.0M
 No Son Of Mine Size: 1.0G
 Noise of Neon Size: 434.0M
-Nordic Ashes The Complete Saga Size: 497.0M
+Nordic Ashes The Complete Saga Size: 1.0G
 Norn9 Last Era Size: 9.4G
 Norn9 Var Commons Size: 6.8G
 Not Tonight 2 Size: 1.7G
@@ -1922,7 +1922,7 @@ PIANISTA Size: 613.0M
 PICO PARK Size: 111.0M
 PICO PARK 2 Size: 284.0M
 PIPELINE PANIC Size: 164.0M
-POPUCOM Size: 4.3G
+POPUCOM Size: 5.6G
 PSYCHIC STORM Size: 694.0M
 PSYVARIAR DELTA Size: 623.0M
 Paladin Size: 152.0M
@@ -2362,7 +2362,7 @@ Star99 Size: 751.0M
 StarCrossed Size: 879.0M
 Stardew Valley Size: 1.6G
 Stardust Galaxy Warriors Stellar Climax Size: 647.0M
-StarsInTheTrash Size: 1.9G
+StarsInTheTrash Size: 2.7G
 Startide Size: 980.0M
 Starward Rogue Size: 633.0M
 Stasis Size: 2.6G
@@ -2383,7 +2383,7 @@ Strania -The Stella Machina- EX Size: 881.0M
 Stray Size: 5.7G
 StreamLove Voyage Size: 2.5G
 Street Fighter 30th Anniversary Collection Size: 5.0G
-Street Racer Collection (QUByte Classics) Size: 1.6G
+Street Racer Collection (QUByte Classics) Size: 1.9G
 Streets of Rage 4 Size: 3.9G
 Strike Buster Prototype Size: 472.0M
 Strike Force Heroes Size: 1.3G
@@ -2446,7 +2446,7 @@ Syder Reloaded Size: 1.4G
 Sympathy Kiss Size: 4.5G
 Symphonia Size: 1.0G
 Synthetic Lover Size: 1.4G
-System Shock Size: 3.0G
+System Shock Size: 8.6G
 System Shock 2 25th Anniversary Remaster Size: 4.5G
 TACTICAL BANDITS Size: 1.9G
 TAISHO x ALICE ALL IN ONE Size: 3.8G
@@ -2494,7 +2494,7 @@ Teenage Mutant Ninja Turtles Shredder's Revenge Size: 1.6G
 Teenage Mutant Ninja Turtles Splintered Fate Size: 1.0G
 Teenage Mutant Ninja Turtles Tactical Takedown Size: 805.0M
 Teenage Mutant Ninja Turtles The Cowabunga Collection Size: 3.5G
-Teeny Tiny Trains Size: 297.6M
+Teeny Tiny Trains Size: 377.0M
 Telenet Shooting Collection Size: 1.4G
 Tell Me Your Story Size: 1.9G
 Temp Zero Size: 340.0M
@@ -2504,7 +2504,7 @@ Tennis Club Story Size: 272.0M
 Tennis World Tour Size: 6.1G
 Tennis World Tour 2 Size: 5.4G
 Terminal 81 Size: 1.0G
-Terminator 2D NO FATE Size: 595.0M
+Terminator 2D NO FATE Size: 687.0M
 Terra Flame Size: 408.0M
 Terra Memoria Size: 1.8G
 Terraria Size: 455.0M
@@ -2582,7 +2582,7 @@ The Pyraplex Size: 250.0M
 The Ramen Sensei Size: 286.0M
 The Red Bell's Lament Size: 6.9G
 The Rise of the Golden Idol Size: 4.3G
-The Rogue Prince of Persia Size: 1.0G
+The Rogue Prince of Persia Size: 1.5G
 The Samurai Collection (QUByte Classics) Size: 173.0M
 The Seed Unit 7 Size: 62.0M
 The Smile Alchemist Size: 209.0M
@@ -2656,7 +2656,7 @@ Toziuha Night Order of the Alchemists Size: 879.0M
 Trails in the Sky 1st Chapter Size: 9.9G
 Trash Punk Size: 267.0M
 Trash Sailors Size: 1.5G
-Traveler's Refrain Size: 1.0G
+Traveler's Refrain Size: 2.5G
 Trek to Yomi Size: 4.0G
 Trials Rising Standard Edition Size: 10.2G
 Trials of Mana Size: 10.7G

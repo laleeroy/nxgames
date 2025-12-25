@@ -442,11 +442,22 @@ Astro Flame Starfighter Size: 885.0M
 AstroWings Space War Size: 168.0M
 Astroblaze DX Size: 39.0M
 Astrodogs Size: 3.0G
+Atelier Ayesha The Alchemist of Dusk DX Size: 4.7G
+Atelier Escha & Logy Alchemists of the Dusk Sky DX Size: 5.7G
+Atelier Firis The Alchemist and the Mysterious Journey DX Size: 7.6G
+Atelier Lulua The Scion of Arland Size: 8.7G
 Atelier Lydie & Suelle The Alchemists and the Mysterious Paintings DX Size: 9.2G
 Atelier Marie Remake The Alchemist of Salburg Size: 7.9G
+Atelier Meruru The Apprentice of Arland DX Size: 8.1G
 Atelier Resleriana The Red Alchemist & the White Guardian Size: 8.3G
 Atelier Rorona The Alchemist of Arland DX Size: 8.5G
+Atelier Ryza 2 Lost Legends & the Secret Fairy DX Size: 9.3G
+Atelier Ryza 3 Alchemist of the End & the Secret Key DX Size: 11.9G
+Atelier Ryza Ever Darkness & the Secret Hideout DX Size: 8.1G
+Atelier Shallie Alchemists of the Dusk Sea DX Size: 6.0G
 Atelier Sophie 2 The Alchemist of the Mysterious Dream Size: 10.8G
+Atelier Sophie The Alchemist of the Mysterious Book DX Size: 5.9G
+Atelier Totori The Adventurer of Arland DX Size: 7.5G
 Atelier Yumia The Alchemist of Memories & the Envisioned Land Size: 8.5G
 Attack on Titan 2 Size: 21.1G
 Autumn's Journey Size: 158.0M
@@ -1802,6 +1813,7 @@ NOISZ reCOLLECTION G Size: 1.1G
 Natsu-Mon 20th Century Summer Kid Size: 3.4G
 Need for Speed Hot Pursuit Remastered Size: 8.1G
 Neko Navy - Daydream Edition Size: 405.0M
+Nelke & the Legendary Alchemists Ateliers of the New World Size: 18.4G
 Neon Apex Beyond the Limit Size: 723.0M
 Neon Inferno Size: 1.3G
 Neon Noodles Size: 1.2G

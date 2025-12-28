@@ -2157,6 +2157,7 @@ Romantic Date The Perfect Boy Size: 211.0M
 Rooftops & Alleys The Parkour Game Size: 1.2G
 Room of Depression Size: 423.0M
 Rose & Camellia Collection Size: 1.6G
+Rudolph the Red-Nosed Reindeer Size: 2.0G
 Rue Valley Size: 2.5G
 Rugby Challenge 4 Size: 11.1G
 Ruinverse Size: 291.0M
@@ -2265,6 +2266,7 @@ Shadows of the Damned Hella Remastered Size: 4.9G
 Shanghai Summer Size: 533.0M
 ShapeHero Factory Size: 754.0M
 Shapeshooter Size: 166.0M
+Sheepy A Short Adventure Size: 973.0M
 Shikhondo - Soul Eater Size: 393.0M
 Shikhondo Youkai Rampage Size: 894.0M
 Shin Megami Tensei III Nocturne HD Remaster Size: 9.2G
@@ -2721,6 +2723,7 @@ UltraGoodness 2 Size: 203.0M
 Unalive 010 Size: 1.7G
 Undead Battle Royale Size: 545.0M
 Undertale Size: 220.0M
+Undusted Letters from the Past Size: 973.0M
 Undying Size: 1.3G
 Unfair Rampage Knightfall Size: 369.0M
 Unforeseen Incidents Size: 2.4G
@@ -2893,6 +2896,7 @@ Zumba Aqua Size: 107.0M
 Zumba Blitz Size: 49.0M
 Zumba Garden Size: 70.0M
 Zumba Royal Marble Shooter Mania Size: 232.0M
+despelote Size: 2.6G
 even if TEMPEST Size: 4.8G
 even if TEMPEST Dawning Connections Size: 7.1G
 megaton musashi Size: 10.7G

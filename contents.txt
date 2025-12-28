@@ -491,6 +491,7 @@ BUBBLE SYMPHONY Size: 573.0M
 BUSTAFELLOWS Size: 2.2G
 BUSTAFELLOWS season2 Size: 2.9G
 Bad Chicken Size: 222.0M
+Bake it Pizza Master Size: 316.0M
 Baki Hanma Blood Arena Size: 2.1G
 Bakumatsu Renka SHINSENGUMI Size: 2.0G
 Balatro Size: 179.0M
@@ -862,7 +863,7 @@ Desktop Basketball Size: 892.0M
 Desktop Basketball 2 Size: 438.0M
 Desktop Bowling Size: 740.0M
 Desktop Dodgeball Size: 822.0M
-Desktop Rugby Size: 734.0M
+Desktop Rugby Size: 737.0M
 Desktop Soccer Size: 351.0M
 Desktop Soccer 2 Size: 381.0M
 Desktop Table Tennis Size: 826.0M
@@ -871,6 +872,7 @@ Despera Drops Size: 5.6G
 Destino Indomable Size: 1.6G
 Destiny's Princess A War Story, A Love Story Size: 517.0M
 Detective Dotson Size: 1.5G
+Detective Instinct Farewell, My Beloved Size: 1.4G
 Detective Pikachu Returns Size: 9.0G
 Devastator Size: 309.0M
 Devil Engine Size: 1.6G
@@ -1910,6 +1912,7 @@ Our Field Trip Adventure Size: 546.0M
 Our Flick Erasers Size: 1.1G
 Our Ninja World Size: 238.0M
 Our Summer Festival Size: 208.0M
+Our Summer Festival 2 Size: 520.0M
 Our Summer Sports Size: 292.0M
 Our Two Bedroom Story Size: 747.0M
 Our Winter Sports Size: 182.0M
@@ -1951,7 +1954,8 @@ Paper Trail Size: 1.0G
 Paradigm Paradox Size: 5.7G
 Parasol Stars - The Story of Bubble Bobble III Size: 111.0M
 Party Party Time Size: 747.0M
-Party Party Time 2 Size: 822.0M
+Party Party Time 2 Size: 825.0M
+Party Party Time 3 Size: 1004.0M
 Pawarumi Size: 1.6G
 Pawn of the Dead Size: 1.1G
 Pentiment Size: 4.4G
@@ -2213,6 +2217,7 @@ STORY OF SEASONS Pioneers of Olive Town Size: 3.7G
 STRIKER MODES Size: 331.0M
 STURMWIND EX Size: 1.3G
 SUBNET - Escape Room Adventure Size: 2.4G
+SUGOROKU CASINO PARTY Size: 530.0M
 SUPER BOMBERMAN R 2 Size: 5.1G
 SUPER DRAGON BALL HEROES WORLD MISSION Size: 7.8G
 SUPER ROBOT WARS 30 Size: 15.8G
@@ -2225,6 +2230,7 @@ SUSHI Drop Size: 253.0M
 SUSHI Race Size: 489.0M
 SUSHI Shot Size: 309.0M
 SUSHI Shot Online Size: 315.0M
+SUSHI vs BURGER Race Size: 745.0M
 SWARMRIDER OMEGA Size: 129.0M
 SWARMRIDERS Size: 124.0M
 SWORD ART ONLINE Alicization Lycoris Size: 17.0G
@@ -2316,6 +2322,7 @@ Sldner-X Himmelsstrmer Size: 563.0M
 Sleep Tight Size: 1.6G
 Slender Threads Size: 3.5G
 Slime Rancher Plortable Edition Size: 1.1G
+Smack it PUNCH CHAMPION Size: 796.0M
 Sniper - Elite Shooter Squad Size: 3.5G
 Sniper Elite 3 Ultimate Edition Size: 6.3G
 Sniper Elite 4 Size: 9.1G
@@ -2415,7 +2422,7 @@ Sugardew Island Size: 1.2G
 Suhoshin Size: 657.0M
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars Size: 7.2G
 Summer Days Size: 410.0M
-Summer Party Time Size: 732.0M
+Summer Party Time Size: 735.0M
 Sun Haven Size: 2.6G
 Sunrise GP Size: 2.2G
 Sunseed Island Size: 1.4G

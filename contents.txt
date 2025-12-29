@@ -32,6 +32,10 @@ A Little to the Left Size: 2.7G
 A Perfect Day Size: 2.2G
 A Short Hike Size: 432.0M
 A Space for the Unbound Size: 2.9G
+AAA Clock Size: 883.0M
+AAA Clock 2 Size: 791.0M
+AAA Clock Gold Size: 399.0M
+AAA PRO CLOCK 2023 Size: 142.0M
 ABYSS SEEKERWhat Do You See Deep in The Abyss Size: 990.0M
 ACA NEOGEO METAL SLUG Size: 162.0M
 ACA NEOGEO METAL SLUG 2 Size: 98.0M
@@ -114,6 +118,7 @@ Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Aleste Collection Size: 371.0M
 Alien Cruise Size: 2.7G
+Alive Paint Size: 984.0M
 All in Abyss Judge the Fake Size: 1.6G
 All of You Size: 1.0G
 Alpaca Ball Allstars Legacy Edition Size: 1.7G
@@ -141,6 +146,7 @@ Animal Crossing New Horizons Size: 10.8G
 Animal Crossing New Horizons Island Transfer Tool Size: 46.0M
 Animal Lover Size: 427.0M
 Anime Boys Dating The night before Christmas and the tree Size: 215.0M
+Anime Clock Size: 323.0M
 Anime Girls Highschool of Dead Size: 430.0M
 Anime Girls Sun of a Beach Size: 545.0M
 Anime Studio Story Size: 258.0M
@@ -639,6 +645,8 @@ Cafeteria Nipponica Size: 251.0M
 Café Enchanté Size: 5.2G
 Cake Invaders Size: 84.0M
 Caladrius Blaze Size: 2.7G
+Calculator Size: 97.0M
+Calculator Maker My Calculator Size: 91.0M
 Candylands Journey Size: 279.0M
 Capcom Fighting Collection Size: 3.2G
 Capcom Fighting Collection 2 Size: 3.2G
@@ -658,6 +666,7 @@ Castle of Heart Size: 3.1G
 Castle of Heart Retold Size: 3.5G
 Castle of Shikigami2 Size: 1.2G
 Castlevania Dominus Collection Size: 1.2G
+Cat Piano Size: 248.0M
 Cat Quest III Size: 1.5G
 Catching Spirits Size: 457.0M
 Cattle Country Size: 822.0M
@@ -692,6 +701,7 @@ Children of Morta Size: 2.5G
 Chippy Size: 959.0M
 Cho Aniki Collection Size: 1.2G
 Chocobo's Mystery Dungeon EVERY BUDDY Size: 1.5G
+Christmas Tree Holiday Decorate Simulator Size: 572.0M
 Chroma Quaternion Size: 483.0M
 Chrome Wolf Size: 175.0M
 Chronicles of the Wolf Size: 602.0M
@@ -703,6 +713,8 @@ Citizen Sleeper 2 Starward Vector Size: 794.0M
 Classic Checkers Size: 132.0M
 Classic Games Collection Vol.1 Size: 461.0M
 Classic STG Pack Gynoug Gley Lancer (JAP) Size: 90.0M
+Clock Maker My Clock - ver. digital (with timer) Size: 126.0M
+Clock Maker My Pendulum Clock Size: 97.0M
 Cloudy Valley Size: 973.0M
 Clubhouse Games 51 Worldwide Classics Size: 2.5G
 Cobalt Core Size: 448.0M
@@ -715,7 +727,10 @@ Coffee Talk Episode 2 Hibiscus & Butterfly Size: 705.0M
 Collar X Malice Size: 4.7G
 Collar X Malice -Unlimited- Size: 6.0G
 Colorful Boi Size: 127.0M
+Coloring Book Size: 833.0M
+Coloring Book for Adults Size: 6.3G
 CometStriker DX Size: 556.0M
+Comic Coloring Book - Complete Edition Size: 575.0M
 Company of Heroes Collection Size: 10.3G
 Conjured Through Death Size: 1.2G
 Construction Machine Simulator 2023 Hard Truck Work Job Size: 962.0M
@@ -807,6 +822,7 @@ DRAGON QUEST I & II HD-2D Remake Size: 8.3G
 DRAGON QUEST III HD-2D Remake Size: 7.8G
 DRAGON QUEST XI S Echoes of an Elusive Age Definitive Edition Size: 14.0G
 DRAINUS Size: 256.0M
+DRAW AND COLOR KAWAII Size: 921.0M
 DREAMERS A Nostalgic Adventure Size: 7.4G
 DREDGE Size: 1.3G
 DRIVE DRIFT X Size: 189.0M
@@ -951,6 +967,8 @@ Dreamed Away Size: 748.0M
 Drift Legends Size: 1.5G
 Drift Legends 2 Size: 882.0M
 Drova Size: 3.4G
+Drum Box Size: 229.0M
+Drums Size: 1.1G
 Duck Detective - The Secret Salami Size: 269.0M
 Duck Detective The Ghost of Glamping Size: 516.0M
 Dude, Where Is My Beer Size: 771.0M
@@ -1111,6 +1129,7 @@ Five Nights at Freddy's Sister Location Size: 1.1G
 Fiz and the Rainbow Planet Size: 1.3G
 Flightpath Adventures in Venaris Size: 277.0M
 Flip It Size: 134.0M
+FlipBook Size: 373.0M
 Floating Cloud God Anniversary Edition Size: 161.0M
 Floor Kids Size: 2.1G
 Florence Size: 814.0M
@@ -1314,6 +1333,7 @@ Grounded Size: 3.5G
 Gryphon Knight Epic Definitive Edition Size: 618.0M
 Guardian Force - Saturn Tribute Size: 436.0M
 Guilty Gear -Strive- Nintendo Switch Edition Size: 14.3G
+Guitar Size: 108.0M
 Gunlocked Size: 98.0M
 Guns And Draguns Size: 2.6G
 Guns of Fury Size: 219.0M
@@ -1342,6 +1362,7 @@ Hana Awase New Moon -Himeutsugi Volume- Size: 3.0G
 Hana Awase New Moon -Iroha Volume- Size: 2.7G
 Hana Awase New Moon -KarakurenaiUtsutsu Volume- Size: 3.3G
 Hana Awase New Moon -Mizuchi Volume- Size: 2.5G
+Handpan Size: 78.0M
 Hannah Size: 6.0G
 Hannah's Day Size: 2.8G
 Happy Animals Bowling Size: 348.0M
@@ -1512,6 +1533,7 @@ Kamikaze Lassplanes Size: 3.3G
 Karate Survivor Size: 346.0M
 Kawaii Slime Arena Size: 2.6G
 Keeper's Toll Size: 761.0M
+Kid's Art Coloring Book Size: 712.0M
 Kids Party Checkers Size: 317.0M
 Killer Frequency Size: 2.2G
 Kind Heart Defenders Size: 1.8G
@@ -1567,6 +1589,7 @@ Legends of Heropolis DX Size: 119.0M
 Let's Build a Zoo Size: 871.0M
 Let's Sing 2025 Size: 3.7G
 Lia Hacking Destiny Size: 1.1G
+LiartaniumOS - Operating System Size: 89.0M
 Liege Dragon Size: 246.0M
 Life is Strange 2 Size: 26.5G
 Life is Strange Before the Storm Remastered Size: 12.6G
@@ -1591,6 +1614,7 @@ Lost in Fantaland Size: 489.0M
 Lost in Play Size: 1.5G
 Lost in Random Size: 4.3G
 Lost in Random The Eternal Die Size: 2.5G
+Love Colors Size: 219.0M
 Love Elysium Secret of the Goddess Size: 772.0M
 Love Furry Boys Zodiac Dating App Size: 645.0M
 Love Language Stories Size: 474.0M
@@ -1635,6 +1659,7 @@ Mai Child of Ages Size: 5.5G
 Maiden & Spell Size: 383.0M
 Mail Time Size: 1.8G
 Majogami Size: 4.4G
+MakOS new operating system Size: 197.0M
 Make it Crepe Size: 256.0M
 Make it Ikayaki Size: 327.0M
 Make it Oden Size: 252.0M
@@ -1775,12 +1800,15 @@ MudRunner - American Wilds Size: 3.1G
 Muse Dash Size: 3.9G
 Mushihimesama Size: 876.0M
 Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 3.2G
+Music Box Size: 660.0M
 Music Racer Size: 518.0M
 Mustache In Hell Size: 149.0M
 Mutazione Size: 2.5G
 Mute Crimson DX Size: 393.0M
 My Bewitching Perfume Size: 1.1G
 My Butler Size: 563.0M
+My Coloring Book Size: 534.0M
+My Coloring Book 2 Size: 544.0M
 My Dangerous Life Size: 362.0M
 My Forged Wedding Size: 1.1G
 My Friend Peppa Pig Size: 2.8G
@@ -1847,6 +1875,7 @@ Nickelodeon All-Star Brawl 2 Size: 6.1G
 Nicktoons & The Dice of Destiny Size: 2.7G
 Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
+Night Vision Size: 106.0M
 Night in the Woods Size: 6.4G
 NightmareThe Lunatic Size: 2.7G
 Nightshade Size: 3.0G
@@ -1870,6 +1899,8 @@ Norn9 Var Commons Size: 6.8G
 Not Tonight 2 Size: 1.7G
 Not Tonight Take Back Control Edition Size: 1.1G
 Notebook Artillery Size: 136.0M
+Notes Size: 47.0M
+Notes + Stickers Size: 236.0M
 Nova Strike Size: 298.0M
 Null Drifter Size: 188.0M
 OCTOPATH TRAVELER 0 Size: 3.2G
@@ -1943,6 +1974,7 @@ PIPELINE PANIC Size: 164.0M
 POPUCOM Size: 5.6G
 PSYCHIC STORM Size: 694.0M
 PSYVARIAR DELTA Size: 623.0M
+Paint Size: 337.0M
 Paladin Size: 152.0M
 Palia Size: 14.9G
 Pan-Dimensional Conga Combat Size: 132.0M
@@ -1970,6 +2002,8 @@ Persona5 Strikers Bonus Content Size: 2.4G
 Petit Island Size: 1.9G
 Pew Paw Size: 57.0M
 Phoenix Wright Ace Attorney Trilogy Size: 2.2G
+Piano Size: 110.0M
+Piano for kids Size: 183.0M
 Pick My Heart Chapter 1 Size: 690.0M
 Pick My Heart Chapter 2 Size: 663.0M
 Pickleball Smash Size: 1.3G
@@ -1982,6 +2016,7 @@ Pine A Story of Loss Size: 1.7G
 Piofiore Episodio 1926 Size: 6.5G
 Piofiore Fated Memories Size: 4.9G
 Pipistrello and the Cursed Yoyo Size: 535.0M
+Pixel Artist Size: 104.0M
 Pixel Cafe Size: 516.0M
 Pixel Game Maker Series BURAIGUN GALAXY STORM Size: 174.0M
 Pizza Tower Size: 1.1G
@@ -2055,6 +2090,7 @@ QUByte Classics - The Immortal by PIKO Size: 168.0M
 QUByte Classics Jim Power The Lost Dimension by PIKO Size: 227.0M
 QUByte Classics Thunderbolt Collection by PIKO Size: 179.0M
 QUByte Classics Zero Tolerance Collection by PIKO Size: 159.0M
+Qbics Paint Size: 152.0M
 Quad Fighter K Size: 48.0M
 Quantum Recharged Size: 355.0M
 Quit Today Size: 1.1G
@@ -2240,6 +2276,7 @@ SWORD ART ONLINE Hollow Realization Deluxe Edition Size: 13.3G
 SWORN Size: 3.8G
 SaGa SCARLET GRACE AMBITIONS Size: 2.7G
 Saints Row IV Re-Elected Size: 8.6G
+Sakura Neko Calculator Size: 46.0M
 Sally Face Size: 1.9G
 Salt and Sanctuary Size: 1.0G
 Sam & Max Beyond Time and Space Size: 1.1G
@@ -2369,6 +2406,7 @@ SpongeBob Krusty Cook-Off Size: 758.0M
 SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated Size: 11.3G
 SpongeBob SquarePants The Patrick Star Game Size: 918.0M
 Sports Story Size: 927.0M
+Spy Alarm Size: 103.0M
 Spyro Reignited Trilogy Size: 15.1G
 Squad 51 vs. the Flying Saucers Size: 12.2G
 Staffer Case A Supernatural Mystery Adventure Size: 1.4G
@@ -2855,6 +2893,7 @@ Xenoblade Chronicles X Definitive Edition Size: 13.5G
 Xenoraid Size: 109.0M
 Xmas Survivors Size: 265.7M
 Xuan Yuan Sword 7 Size: 9.5G
+Xylophone Size: 112.0M
 YU-NO A girl who chants love at the bound of this world Size: 5.0G
 Yakuza Kiwami Size: 23.0G
 Yars Recharged Size: 539.0M
@@ -2908,6 +2947,8 @@ despelote Size: 2.6G
 even if TEMPEST Size: 4.8G
 even if TEMPEST Dawning Connections Size: 7.1G
 megaton musashi Size: 10.7G
+nDay Size: 306.0M
+nPaint Size: 256.0M
 pureya Size: 217.0M
 rRootage Reloaded Size: 55.0M
 resident evil 4 Size: 12.1G

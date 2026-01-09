@@ -768,7 +768,7 @@ Creepy Tale Size: 220.0M
 Creepy Tale 2 Size: 680.0M
 Creepy Tale Ingrid Penance Size: 847.0M
 Creepy Tale Some Other Place Size: 2.8G
-Crescent Tower Size: 463.0M
+Crescent Tower Size: 464.0M
 Cricket 24 Size: 16.7G
 Cricket Jae's Really Peculiar Game Size: 3.9G
 Cricket Through the Ages Size: 680.0M
@@ -1342,7 +1342,7 @@ Gunvein Size: 332.0M
 Gynoug Size: 48.0M
 GyroBlade Size: 73.0M
 GyroGunner Size: 88.0M
-HEART of CROWN Size: 644.7M
+HEART of CROWN Size: 1.9G
 HEAVEN SEEKER The Savior of This Cruel World Size: 1020.0M
 HELLCARD Size: 491.0M
 HELLO KITTY AND FRIENDS FREEZE TAG PARTY Size: 1.1G
@@ -2570,7 +2570,7 @@ Terminator 2D NO FATE Size: 687.0M
 Terra Flame Size: 408.0M
 Terra Memoria Size: 1.8G
 Terraria Size: 455.0M
-Terrifier The ARTcade game Size: 794.0M
+Terrifier The ARTcade game Size: 796.0M
 Tetris 99 Size: 1.9G
 Tetris Effect Connected Size: 4.0G
 Tetris Forever Size: 5.4G
@@ -2644,7 +2644,7 @@ The Pyraplex Size: 250.0M
 The Ramen Sensei Size: 286.0M
 The Red Bell's Lament Size: 6.9G
 The Rise of the Golden Idol Size: 4.3G
-The Rogue Prince of Persia Size: 1.5G
+The Rogue Prince of Persia Size: 1.6G
 The Samurai Collection (QUByte Classics) Size: 173.0M
 The Seed Unit 7 Size: 62.0M
 The Smile Alchemist Size: 209.0M

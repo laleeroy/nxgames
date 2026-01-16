@@ -68,6 +68,7 @@ Ad SHOOt Size: 3.0G
 Adrenaline Rampage Size: 641.0M
 Advance Wars 1+2 Re-Boot Camp Size: 6.7G
 Adventure Bar Story Size: 323.0M
+Adventure Reborn Size: 441.0M
 Aery - Ancient Empires Size: 4.4G
 Aery - Broken Memories Size: 1.4G
 Aery - Calm Mind Size: 2.2G
@@ -1036,6 +1037,7 @@ Extreme Trucks Simulator Size: 486.0M
 F.I.S.T. Forged In Shadow Torch Size: 6.3G
 F1 Manager 2024 Size: 9.0G
 FAIRY TAIL 2 Size: 4.8G
+FAIRY TAIL DUNGEONS Size: 184.0M
 FANTASIAN Neo Dimension Size: 6.2G
 FANTASY HERO unsigned legacy Size: 1.5G
 FANTASY LIFE i The Girl Who Steals Time Size: 6.6G
@@ -2693,6 +2695,8 @@ Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: 8.9G
 Tokyo Mirage Sessions #FE Encore Size: 11.3G
 Tomb Raider Definitive Edition Size: 27.2G
 Tomb Raider I-III Remastered Starring Lara Croft Size: 5.5G
+Tomba 2 The Evil Swine Return Special Edition Size: 3.2G
+Tomba Special Edition Size: 3.7G
 Tony Hawk's Pro Skater 1 + 2 Size: 12.3G
 Tony Hawk's Pro Skater 3 + 4 Size: 18.7G
 Tools Up Ultimate Edition Size: 1.8G

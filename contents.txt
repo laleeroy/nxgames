@@ -1023,6 +1023,7 @@ Epic Astro Story Size: 261.0M
 Equestrian Training Size: 1.4G
 Escape Game - FORT BOYARD 2022 Size: 2.0G
 Escape Game Fort Boyard Size: 2.6G
+Escape from Ever After Size: 1.8G
 Escape from Terror City Size: 64.0M
 Espgaluda II Size: 905.0M
 Eternights Size: 4.3G
@@ -1651,6 +1652,7 @@ METAL GEAR SOLID MASTER COLLECTION Vol.1 BONUS CONTENT Size: 399.0M
 METAL SLUG 1st & 2nd MISSION Double Pack Size: 125.0M
 METAL SLUG ATTACK RELOADED Size: 1.7G
 METRO QUESTER Size: 502.0M
+MIO Memories In Orbit Size: 3.1G
 MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED Size: 5.5G
 MOMIBOSU Size: 1.9G
 MY HERO ONE'S JUSTICE Size: 3.5G
@@ -1944,6 +1946,8 @@ Open Roads Size: 6.0G
 Operation STEEL Size: 280.0M
 Ori and the Blind Forest Definitive Edition Size: 3.5G
 Ori and the Will of the Wisps Size: 4.3G
+Orwell Ignorance is Strength Size: 929.1M
+Orwell Keeping an Eye On You Size: 204.9M
 Osyaberi Horijyo Gekihori Anna Holinski saves the universe, alright Size: 347.0M
 Our After-School Playzone Size: 324.0M
 Our Fantasy Quest Size: 316.0M
@@ -2774,6 +2778,7 @@ UNDER NIGHT IN-BIRTH II SysCeles Size: 2.8G
 UTOPIA 9 - A Volatile Vacation Size: 1002.0M
 Ultimate Custom Night Size: 574.0M
 Ultimate Fishing Simulator Size: 3.9G
+Ultimate Sheep Raccoon Size: 3.0G
 Ultionus A Tale of Petty Revenge Size: 74.0M
 Ultra Street Fighter II The Final Challengers Size: 2.8G
 UltraAge Size: 5.9G

@@ -1744,6 +1744,7 @@ Milli & Greg Size: 268.0M
 Million Shells Size: 194.0M
 Mina & Michi Size: 40.0M
 Minami Lane Size: 840.0M
+Mindcell Size: 1.6G
 Minecraft Size: 1.5G
 Minecraft Dungeons Size: 7.4G
 Minecraft Legends Size: 7.4G
@@ -2371,6 +2372,7 @@ Sky Revolver Size: 1002.0M
 Skyland Rush - Air Raid Attack Size: 165.0M
 Skyline Bowling Size: 894.0M
 Slam and Roll Size: 263.0M
+Slaughter The Lost Outpost Size: 2.9G
 Slave Zero X Size: 5.6G
 Slayers X Terminal Aftermath Vengance of the Slayer Size: 1004.0M
 Sldner-X Himmelsstrmer Size: 563.0M
@@ -2849,6 +2851,8 @@ WWE 2K Battlegrounds Size: 10.8G
 WWE 2K18 Size: 21.2G
 Waifu Discovered 2 Medieval Fantasy Size: 514.0M
 Waifu Uncovered Size: 160.0M
+Wall Of Insanity 2 Size: 1.2G
+Wall of insanity Size: 3.0G
 Wand Wars Size: 141.0M
 WarioWare Get It Together Size: 1.3G
 WarioWare Move It Size: 1.3G

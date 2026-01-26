@@ -2111,6 +2111,7 @@ QUByte Classics Zero Tolerance Collection by PIKO Size: 159.0M
 Qbics Paint Size: 152.0M
 Quad Fighter K Size: 48.0M
 Quantum Recharged Size: 355.0M
+Quarantine Zone Border Zombie Checkpoint Size: 444.0M
 Quit Today Size: 1.1G
 R-Type Delta HD Boosted Size: 909.0M
 R-Type Dimensions EX Size: 206.0M
@@ -2216,6 +2217,7 @@ Romantic Date The Perfect Boy Size: 211.0M
 Rooftops & Alleys The Parkour Game Size: 1.2G
 Room of Depression Size: 423.0M
 Rose & Camellia Collection Size: 1.6G
+Royal Watch The Throne's Duty Size: 373.0M
 Rudolph the Red-Nosed Reindeer Size: 2.0G
 Rue Valley Size: 2.5G
 Rugby Challenge 4 Size: 11.1G

@@ -783,6 +783,7 @@ Crimson Spires Size: 4.8G
 Crimzon Clover - World EXplosion Size: 743.0M
 Crisis Wing Size: 161.0M
 Croc Legend of the Gobbos Size: 7.0G
+Crosak Size: 1005.8M
 Cross Tails Size: 757.0M
 Crowded Mysteries Size: 480.0M
 Cruis'n Blast Size: 3.7G
@@ -1678,6 +1679,7 @@ Mai Child of Ages Size: 5.5G
 Maiden & Spell Size: 383.0M
 Mail Time Size: 1.8G
 Majogami Size: 4.4G
+Majotori Size: 114.1M
 MakOS new operating system Size: 197.0M
 Make it Crepe Size: 256.0M
 Make it Ikayaki Size: 327.0M

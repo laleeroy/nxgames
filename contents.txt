@@ -847,6 +847,7 @@ Darius Cozmic Collection Size: 201.0M
 Darius Cozmic Collection Arcade Size: 141.0M
 Darius Cozmic Collection Console Size: 123.0M
 Darius Cozmic Collection Special Edition Size: 191.1M
+Dark Auction Size: 6.4G
 Dark Dungeon Warrior Size: 675.0M
 Darkest Dungeon Size: 3.9G
 Darkest Dungeon II Size: 3.9G

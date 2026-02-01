@@ -2675,6 +2675,7 @@ The Next Penelope Size: 719.0M
 The Operator Size: 1.7G
 The Ouroboros King Size: 985.0M
 The Pathless Size: 1.9G
+The Perfect Pencil Size: 1.5G
 The Plucky Squire Size: 10.4G
 The Pyraplex Size: 250.0M
 The Ramen Sensei Size: 286.0M

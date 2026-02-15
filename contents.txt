@@ -162,6 +162,7 @@ Aperion Cyberstorm Size: 452.0M
 Apex Heroines Size: 4.1G
 Apollo Justice Ace Attorney Trilogy Size: 13.0G
 Ar Nosurge Pray for the Born Star DX (JAP) Size: 6.7G
+ArcRunner Size: 2.0G
 Arcade Archives 10-Yard Fight Size: 110.0M
 Arcade Archives GRADIUS III Size: 153.0M
 Arcade Archives GROBDA Size: 86.0M
@@ -1137,6 +1138,7 @@ Fit My Zoo Size: 446.0M
 Fitness Boxing Size: 1.0G
 Fitness Boxing 2 Rhythm & Exercise Size: 4.7G
 Fitness Boxing 3 Size: 3.7G
+Five Hearts Under One Roof Size: 5.0G
 Five Nights at Freddy's Size: 453.0M
 Five Nights at Freddy's 2 Size: 552.0M
 Five Nights at Freddy's 3 Size: 379.0M
@@ -1564,6 +1566,7 @@ Killer Frequency Size: 2.2G
 Kind Heart Defenders Size: 1.8G
 King's Heir Rise to the Throne Size: 1016.0M
 Kingdom Come Deliverance Royal Edition Size: 23.2G
+Kingdom Shell Size: 209.0M
 Kings of Paradise Size: 668.0M
 Kiosk Size: 296.0M
 Kirby Star Allies Size: 4.0G
@@ -3005,6 +3008,7 @@ Zumba Royal Marble Shooter Mania Size: 232.0M
 despelote Size: 2.6G
 even if TEMPEST Size: 4.8G
 even if TEMPEST Dawning Connections Size: 7.1G
+hololive Treasure Mountain MegaPack Size: 2.7G
 megaton musashi Size: 10.7G
 nDay Size: 306.0M
 nPaint Size: 256.0M

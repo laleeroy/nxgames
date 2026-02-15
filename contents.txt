@@ -839,6 +839,7 @@ DRAW AND COLOR KAWAII Size: 921.0M
 DREAMERS A Nostalgic Adventure Size: 7.4G
 DREDGE Size: 1.3G
 DRIVE DRIFT X Size: 189.0M
+DUSK INDEX GION Size: 3.1G
 Dagger Froggy Size: 135.0M
 Dairoku Agents of Sakuratani Size: 4.0G
 Damikira Size: 163.0M
@@ -854,6 +855,10 @@ Darius Cozmic Collection Console Size: 123.0M
 Darius Cozmic Collection Special Edition Size: 191.1M
 Dark Auction Size: 7.0G
 Dark Dungeon Warrior Size: 675.0M
+Dark Quest 2 Size: 1.6G
+Dark Quest 3 Size: 1.8G
+Dark Quest 4 Size: 2.2G
+Dark Quest Remastered Size: 508.0M
 Darkest Dungeon Size: 3.9G
 Darkest Dungeon II Size: 3.9G
 Darksiders Genesis Size: 10.0G
@@ -1761,6 +1766,7 @@ Mighty Mage Size: 79.0M
 Mighty Morphin Power Rangers Rita's Rewind Size: 863.0M
 Miitopia Size: 3.1G
 Mika and the Witch's Mountain Size: 2.5G
+Milano's Odd Job Collection Size: 432.0M
 Milky Way Prince - The Vampire Star Size: 902.0M
 Milli & Greg Size: 268.0M
 Million Shells Size: 194.0M

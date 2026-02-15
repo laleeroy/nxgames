@@ -983,6 +983,7 @@ Drums Size: 1.1G
 Duck Detective - The Secret Salami Size: 269.0M
 Duck Detective The Ghost of Glamping Size: 516.0M
 Dude, Where Is My Beer Size: 771.0M
+DunHero Size: 275.0M
 Dungeon Village Size: 254.0M
 Dungeon Village 2 Size: 289.0M
 Dungeons & Dragons Neverwinter Nights 2 Enhanced Edition Size: 21.4G
@@ -2290,6 +2291,7 @@ STRIKER MODES Size: 331.0M
 STURMWIND EX Size: 1.3G
 SUBNET - Escape Room Adventure Size: 2.4G
 SUGOROKU CASINO PARTY Size: 530.0M
+SUPER BOMBERMAN COLLECTION Size: 1.8G
 SUPER BOMBERMAN R 2 Size: 5.1G
 SUPER DRAGON BALL HEROES WORLD MISSION Size: 7.8G
 SUPER ROBOT WARS 30 Size: 15.8G

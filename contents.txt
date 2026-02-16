@@ -1583,6 +1583,7 @@ Kitty Love -Way to look for love- Size: 537.0M
 Knight's Night Size: 103.0M
 Knights of Grayfang Size: 541.0M
 Know by heart.. Size: 1.0G
+Kraken Odyssey Size: 1.2G
 Kubinashi Recollection Size: 182.0M
 Kuznetsk 1997 Detective Visual Novel Size: 938.0M
 Kvark Size: 4.1G
@@ -2893,6 +2894,7 @@ Voxel Pirates Size: 1022.0M
 Voxel Shot for Nintendo Switch Size: 554.0M
 Voxel Sword Size: 439.0M
 Vs Rage Size: 835.0M
+WINDSWEPT Size: 310.0M
 WWE 2K Battlegrounds Size: 10.8G
 WWE 2K18 Size: 21.2G
 Waifu Discovered 2 Medieval Fantasy Size: 514.0M

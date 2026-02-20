@@ -707,6 +707,8 @@ Chess Maiden Size: 82.0M
 Chess Minimal Size: 185.0M
 Chess Royal Size: 189.0M
 Chess Ultra Size: 4.0G
+Chicken Police Into the HIVE Size: 2.2G
+Chicken Police Paint it RED Size: 3.9G
 Children of Morta Size: 2.5G
 Chippy Size: 959.0M
 Cho Aniki Collection Size: 1.2G

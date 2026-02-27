@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8Bit-Games List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Credit Text Above Everything -->
+    <p id="credit-text">Updated as of Feb 27 2026 09:30AM PHT</p>
+
+    <header>
+        <div class="logo-container">
+            <img src="console.png" alt="Logo" class="logo">
+        </div>
+        <h1>Games List</h1>
+        <div class="logo-links">
+            <a href="https://www.facebook.com/8bitgamer2024" target="_blank">Facebook</a>
+            <a href="https://shopee.ph/8bitgamer" target="_blank">Shopee</a>
+        </div>
+    </header>
+    <p><i>If your game is missing, let me know and I will add it!</i></p>
+    <input type="text" id="search-bar" placeholder="Enter a game keyword here (e.g., Mario)" />
+    <div id="content-list"></div>
+    <div id="total-size-container">
+        <strong>Total Size:</strong> <span id="total-size">0 GB</span>
+        <button id="copy-entries-button">Copy</button>
+        <button id="facebook-messenger-button">Send</button>
+    </div>
+    <div id="notification" class="notification">
+        <p>The games you've chosen have been copied.</p>
+        <p>Paste them in our conversation to proceed with the installation.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

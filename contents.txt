@@ -694,6 +694,7 @@ Cat Piano Size: 248.0M
 Cat Quest III Size: 1.5G
 Catching Spirits Size: 457.0M
 Cattle Country Size: 822.0M
+Cauldron Size: 316.0M
 Cavern Adventurers Size: 84.0M
 Caverns of Mars Recharged Size: 550.0M
 Caves of Qud Size: 910.6M

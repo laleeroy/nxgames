@@ -1,29 +1,396 @@
-#KILLALLZOMBIES Size: 624.0M
-100 in 1 Game Collection Size: 3.0G
-30-in-1 Game Collection Size: 1.6G
-30-in-1 Game Collection Volume 1 Size: 1.5G
-7'scarlet Size: 2.6G
-7th Domain Tree of Chaos Size: 3.1G
-8-Bit Farm Size: 261.0M
-9 R.I.P Size: 5.2G
-9th Dawn III Size: 867.0M
-9th Dawn Remake Size: 1.6G
-A Game About Digging A Hole Size: 334.0M
-Accolade Sports Collection (QUByte Classics) Size: 326.0M
-Ace Attorney Investigations Collection Size: 7.0G
-Afterparty Size: 4.6G
-Against the Storm Size: 2.0G
-Agatha Christie - Death on the Nile Size: 6.1G
-Agatha Christie - Hercule Poirot The First Cases Size: 3.1G
-Agatha Christie - Hercule Poirot The London Case Size: 3.3G
-Agatha Christie - Murder on the Orient Express Size: 5.0G
-Agatha Christie - The ABC Murders Size: 1.5G
-Akash Path of the Five Size: 2.2G
-All in Abyss Judge the Fake Size: 1.6G
-Alphadia Genesis Size: 199.0M
-Alphadia Genesis 2 Size: 234.0M
-Alphadia I & II Size: 1.0G
-Alphadia Neo Size: 433.0M
-Alvastia Chronicles Size: 101.0M
-Ambition A Minuet in Power Size: 1.3G
-Ambition Record Size: 850.0M
+#KILLALLZOMBIES Size: Unknown
+7'scarlet Size: Unknown
+9 R.I.P Size: Unknown
+Accolade Sports Collection (QUByte Classics) Size: Unknown
+Akash Path of the Five Size: Unknown
+Ambition A Minuet in Power Size: Unknown
+Amnesia Later x Crowd Size: Unknown
+Amnesia Memories Size: Unknown
+Angel at Dusk Size: Unknown
+Animal Crossing New Horizons Size: Unknown
+Animal Crossing New Horizons Island Transfer Tool Size: Unknown
+Animal Lover Size: Unknown
+Anime Boys Dating The night before Christmas and the tree Size: Unknown
+Anime Studio Story Size: Unknown
+Arcadia Fallen Size: Unknown
+Arcana Famiglia Rinato Size: Unknown
+Atelier Lydie & Suelle The Alchemists and the Mysterious Paintings DX Size: Unknown
+Atelier Marie Remake The Alchemist of Salburg Size: Unknown
+Atelier Resleriana The Red Alchemist & the White Guardian Size: Unknown
+Atelier Sophie 2 The Alchemist of the Mysterious Dream Size: Unknown
+Atelier Yumia The Alchemist of Memories & the Envisioned Land Size: Unknown
+Autumn's Journey Size: Unknown
+Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- Size: Unknown
+Ayakashi Romance Reborn Dawn Chapter & Twilight Chapter Size: Unknown
+B-PROJECT RYUSEIFANTASIA Size: Unknown
+BALL x PIT Size: Unknown
+BIG BALL SPORTS Size: Unknown
+BUSTAFELLOWS Size: Unknown
+BUSTAFELLOWS season2 Size: Unknown
+Bakumatsu Renka SHINSENGUMI Size: Unknown
+Basketball Club Story Size: Unknown
+Battlefield Waltz Size: Unknown
+Beach Boys 2 Zodiac Date Size: Unknown
+Beach Boys The Perfect Date Size: Unknown
+Beach Boys You and Me Size: Unknown
+Beastie Bay DX Size: Unknown
+Beastmaster and Prince Flower and Snow (JAP) Size: Unknown
+Beat 'Em Up Archives (QUByte Classics) Size: Unknown
+Beat 'Em Up Collection (QUByte Classics) Size: Unknown
+Bezier Second Edition Size: Unknown
+Birushana Rising Flower of Genpei Size: Unknown
+Biz Builder Delux Size: Unknown
+Blind - The Unseen Truth Size: Unknown
+Blind Men Size: Unknown
+Boxing Gym Story Size: Unknown
+Boyfriend Dungeon Size: Unknown
+Breakers Collection Size: Unknown
+Bright Memory Infinite Gold Edition Size: Unknown
+Burger Bistro Story Size: Unknown
+Burning Secrets - A Bara Visual Novel Size: Unknown
+Burrow of the Fallen Bear A Gay Furry Visual Novel Size: Unknown
+Butterfly's Poison Blood Chains Size: Unknown
+Byakko-tai Samurai Boys Size: Unknown
+C14 Dating Size: Unknown
+Cafe Master Story Size: Unknown
+Cafeteria Nipponica Size: Unknown
+Café Enchanté Size: Unknown
+Caravan SandWitch Size: Unknown
+Celestia Chain of Fate Size: Unknown
+Chalk Dash Carnival Size: Unknown
+Charade Maniacs Size: Unknown
+Code Realize Future Blessings Size: Unknown
+Code Realize Guardian of Rebirth Size: Unknown
+Code Realize Wintertide Miracles Size: Unknown
+Collar X Malice Size: Unknown
+Collar X Malice -Unlimited- Size: Unknown
+Convenience Stories Size: Unknown
+Core Keeper Size: Unknown
+Crimson Spires Size: Unknown
+Cult of the Lamb Size: Unknown
+Cupid Parasite Size: Unknown
+Cupid Parasite Sweet and Spicy Darling Size: Unknown
+DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET Size: Unknown
+DRIVE DRIFT X Size: Unknown
+Dairoku Agents of Sakuratani Size: Unknown
+Dangerous Relationship Size: Unknown
+Dark Dungeon Warrior Size: Unknown
+Darkest Dungeon II Size: Unknown
+Dateless Love - Love Story Behind the Restoration - Size: Unknown
+Desktop BaseBall 2 Size: Unknown
+Desktop Baseball Size: Unknown
+Desktop Basketball Size: Unknown
+Desktop Basketball 2 Size: Unknown
+Desktop Bowling Size: Unknown
+Desktop Dodgeball Size: Unknown
+Desktop Rugby Size: Unknown
+Desktop Soccer Size: Unknown
+Desktop Soccer 2 Size: Unknown
+Desktop Table Tennis Size: Unknown
+Desktop Volleyball Size: Unknown
+Despera Drops Size: Unknown
+Destino Indomable Size: Unknown
+Destiny's Princess A War Story, A Love Story Size: Unknown
+Diablo II Resurrected Size: Unknown
+Diamond Girl An Earnest Education in Love Size: Unknown
+Doraemon Dorayaki Shop Story Size: Unknown
+Dormitory Love Size: Unknown
+Double Dragon Gaiden Rise of the Dragons Size: Unknown
+Dr. Frank's Build a Boyfriend Size: Unknown
+Dream Daddy A Dad Dating Simulator Size: Unknown
+Dream House Days DX Size: Unknown
+Dream Park Story Size: Unknown
+Dream Town Island Size: Unknown
+Dungeon Village Size: Unknown
+Dungeon Village 2 Size: Unknown
+EPHEMERAL -FANTASY ON DARK- Size: Unknown
+EXTREME BIKE X Size: Unknown
+Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo - Size: Unknown
+Enchanted in the Moonlight - Miyabi, Kyoga & Samon - Size: Unknown
+Epic Astro Story Size: Unknown
+Fabledom Size: Unknown
+Finally, in Love Again Size: Unknown
+Flower Shop Winter In Fairbrook Size: Unknown
+Forest Camp Story Size: Unknown
+Forest Golf Planner Size: Unknown
+Forgotten Memories Size: Unknown
+Freezer Pops Size: Unknown
+From Madness with Love Size: Unknown
+Fruitbus Size: Unknown
+G-MODE Archives29 ZANAC Size: Unknown
+Gakuen Club Size: Unknown
+Game Dev Story Size: Unknown
+Genso Mange Size: Unknown
+Geometric Brothers Size: Unknown
+Glover (QUByte Classics) Size: Unknown
+Gothic Murder Adventure That Changes Destiny Size: Unknown
+Gourmet Warriors (QUByte Classics) Size: Unknown
+Grand Prix Story Size: Unknown
+Grand Theft Auto III The Definitive Edition Size: Unknown
+Grand Theft Auto San Andreas The Definitive Edition Size: Unknown
+Grand Theft Auto Vice City The Definitive Edition Size: Unknown
+HYPER DRONE X Size: Unknown
+Hakuoki Chronicles of Wind and Blossom Size: Unknown
+Hana Awase New Moon -Himeutsugi Volume- Size: Unknown
+Hana Awase New Moon -Iroha Volume- Size: Unknown
+Hana Awase New Moon -KarakurenaiUtsutsu Volume- Size: Unknown
+Hana Awase New Moon -Mizuchi Volume- Size: Unknown
+Hashihime of the Old Book Town append Size: Unknown
+Head over Heels Size: Unknown
+High Sea Saga DX Size: Unknown
+Him, the Smile & Bloom Size: Unknown
+Home Run High Size: Unknown
+Hot Springs Story Size: Unknown
+Hot Springs Story 2 Size: Unknown
+How to Fool a Liar King Remastered Size: Unknown
+How to take off your Mask Remastered Size: Unknown
+ICHU Chibi Edition Size: Unknown
+Ikkarus and the Prince of Sin Size: Unknown
+Illusion of Itehari Size: Unknown
+Iris School of Wizardry -Vinculum Hearts- Size: Unknown
+Irresistible Mistakes Size: Unknown
+It came from space and ate our brains Size: Unknown
+Jack Jeanne Size: Unknown
+Jumbo Airport Story Size: Unknown
+Just Dance Size: Unknown
+Kairobotica Size: Unknown
+Kings of Paradise Size: Unknown
+Kissed by the Baddest Bidder Size: Unknown
+Kitty Love -Way to look for love- Size: Unknown
+LUMbA REDUX Size: Unknown
+Labyrinth of Legends Roguelike Battle Quest Size: Unknown
+Last 4 Alive Escape From Zombies Size: Unknown
+Later Daters Premium Size: Unknown
+Legends of Heropolis DX Size: Unknown
+Littlewood Size: Unknown
+LongStory A dating game for the real world Size: Unknown
+Love Furry Boys Zodiac Dating App Size: Unknown
+Love Language Stories Size: Unknown
+Love Letter from Thief X Size: Unknown
+Lover Pretend Size: Unknown
+Magazine Mogul Size: Unknown
+Make it Crepe Size: Unknown
+Make it Ikayaki Size: Unknown
+Make it Oden Size: Unknown
+Make it Taiyaki Size: Unknown
+Make it Takoyaki Size: Unknown
+March to a Million Size: Unknown
+Masquerade Kiss Size: Unknown
+Mega Mall Story Size: Unknown
+Mega Mall Story 2 Size: Unknown
+Meiji Tokyo Renka Full Moon Size: Unknown
+Metal Tales Overkill Size: Unknown
+Mighty Mage Size: Unknown
+Milky Way Prince - The Vampire Star Size: Unknown
+Milli & Greg Size: Unknown
+Minecraft Size: Unknown
+MisBloody Size: Unknown
+Mistonia's Hope -The Lost Delight- Size: Unknown
+Monster Hunter Generations Ultimate Size: Unknown
+Monster destroyer Size: Unknown
+Mustache In Hell Size: Unknown
+My Bewitching Perfume Size: Unknown
+My Butler Size: Unknown
+My Dangerous Life Size: Unknown
+My Forged Wedding Size: Unknown
+My Last First Kiss Size: Unknown
+My Next Life as a Villainess All Routes Lead to Doom -Pirates of the Disturbance- Size: Unknown
+My Secret Pets Size: Unknown
+Mystic Gate Size: Unknown
+Nicole Size: Unknown
+Nightshade Size: Unknown
+Ninja Village Size: Unknown
+No More Snow Size: Unknown
+Norn9 Last Era Size: Unknown
+Norn9 Var Commons Size: Unknown
+Null Drifter Size: Unknown
+Of the Red, the Light, and the Ayakashi Tsuzuri Size: Unknown
+Office Lovers Size: Unknown
+OhEdo Towns Size: Unknown
+Olympia Soirée Size: Unknown
+Oops, I Said Yes Size: Unknown
+Ori and the Will of the Wisps Size: Unknown
+Our After-School Playzone Size: Unknown
+Our Fantasy Quest Size: Unknown
+Our Field Trip Adventure Size: Unknown
+Our Flick Erasers Size: Unknown
+Our Ninja World Size: Unknown
+Our Summer Festival Size: Unknown
+Our Summer Sports Size: Unknown
+Our Two Bedroom Story Size: Unknown
+Our Winter Sports Size: Unknown
+PARANORMASIGHT The Seven Mysteries of Honjo Size: Unknown
+PIPELINE PANIC Size: Unknown
+Paladin Size: Unknown
+Pan-Dimensional Conga Combat Size: Unknown
+Paradigm Paradox Size: Unknown
+Party Party Time Size: Unknown
+Party Party Time 2 Size: Unknown
+Pew Paw Size: Unknown
+Piofiore Episodio 1926 Size: Unknown
+Piofiore Fated Memories Size: Unknown
+Plants vs. Zombies Replanted Size: Unknown
+PlateUp Size: Unknown
+Pocket Academy Size: Unknown
+Pocket Academy 3 Size: Unknown
+Pocket Academy ZERO Size: Unknown
+Pocket Arcade Story Size: Unknown
+Pocket Clothier Size: Unknown
+Pocket Harvest Size: Unknown
+Pocket League Story Size: Unknown
+Pocket Stables Size: Unknown
+Pool Slide Story Size: Unknown
+Princess Closet Size: Unknown
+Princess Closet - Fashion and love will change me - Size: Unknown
+Pub Encounter Size: Unknown
+Pummel Party Size: Unknown
+QUByte Classics - The Humans by PIKO Size: Unknown
+QUByte Classics - The Immortal by PIKO Size: Unknown
+QUByte Classics Jim Power The Lost Dimension by PIKO Size: Unknown
+QUByte Classics Thunderbolt Collection by PIKO Size: Unknown
+QUByte Classics Zero Tolerance Collection by PIKO Size: Unknown
+Quantum Recharged Size: Unknown
+ROCK BOSHERS DX Director's Cut Size: Unknown
+Radiant Tale Size: Unknown
+Radiant Tale -Fanfare- Size: Unknown
+Radical Rex (QUByte Classics) Size: Unknown
+Rage Swarm Size: Unknown
+Rainbow Laser Disco Dungeon Size: Unknown
+Raptor Boyfriend A High School Romance Size: Unknown
+Redgar The Space Viking Size: Unknown
+Restless Night Size: Unknown
+Rev Up RC Grand Prix Size: Unknown
+Risky Woods (QUByte Classics) Size: Unknown
+River City Saga Three Kingdoms Size: Unknown
+River City Saga Three Kingdoms Next Size: Unknown
+Robo Revenge Squad Size: Unknown
+Rogue Sentry Size: Unknown
+Romance MD Always On Call Size: Unknown
+Romantic Date The Perfect Boy Size: Unknown
+Rooftops & Alleys The Parkour Game Size: Unknown
+Ruthless Carnage Hotline Size: Unknown
+SEKIMORI GAMI - SAIEN Size: Unknown
+SHAPE NEON CHAOS Size: Unknown
+SUSHI Drop Size: Unknown
+SUSHI Race Size: Unknown
+SUSHI Shot Size: Unknown
+SUSHI Shot Online Size: Unknown
+SWARMRIDER OMEGA Size: Unknown
+SWARMRIDERS Size: Unknown
+Scandal In The Spotlight Size: Unknown
+School Race GP Size: Unknown
+Secrets of Me Size: Unknown
+Seduced in the Sleepless City Size: Unknown
+Sentry Paragon Size: Unknown
+Shiny Ski Resort Size: Unknown
+Silver Falls - Guardians And Metal Exterminators S Size: Unknown
+Silver Screen Story Size: Unknown
+Sleep Tight Size: Unknown
+Sol Dorado Heist Size: Unknown
+Solomon Snow First Contact Size: Unknown
+Son of a Gun Size: Unknown
+Space Battle Size: Unknown
+Space Cows Size: Unknown
+Space Genesis Size: Unknown
+Space Robinson Size: Unknown
+Spellbearers Size: Unknown
+Spiral Memoria -The Summer I Meet Myself- Size: Unknown
+Star-Crossed Myth - The Department of Punishments - Size: Unknown
+Star-Crossed Myth - The Department of Wishes - Size: Unknown
+Stardew Valley Size: Unknown
+Starward Rogue Size: Unknown
+State of Anarchy Master of Mayhem Size: Unknown
+Station Manager Size: Unknown
+Steam Prison Size: Unknown
+Steam Prison -Beyond the Steam- Size: Unknown
+StormEdge Size: Unknown
+Strike Buster Prototype Size: Unknown
+Sugar Tanks Size: Unknown
+Sugar Tanks 2 Size: Unknown
+Suhoshin Size: Unknown
+Summer Party Time Size: Unknown
+Super Space Serpent Secondary Edition Size: Unknown
+Super Trunko Go Size: Unknown
+Sympathy Kiss Size: Unknown
+Synthetic Lover Size: Unknown
+TACTICAL BANDITS Size: Unknown
+TAISHO x ALICE ALL IN ONE Size: Unknown
+TAISHO x ALICE HEADS & TAILS Size: Unknown
+THOTH Size: Unknown
+TRAXION 2 Size: Unknown
+TV Studio Story Size: Unknown
+Tachyon Project Size: Unknown
+Taiko no Tatsujin Rhythm Festival Size: Unknown
+Teenage Mutant Ninja Turtles Splintered Fate Size: Unknown
+Temp Zero Size: Unknown
+Tengoku Struggle -Strayside- Size: Unknown
+Tennis Club Story Size: Unknown
+The Amazing Shinsengumi Heroes in Love Size: Unknown
+The Bunny Graveyard Size: Unknown
+The Charming Empire Size: Unknown
+The Crackpet Show Size: Unknown
+The Crimson Flower that Divides Lunar Coupling Size: Unknown
+The Legend of Cyber Cowboy Size: Unknown
+The Lost and The Wicked Size: Unknown
+The Manga Works Size: Unknown
+The Men of Yoshiwara Kikuya Size: Unknown
+The Men of Yoshiwara Ohgiya Size: Unknown
+The Pyraplex Size: Unknown
+The Ramen Sensei Size: Unknown
+The Red Bell's Lament Size: Unknown
+The Samurai Collection (QUByte Classics) Size: Unknown
+The Sushi Spinnery Size: Unknown
+The Tale of Clouds and Wind (QUByte Classics) Size: Unknown
+The Town of Nie Size: Unknown
+The Town of Nie Iromusubi Size: Unknown
+The Villainess Is Adored by the Prince of the Neighbor Kingdom Size: Unknown
+The Walking Vegetables Radical Edition Size: Unknown
+Time Rift Size: Unknown
+Tinhead (QUByte Classics) Size: Unknown
+Toadomination Size: Unknown
+Tokimeki Memorial Girl's Side 1st Love (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: Unknown
+Top Racer Collection Size: Unknown
+Trash Punk Size: Unknown
+Tropical Resort Story Size: Unknown
+UBERMOSH SANTICIDE Size: Unknown
+UBERMOSHBLACK Size: Unknown
+UBERMOSHOMEGA Size: Unknown
+UTOPIA 9 - A Volatile Vacation Size: Unknown
+UltraGoodness Size: Unknown
+UltraGoodness 2 Size: Unknown
+Unalive 010 Size: Unknown
+Undead Battle Royale Size: Unknown
+Uragun Size: Unknown
+VISCO Collection Size: Unknown
+Variable Barricade Size: Unknown
+Venture Towns Size: Unknown
+Virche Evermore -EpiC Lycoris- Size: Unknown
+Virche Evermore -ErroR Salvation- Size: Unknown
+Virtual Battle Size: Unknown
+Virus Rush Size: Unknown
+Voice Love On Air Size: Unknown
+Void Prison Size: Unknown
+Void Scrappers Size: Unknown
+Voxel Galaxy Size: Unknown
+Voxel Pirates Size: Unknown
+Voxel Shot for Nintendo Switch Size: Unknown
+Voxel Sword Size: Unknown
+Warp 7 Size: Unknown
+Wild Park Manager Size: Unknown
+Winds Of Change Size: Unknown
+Winters Wish Spirits of Edo Size: Unknown
+Work It Out Job Challenge Size: Unknown
+World Cruise Story Size: Unknown
+World Spin Size: Unknown
+Xatrom Command Size: Unknown
+Yars Recharged Size: Unknown
+Yukar From The Abyss Size: Unknown
+Yumemidori Nostalgia Size: Unknown
+Zero-G Gunfight Size: Unknown
+Zombies, Aliens and Guns Size: Unknown
+Zombiewood Survival Shooter Size: Unknown
+Zoo Park Story Size: Unknown
+even if TEMPEST Size: Unknown
+even if TEMPEST Dawning Connections Size: Unknown

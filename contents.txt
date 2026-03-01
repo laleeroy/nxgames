@@ -746,6 +746,7 @@ Clock Maker My Clock - ver. digital (with timer) Size: 126.0M
 Clock Maker My Pendulum Clock Size: 97.0M
 Clock Tower Rewind Size: 1.4G
 Cloudy Valley Size: 973.0M
+Clover Reset Demo Size: 1.0G
 Clubhouse Games 51 Worldwide Classics Size: 2.5G
 ClusterPuck 99 Size: 267.0M
 Cobalt Core Size: 448.0M
@@ -1925,7 +1926,7 @@ OCTOPATH TRAVELER II Size: 6.1G
 OK K.O. Lets Play Heroes Size: 2.3G
 OMORI Size: 1.9G
 ONE PIECE ODYSSEY DELUXE EDITION Size: 11.8G
-ONE PIECE PIRATE WARRIORS 4 Size: 533.0M
+ONE PIECE PIRATE WARRIORS 4 Size: 13.9G
 ONE PIECE Pirate Warriors 3 Deluxe Edition Size: 13.2G
 ONE PIECE Unlimited World Red Deluxe Edition Size: 10.5G
 OPERATION NIGHT STRIKERS Size: 1.1G

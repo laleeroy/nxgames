@@ -120,6 +120,7 @@ Akinofa Size: 77.0M
 Akka Arrh Size: 272.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
+Aleste Collection Size: 371.0M
 Alien Cruise Size: 2.7G
 Alive Paint Size: 984.0M
 All Hands on Deck Size: 1.6G
@@ -164,6 +165,7 @@ Antiquia Lost Size: 366.0M
 Aperion Cyberstorm Size: 452.0M
 Apex Heroines Size: 4.1G
 Apollo Justice Ace Attorney Trilogy Size: 13.0G
+Ar Nosurge Ode to an Unborn Star DX Size: 6.7G
 ArcRunner Size: 2.0G
 Arcade Archives 10-Yard Fight Size: 110.0M
 Arcade Archives GRADIUS III Size: 153.0M
@@ -647,6 +649,7 @@ C14 Dating Size: 202.0M
 CARRION Size: 590.0M
 CASSETTE BOY Size: 576.0M
 CATO Buttered Cat Size: 533.0M
+CLASSIC STG PACK (Classic Shooting Pack) Gynoug  Gley Lancer Size: 90.0M
 CLAWPUNK Size: 986.0M
 CLeM Size: 1.7G
 CONERU -DIMENSION GIRL- Size: 1.8G
@@ -669,6 +672,7 @@ Calculator Maker My Calculator Size: 91.0M
 Camper Van Make it Home Size: 3.5G
 Candylands Journey Size: 279.0M
 Capcom Fighting Collection Size: 3.2G
+Capcom Fighting Collection 2 Size: 3.2G
 Captain Toad Treasure Tracker Size: 1.9G
 CarX Drift Racing Online Size: 4.4G
 CarX Highway Racing Size: 1.7G
@@ -779,6 +783,7 @@ Cosmo Dreamer Size: 458.0M
 Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
+Cotton Reboot High Tension! Size: 2.5G
 CounterAttack Uprising Size: 1.4G
 Cowboys vs Zombies Size: 1.7G
 Cozy Caravan Size: 1.4G
@@ -846,7 +851,7 @@ DRAGON BALL XENOVERSE 2 for Nintendo Switch Size: 17.6G
 DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET Size: 25.0G
 DRAGON QUEST I & II HD-2D Remake Size: 8.3G
 DRAGON QUEST III HD-2D Remake Size: 7.8G
-DRAGON QUEST VII Reimagined Size: 4.4G
+DRAGON QUEST VII Reimagined Size: 31.3G
 DRAGON QUEST XI S Echoes of an Elusive Age Definitive Edition Size: 14.0G
 DRAINUS Size: 256.0M
 DRAW AND COLOR KAWAII Size: 921.0M
@@ -1132,6 +1137,7 @@ Feeble Light Size: 73.0M
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
+Final Bubble Bobble Size: 19.0M
 Final Exerion Size: 1.5G
 Final Formation Size: 3.1G
 Final Frontier Story Size: 84.0M
@@ -1159,6 +1165,7 @@ Fit My Dog Size: 796.0M
 Fit My Zoo Size: 446.0M
 Fitness Boxing Size: 1.0G
 Fitness Boxing 2 Rhythm & Exercise Size: 4.7G
+Fitness Boxing 3 Your Personal Trainer Size: 3.7G
 Five Hearts Under One Roof Size: 5.0G
 Five Nights at Freddy's Size: 453.0M
 Five Nights at Freddy's 2 Size: 552.0M
@@ -1272,6 +1279,9 @@ Ghost Blade HD Size: 970.0M
 Ghost Sync Size: 439.0M
 Ghostrunner Size: 11.2G
 Girl Like A Dreaming - Flowering Sacrifice - Size: 1.2G
+Girl's Side 1st Love for Nintendo Switch Size: 3.5G
+Girl's Side 2nd Season for Nintendo Switch Size: 4.1G
+Girl’s Side 4th Heart Size: 8.9G
 GladMort Size: 111.0M
 Gleylancer Size: 49.0M
 Glitch Blaster's Waifu Size: 66.0M
@@ -1325,6 +1335,7 @@ HELLCARD Size: 491.0M
 HELLO KITTY AND FRIENDS FREEZE TAG PARTY Size: 1.1G
 HELLO KITTY AND FRIENDS HAPPINESS PARADE Size: 1.6G
 HEXAPODA Size: 218.0M
+HKJP Size: 42.0G
 HOT WHEELS UNLEASHED Size: 8.1G
 HOT WHEELS UNLEASHED 2 - Turbocharged Size: 7.8G
 HUNTERxHUNTER NENxIMPACT Size: 2.3G
@@ -1635,6 +1646,7 @@ MOMIBOSU Size: 1.9G
 MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
 Machinarium Size: 349.0M
+Macross Shooting Insight Size: 2.3G
 Mad Bullets Size: 426.0M
 Mad Father Size: 239.0M
 Magazine Mogul Size: 259.0M
@@ -1690,6 +1702,7 @@ Mega Man X Legacy Collection Size: 3.0G
 Mega Man X Legacy Collection 2 Size: 6.6G
 Mega Man ZeroZX Legacy Collection Size: 3.2G
 Megadimension Neptunia VII Size: 7.0G
+Megaton Musashi Size: 10.7G
 Megaton Rainfall Size: 737.0M
 Meiji Tokyo Renka Full Moon Size: 2.9G
 Melatonin Size: 2.1G
@@ -2048,7 +2061,9 @@ Pocket League Story Size: 250.0M
 Pocket Stables Size: 260.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
+Pokémon FireRed Size: 33.4M
 Pokémon Friends Size: 1.6G
+Pokémon LeafGreen Size: 33.2M
 Pokémon Legends Arceus Size: 6.1G
 Pokémon Legends Z-A Size: 4.1G
 Pokémon Lets Go, Eevee Size: 4.2G
@@ -2127,6 +2142,7 @@ Rage Swarm Size: 298.0M
 Raging Blasters Size: 48.0M
 Raging Bytes Size: 214.0M
 Raiden IVMIKADO remix Size: 918.0M
+Raiden NOVA Size: 922.0M
 Raiden V Director's Cut Size: 3.7G
 RaidenIII MIKADOMANIAX Size: 1.3G
 Rain World Size: 6.3G
@@ -2646,9 +2662,12 @@ The Knight Witch Size: 1.4G
 The Legend of Cyber Cowboy Size: 106.0M
 The Legend of Heroes Trails beyond the Horizon Size: 12.3G
 The Legend of Heroes Trails from Zero Size: 3.5G
+The Legend of Heroes Trails of Cold  Steel I Size: 9.8G
+The Legend of Heroes Trails of Cold Steel II Size: 10.8G
 The Legend of Heroes Trails of Cold Steel III Size: 7.6G
 The Legend of Heroes Trails of Cold Steel IV Size: 10.8G
 The Legend of Heroes Trails through Daybreak Size: 8.7G
+The Legend of Heroes Trails through Daybreak II Size: 12.8G
 The Legend of Steel Empire Size: 982.0M
 The Legend of Zelda Breath of the Wild Size: 15.7G
 The Legend of Zelda Echoes of Wisdom Size: 5.6G
@@ -2943,6 +2962,10 @@ YU-NO A girl who chants love at the bound of this world Size: 5.0G
 Yakuza Kiwami Size: 23.0G
 Yars Recharged Size: 539.0M
 Yasha Legends of the Demon Blade Size: 1.5G
+Yo-Kai Watch Size: 4.2G
+Yo-kai Watch 4++ Size: 9.0G
+Yo-kai Watch Jam Yo-kai Academy Y Size: 7.4G
+Yoiyami Dancers Size: 380.0M
 Yomawari Lost in the Dark Size: 2.0G
 Yomawari The Long Night Collection Size: 1.4G
 Yooka-Laylee Size: 8.1G
@@ -2950,6 +2973,7 @@ Yooka-Laylee and the Impossible Lair Size: 4.8G
 Yoshis Crafted World Size: 5.6G
 YouTube Size: 69.0M
 Ys IX Monstrum Nox Size: 3.3G
+Ys Memoire Revelations in Celceta - Day One Edition Size: 5.5G
 Ys VIII Lacrimosa of DANA Size: 14.9G
 Ys X Nordics Size: 6.8G
 Ys vs. Trails in the Sky Alternative Saga Size: 3.3G

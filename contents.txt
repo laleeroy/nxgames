@@ -1043,6 +1043,7 @@ Earth Atlantis Size: 689.0M
 Earthion Size: 95.0M
 Eastern Euro Truck Simulator Real Offroad Car Driving Game Sim 4x4 Mud Size: 266.0M
 Eastward Size: 2.1G
+Easy Red 2 Size: 5.4G
 Edna & Harvey Harvey's New Eyes Size: 1.2G
 Edna & Harvey The Breakout Anniversary Edition Size: 3.5G
 Eigengrau Size: 191.0M
@@ -1133,6 +1134,7 @@ FatalZone Size: 1.2G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fear Effect Size: 1.9G
+Fear Effect 2 Retro Helix Size: 1.9G
 Feeble Light Size: 73.0M
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
@@ -2660,6 +2662,9 @@ The Jackbox Party Starter Size: 6.1G
 The Karate Kid Street Rumble Size: 2.3G
 The Knight Witch Size: 1.4G
 The Legend of Cyber Cowboy Size: 106.0M
+The Legend of Dark Witch Size: 1.8G
+The Legend of Dark Witch Episode 2 Size: 1.4G
+The Legend of Dark Witch Episode 4 Size: 1.8G
 The Legend of Heroes Trails beyond the Horizon Size: 12.3G
 The Legend of Heroes Trails from Zero Size: 3.5G
 The Legend of Heroes Trails of Cold  Steel I Size: 9.8G

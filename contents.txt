@@ -2129,7 +2129,7 @@ Overrogue Size: 475.0M
 Ozymandias Size: 910.0M
 P.3 Size: 81.0M
 PAC-MAN CHAMPIONSHIP EDITION 2 PLUS Size: 2.5G
-PAC-MAN WORLD 2 Re-PAC Size: 6.4G
+PAC-MAN WORLD 2 Re-PAC Size: 12.9G
 PAC-MAN WORLD Re-PAC Size: 3.6G
 PARANORMASIGHT The Mermaid's Curse Size: 517.3M
 PARANORMASIGHT The Seven Mysteries of Honjo Size: 953.0M
@@ -2178,6 +2178,7 @@ Pick My Heart Chapter 1 Size: 690.0M
 Pick My Heart Chapter 2 Size: 663.0M
 Pickleball Smash Size: 1.3G
 PigShip and the Giant Wolf Size: 187.0M
+Pigeon Sim - Bird Simulator Size: 1.4G
 Pikmin 1 Size: 1.1G
 Pikmin 1+2 Size: 2.3G
 Pikmin 3 Deluxe Size: 6.5G

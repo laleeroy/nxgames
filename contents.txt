@@ -1015,7 +1015,7 @@ Danmaku Unlimited 3 Size: 152.0M
 Darius Cozmic Collection Size: 201.0M
 Darius Cozmic Collection Arcade Size: 141.0M
 Darius Cozmic Collection Console Size: 123.0M
-Darius Cozmic Collection Special Edition Size: 191.1M
+Darius Cozmic Collection Special Edition Size: 85.0M
 Dark Auction Size: 7.0G
 Dark Dungeon Warrior Size: 675.0M
 Dark Quest 2 Size: 1.6G
@@ -1987,6 +1987,7 @@ NBA 2K24 Kobe Bryant Edition Size: 59.2G
 NBA 2K25 Size: 59.2G
 NBA 2K26 Size: 55.4G
 NEEDY STREAMER OVERLOAD Size: 2.3G
+NEKO-NIN exHeart Size: 1.3G
 NEOGEO POCKET COLOR SELECTION Vol.1 Size: 1.0G
 NEOGEO POCKET COLOR SELECTION Vol.2 Size: 989.0M
 NIGHT STRIKER GEAR Size: 302.0M

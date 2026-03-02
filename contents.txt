@@ -2489,7 +2489,9 @@ Seraph's Last Stand Size: 130.0M
 Serial Cleaner Size: 2.5G
 Serial Cleaners Size: 4.1G
 Session Skate Sim Size: 3.8G
+Shadow Corridor 2 Size: 5.2G
 Shadow Labyrinth Size: 4.6G
+ShadowCorridor Size: 4.3G
 Shadows of the Damned Hella Remastered Size: 4.9G
 Shakedown Hawaii Size: 173.0M
 Shanghai Summer Size: 533.0M

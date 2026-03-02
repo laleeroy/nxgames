@@ -2726,7 +2726,7 @@ Taboo Trial Size: 8.7G
 Tachyon Project Size: 366.0M
 Taiji Size: 356.0M
 Taiko no Tatsujin Drum 'n' Fun Size: 5.6G
-Taiko no Tatsujin Rhythm Festival Size: 8.1G
+Taiko no Tatsujin Rhythm Festival Size: 4.1G
 Taiko no Tatsujin Rhythmic Adventure Pack Size: 2.6G
 Tails Of Iron Size: 1.9G
 Takotan Size: 159.0M

@@ -1410,11 +1410,13 @@ Garfield Kart 2 - All You Can Drift Size: 2.0G
 Garfield Kart Furious Racing Size: 2.8G
 Garfield Lasagna Party Size: 960.0M
 Garten of Banban Size: 456.0M
+Garten of Banban 0 Size: 614.1M
 Garten of Banban 2 Size: 593.0M
 Garten of Banban 3 Size: 586.0M
 Garten of Banban 4 Size: 600.0M
 Garten of Banban 6 Size: 686.0M
 Garten of Banban 7 Size: 1020.0M
+Garten of Banban 8 Anti Devil Size: 1.8G
 Genso Chronicles Size: 252.0M
 Genso Mange Size: 3.0G
 GensokyoDefenders Size: 1.6G

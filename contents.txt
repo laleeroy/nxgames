@@ -419,7 +419,7 @@ Arcade Archives ROUTE 16 Size: 67.0M
 Arcade Archives RYGAR Size: 82.0M
 Arcade Archives RYUKYU Size: 48.2M
 Arcade Archives Rastan Saga II Size: 152.0M
-Arcade Archives Rave Racer Size: 133.6M
+Arcade Archives Rave Racer Size: 279.0M
 Arcade Archives Renegade Size: 82.0M
 Arcade Archives Rod Land Size: 77.0M
 Arcade Archives Rug Rats Size: 55.0M
@@ -880,7 +880,7 @@ Cilla Size: 746.0M
 Cities Skylines - Nintendo Switch Edition Size: 2.2G
 Citizen Sleeper Size: 1.6G
 Citizen Sleeper 2 Starward Vector Size: 794.0M
-City Hunter Size: 498.0M
+City Hunter Size: 732.0M
 Classic Checkers Size: 132.0M
 Classic Games Collection Vol.1 Size: 461.0M
 Clock Maker My Clock - ver. digital (with timer) Size: 126.0M
@@ -1279,7 +1279,7 @@ FatalZone Size: 1.2G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fear Effect Size: 1.9G
-Fear Effect 2 Retro Helix Size: 1.9G
+Fear Effect 2 Retro Helix Size: 2.2G
 Feeble Light Size: 73.0M
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
@@ -1719,7 +1719,7 @@ Later Daters Premium Size: 562.0M
 Layer Section & Galactic Attack S-Tribute Size: 861.0M
 Layers of Fear 2 Size: 5.6G
 Layers of Fear Legacy Size: 3.1G
-Laysara Summit Kingdom Size: 1.3G
+Laysara Summit Kingdom Size: 1.4G
 Leftovers KO Size: 504.0M
 Legacy of Kain Soul Reaver 1&2 Remastered Size: 10.6G
 Legend of Ixtona Size: 115.0M
@@ -2212,9 +2212,9 @@ Pocket League Story Size: 250.0M
 Pocket Stables Size: 260.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
-Pokémon FireRed Size: 33.4M
+Pokémon FireRed Size: 39.0M
 Pokémon Friends Size: 1.6G
-Pokémon LeafGreen Size: 33.2M
+Pokémon LeafGreen Size: 39.0M
 Pokémon Legends Arceus Size: 6.1G
 Pokémon Legends Z-A Size: 4.1G
 Pokémon Lets Go, Eevee Size: 4.2G
@@ -2470,11 +2470,12 @@ Sam & Max The Devil's Playhouse Size: 1.6G
 Samurai Academy Paws of Fury Size: 3.3G
 Samurai Aces III Sengoku Cannon for Nintendo Switch Size: 208.0M
 Samurai Aces for Nintendo Switch Size: 64.0M
-Sands of Aura Size: 6.3G
+Sands of Aura Size: 6.6G
 Satazius NEXT Size: 861.0M
 Scandal In The Spotlight Size: 1.5G
 Schildmaid MX Size: 792.0M
 School Race GP Size: 392.0M
+Scott Pilgrim EX Size: 1.3G
 Scott Pilgrim vs. The World The Game Complete Edition Size: 1.1G
 Scott Whiskers in the Search for Mr. Fumbleclaw Size: 1.0G
 Sea Fantasy Size: 639.0M

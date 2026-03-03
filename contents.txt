@@ -359,7 +359,7 @@ Arcade Archives Mr.GOEMON Size: 68.0M
 Arcade Archives Mutant Night Size: 86.0M
 Arcade Archives NAUGHTY BOY Size: 79.0M
 Arcade Archives NAVARONE Size: 83.0M
-Arcade Archives NEBULASRAY Size: 63.2M
+Arcade Archives NEBULASRAY Size: 112.0M
 Arcade Archives NEW RALLY-X Size: 100.0M
 Arcade Archives NINJA EMAKI Size: 123.0M
 Arcade Archives NINJA GAIDEN Size: 123.0M
@@ -393,7 +393,7 @@ Arcade Archives POWER SPIKES Size: 47.0M
 Arcade Archives PRO TENNIS WORLD COURT Size: 110.0M
 Arcade Archives PSYCHO SOLDIER Size: 139.0M
 Arcade Archives PUNCH-OUT Size: 98.0M
-Arcade Archives PUNK SHOT Size: 57.0M
+Arcade Archives PUNK SHOT Size: 105.0M
 Arcade Archives Penguin-Kun Wars Size: 141.0M
 Arcade Archives Pettan Pyuu Size: 38.0M
 Arcade Archives Pinball Size: 74.0M
@@ -419,7 +419,7 @@ Arcade Archives ROUTE 16 Size: 67.0M
 Arcade Archives RYGAR Size: 82.0M
 Arcade Archives RYUKYU Size: 48.2M
 Arcade Archives Rastan Saga II Size: 152.0M
-Arcade Archives Rave Racer Size: 133.6M
+Arcade Archives Rave Racer Size: 279.0M
 Arcade Archives Renegade Size: 82.0M
 Arcade Archives Rod Land Size: 77.0M
 Arcade Archives Rug Rats Size: 55.0M
@@ -730,7 +730,7 @@ Blasphemous Size: 7.1G
 Blasphemous 2 Size: 2.6G
 Blast Rush LS Size: 502.0M
 Blastful Size: 839.0M
-Blazblue Entropy Effect X Size: 5.8G
+Blazblue Entropy Effect X Size: 4.6G
 Blind - The Unseen Truth Size: 992.0M
 Blind Men Size: 182.0M
 Blink Rogues Size: 1.1G
@@ -789,7 +789,7 @@ Byakko-tai Samurai Boys Size: 405.0M
 Bye Sweet Carole Size: 4.9G
 C14 Dating Size: 202.0M
 CARRION Size: 590.0M
-CASSETTE BOY Size: 576.0M
+CASSETTE BOY Size: 613.0M
 CATO Buttered Cat Size: 533.0M
 CLASSIC STG PACK (Classic Shooting Pack) Gynoug  Gley Lancer Size: 90.0M
 CLAWPUNK Size: 986.0M
@@ -838,7 +838,7 @@ Cattle Country Size: 822.0M
 Cauldron Size: 316.0M
 Cavern Adventurers Size: 84.0M
 Caverns of Mars Recharged Size: 550.0M
-Caves of Qud Size: 910.6M
+Caves of Qud Size: 1.2G
 Celeste Size: 1.5G
 Celestia Chain of Fate Size: 1.2G
 Chained Echoes Size: 1.2G
@@ -880,7 +880,7 @@ Cilla Size: 746.0M
 Cities Skylines - Nintendo Switch Edition Size: 2.2G
 Citizen Sleeper Size: 1.6G
 Citizen Sleeper 2 Starward Vector Size: 794.0M
-City Hunter Size: 436.2M
+City Hunter Size: 732.0M
 Classic Checkers Size: 132.0M
 Classic Games Collection Vol.1 Size: 461.0M
 Clock Maker My Clock - ver. digital (with timer) Size: 126.0M
@@ -930,7 +930,7 @@ Cotton Reboot Size: 2.7G
 Cotton Reboot High Tension! Size: 2.5G
 CounterAttack Uprising Size: 1.4G
 Cowboys vs Zombies Size: 1.7G
-Cozy Caravan Size: 1.4G
+Cozy Caravan Size: 1.5G
 Cozy Grove Size: 1.3G
 Crash Bandicoot 4 Its About Time Size: 10.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
@@ -1016,7 +1016,7 @@ Darius Cozmic Collection Size: 201.0M
 Darius Cozmic Collection Arcade Size: 141.0M
 Darius Cozmic Collection Console Size: 123.0M
 Darius Cozmic Collection Special Edition Size: 85.0M
-Dark Auction Size: 7.0G
+Dark Auction Size: 3.0G
 Dark Dungeon Warrior Size: 675.0M
 Dark Quest 2 Size: 1.6G
 Dark Quest 3 Size: 1.8G
@@ -1252,7 +1252,7 @@ FRONT MISSION 1st Remake Size: 7.2G
 FRONT MISSION 2 Remake Size: 7.3G
 FRONT MISSION 3 Remake Size: 5.2G
 FUR Squadron Size: 802.0M
-FUR Squadron Phoenix Size: 1.4G
+FUR Squadron Phoenix Size: 1.7G
 FUSER Size: 7.9G
 FX Unit Yuki The Henshin Engine Size: 95.0M
 Fabledom Size: 1.5G
@@ -1279,7 +1279,7 @@ FatalZone Size: 1.2G
 FateSamurai Remnant Size: 12.3G
 Fe Size: 1.1G
 Fear Effect Size: 1.9G
-Fear Effect 2 Retro Helix Size: 1.9G
+Fear Effect 2 Retro Helix Size: 2.2G
 Feeble Light Size: 73.0M
 Fernz Gate Size: 192.0M
 Fida Puti Samurai Size: 553.0M
@@ -1442,7 +1442,7 @@ Go Mecha Ball Size: 2.4G
 GoFishing 3D Size: 245.0M
 Goblin Slayer -ANOTHER ADVENTURER- NIGHTMARE FEAST Size: 2.6G
 God Wars Size: 4.2G
-God bless, or Goddess Size: 14.2G
+God bless, or Goddess Size: 14.3G
 Godstrike Size: 747.0M
 Golden Warden Size: 284.0M
 Good Pizza, Great Pizza Size: 1.8G
@@ -1806,7 +1806,7 @@ Maid of Salvation Size: 1.5G
 Maiden & Spell Size: 383.0M
 Mail Time Size: 1.8G
 Majogami Size: 4.4G
-Majotori Size: 1.8G
+Majotori Size: 1.9G
 MakOS new operating system Size: 197.0M
 Make it Crepe Size: 256.0M
 Make it Ikayaki Size: 327.0M
@@ -1988,7 +1988,7 @@ NBA 2K24 Kobe Bryant Edition Size: 59.2G
 NBA 2K25 Size: 59.2G
 NBA 2K26 Size: 55.4G
 NEEDY STREAMER OVERLOAD Size: 2.3G
-NEKO-NIN exHeart Size: 1.3G
+NEKO-NIN exHeart Size: 1.4G
 NEOGEO POCKET COLOR SELECTION Vol.1 Size: 1.0G
 NEOGEO POCKET COLOR SELECTION Vol.2 Size: 989.0M
 NIGHT STRIKER GEAR Size: 302.0M
@@ -2131,7 +2131,7 @@ P.3 Size: 81.0M
 PAC-MAN CHAMPIONSHIP EDITION 2 PLUS Size: 2.5G
 PAC-MAN WORLD 2 Re-PAC Size: 6.4G
 PAC-MAN WORLD Re-PAC Size: 3.6G
-PARANORMASIGHT The Mermaid's Curse Size: 517.3M
+PARANORMASIGHT The Mermaid's Curse Size: 847.0M
 PARANORMASIGHT The Seven Mysteries of Honjo Size: 953.0M
 PATAPON 1+2 REPLAY Size: 1.4G
 PAW Patrol World Size: 3.0G
@@ -2211,9 +2211,9 @@ Pocket League Story Size: 250.0M
 Pocket Stables Size: 260.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
-Pokémon FireRed Size: 33.4M
+Pokémon FireRed Size: 39.0M
 Pokémon Friends Size: 1.6G
-Pokémon LeafGreen Size: 33.2M
+Pokémon LeafGreen Size: 39.0M
 Pokémon Legends Arceus Size: 6.1G
 Pokémon Legends Z-A Size: 4.1G
 Pokémon Lets Go, Eevee Size: 4.2G
@@ -2437,7 +2437,7 @@ STRIKER MODES Size: 331.0M
 STURMWIND EX Size: 1.3G
 SUBNET - Escape Room Adventure Size: 2.4G
 SUGOROKU CASINO PARTY Size: 530.0M
-SUPER BOMBERMAN COLLECTION Size: 1.8G
+SUPER BOMBERMAN COLLECTION Size: 2.5G
 SUPER BOMBERMAN R 2 Size: 5.1G
 SUPER DRAGON BALL HEROES WORLD MISSION Size: 7.8G
 SUPER ROBOT WARS 30 Size: 15.8G
@@ -2821,7 +2821,7 @@ The Legend of Cyber Cowboy Size: 106.0M
 The Legend of Dark Witch Size: 1.8G
 The Legend of Dark Witch Episode 2 Size: 1.4G
 The Legend of Dark Witch Episode 4 Size: 1.8G
-The Legend of Heroes Trails beyond the Horizon Size: 12.3G
+The Legend of Heroes Trails beyond the Horizon Size: 12.6G
 The Legend of Heroes Trails from Zero Size: 3.5G
 The Legend of Heroes Trails of Cold  Steel I Size: 9.8G
 The Legend of Heroes Trails of Cold Steel II Size: 10.8G
@@ -2965,7 +2965,7 @@ Truck and Forklift Logistic Simulator Size: 417.0M
 Truck and Logistics Simulator Size: 477.0M
 True Fear Forsaken Souls - Part 1 Size: 1.3G
 True Fear Forsaken Souls - Part 2 Size: 1.2G
-True Fear Forsaken Souls - Part 3 Size: 1.3G
+True Fear Forsaken Souls - Part 3 Size: 2.4G
 Turret Rampage Size: 75.0M
 Two Point Campus Size: 2.8G
 Two Point Hospital Size: 3.8G
@@ -2976,7 +2976,7 @@ UBERMOSHOMEGA Size: 678.0M
 UFO 50 Size: 516.0M
 UNDER DEFEAT Size: 349.0M
 UNDER NIGHT IN-BIRTH II SysCeles Size: 2.8G
-UNDER THE ISLAND Size: 560.0M
+UNDER THE ISLAND Size: 638.0M
 UTOPIA 9 - A Volatile Vacation Size: 1002.0M
 Ultimate Custom Night Size: 574.0M
 Ultimate Fishing Simulator Size: 3.9G

@@ -94,6 +94,18 @@ fetch('contents.txt')
     .then(text => {
         const contentList = document.getElementById('content-list');
         const items = text.split('\n').filter(item => item.trim() !== '');
+        
+        // Sort items alphabetically (case-insensitive)
+        items.sort((a, b) => {
+            // Extract just the game name without the "Size" part for sorting
+            const aName = a.split('Size')[0].trim().toLowerCase();
+            const bName = b.split('Size')[0].trim().toLowerCase();
+            
+            if (aName < bName) return -1;
+            if (aName > bName) return 1;
+            return 0;
+        });
+        
         items.forEach(item => {
             const sizeMatch = item.match(/Size: (\d+(\.\d+)?[GM])/);
             if (sizeMatch) {

@@ -140,6 +140,7 @@ Alvastia Chronicles Size: 101.0M
 Ambidextro Size: 260.0M
 Ambition A Minuet in Power Size: 1.3G
 Ambition Record Size: 850.0M
+Ambition of the Slimes Size: 55.0M
 America Wild Hunting Size: 136.0M
 Amnesia Collection Size: 5.3G
 Amnesia Later x Crowd Size: 6.9G
@@ -1464,6 +1465,7 @@ Graveyard Keeper Size: 900.0M
 GraviFire Size: 148.0M
 Gravitators Size: 1.3G
 Graze Counter GM Size: 202.0M
+Great Ambition of the SLIMES Size: 433.0M
 Green Phoenix Size: 1.2G
 Griftlands Size: 2.6G
 Grood Size: 447.0M
@@ -2199,6 +2201,7 @@ Pixel Game Maker Series BURAIGUN GALAXY STORM Size: 174.0M
 Pizza Tower Size: 1.1G
 Planet of Lana Size: 7.2G
 Planet of Lana 2 Demo Size: 893.7M
+Planet of Lana II Size: 11.3G
 Plants vs. Zombies Battle for Neighborville Complete Edition Size: 6.4G
 Plants vs. Zombies Replanted Size: 2.8G
 PlateUp Size: 1.3G

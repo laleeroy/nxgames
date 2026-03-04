@@ -172,11 +172,41 @@ resetInactivityTimeout(); // Initialize the inactivity timeout
 // Filter functionality for the search bar
 document.getElementById('search-bar').addEventListener('input', function () {
     const searchTerm = this.value.toLowerCase();
+    
+    // Create a normalized version of the search term
+    let normalizedSearchTerm = searchTerm
+        .replace(/™/g, '')
+        .replace(/®/g, '')
+        .replace(/©/g, '')
+        .replace(/é/g, 'e')
+        .replace(/:/g, '')
+        .replace(/-/g, '')
+        .replace(/'/g, '')
+        .replace(/,/g, '')
+        .replace(/#/g, '')
+        .replace(/\s+/g, ''); // Remove ALL spaces from search term
+    
     const items = document.querySelectorAll('.content-item');
 
     items.forEach(item => {
-        const labelText = item.querySelector('label').textContent.toLowerCase();
-        if (labelText.includes(searchTerm)) {
+        const labelText = item.querySelector('label').textContent;
+        
+        // Create a normalized version of the label text for searching
+        const normalizedLabelText = labelText
+            .toLowerCase()
+            .replace(/™/g, '')
+            .replace(/®/g, '')
+            .replace(/©/g, '')
+            .replace(/é/g, 'e')
+            .replace(/:/g, '')
+            .replace(/-/g, '')
+            .replace(/'/g, '')
+            .replace(/,/g, '')
+            .replace(/#/g, '')
+            .replace(/\s+/g, ''); // Remove ALL spaces from label text
+        
+        // Check if the normalized search term is in the normalized label text
+        if (normalizedLabelText.includes(normalizedSearchTerm)) {
             item.style.display = '';
         } else {
             item.style.display = 'none';

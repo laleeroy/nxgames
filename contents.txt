@@ -2215,9 +2215,7 @@ Pocket League Story Size: 250.0M
 Pocket Stables Size: 260.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
-Pokémon FireRed Size: Unknown
 Pokémon Friends Size: 1.6G
-Pokémon LeafGreen Size: Unknown
 Pokémon Legends Arceus Size: 6.1G
 Pokémon Legends Z-A Size: 4.1G
 Pokémon Lets Go, Eevee Size: 4.2G

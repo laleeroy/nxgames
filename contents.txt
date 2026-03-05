@@ -1469,6 +1469,7 @@ GraviFire Size: 148.0M
 Gravitators Size: 1.3G
 Graze Counter GM Size: 202.0M
 Great Ambition of the SLIMES Size: 433.0M
+Greedland Size: 652.0M
 Green Phoenix Size: 1.2G
 Griftlands Size: 2.6G
 Grood Size: 447.0M

@@ -2285,6 +2285,7 @@ Quit Today Size: 1.1G
 R-Type Delta HD Boosted Size: 909.0M
 R-Type Dimensions EX Size: 206.0M
 R-Type Final 2 Size: 21.6G
+REDEX Size: 73.0M
 REMOTE LIFE Size: 1.2G
 REYNATIS Size: 8.5G
 RIVE Ultimate Edition Size: 861.0M

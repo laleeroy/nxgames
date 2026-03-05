@@ -961,6 +961,7 @@ Crosak Size: 1017.0M
 Cross Tails Size: 757.0M
 Crowded Mysteries Size: 480.0M
 Cruis'n Blast Size: 3.7G
+Cryptical Path Size: 3.2G
 Crysis 2 Remastered Size: 11.2G
 Crysis 3 Remastered Size: 11.0G
 Crysis Remastered Size: 7.7G

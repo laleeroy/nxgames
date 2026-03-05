@@ -1354,6 +1354,7 @@ Forgotten Memories Size: 4.9G
 Formula Legends Size: 5.3G
 Fort Boyard Size: 1.8G
 Fortress Challenge - Fort Boyard Size: 2.0G
+Fortuna Magus Size: 324.0M
 Fran Bow Size: 3.9G
 Frane Dragons' Odyssey Size: 575.0M
 Frank and Drake Size: 7.2G
@@ -1542,6 +1543,7 @@ Hello Goodboy Size: 1.8G
 Hello Kitty Island Adventure Size: 4.1G
 Hello Kitty Kruisers With Sanrio Friends Size: 1.0G
 Hentai vs. Evil Size: 2.4G
+Hero Seekers Size: 505.0M
 Herodes Size: 1.4G
 Heroes of Mount Dragon Size: 3.9G
 HexaWars Size: 263.0M

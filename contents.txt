@@ -123,6 +123,7 @@ Akka Arrh Size: 272.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Aleste Collection Size: 371.0M
+Alice Escaped Size: 1.5G
 Alien Cruise Size: 2.7G
 Alive Paint Size: 984.0M
 All Hands on Deck Size: 1.6G

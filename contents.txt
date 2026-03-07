@@ -778,6 +778,8 @@ Brotato Size: 336.0M
 Bubble Bobble 4 Friends The Baron is Back Size: 983.0M
 Bubble Wizard III Saga Size: 866.0M
 Bug & Seek Size: 431.0M
+Bulb Boy Size: 880.0M
+Bulb Boy 2 Jar of Despair Size: 421.0M
 Bulldozer Tycoon Construction Simulator Size: 150.0M
 Bullet Beat Size: 108.0M
 Bullet Runner Size: 2.0G
@@ -2532,6 +2534,7 @@ Shmup Collection Size: 1.5G
 Shoot 1UP DX Size: 290.0M
 Shootvaders The Beginning Size: 368.0M
 Shotgun Cop Man Size: 442.0M
+Shrink Rooms Size: 446.0M
 Shujinkou Size: 3.6G
 Shujinkou Digital Artbook Size: 271.0M
 Shujinkou Select Soundtrack Size: 217.0M

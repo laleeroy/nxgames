@@ -2226,6 +2226,7 @@ Pocket Fishing Size: 2.0G
 Pocket Harvest Size: 260.0M
 Pocket League Story Size: 250.0M
 Pocket Stables Size: 260.0M
+Poker Night at the Inventory Size: 411.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G
 Pokémon Friends Size: 1.6G
@@ -2818,6 +2819,7 @@ The Exit 8 Size: 1.7G
 The Fable Manga Build Roguelike Size: 410.0M
 The Fairy's Secret Size: 1.1G
 The First Tree Size: 2.4G
+The Garden Path Size: 1.6G
 The Gardener Simulator - Plant, Grow, Decorate, Build Sim Size: 1.7G
 The Gardens Between Size: 1.7G
 The Great Ace Attorney Chronicles Size: 3.6G

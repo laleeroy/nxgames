@@ -108,6 +108,7 @@ Agatha Christie - Hercule Poirot The London Case Size: 3.3G
 Agatha Christie - Murder on the Orient Express Size: 5.0G
 Agatha Christie - The ABC Murders Size: 1.5G
 Agatha Knife Size: 293.0M
+Agriculture Size: 34.0M
 Air Battle Size: 304.0M
 Air Jet Fighter Combat - Europe Fly Plane Attack Size: 413.0M
 Air Strike WW2 Fighters Sky Combat Size: 86.0M
@@ -122,6 +123,8 @@ Akinofa Size: 77.0M
 Akka Arrh Size: 272.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
+Alchemic Cutie Size: 747.0M
+Alchemy Garden Size: 842.0M
 Aleste Collection Size: 371.0M
 Alice Escaped Size: 1.5G
 Alien Cruise Size: 2.7G
@@ -142,6 +145,7 @@ Ambidextro Size: 260.0M
 Ambition A Minuet in Power Size: 1.3G
 Ambition Record Size: 850.0M
 Ambition of the Slimes Size: 55.0M
+Amelias Garden Size: 709.0M
 America Wild Hunting Size: 136.0M
 Amnesia Collection Size: 5.3G
 Amnesia Later x Crowd Size: 6.9G
@@ -155,6 +159,7 @@ Angry Alligator Size: 1.5G
 Angry Video Game Nerd 8-bit Size: 2.7G
 Animal Crossing New Horizons Size: 10.8G
 Animal Crossing New Horizons Island Transfer Tool Size: 46.0M
+Animal Farm Parking Size: 317.0M
 Animal Lover Size: 427.0M
 Anime Boys Dating The night before Christmas and the tree Size: 215.0M
 Anime Clock Size: 323.0M
@@ -588,6 +593,7 @@ Asdivine Saga Size: 345.0M
 Asfalia Panic at the Mansion Size: 3.0G
 Asfalia Panic at the Mansion (Demo) Size: 749.6M
 Asfalia The Cranky Volcano Size: 1.7G
+Ashwood Valley Size: 303.0M
 Asphalt Legends Size: 3.3G
 Assassin's Creed III Remastered Size: 18.6G
 Assassins Creed The Rebel Collection Size: 27.8G
@@ -710,6 +716,7 @@ Bibi & Tina Adventures with Horses Size: 706.0M
 Bibi & Tina New adventures with horses Size: 1.9G
 Bibi & Tina at the horse farm Size: 1.3G
 Big Brain Academy Brain vs. Brain Size: 720.0M
+Big Farm Story Size: 307.0M
 Big Helmet Heroes Size: 5.1G
 Big Hops Size: 4.4G
 Big Rumble Boxing Creed Champions Size: 6.8G
@@ -785,6 +792,7 @@ Bullet Beat Size: 108.0M
 Bullet Runner Size: 2.0G
 Bullet Soul Size: 1.7G
 Bullet Soul -Infinite Burst- Size: 1.8G
+Bunhouse Size: 993.0M
 Bunker Builder & Construction Simulator Size: 549.0M
 Burger Bistro Story Size: 284.0M
 Burnhouse Lane Size: 2.8G
@@ -839,6 +847,7 @@ Castle of Heart Size: 3.1G
 Castle of Heart Retold Size: 3.5G
 Castle of Shikigami2 Size: 1.2G
 Castlevania Dominus Collection Size: 1.2G
+Cat God Ranch Size: 398.0M
 Cat Piano Size: 248.0M
 Cat Quest III Size: 1.5G
 Catching Spirits Size: 457.0M
@@ -936,6 +945,7 @@ Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
 Cotton Reboot High Tension! Size: 2.5G
+Cottonville Size: 528.0M
 CounterAttack Uprising Size: 1.4G
 Cowboys vs Zombies Size: 1.7G
 Cozy Caravan Size: 1.5G
@@ -1159,6 +1169,7 @@ Dream Town Island Size: 168.0M
 DreamWorks All-Star Kart Racing Size: 4.6G
 DreamWorks Gabbys Dollhouse Ready to Party Size: 2.7G
 Dreamed Away Size: 748.0M
+Dreamland Farm Size: 376.0M
 Drift Legends Size: 1.5G
 Drift Legends 2 Size: 882.0M
 Drova Size: 3.4G
@@ -1226,6 +1237,7 @@ Eternights Size: 4.3G
 Europa Size: 3.7G
 Everdark Tower Size: 121.0M
 Everdeep Aurora Size: 699.0M
+Everdream Valley Size: 1.2G
 Evil Diary Size: 58.0M
 Evo Pop Size: 624.0M
 Excessive Trim Size: 70.0M
@@ -1281,7 +1293,27 @@ Fantasy Strike Size: 8.5G
 Fantasy Tavern Sextet -Vol.1 New World Days- Size: 642.0M
 Fantasy Tavern Sextet -Vol.2 Adventurer's Days- Size: 704.0M
 Fantasy Tavern Sextet -Vol.3 Postlude Days- Size: 858.0M
+Farm Day Simulator 2024 Size: 178.0M
+Farm Frenzy Refreshed Size: 689.0M
+Farm Knight Adventures Size: 473.0M
+Farm Land Size: 394.0M
+Farm Manager 2022 Size: 3.2G
+Farm Simulator USA Car Games - Driving games & Car 2022 Farming Size: 610.0M
+Farm Together Size: 1.3G
+Farm Together 2 Size: 957.0M
+Farm Tycoon Size: 1.3G
+Farm for your Life Size: 1.2G
 Farmagia Size: 4.4G
+Farmer Simulator Evolution Size: 781.0M
+Farmer's Dynasty Size: 2.7G
+Farming Life Size: 1.5G
+Farming Simulator - Farm, Tractor, Experience Logic Games Nintendo Switch Edition Size: 347.0M
+Farming Simulator 20 Size: 1.1G
+Farming Simulator 23 Nintendo Switch Edition Size: 1.4G
+Farming Simulator Kids Size: 927.0M
+Farming Simulator Nintendo Switch Edition Size: 2.7G
+Farming Tractor Simulator 2023 Drive Combine & Trucks Size: 876.0M
+Farmyard Haven Size: 311.0M
 Fashion Dreamer Size: 7.0G
 Fast & Furious Arcade Edition Size: 1.6G
 FatalZone Size: 1.2G
@@ -1417,6 +1449,10 @@ Game Dev Story Size: 272.0M
 Game Tengoku CruisinMix Special Size: 656.0M
 Game Type DX Size: 328.0M
 Gang Beasts Size: 3.4G
+Garden In Size: 630.0M
+Garden Life A Cozy Simulator Size: 2.7G
+Garden Simulator Size: 972.0M
+Garden Story Size: 203.0M
 Garfield Kart 2 - All You Can Drift Size: 2.0G
 Garfield Kart Furious Racing Size: 2.8G
 Garfield Lasagna Party Size: 960.0M
@@ -1566,6 +1602,7 @@ Hole Digging Simulator 2025 Size: 392.0M
 Hollow Knight Size: 5.3G
 Hollow Knight Silksong Size: 2.8G
 Home Run High Size: 270.0M
+Hope's Farm Size: 251.0M
 Horgihugh And Friends Size: 343.0M
 Horizon Chase 2 Size: 3.5G
 Horrific Xanatorium Size: 468.0M
@@ -1651,6 +1688,7 @@ It came from space and ate our brains Size: 1.6G
 JUMP FORCE - Deluxe Edition Size: 11.4G
 Jack Jeanne Size: 6.1G
 Jamestown+ Size: 385.0M
+Japanese Rural Life Adventure Size: 287.0M
 Jet Lancer Size: 363.0M
 Jetboard Joust Size: 280.0M
 Jetpack Kiwi Size: 76.0M
@@ -1846,6 +1884,7 @@ Mario Tennis Aces Size: 2.4G
 Mario vs. Donkey Kong Size: 1.3G
 Mark of the Deep Size: 2.0G
 Mars Chaos Menace Size: 1.5G
+Mars Farming 2034 Size: 394.0M
 Mask of the Rose Size: 2.7G
 Masquerade Kiss Size: 1.5G
 Master Detective Archives RAIN CODE Size: 16.6G
@@ -1909,6 +1948,7 @@ Mineko's Night Market Size: 1.8G
 Mini Golf Simulator Size: 186.0M
 Mini Metro Size: 219.0M
 Mini Motorways Size: 326.0M
+Miniland Adventure Size: 195.0M
 Minishoot' Adventures Size: 445.0M
 MisBloody Size: 66.0M
 Misc. A Tiny Tale Size: 9.8G
@@ -1982,10 +2022,12 @@ My Butler Size: 563.0M
 My Coloring Book Size: 534.0M
 My Coloring Book 2 Size: 544.0M
 My Dangerous Life Size: 362.0M
+My Fantastic Ranch Size: 1.1G
 My Forged Wedding Size: 1.1G
 My Friend Peppa Pig Size: 2.8G
 My Horse Stories Size: 895.0M
 My Last First Kiss Size: 1.9G
+My Life Farm Vet Size: 1.6G
 My Life Riding Stables 3 Size: 1.3G
 My Little Riding Champion Size: 2.0G
 My Next Life as a Villainess All Routes Lead to Doom -Pirates of the Disturbance- Size: 3.8G
@@ -2069,8 +2111,10 @@ No Heroes Here 2 Size: 615.0M
 No Man's Sky Size: 6.8G
 No More Heroes 3 Size: 8.1G
 No More Snow Size: 342.0M
+No Place Like Home Size: 1.8G
 No Son Of Mine Size: 1.0G
 Noise of Neon Size: 434.0M
+Nora The Wannabe Alchemist Size: 1.3G
 Nordic Ashes The Complete Saga Size: 1.0G
 Norn9 Last Era Size: 9.4G
 Norn9 Var Commons Size: 6.8G
@@ -2116,6 +2160,7 @@ Ooblets Size: 1.2G
 Oops, I Said Yes Size: 1023.0M
 Open Roads Size: 6.0G
 Operation STEEL Size: 280.0M
+Orange Season Size: 1.4G
 Ori and the Blind Forest Definitive Edition Size: 3.5G
 Ori and the Will of the Wisps Size: 4.3G
 Orwell Ignorance is Strength Size: 1.4G
@@ -2252,12 +2297,15 @@ Potion Craft Alchemist Simulator Size: 1.4G
 Power Sink Size: 1.6G
 PowerWash Simulator Size: 5.9G
 Prehistoric Dude Size: 64.0M
+Pretty Princess Magical Garden Island Size: 1.3G
 Prince of Persia The Lost Crown Size: 7.1G
 Princess Closet Size: 875.0M
 Princess Closet - Fashion and love will change me - Size: 859.0M
 Princess Peach Showtime Size: 4.7G
 Pro Wrestler Story Size: 164.0M
 Professional Construction The Simulation Size: 1.3G
+Professional Farmer American Dream Size: 4.2G
+Professional Farmer Nintendo Switch Edition Size: 4.4G
 Professor Doctor Jetpack Size: 423.0M
 Project AETHER First Contact Size: 1.3G
 Project Starship Size: 173.0M
@@ -2336,6 +2384,7 @@ RazerWire Nanowars Size: 224.0M
 Razion EX Size: 281.0M
 ReSetna Size: 8.0G
 Real Boxing 2 Remastered Size: 1.5G
+Real Farm - Premium Edition Size: 968.0M
 Red Dead Redemption Size: 11.6G
 Red Death Size: 45.0M
 RedRaptor Size: 182.0M
@@ -2367,6 +2416,7 @@ Risk of Rain Returns Size: 451.0M
 Risky Woods (QUByte Classics) Size: 118.0M
 Ritual of Raven Size: 501.0M
 Rival Megagun Size: 844.0M
+Rivenaar's Grove Size: 103.0M
 River City Girls Size: 4.8G
 River City Girls 2 Size: 5.7G
 River City Girls Zero Size: 1.8G
@@ -2615,6 +2665,7 @@ Spheroids Size: 399.0M
 Spindle Size: 950.0M
 Spiral Memoria -The Summer I Meet Myself- Size: 431.0M
 Spirit Valor Size: 393.0M
+Spirit of the Island Size: 1.4G
 Spiritfall Size: 1.9G
 Spiritfarer Size: 4.1G
 Splatoon 2 Size: 8.1G
@@ -2624,6 +2675,7 @@ SpongeBob Krusty Cook-Off Size: 758.0M
 SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated Size: 11.3G
 SpongeBob SquarePants The Patrick Star Game Size: 918.0M
 Sports Story Size: 927.0M
+Sprout Valley Size: 254.0M
 Spy Alarm Size: 103.0M
 Spyro Reignited Trilogy Size: 15.1G
 Squad 51 vs. the Flying Saucers Size: 12.2G

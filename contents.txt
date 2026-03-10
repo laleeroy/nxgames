@@ -1444,6 +1444,8 @@ Galaxy Shooter Size: 421.0M
 Galaxy Warfighter Size: 183.0M
 Gale of Windoria Size: 225.0M
 Gallop Glory Obstacle Racing & Horse Simulator Size: 942.0M
+Game Boy - NSO (JAP) Size: 129.0M
+Game Boy Advance - NSO (JAP) Size: 302.0M
 Game Boy Advance Nintendo Classics Size: 479.0M
 Game Boy Nintendo Switch Online Size: 146.0M
 Game Dev Story Size: 272.0M

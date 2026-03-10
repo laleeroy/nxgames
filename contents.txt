@@ -3128,6 +3128,7 @@ Voxel Shot for Nintendo Switch Size: 554.0M
 Voxel Sword Size: 439.0M
 Vs Rage Size: 835.0M
 WINDSWEPT Size: 310.0M
+WINGSPAN Size: 2.1G
 WWE 2K Battlegrounds Size: 10.8G
 WWE 2K18 Size: 21.2G
 Waifu Discovered 2 Medieval Fantasy Size: 514.0M

@@ -3106,6 +3106,7 @@ Vampire Hunters Size: 2.3G
 Vampire Survivors Size: 992.0M
 Vampire The Masquerade - Swansong Size: 5.9G
 Variable Barricade Size: 5.0G
+Vault of the Void Size: 653.0M
 Venba Size: 1.8G
 Vengeance Hunters Size: 236.0M
 Venture Towns Size: 255.0M

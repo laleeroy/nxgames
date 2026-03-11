@@ -950,6 +950,7 @@ CounterAttack Uprising Size: 1.4G
 Cowboys vs Zombies Size: 1.7G
 Cozy Caravan Size: 1.5G
 Cozy Grove Size: 1.3G
+Cozy Tiny Home Size: 1.0G
 Crash Bandicoot 4 Its About Time Size: 10.3G
 Crash Bandicoot N. Sane Trilogy Size: 5.3G
 Crash Team Racing Nitro-Fueled Size: 9.3G
@@ -1860,6 +1861,7 @@ Magic Rune Stone Size: 397.0M
 Magical Girl Dash Size: 313.0M
 Magicbook AutoBattler Size: 383.0M
 Mai Child of Ages Size: 5.5G
+Maid Cafe on Electric Street Size: 1.2G
 Maid of Salvation Size: 1.5G
 Maiden & Spell Size: 383.0M
 Mail Time Size: 1.8G
@@ -1949,6 +1951,7 @@ Minecraft Story Mode - Season Two Size: 5.9G
 Minecraft Story Mode - The Complete Adventure Size: 4.3G
 Mineko's Night Market Size: 1.8G
 Mini Golf Simulator Size: 186.0M
+Mini Market Design Size: 493.0M
 Mini Metro Size: 219.0M
 Mini Motorways Size: 326.0M
 Miniland Adventure Size: 195.0M
@@ -2024,6 +2027,7 @@ My Bewitching Perfume Size: 1.1G
 My Butler Size: 563.0M
 My Coloring Book Size: 534.0M
 My Coloring Book 2 Size: 544.0M
+My Cozy Room Size: 1.2G
 My Dangerous Life Size: 362.0M
 My Fantastic Ranch Size: 1.1G
 My Forged Wedding Size: 1.1G
@@ -2275,6 +2279,7 @@ Pocket Clothier Size: 244.0M
 Pocket Fishing Size: 2.0G
 Pocket Harvest Size: 260.0M
 Pocket League Story Size: 250.0M
+Pocket Nook Size: 374.0M
 Pocket Stables Size: 260.0M
 Poker Night at the Inventory Size: 411.0M
 Pokkén Tournament DX Size: 4.0G
@@ -2635,6 +2640,7 @@ Snipperclips Cut it out, together Size: 1.8G
 Snoopy & The Great Mystery Club Size: 1.6G
 SnowRunner Size: 14.7G
 Snufkin Melody of Moominvalley Size: 2.2G
+Softly Placed Size: 756.0M
 Sol Dorado Heist Size: 225.0M
 Solomon Snow First Contact Size: 1.9G
 Son of a Gun Size: 3.0G

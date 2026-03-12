@@ -2275,6 +2275,7 @@ Pocket Academy Size: 267.0M
 Pocket Academy 3 Size: 135.0M
 Pocket Academy ZERO Size: 189.0M
 Pocket Arcade Story Size: 255.0M
+Pocket Bravery Size: 5.7G
 Pocket Clothier Size: 244.0M
 Pocket Fishing Size: 2.0G
 Pocket Harvest Size: 260.0M

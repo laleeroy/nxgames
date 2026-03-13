@@ -1601,6 +1601,18 @@ Hero Seekers Size: 505.0M
 Herodes Size: 1.4G
 Heroes of Mount Dragon Size: 3.9G
 HexaWars Size: 263.0M
+Hidden Cats in Berlin Size: 693.0M
+Hidden Cats in Christmas Size: 936.0M
+Hidden Cats in Istanbul Size: 1.1G
+Hidden Cats in London Size: 708.0M
+Hidden Cats in New York Size: 737.0M
+Hidden Cats in Paris Size: 398.0M
+Hidden Cats in Rio de Janeiro Size: 1018.0M
+Hidden Cats in Rome Size: 360.0M
+Hidden Cats in Santa's Realm Size: 644.0M
+Hidden Cats in Spooky Town Size: 873.0M
+Hidden Cats in Spooky Village Size: 1005.0M
+Hidden Kittens Kingdom of Cats Size: 120.0M
 Hidden Through Time Size: 1.0G
 Hidden Through Time 2 Myths & Magic Size: 714.0M
 High On Life Size: 9.7G
@@ -3299,3 +3311,4 @@ pureya Size: 217.0M
 rRootage Reloaded Size: 55.0M
 resident evil 4 Size: 12.1G
 stitch Size: 418.0M
+tiny Cats Size: 158.0M

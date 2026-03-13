@@ -2360,7 +2360,7 @@ Quantum Recharged Size: 355.0M
 Quarantine Zone Border Zombie Checkpoint Size: 444.0M
 Quilts and Cats of Calico Size: 1.7G
 Quit Today Size: 1.1G
-R-TYPE TACTICS III COSMOS Size: 12.6G
+R-TYPE TACTICS III COSMOS Size: 12.8G
 R-Type Delta HD Boosted Size: 909.0M
 R-Type Dimensions EX Size: 206.0M
 R-Type Final 2 Size: 21.6G

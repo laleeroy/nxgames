@@ -638,6 +638,7 @@ B.ARK Size: 1.0G
 BAD BOY BROTHER Size: 525.0M
 BALL x PIT Size: 795.0M
 BAROQUE Become a Meta-Being Revive Size: 279.0M
+BAROQUE SHOOTING REVERSED Size: 445.0M
 BATSUGUN Saturn Tribute Boosted Size: 794.0M
 BATTLESLOTHS Size: 456.0M
 BEAST Bio Exo Arena Suit Team Size: 1.6G
@@ -886,6 +887,7 @@ Chicken Police Paint it RED Size: 3.9G
 Chicken Run Eggstraction Size: 2.2G
 Children of Morta Size: 2.5G
 Chippy Size: 959.0M
+Cho Aniki Collection Size: Unknown
 Chocobo's Mystery Dungeon EVERY BUDDY Size: 1.5G
 Christmas Tree Holiday Decorate Simulator Size: 572.0M
 Chroma Quaternion Size: 483.0M
@@ -900,6 +902,7 @@ Citizen Sleeper 2 Starward Vector Size: 794.0M
 City Hunter Size: 732.0M
 Classic Checkers Size: 132.0M
 Classic Games Collection Vol.1 Size: 461.0M
+Classic STG Pack Gynoug Gley Lancer (JAP) Size: Unknown
 Clock Maker My Clock - ver. digital (with timer) Size: 126.0M
 Clock Maker My Pendulum Clock Size: 97.0M
 Clock Tower Rewind Size: 1.4G
@@ -944,6 +947,7 @@ Cosmo Dreamer Size: 458.0M
 Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
+Cotton Reboot High Tension Size: Unknown
 Cotton Reboot High Tension! Size: 2.5G
 Cottonville Size: 528.0M
 CounterAttack Uprising Size: 1.4G
@@ -1035,7 +1039,7 @@ Danmaku Unlimited 3 Size: 152.0M
 Darius Cozmic Collection Size: 201.0M
 Darius Cozmic Collection Arcade Size: 141.0M
 Darius Cozmic Collection Console Size: 123.0M
-Darius Cozmic Collection Special Edition Size: 85.0M
+Darius Cozmic Collection Special Edition Size: 191.1M
 Dark Auction Size: 3.1G
 Dark Dungeon Warrior Size: 675.0M
 Dark Quest 2 Size: 1.6G
@@ -1130,6 +1134,7 @@ Disney Miraness Fitness Size: 1.1G
 Dispatch Size: 10.9G
 Divinity Original Sin 2 - Definitive Edition Size: 11.9G
 DoDonPachi Resurrection Size: 2.4G
+Dodonpachi Daioujou ReIncarnation (JAP) Size: Unknown
 Dogfight Size: 818.0M
 Doki Doki Literature Club Plus Size: 2.1G
 Doki Monsters Quest Size: 131.0M
@@ -1203,6 +1208,7 @@ ENDER MAGNOLIA Bloom in the Mist Size: 3.6G
 EPHEMERAL -FANTASY ON DARK- Size: 1.7G
 ESCAPE SITE 13 Size: 3.3G
 ESCHATOS Size: 594.0M
+ESP Ra De Psi (JAP) Size: Unknown
 EVERYBODY'S GOLF Hot Shots Size: 11.1G
 EXTREME BIKE X Size: 988.0M
 Earth Atlantis Size: 689.0M
@@ -1375,6 +1381,7 @@ Floor Kids Size: 2.1G
 Florence Size: 814.0M
 Flower Shop Winter In Fairbrook Size: 64.0M
 Fly Corp Size: 494.0M
+Flying Shark Shark Shark Size: Unknown
 Flying Tank Size: 189.0M
 Folk Hero Size: 715.0M
 Folly of the Wizards Size: 1.0G
@@ -1411,6 +1418,7 @@ Fusion Paradox Size: 909.0M
 G-DARIUS HD Size: 1.0G
 G-MODE Archives25 Topolon Size: 129.0M
 G-MODE Archives29 ZANAC Size: 158.0M
+G-Mode Archives+ DoDonPachi Blissful Death DX (JAP) Size: Unknown
 GAIARES Size: 226.0M
 GEMINI ARMS Size: 129.0M
 GENSOU Skydrift Size: 1.7G
@@ -1424,7 +1432,7 @@ GRIDbeat DEMO Size: 1.2G
 GROOVE COASTER WAI WAI PARTY Size: 4.4G
 GUILTY GEAR Size: 421.0M
 GUILTY GEAR XX ACCENT CORE PLUS R Size: 4.3G
-GUNBARICH for Nintendo Switch Size: 836.0M
+GUNBARICH for Nintendo Switch Size: 1.3G
 GUNBIRD for Nintendo Switch Size: 104.0M
 GUNBIRD2 for Nintendo Switch Size: 189.0M
 GUNDAM BREAKER 4 Size: 6.9G
@@ -1657,8 +1665,10 @@ Ice Cream Surfer Size: 1.6G
 Idol Hell Size: 2.3G
 Ikaruga Size: 403.0M
 Ikkarus and the Prince of Sin Size: 176.0M
+Illmatic Envelope Swamp (JAP) Size: Unknown
 Illusion of Itehari Size: 2.4G
 Illusion of L'Phalcia Size: 370.0M
+Illvelo Swamp Happy Together (JAP) Size: Unknown
 Imagine Earth Size: 1.8G
 Immortals Fenyx Rising Size: 25.8G
 In Extremis DX Size: 241.0M
@@ -1684,6 +1694,7 @@ Iron Crypticle Size: 115.0M
 Irresistible Mistakes Size: 1.5G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Familia Myth Infinite Combate Size: 4.7G
 Is It Wrong to Try to Pick Up Girls in a Dungeon Fullland of Water and Light Size: 1.4G
+Is It Wrong to Try to Shoot em Up Girls in a Dungeon Familia Myth Size: Unknown
 Is This Seat Taken Size: 437.0M
 Isekai Rondo Size: 900.0M
 Isle of Jura Fishing Trip Size: 634.0M
@@ -1853,6 +1864,7 @@ MOMIBOSU Size: 1.9G
 MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
 Machinarium Size: 349.0M
+Macross -Shooting Insight- Size: 1.9G
 Macross Shooting Insight Size: 2.3G
 Mad Bullets Size: 426.0M
 Mad Father Size: 239.0M
@@ -1875,6 +1887,7 @@ Make it Taiyaki Size: 312.0M
 Make it Takoyaki Size: 291.0M
 Maliki Poison of the Past Size: 2.4G
 Mamon King Size: 1.2G
+Mamorukun ReCurse (JAP) Size: Unknown
 Mandragora Whispers of the Witch Tree Size: 6.4G
 March to a Million Size: 268.0M
 Marenian Tavern Story Patty and the Hungry God Size: 995.0M
@@ -2261,6 +2274,7 @@ Pipistrello and the Cursed Yoyo Size: 535.0M
 Pixel Artist Size: 104.0M
 Pixel Cafe Size: 516.0M
 Pixel Game Maker Series BURAIGUN GALAXY STORM Size: 174.0M
+PiyoRide Size: 1.4G
 Pizza Tower Size: 1.1G
 Planet of Lana Size: 7.2G
 Planet of Lana 2 Demo Size: 893.7M
@@ -2269,7 +2283,7 @@ Plants vs. Zombies Battle for Neighborville Complete Edition Size: 6.4G
 Plants vs. Zombies Replanted Size: 2.8G
 PlateUp Size: 1.3G
 Platform 8 Size: 1.3G
-Platypus Reclayed Size: 1.5G
+Platypus Reclayed Size: 1.8G
 Please Be Happy Size: 3.2G
 Pocket Academy Size: 267.0M
 Pocket Academy 3 Size: 135.0M
@@ -2346,9 +2360,11 @@ Quantum Recharged Size: 355.0M
 Quarantine Zone Border Zombie Checkpoint Size: 444.0M
 Quilts and Cats of Calico Size: 1.7G
 Quit Today Size: 1.1G
+R-TYPE TACTICS III COSMOS Size: 12.6G
 R-Type Delta HD Boosted Size: 909.0M
 R-Type Dimensions EX Size: 206.0M
 R-Type Final 2 Size: 21.6G
+RAIDEN FIGHTERS REMIX COLLECTION Size: 2.5G
 REDEX Size: 73.0M
 REMOTE LIFE Size: 1.2G
 REYNATIS Size: 8.5G
@@ -2401,6 +2417,7 @@ Redgar The Space Viking Size: 706.0M
 Reel Fishing Days of Summer Size: 2.2G
 Reel Fishing Road Trip Adventure Size: 2.4G
 Remnant From the Ashes Size: 8.1G
+Rendering Ranger R2 [Rewind] Size: 337.0M
 Resident Evil 0 Size: 13.5G
 Resident Evil 5 Size: 18.7G
 Resident Evil 6 Size: 17.6G

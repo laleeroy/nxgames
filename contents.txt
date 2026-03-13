@@ -125,7 +125,7 @@ Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Alchemic Cutie Size: 747.0M
 Alchemy Garden Size: 842.0M
-Aleste Collection Size: 371.0M
+Aleste Collection Size: Unknown
 Alice Escaped Size: 1.5G
 Alien Cruise Size: 2.7G
 Alive Paint Size: 984.0M
@@ -808,7 +808,7 @@ C14 Dating Size: 202.0M
 CARRION Size: 590.0M
 CASSETTE BOY Size: 613.0M
 CATO Buttered Cat Size: 533.0M
-CLASSIC STG PACK (Classic Shooting Pack) Gynoug  Gley Lancer Size: 90.0M
+CLASSIC STG PACK (Classic Shooting Pack) Gynoug  Gley Lancer Size: Unknown
 CLAWPUNK Size: 986.0M
 CLeM Size: 1.7G
 CONERU -DIMENSION GIRL- Size: 1.8G
@@ -948,7 +948,7 @@ Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
 Cotton Reboot High Tension Size: Unknown
-Cotton Reboot High Tension! Size: 2.5G
+Cotton Reboot High Tension! Size: Unknown
 Cottonville Size: 528.0M
 CounterAttack Uprising Size: 1.4G
 Cowboys vs Zombies Size: 1.7G
@@ -1865,7 +1865,7 @@ MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
 Machinarium Size: 349.0M
 Macross -Shooting Insight- Size: 1.9G
-Macross Shooting Insight Size: 2.3G
+Macross Shooting Insight Size: Unknown
 Mad Bullets Size: 426.0M
 Mad Father Size: 239.0M
 Magazine Mogul Size: 259.0M
@@ -2384,7 +2384,7 @@ Rage Swarm Size: 298.0M
 Raging Blasters Size: 48.0M
 Raging Bytes Size: 214.0M
 Raiden IVMIKADO remix Size: 918.0M
-Raiden NOVA Size: 922.0M
+Raiden NOVA Size: Unknown
 Raiden V Director's Cut Size: 3.7G
 RaidenIII MIKADOMANIAX Size: 1.3G
 Rain World Size: 6.3G
@@ -2581,7 +2581,7 @@ Secrets of Me Size: 395.0M
 Seduced in the Sleepless City Size: 1.5G
 Seedsow Lullaby Size: 4.4G
 Seek Hearts Size: 219.0M
-Sengoku Cannon for Nintendo Switch Size: 211.0M
+Sengoku Cannon for Nintendo Switch Size: Unknown
 Sentry Paragon Size: 39.0M
 Sephirothic Stories Size: 365.0M
 Seraph's Last Stand Size: 130.0M
@@ -3085,7 +3085,7 @@ UBERMOSH SANTICIDE Size: 395.0M
 UBERMOSHBLACK Size: 368.0M
 UBERMOSHOMEGA Size: 678.0M
 UFO 50 Size: 516.0M
-UNDER DEFEAT Size: 349.0M
+UNDER DEFEAT Size: Unknown
 UNDER NIGHT IN-BIRTH II SysCeles Size: 2.8G
 UNDER THE ISLAND Size: 638.0M
 UTOPIA 9 - A Volatile Vacation Size: 1002.0M

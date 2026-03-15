@@ -697,7 +697,7 @@ Beacon Pines Size: 1.1G
 Bean Beasts Size: 1.6G
 Bear and Breakfast Size: 1.6G
 Beastie Bay DX Size: 170.0M
-Beastmaster and Prince Flower and Snow (JAP) Size: Unknown
+Beastmaster and Prince Flower and Snow (JAP) Size: 4.1G
 Beat 'Em Up Archives (QUByte Classics) Size: 182.0M
 Beat 'Em Up Collection (QUByte Classics) Size: 1.3G
 Beat of Life Size: 455.0M
@@ -1464,6 +1464,7 @@ Game Dev Story Size: 272.0M
 Game Tengoku CruisinMix Special Size: 656.0M
 Game Type DX Size: 328.0M
 Gang Beasts Size: 3.4G
+Gangsters in Love Size: 1.3G
 Garden In Size: 630.0M
 Garden Life A Cozy Simulator Size: 2.7G
 Garden Simulator Size: 972.0M
@@ -1558,6 +1559,7 @@ Hack and Shoot Heroes Size: 418.0M
 Hades Size: 5.8G
 Hades II Size: 6.6G
 Hakuoki Chronicles of Wind and Blossom Size: 12.3G
+Hakuoki SSL Sweet School Life Size: 3.3G
 Hana Awase New Moon -Himeutsugi Volume- Size: 3.0G
 Hana Awase New Moon -Iroha Volume- Size: 2.7G
 Hana Awase New Moon -KarakurenaiUtsutsu Volume- Size: 3.3G
@@ -3027,9 +3029,9 @@ To the Moon Size: 823.0M
 Toadomination Size: 79.0M
 Toaplan Arcade Collection Vol.1 Size: 81.0M
 Toaplan Arcade Collection Vol.2 Size: 78.0M
-Tokimeki Memorial Girl's Side 1st Love (JAP) Size: Unknown
-Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: Unknown
-Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 1st Love (JAP) Size: 3.5G
+Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: 4.1G
+Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: 8.9G
 Tokyo Mirage Sessions #FE Encore Size: 11.3G
 Tomb Raider Definitive Edition Size: 27.2G
 Tomb Raider I-III Remastered Starring Lara Croft Size: 5.5G

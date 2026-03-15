@@ -3301,6 +3301,8 @@ ZooKeeper Size: 1.4G
 Zotrix Starglider Size: 273.0M
 Zumania - Magic Casual Puzzle Size: 189.0M
 Zumatch Size: 218.0M
+Zumba - Dragon's Marble Trial Size: 1.9G
+Zumba - Galactic Marble Blast Size: 580.0M
 Zumba - Marble Zombie Invasion Size: 608.0M
 Zumba - Soccer Marble League Size: 557.0M
 Zumba - Treasure of the Marble Sea Size: 568.0M
@@ -3308,6 +3310,7 @@ Zumba Aqua Size: 107.0M
 Zumba Blitz Size: 49.0M
 Zumba Garden Size: 70.0M
 Zumba Royal Marble Shooter Mania Size: 232.0M
+Zumba World - The Lost Marble Island Size: 938.0M
 despelote Size: 3.5G
 even if TEMPEST Size: 4.8G
 even if TEMPEST Dawning Connections Size: 7.1G

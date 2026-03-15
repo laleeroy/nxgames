@@ -125,7 +125,7 @@ Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Alchemic Cutie Size: 747.0M
 Alchemy Garden Size: 842.0M
-Aleste Collection Size: Unknown
+Aleste Collection Size: 371.0M
 Alice Escaped Size: 1.5G
 Alien Cruise Size: 2.7G
 Alive Paint Size: 984.0M
@@ -948,7 +948,7 @@ Cosmo Dreamer Size: 458.0M
 Cotton 100 Size: 64.0M
 Cotton Fantasy Size: 2.3G
 Cotton Reboot Size: 2.7G
-Cotton Reboot High Tension Size: Unknown
+Cotton Reboot High Tension Size: 2.5G
 Cotton Reboot High Tension! Size: Unknown
 Cottonville Size: 528.0M
 CounterAttack Uprising Size: 1.4G
@@ -2404,7 +2404,7 @@ Rage Swarm Size: 298.0M
 Raging Blasters Size: 48.0M
 Raging Bytes Size: 214.0M
 Raiden IVMIKADO remix Size: 918.0M
-Raiden NOVA Size: Unknown
+Raiden NOVA Size: 922.0M
 Raiden V Director's Cut Size: 3.7G
 RaidenIII MIKADOMANIAX Size: 1.3G
 Rain World Size: 6.3G
@@ -3120,6 +3120,7 @@ UltraGoodness Size: 139.0M
 UltraGoodness 2 Size: 203.0M
 Unalive 010 Size: 1.7G
 Undead Battle Royale Size: 545.0M
+Under Defeat Size: 349.0M
 Undertale Size: 220.0M
 Undusted Letters from the Past Size: 973.0M
 Undying Size: 1.3G

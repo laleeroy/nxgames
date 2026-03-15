@@ -99,6 +99,7 @@ Aery A Journey Beyond Time Size: 3.0G
 Aery A New Frontier Size: 3.8G
 Aery Peace of Mind 3 Size: 6.1G
 After Wave Downfall Size: 486.0M
+After You Size: 1.2G
 Afterdream Size: 822.0M
 Afterparty Size: 4.6G
 Against the Storm Size: 2.0G
@@ -1006,6 +1007,7 @@ DELTARUNE Size: 724.0M
 DELTARUNE Chapter 1&2 Size: 268.0M
 DELTAZEAL Size: 150.0M
 DESERTED Size: 1.9G
+DETECTIVE - Rainy Night Size: 1.4G
 DIGIMON SURVIVE Size: 5.2G
 DODONPACHI SAIDAIOUJOU Size: 3.3G
 DOKAPON Sword of Fury Size: 727.0M
@@ -1097,6 +1099,7 @@ Desktop Volleyball Size: 833.0M
 Despera Drops Size: 5.6G
 Destino Indomable Size: 1.6G
 Destiny's Princess A War Story, A Love Story Size: 517.0M
+Detective - Stella Porta Case Size: 3.8G
 Detective Dotson Size: 1.5G
 Detective Instinct Farewell, My Beloved Size: 1.4G
 Detective Pikachu Returns Size: 9.0G
@@ -2835,6 +2838,7 @@ System Shock 2 25th Anniversary Remaster Size: 4.5G
 TACTICAL BANDITS Size: 1.9G
 TAISHO x ALICE ALL IN ONE Size: 3.8G
 TAISHO x ALICE HEADS & TAILS Size: 3.3G
+TEMPUS Size: 2.2G
 TENGAI for Nintendo Switch Size: 93.0M
 TENSEI Size: 344.0M
 TERROR SQUID Size: 127.0M
@@ -3106,6 +3110,7 @@ UBERMOSH SANTICIDE Size: 395.0M
 UBERMOSHBLACK Size: 368.0M
 UBERMOSHOMEGA Size: 678.0M
 UFO 50 Size: 516.0M
+UFOPHILIA Size: 4.6G
 UNDER DEFEAT Size: Unknown
 UNDER NIGHT IN-BIRTH II SysCeles Size: 2.8G
 UNDER THE ISLAND Size: 638.0M

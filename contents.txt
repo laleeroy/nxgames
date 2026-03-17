@@ -2534,6 +2534,7 @@ SEKIMORI GAMI - SAIEN Size: 3.0G
 SHAPE NEON CHAOS Size: 127.0M
 SHINOBI Art of Vengeance Size: 7.2G
 SHMUP MANIA Size: 115.0M
+SHUTEN ORDER Visual Artbook and Mini Soundtrack Size: 563.0M
 SIGNALIS Size: 3.8G
 SMURFS KART Size: 1.9G
 SNK GALS' FIGHTERS Size: 130.0M
@@ -2642,6 +2643,7 @@ Shrink Rooms Size: 446.0M
 Shujinkou Size: 3.6G
 Shujinkou Digital Artbook Size: 271.0M
 Shujinkou Select Soundtrack Size: 217.0M
+Shuten Order Size: 13.8G
 Shuttlecock-H Size: 561.0M
 Sid Meier's Civilization VII Size: 6.3G
 Sid Meiers Civilization VI Size: 36.4G

@@ -667,8 +667,10 @@ BUSTAFELLOWS Size: 2.2G
 BUSTAFELLOWS season2 Size: 2.9G
 Back to the Dawn Size: 2.4G
 Backpack Hero Size: 776.0M
+Backroom Constructions Size: 1.1G
 Bad Chicken Size: 222.0M
 Bake it Pizza Master Size: 316.0M
+Bakeborough Size: 734.0M
 Baki Hanma Blood Arena Size: 2.1G
 Bakumatsu Renka SHINSENGUMI Size: 2.0G
 Balatro Size: 179.0M
@@ -705,6 +707,7 @@ Beat 'Em Up Archives (QUByte Classics) Size: 182.0M
 Beat 'Em Up Collection (QUByte Classics) Size: 1.3G
 Beat of Life Size: 455.0M
 Becastled Size: 532.0M
+Bedrotting Size: 1.2G
 Beekyr Reloaded Size: 432.0M
 Before The Dawn Size: 264.0M
 Before the Green Moon Size: 647.0M
@@ -787,6 +790,7 @@ Broken Age Size: 2.0G
 Broken Sword - Shadow of the Templars Reforged Size: 2.9G
 BroodStar Size: 357.0M
 Brotato Size: 336.0M
+Brutalism22 Size: 653.0M
 Bubble Bobble 4 Friends The Baron is Back Size: 983.0M
 Bubble Wizard III Saga Size: 866.0M
 Bug & Seek Size: 431.0M
@@ -989,6 +993,7 @@ Crysis 3 Remastered Size: 11.0G
 Crysis Remastered Size: 7.7G
 Crystal Breaker Size: 176.0M
 Crystal Ortha Size: 191.0M
+Cthulhu pub Size: 89.0M
 Cult of the Lamb Size: 1.9G
 Cuphead Size: 5.1G
 Cupid Parasite Size: 6.0G
@@ -1416,6 +1421,7 @@ Freaky Trip Size: 7.0G
 Freddy Fazbear's Pizzeria Simulator Size: 402.0M
 Freedom Finger Size: 3.9G
 Freezer Pops Size: 232.0M
+Frogvival Size: 466.0M
 From Madness with Love Size: 235.0M
 From Space Size: 1.9G
 Fruitbus Size: 1.5G
@@ -1755,6 +1761,7 @@ Justin Wack and the Big Time Hack Size: 788.0M
 KANADE Size: 2.4G
 KIBORG Size: 7.7G
 KING OF FIGHTERS R-2 Size: 91.0M
+KOBOLOK Size: 760.0M
 KORG Gadget for Nintendo Switch Size: 1.1G
 Kairobotica Size: 242.0M
 Kamikaze Lassplanes Size: 3.3G
@@ -2104,6 +2111,7 @@ NINJA GAIDEN Ragebound Size: 2.4G
 NOISZ reCOLLECTION G Size: 1.1G
 Natsu-Mon 20th Century Summer Kid Size: 3.4G
 Necroking Size: 455.0M
+Need a packet Size: 287.0M
 Need for Speed Hot Pursuit Remastered Size: 8.1G
 Neko Navy - Daydream Edition Size: 405.0M
 Nelke & the Legendary Alchemists Ateliers of the New World Size: 18.4G
@@ -2601,6 +2609,7 @@ School Race GP Size: 392.0M
 Scott Pilgrim EX Size: 1.3G
 Scott Pilgrim vs. The World The Game Complete Edition Size: 1.1G
 Scott Whiskers in the Search for Mr. Fumbleclaw Size: 1.0G
+Scribed castle Size: 713.0M
 Sea Fantasy Size: 639.0M
 Sea of Stars Size: 5.1G
 Seafrog Size: 524.0M
@@ -3165,6 +3174,7 @@ Vampire Hunters Size: 2.3G
 Vampire Survivors Size: 992.0M
 Vampire The Masquerade - Swansong Size: 5.9G
 Variable Barricade Size: 5.0G
+Vasilis Size: 1.8G
 Vault of the Void Size: 653.0M
 Venba Size: 1.8G
 Vengeance Hunters Size: 236.0M
@@ -3213,9 +3223,11 @@ What Remains of Edith Finch Size: 2.3G
 What The Duck Size: 4.3G
 Whateverland Size: 2.0G
 When the Past was Around Size: 1.8G
+Where is Drake Size: 1.2G
 While We Wait Here Size: 2.4G
 Whiskey Mafia Frank's Story Size: 900.0M
 Whiskey Mafia Leo's Family Size: 295.0M
+Why Pizza Size: 607.0M
 WiZmans World ReTry Size: 2.0G
 Wild Park Manager Size: 195.0M
 Wildermyth Console Edition Size: 893.0M

@@ -669,6 +669,7 @@ Back to the Dawn Size: 2.4G
 Backpack Hero Size: 776.0M
 Backroom Constructions Size: 1.1G
 Bad Chicken Size: 222.0M
+Bahamut and the Waqwaq Tree Size: 1.4G
 Bake it Pizza Master Size: 316.0M
 Bakeborough Size: 734.0M
 Baki Hanma Blood Arena Size: 2.1G
@@ -1027,6 +1028,7 @@ DRAGON BALL FighterZ Size: 10.0G
 DRAGON BALL Sparking ZERO Size: 6.8G
 DRAGON BALL XENOVERSE 2 for Nintendo Switch Size: 17.6G
 DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET Size: 25.0G
+DRAGON QUEST BUILDERS 2 Size: 2.0G
 DRAGON QUEST I & II HD-2D Remake Size: 8.3G
 DRAGON QUEST III HD-2D Remake Size: 7.8G
 DRAGON QUEST VII Reimagined Size: 31.3G
@@ -1173,6 +1175,7 @@ Dragon Eclipse Size: 404.0M
 Dragon Lapis Size: 195.0M
 Dragon Marked for Death Frontline Fighters Size: 716.0M
 Dragon Prana Size: 251.0M
+Dragon Quest Builders Size: 842.0M
 Dragon Sinker Size: 246.0M
 Dragon Takers Size: 612.0M
 Dragon's Dogma Dark Arisen Size: 12.1G

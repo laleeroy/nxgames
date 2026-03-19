@@ -3122,6 +3122,9 @@ Truck and Logistics Simulator Size: 477.0M
 True Fear Forsaken Souls - Part 1 Size: 1.3G
 True Fear Forsaken Souls - Part 2 Size: 1.2G
 True Fear Forsaken Souls - Part 3 Size: 2.4G
+Turok Size: 564.0M
+Turok 2 Seeds of Evil Size: 892.0M
+Turok 3 Shadow of Oblivion Remastered Size: 1.4G
 Turret Rampage Size: 75.0M
 Two Point Campus Size: 2.8G
 Two Point Hospital Size: 3.8G

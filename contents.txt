@@ -2057,6 +2057,8 @@ Mortal Kombat 1 Size: 42.9G
 Mortal Kombat Legacy Kollection Size: 11.4G
 Mortal Kombat11 Size: 32.6G
 Mostroscopy Size: 2.0G
+Moto Rush GT Size: 6.3G
+Moto Rush Reborn Size: 8.3G
 MotoGP24 Size: 10.2G
 MotoGP25 Size: 9.3G
 Mourning Tide Size: 173.0M

@@ -2343,6 +2343,7 @@ Pocket Harvest Size: 260.0M
 Pocket League Story Size: 250.0M
 Pocket Nook Size: 374.0M
 Pocket Stables Size: 260.0M
+Pocket Wheels Demo Size: 509.3M
 Poker Night at the Inventory Size: 411.0M
 Pokkén Tournament DX Size: 4.0G
 Pokémon Brilliant Diamond Size: 6.9G

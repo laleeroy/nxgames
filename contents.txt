@@ -1304,6 +1304,7 @@ FUR Squadron Size: 802.0M
 FUR Squadron Phoenix Size: 1.7G
 FUSER Size: 7.9G
 FX Unit Yuki The Henshin Engine Size: 95.0M
+Fabled Lands Size: 2.2G
 Fabledom Size: 1.5G
 Factorio Size: 2.6G
 Fading Afternoon Size: 975.0M

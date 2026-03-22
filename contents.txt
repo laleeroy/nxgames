@@ -2663,6 +2663,9 @@ Shmup Collection Size: 1.5G
 Shoot 1UP DX Size: 290.0M
 Shootvaders The Beginning Size: 368.0M
 Shotgun Cop Man Size: 442.0M
+Shovel Knight Dig Size: 821.0M
+Shovel Knight Pocket Dungeon + DLC Size: 472.0M
+Shovel Knight Treasure Trove Size: 309.0M
 Shrink Rooms Size: 446.0M
 Shujinkou Size: 3.6G
 Shujinkou Digital Artbook Size: 271.0M

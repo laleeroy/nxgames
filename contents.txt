@@ -759,6 +759,7 @@ Blind - The Unseen Truth Size: 992.0M
 Blind Men Size: 182.0M
 Blink Rogues Size: 1.1G
 Block Tower TD Size: 203.0M
+Blood Refreshed Supply Size: 974.0M
 Bloodshed Size: 558.0M
 Bloodstained Curse of the Moon Size: 57.0M
 Bloodstained Curse of the Moon 2 Size: 109.0M

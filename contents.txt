@@ -646,6 +646,7 @@ BAROQUE SHOOTING REVERSED Size: 445.0M
 BATSUGUN Saturn Tribute Boosted Size: 794.0M
 BATTLESLOTHS Size: 456.0M
 BEAST Bio Exo Arena Suit Team Size: 1.6G
+BEASTWATCH Meat & Mayhem Size: 303.0M
 BEYBLADE X EVOBATTLE Size: 2.3G
 BEYBLADE X XONE Size: 2.8G
 BIG BALL SPORTS Size: 412.0M
@@ -764,6 +765,7 @@ Bloodshed Size: 558.0M
 Bloodstained Curse of the Moon Size: 57.0M
 Bloodstained Curse of the Moon 2 Size: 109.0M
 Bloodstained Ritual of the Night Size: 13.6G
+Bloodwash Size: 483.0M
 Bloomtown A Different Story Size: 831.0M
 Blue Rider Size: 780.0M
 Bonds of the Skies Size: 428.0M
@@ -842,6 +844,7 @@ Calculator Size: 97.0M
 Calculator Maker My Calculator Size: 91.0M
 Camper Van Make it Home Size: 3.5G
 Candylands Journey Size: 279.0M
+Cannibal Abduction Size: 355.0M
 Capcom Fighting Collection Size: 3.2G
 Capcom Fighting Collection 2 Size: 3.2G
 Captain Toad Treasure Tracker Size: 1.9G
@@ -2076,6 +2079,7 @@ Move or Die Unleashed Size: 963.0M
 Moving Out Size: 1.3G
 Moving Out 2 Size: 1.7G
 MudRunner - American Wilds Size: 3.1G
+Murder House Size: 868.0M
 Muse Dash Size: 3.9G
 Mushihimesama Size: 876.0M
 Mushoku Tensei Jobless Reincarnation Quest of Memories Size: 3.2G
@@ -2166,6 +2170,7 @@ Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
 Night Sweeper Detective MIASMA BREAKER Size: 1.1G
 Night Vision Size: 106.0M
+Night at the Gates of Hell Size: 870.0M
 Night in the Woods Size: 6.4G
 Nightmare The Lunatic Size: 2.7G
 Nightshade Size: 3.0G
@@ -2196,6 +2201,7 @@ Notes + Stickers Size: 236.0M
 Nova Strike Size: 298.0M
 Novel Rogue Size: 649.0M
 Null Drifter Size: 188.0M
+Nun Massacre Size: 815.0M
 OCTOPATH TRAVELER 0 Size: 3.2G
 OCTOPATH TRAVELER II Size: 6.1G
 OK K.O. Lets Play Heroes Size: 2.3G
@@ -2788,6 +2794,7 @@ Starward Rogue Size: 633.0M
 Stasis Size: 2.6G
 State of Anarchy Master of Mayhem Size: 434.0M
 Station Manager Size: 269.0M
+Stay Out of the House Size: 1.0G
 Steam Prison Size: 4.6G
 Steam Prison -Beyond the Steam- Size: 3.3G
 Steel Rain Size: 217.0M
@@ -2970,6 +2977,7 @@ The First Tree Size: 2.4G
 The Garden Path Size: 1.6G
 The Gardener Simulator - Plant, Grow, Decorate, Build Sim Size: 1.7G
 The Gardens Between Size: 1.7G
+The Glass Staircase Size: 1.6G
 The Great Ace Attorney Chronicles Size: 3.6G
 The Great Rebellion Edition 2084 Size: 1.7G
 The Hokkaido Serial Murder Case The Okhotsk Disappearance Memories in Ice, Tearful Figurine Size: 1.1G

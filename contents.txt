@@ -6,6 +6,7 @@
 .cat 2 Size: 84.0M
 1-2-Switch Size: 1.4G
 100 in 1 Game Collection Size: 3.0G
+112 Operator Size: 5.1G
 12 Labours Of Hercules VII Fleecing The Fleece Size: 216.0M
 12 Labours of Hercules Size: 195.0M
 12 Labours of Hercules II The Cretan Bull Size: 126.0M
@@ -27,6 +28,7 @@
 7th Domain Tree of Chaos Size: 3.1G
 8-Bit Farm Size: 261.0M
 9 R.I.P Size: 5.2G
+911 Operator Deluxe Edition Size: 2.0G
 9th Dawn III Size: 867.0M
 9th Dawn Remake Size: 1.6G
 A Game About Digging A Hole Size: 334.0M

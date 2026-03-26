@@ -2397,6 +2397,7 @@ Power Sink Size: 1.6G
 PowerWash Simulator Size: 5.9G
 Prehistoric Dude Size: 64.0M
 Pretty Princess Magical Garden Island Size: 1.3G
+Primal Planet Size: 447.0M
 Prince of Persia The Lost Crown Size: 7.1G
 Princess Closet Size: 875.0M
 Princess Closet - Fashion and love will change me - Size: 859.0M

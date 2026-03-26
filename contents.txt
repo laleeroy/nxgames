@@ -903,6 +903,7 @@ Chess Ultra Size: 4.0G
 Chicken Police Into the HIVE Size: 2.2G
 Chicken Police Paint it RED Size: 3.9G
 Chicken Run Eggstraction Size: 2.2G
+ChildStory Size: 399.0M
 Children of Morta Size: 2.5G
 Chippy Size: 959.0M
 Cho Aniki Collection Size: Unknown
@@ -1243,7 +1244,7 @@ Earth Atlantis Size: 689.0M
 Earthion Size: 95.0M
 Eastern Euro Truck Simulator Real Offroad Car Driving Game Sim 4x4 Mud Size: 266.0M
 Eastward Size: 2.1G
-Easy Delivery Co Size: 642.0M
+Easy Delivery Co Size: 739.0M
 Easy Red 2 Size: 5.4G
 Echoes of the Plum Grove Size: 2.4G
 Edna & Harvey Harvey's New Eyes Size: 1.2G
@@ -2181,7 +2182,7 @@ Nickelodeon All-Star Brawl 2 Size: 6.1G
 Nicktoons & The Dice of Destiny Size: 2.7G
 Nicole Size: 135.0M
 NieRAutomata The End of YoRHa Edition Size: 10.9G
-Night Sweeper Detective MIASMA BREAKER Size: 1.1G
+Night Sweeper Detective MIASMA BREAKER Size: 1.2G
 Night Vision Size: 106.0M
 Night at the Gates of Hell Size: 870.0M
 Night in the Woods Size: 6.4G
@@ -2433,7 +2434,7 @@ Quantum Recharged Size: 355.0M
 Quarantine Zone Border Zombie Checkpoint Size: 444.0M
 Quilts and Cats of Calico Size: 1.7G
 Quit Today Size: 1.1G
-R-TYPE TACTICS III COSMOS Size: 12.8G
+R-TYPE TACTICS III COSMOS Size: 12.9G
 R-Type Delta HD Boosted Size: 909.0M
 R-Type Dimensions EX Size: 206.0M
 R-Type Final 2 Size: 21.6G
@@ -2580,7 +2581,7 @@ SEGA Genesis Nintendo Switch Online Size: 226.0M
 SEKIMORI GAMI - SAIEN Size: 3.0G
 SHAPE NEON CHAOS Size: 127.0M
 SHINOBI Art of Vengeance Size: 7.2G
-SHINONOME ABYSS The Maiden Exorcist Size: 654.0M
+SHINONOME ABYSS The Maiden Exorcist Size: 1010.0M
 SHMUP MANIA Size: 115.0M
 SHUTEN ORDER Visual Artbook and Mini Soundtrack Size: 563.0M
 SIGNALIS Size: 3.8G

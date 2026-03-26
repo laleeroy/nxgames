@@ -1014,6 +1014,7 @@ CyberCorp Size: 4.8G
 Cybxus Hearts Size: 80.0M
 Cynthia Hidden in the Moonshadow Size: 3.1G
 DAMN Size: 319.0M
+DAMON and BABY Size: 3.0G
 DARIUSBURST ANOTHER CHRONICLE EX+ Size: 2.3G
 DARIUSBURST CS CORE + TAITOSEGA Pack Size: 1.7G
 DARK SOULS REMASTERED Size: 4.0G
@@ -1242,6 +1243,7 @@ Earth Atlantis Size: 689.0M
 Earthion Size: 95.0M
 Eastern Euro Truck Simulator Real Offroad Car Driving Game Sim 4x4 Mud Size: 266.0M
 Eastward Size: 2.1G
+Easy Delivery Co Size: 642.0M
 Easy Red 2 Size: 5.4G
 Echoes of the Plum Grove Size: 2.4G
 Edna & Harvey Harvey's New Eyes Size: 1.2G
@@ -2928,7 +2930,8 @@ Taiko no Tatsujin Rhythmic Adventure Pack Size: 2.6G
 Tails Of Iron Size: 1.9G
 Takotan Size: 159.0M
 Tales from Toyotoki Arrival of the Witch Size: 937.0M
-Tales of Berseria Remastered Size: 9.0G
+Tales of Berseria Remastered Size: 9.1G
+Tales of Berseria Remastered - Digital Artbook & Soundtrack Size: 1.5G
 Tales of Graces f Remastered - Digital Artbook & Soundtrack Size: 1.0G
 Tales of Gracesf Remastered Size: 10.6G
 Tales of Xillia Remastered Size: 14.0G

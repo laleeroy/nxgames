@@ -1980,6 +1980,7 @@ Mega Mall Story 2 Size: 239.0M
 Mega Man 11 Size: 2.2G
 Mega Man Legacy Collection Size: 375.0M
 Mega Man Legacy Collection 2 Size: 3.2G
+Mega Man Star Force Legacy Collection Size: 7.6G
 Mega Man X Legacy Collection Size: 3.0G
 Mega Man X Legacy Collection 2 Size: 6.6G
 Mega Man ZeroZX Legacy Collection Size: 3.2G

@@ -999,7 +999,7 @@ Crosak Size: 1017.0M
 Cross Tails Size: 757.0M
 Crowded Mysteries Size: 480.0M
 Cruis'n Blast Size: 3.7G
-Cryptical Path Size: 3.2G
+Cryptical Path Size: 4.1G
 Crysis 2 Remastered Size: 11.2G
 Crysis 3 Remastered Size: 11.0G
 Crysis Remastered Size: 7.7G
@@ -1519,7 +1519,7 @@ Geometric Brothers Size: 331.0M
 Get Packed Couch Chaos Size: 1.6G
 Ghost Assassin - Stealth Strike Size: 3.0G
 Ghost Blade HD Size: 970.0M
-Ghost Master Resurrection Size: 10.1G
+Ghost Master Resurrection Size: 10.4G
 Ghost Sync Size: 439.0M
 Ghostrunner Size: 11.2G
 Girl Like A Dreaming - Flowering Sacrifice - Size: 1.2G
@@ -1756,7 +1756,7 @@ It came from space and ate our brains Size: 1.6G
 JUMP FORCE - Deluxe Edition Size: 11.4G
 Jack Jeanne Size: 6.1G
 Jamestown+ Size: 385.0M
-Japanese Rural Life Adventure Size: 287.0M
+Japanese Rural Life Adventure Size: 288.0M
 Jet Lancer Size: 363.0M
 Jetboard Joust Size: 280.0M
 Jetpack Kiwi Size: 76.0M

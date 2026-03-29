@@ -3237,6 +3237,9 @@ VISCO Collection Size: 1.2G
 Valiant Hearts Coming Home Size: 2.0G
 Vampire Hunters Size: 2.3G
 Vampire Survivors Size: 992.0M
+Vampire The Masquerade - Coteries of New York Size: 3.1G
+Vampire The Masquerade - Reckoning of New York Size: 1.0G
+Vampire The Masquerade - Shadows of New York Size: 3.4G
 Vampire The Masquerade - Swansong Size: 5.9G
 Variable Barricade Size: 5.0G
 Vasilis Size: 1.8G

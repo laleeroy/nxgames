@@ -1275,6 +1275,7 @@ Escape from Terror City Size: 64.0M
 Esophaguys Demo Size: 807.3M
 Espgaluda II Size: 905.0M
 Eternights Size: 4.3G
+Etrange Overlord Size: 3.7G
 Etrange Overlord Demo Size: 1.3G
 Europa Size: 3.7G
 Everdark Tower Size: 121.0M

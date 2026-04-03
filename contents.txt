@@ -2688,6 +2688,7 @@ Shakedown Hawaii Size: 173.0M
 Shanghai Summer Size: 533.0M
 ShapeHero Factory Size: 754.0M
 Shapeshooter Size: 166.0M
+Shardpunk Size: 2.5G
 Sheepy A Short Adventure Size: 973.0M
 Shieldwall Size: 1.0G
 Shiftlings - Enhanced Edition Size: 2.4G

@@ -812,6 +812,7 @@ Bullet Beat Size: 108.0M
 Bullet Runner Size: 2.0G
 Bullet Soul Size: 1.7G
 Bullet Soul -Infinite Burst- Size: 1.8G
+Bully (homebrew) Size: 401.7K
 Bunhouse Size: 993.0M
 Bunker Builder & Construction Simulator Size: 549.0M
 Burger Bistro Story Size: 284.0M

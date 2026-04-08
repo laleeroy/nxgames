@@ -880,6 +880,7 @@ Caverns of Mars Recharged Size: 550.0M
 Caves of Qud Size: 1.4G
 Celeste Size: 1.5G
 Celestia Chain of Fate Size: 1.2G
+ChainStaff Size: 2.3G
 Chained Echoes Size: 1.2G
 Chalk Dash Carnival Size: 401.0M
 Charade Maniacs Size: 2.8G

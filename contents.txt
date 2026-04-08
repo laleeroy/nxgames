@@ -1674,6 +1674,7 @@ Hole Digging Simulator 2025 Size: 392.0M
 Hollow Knight Size: 5.3G
 Hollow Knight Silksong Size: 2.8G
 Home Run High Size: 270.0M
+Homura The Crimson Warriors Size: 6.2G
 Honey Vibes Size: 3.4G
 Hope's Farm Size: 251.0M
 Horgihugh And Friends Size: 343.0M
@@ -2284,6 +2285,7 @@ Ori and the Will of the Wisps Size: 4.3G
 Orwell Ignorance is Strength Size: 1.4G
 Orwell Keeping an Eye On You Size: 367.0M
 Osyaberi Horijyo Gekihori Anna Holinski saves the universe, alright Size: 347.0M
+Otome Daoshi -Fighting For Love- Size: 4.8G
 Our After-School Playzone Size: 324.0M
 Our Fantasy Quest Size: 316.0M
 Our Field Trip Adventure Size: 546.0M
@@ -3142,9 +3144,9 @@ To the Moon Size: 823.0M
 Toadomination Size: 79.0M
 Toaplan Arcade Collection Vol.1 Size: 81.0M
 Toaplan Arcade Collection Vol.2 Size: 78.0M
-Tokimeki Memorial Girl's Side 1st Love (JAP) Size: Unknown
-Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: Unknown
-Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: Unknown
+Tokimeki Memorial Girl's Side 1st Love (JAP) Size: 3.5G
+Tokimeki Memorial Girl's Side 2nd Kiss (JAP) Size: 4.1G
+Tokimeki Memorial Girl's Side 4th Heart (JAP) Size: 8.9G
 Tokyo Mirage Sessions #FE Encore Size: 11.3G
 Tokyo School Life Size: 773.0M
 Tomb Raider Definitive Edition Size: 27.2G

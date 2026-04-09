@@ -2933,6 +2933,7 @@ Superliminal Size: 5.5G
 Survivor - Castaway Island Size: 909.0M
 Sweet Survivors Size: 309.0M
 Switch 'N' Shoot Size: 97.0M
+SwooshCat Size: 238.0M
 Sword of Elpisia Size: 1014.0M
 Sword of the Necromancer Resurrection Size: 3.2G
 Syder Reloaded Size: 1.4G

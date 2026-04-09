@@ -136,6 +136,7 @@ Alchemy Garden Size: 842.0M
 Aleste Collection Size: 371.0M
 Alice Escaped Size: 1.5G
 Alien Cruise Size: 2.7G
+Alien Isolation Size: 17.8G
 Alive Paint Size: 984.0M
 All Hands on Deck Size: 1.6G
 All in Abyss Judge the Fake Size: 1.6G
@@ -1131,6 +1132,7 @@ Detective - Stella Porta Case Size: 3.8G
 Detective Dotson Size: 1.5G
 Detective Instinct Farewell, My Beloved Size: 1.4G
 Detective Pikachu Returns Size: 9.0G
+Detention Size: 2.5G
 Devastator Size: 309.0M
 Devil Engine Size: 1.6G
 Devil Jam Size: 458.0M

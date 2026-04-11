@@ -814,6 +814,7 @@ Bullet Beat Size: 108.0M
 Bullet Runner Size: 2.0G
 Bullet Soul Size: 1.7G
 Bullet Soul -Infinite Burst- Size: 1.8G
+Bullets & Brains Size: 622.0M
 Bully (homebrew) Size: 401.7K
 Bunhouse Size: 993.0M
 Bunker Builder & Construction Simulator Size: 549.0M
@@ -1091,6 +1092,7 @@ Daydream Forgotten Sorrow Size: 3.1G
 Dead Cells Size: 2.4G
 Dead Dragons Size: 359.0M
 Dead End City Size: 174.0M
+Dead Ground Size: 208.0M
 Dead of Darkness Size: 652.0M
 Deadliest Catch - Ocean Boat Driving & Fishing 2022 Simulator Size: 435.0M
 Deadliest Catch The Game Size: 1.8G
@@ -1114,6 +1116,7 @@ Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Size: 11.1G
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Size: 14.6G
 Demon Sword Incubus Size: 1.6G
 Demon Throttle Size: 334.9M
+Demons Are Coming Size: 316.0M
 Demonschool Size: 2.1G
 Desktop BaseBall 2 Size: 451.0M
 Desktop Baseball Size: 506.0M
@@ -1277,6 +1280,7 @@ Endocrisis Size: 1.2G
 Enter the Gungeon Size: 443.0M
 Epic Astro Story Size: 261.0M
 Equestrian Training Size: 1.4G
+Escape From DUCKNESS Size: 1014.0M
 Escape Game - FORT BOYARD 2022 Size: 2.0G
 Escape Game Fort Boyard Size: 2.6G
 Escape from Ever After Size: 2.3G
@@ -1473,6 +1477,7 @@ GENSOU Skydrift Size: 1.7G
 GEX Trilogy Size: 3.1G
 GIGASWORD Size: 409.0M
 GOD EATER 3 Size: 14.9G
+GOST of Time Size: 418.0M
 GRADIUS ORIGINS Size: 3.4G
 GRANADA Size: 172.0M
 GRID Autosport Size: 9.4G
@@ -1833,6 +1838,7 @@ Kitty Love -Way to look for love- Size: 537.0M
 Knight's Night Size: 103.0M
 Knights of Grayfang Size: 541.0M
 Know by heart.. Size: 1.0G
+Kontrakt Size: 291.0M
 Kraken Odyssey Size: 1.2G
 Kubinashi Recollection Size: 182.0M
 Kuznetsk 1997 Detective Visual Novel Size: 938.0M
@@ -1950,6 +1956,7 @@ MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED Size: 5.5G
 MOMIBOSU Size: 1.9G
 MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
+MYRIAD DEATH Size: 322.0M
 Machinarium Size: 349.0M
 Machine Gun Fury Size: 427.0M
 Macross -Shooting Insight- Size: 1.9G
@@ -1977,6 +1984,7 @@ Maliki Poison of the Past Size: 2.4G
 Mamon King Size: 1.2G
 Mamorukun ReCurse (JAP) Size: Unknown
 Mandragora Whispers of the Witch Tree Size: 6.4G
+Maniac Size: 1.0G
 March to a Million Size: 268.0M
 Marenian Tavern Story Patty and the Hungry God Size: 995.0M
 Marimo -VS- I.A.S Size: 289.0M
@@ -2067,6 +2075,7 @@ Missile Command Delta Size: 1.1G
 Missile Dancer Size: 92.0M
 Missile Dancer 2 Size: 673.0M
 Missing Banban Size: 524.0M
+Mist Size: 689.0M
 Mistonia's Hope -The Lost Delight- Size: 5.6G
 Moncage Size: 954.0M
 Monkey King Master of the Clouds Size: 191.0M
@@ -2175,7 +2184,9 @@ NINJA GAIDEN 2 Size: 4.0G
 NINJA GAIDEN Master Collection Size: 3.8G
 NINJA GAIDEN Master Collection Digital Art Book & Soundtrack Size: 2.5G
 NINJA GAIDEN Ragebound Size: 2.4G
+NINJA REVENGER Size: 1.1G
 NOISZ reCOLLECTION G Size: 1.1G
+Narcissus Size: 1.7G
 Natsu-Mon 20th Century Summer Kid Size: 3.4G
 Necroking Size: 455.0M
 Need a packet Size: 287.0M
@@ -2335,6 +2346,7 @@ PICO PARK 2 Size: 284.0M
 PIPELINE PANIC Size: 164.0M
 POPUCOM Size: 5.7G
 POSTAL Brain Damaged Size: 2.7G
+PRITTO PRISONER Size: 798.0M
 PSYCHIC STORM Size: 694.0M
 PSYVARIAR DELTA Size: 623.0M
 Paint Size: 337.0M
@@ -2767,6 +2779,7 @@ Sky Jaguar 2 Size: 322.0M
 Sky Mercenaries Redux Size: 229.0M
 Sky Racket Size: 1.5G
 Sky Revolver Size: 1002.0M
+Sky of Destruction Size: 1.6G
 Skyland Rush - Air Raid Attack Size: 165.0M
 Skyline Bowling Size: 894.0M
 Slam and Roll Size: 263.0M
@@ -2935,6 +2948,7 @@ Superdimensional Game Neptune ReBirth 2 Sisters Generation Size: Unknown
 Superdimensional Game Neptune ReBirth 3 V Century Size: Unknown
 Superfluous Returnz Size: 297.0M
 Superliminal Size: 5.5G
+Survival Z Size: 670.0M
 Survivor - Castaway Island Size: 909.0M
 Sweet Survivors Size: 309.0M
 Switch 'N' Shoot Size: 97.0M
@@ -3247,6 +3261,7 @@ Ultimate Custom Night Size: 574.0M
 Ultimate Fishing Simulator Size: 3.9G
 Ultimate Sheep Raccoon Size: 3.1G
 Ultionus A Tale of Petty Revenge Size: 74.0M
+Ultra Bonk Survivors Size: 780.0M
 Ultra Street Fighter II The Final Challengers Size: 2.8G
 UltraAge Size: 5.9G
 UltraGoodness Size: 139.0M

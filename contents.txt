@@ -1963,6 +1963,8 @@ MLB The Show 25 Size: 32.0G
 MLB The Show 26 Size: 29.5G
 MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED Size: 5.5G
 MOMIBOSU Size: 1.9G
+MONOPOLY 2024 Size: 1.7G
+MONOPOLY Madness Size: 4.1G
 MY HERO ONE'S JUSTICE Size: 3.5G
 MY HERO ONE'S JUSTICE 2 Size: 11.6G
 MYRIAD DEATH Size: 322.0M
@@ -3477,6 +3479,7 @@ Zumba - Soccer Marble League Size: 557.0M
 Zumba - Treasure of the Marble Sea Size: 568.0M
 Zumba Aqua Size: 107.0M
 Zumba Blitz Size: 49.0M
+Zumba Burn It Up Size: 6.7G
 Zumba Garden Size: 70.0M
 Zumba Royal Marble Shooter Mania Size: 232.0M
 Zumba World - The Lost Marble Island Size: 938.0M

@@ -2896,6 +2896,7 @@ Station Manager Size: 68.0M
 Stay Out of the House Size: 581.6M
 Steam Prison Size: 2.9G
 Steam Prison -Beyond the Steam- Size: 3.2G
+Steel Assault Size: 327.8M
 Steel Rain Size: 170.5M
 Stellar Interface Size: 175.0M
 Stellar Wanderer DX Size: 522.8M

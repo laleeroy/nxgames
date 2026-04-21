@@ -2371,6 +2371,7 @@ PSYCHIC STORM Size: 694.0M
 PSYVARIAR DELTA Size: 623.0M
 Paint Size: 337.0M
 Paladin Size: 152.0M
+Paleo Pines Size: 3.2G
 Palia Size: 14.9G
 Pan-Dimensional Conga Combat Size: 132.0M
 Pang Adventures Size: 435.0M

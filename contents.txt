@@ -1450,6 +1450,7 @@ Folly of the Wizards Size: 1.0G
 Food Girls Size: 1.9G
 Food Girls 2 Civil War Size: 1.9G
 Fool's Pub Size: 944.0M
+Foreign Sun Size: 899.0M
 Forest Camp Story Size: 287.0M
 Forest Fire Size: 249.0M
 Forest Golf Planner Size: 83.0M

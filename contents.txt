@@ -584,6 +584,7 @@ Arcade Classics Anniversary Collection Size: 294.0M
 Arcade Paradise Size: 3.0G
 Arcade Space Shooter 2 in 1 Size: 234.0M
 Arcadia Fallen Size: 878.0M
+Arcadia Fallen II Size: 1.9G
 Arcana Famiglia Rinato Size: 2.1G
 Architect Life A House Design Simulator Size: 4.1G
 Archlion Saga Size: 197.0M
@@ -591,6 +592,7 @@ Ariana and the Elder Codex Size: 1.2G
 Armed 7 DX Size: 307.0M
 Armed Emeth Size: 583.0M
 Army of Ruin Size: 466.0M
+Aroma Love Ready Size: 1.3G
 Arrest of a stone Buddha Size: 158.0M
 Art Heist - Escape Room Adventure Size: 4.1G
 Art of Glide Size: 216.0M
@@ -1139,6 +1141,7 @@ Desktop Soccer 2 Size: 381.0M
 Desktop Table Tennis Size: 826.0M
 Desktop Volleyball Size: 833.0M
 Despera Drops Size: 5.6G
+Destind Mr. Almost Right Size: 1.7G
 Destino Indomable Size: 1.6G
 Destiny's Princess A War Story, A Love Story Size: 517.0M
 Detective - Stella Porta Case Size: 3.8G
@@ -3357,6 +3360,7 @@ Voice Love On Air Size: 5.8G
 Void Gore Size: 125.0M
 Void Prison Size: 150.0M
 Void Scrappers Size: 391.0M
+Volontés Size: 1.3G
 Vortex Attack EX Size: 198.0M
 Vostok 2061 Size: 1.4G
 Voxel Galaxy Size: 1.2G

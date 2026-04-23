@@ -1088,6 +1088,7 @@ Darius Cozmic Collection Console Size: 123.0M
 Darius Cozmic Collection Special Edition Size: 191.1M
 Dark Auction Size: 3.1G
 Dark Dungeon Warrior Size: 675.0M
+Dark Light Size: 1.9G
 Dark Quest 2 Size: 1.6G
 Dark Quest 3 Size: 1.8G
 Dark Quest 4 Size: 2.2G

@@ -136,6 +136,7 @@ Alchemic Cutie Size: 747.0M
 Alchemy Garden Size: 842.0M
 Aleste Collection Size: 371.0M
 Alice Escaped Size: 1.5G
+Alice in Wonder Underland Size: 3.4G
 Alien Cruise Size: 2.7G
 Alien Isolation Size: 17.8G
 Alive Paint Size: 984.0M
@@ -3218,7 +3219,7 @@ Tomb Raider Definitive Edition Size: 27.2G
 Tomb Raider I-III Remastered Starring Lara Croft Size: 5.5G
 Tomba 2 The Evil Swine Return Special Edition Size: 4.6G
 Tomba Special Edition Size: 3.7G
-Tomodachi Life Living the Dream Size: 6.2G
+Tomodachi Life Living the Dream Size: 12.5G
 Tomodachi Life Living the Dream Welcome Version Size: 1.1G
 Tony Hawk's Pro Skater 1 + 2 Size: 12.3G
 Tony Hawk's Pro Skater 3 + 4 Size: 18.7G

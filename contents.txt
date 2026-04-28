@@ -2321,6 +2321,7 @@ OPUS Rocket of Whispers Size: 494.0M
 OPUS The Day We Found Earth Size: 902.0M
 Oceanhorn - Monster of Uncharted Seas Size: 462.0M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
+Octo's Balloon Challenge Size: 182.7M
 Octopath Traveler Size: 3.1G
 OddBallers Size: 1.8G
 Of Blades & Tails Size: 330.0M
@@ -2444,6 +2445,7 @@ Pine A Story of Loss Size: 1.7G
 Piofiore Episodio 1926 Size: 6.5G
 Piofiore Fated Memories Size: 4.9G
 Pipistrello and the Cursed Yoyo Size: 535.0M
+Pirarucu's Money Rush Size: 323.9M
 Pixel Artist Size: 104.0M
 Pixel Cafe Size: 516.0M
 Pixel Game Maker Series BURAIGUN GALAXY STORM Size: 174.0M
@@ -2847,6 +2849,7 @@ Slender Threads Size: 3.5G
 Slime Rancher Plortable Edition Size: 1.1G
 Smack it PUNCH CHAMPION Size: 796.0M
 Smash it Wild Demo Size: 229.0M
+Snail's Knock Out Size: 398.2M
 Sniper - Elite Shooter Squad Size: 3.5G
 Sniper Elite 3 Ultimate Edition Size: 6.3G
 Sniper Elite 4 Size: 9.1G
@@ -3228,6 +3231,7 @@ Tiny Bookshop Size: 1.2G
 Tiny Terry's Turbo Trip Size: 1.8G
 Tiny Witch Size: 112.0M
 To the Moon Size: 823.0M
+Toad's Soul Hopper Size: 693.0M
 Toadomination Size: 79.0M
 Toaplan Arcade Collection Vol.1 Size: 81.0M
 Toaplan Arcade Collection Vol.2 Size: 78.0M

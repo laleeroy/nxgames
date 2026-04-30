@@ -1038,6 +1038,7 @@ Cuphead Size: 5.1G
 Cupid Parasite Size: 6.0G
 Cupid Parasite Sweet and Spicy Darling Size: 5.6G
 Curse Warrior Size: 1.9G
+Cyanotype Daydream Size: 6.0G
 Cyber Neon Bundle Size: 261.0M
 CyberCorp Size: 4.8G
 Cybxus Hearts Size: 80.0M
@@ -1252,6 +1253,7 @@ Duck Detective - The Secret Salami Size: 269.0M
 Duck Detective The Ghost of Glamping Size: 516.0M
 Dude, Where Is My Beer Size: 771.0M
 DunHero Size: 275.0M
+Dungeon Clawler Size: 1.9G
 Dungeon Minesweeper Size: 393.0M
 Dungeon Village Size: 254.0M
 Dungeon Village 2 Size: 289.0M
@@ -2012,6 +2014,7 @@ Magazine Mogul Size: 259.0M
 Magic Rune Stone Size: 397.0M
 Magical Girl Dash Size: 313.0M
 Magicbook AutoBattler Size: 383.0M
+Magin The Rat Project Stories Size: 3.2G
 Mai Child of Ages Size: 5.5G
 Maid Cafe on Electric Street Size: 1.2G
 Maid of Salvation Size: 1.5G

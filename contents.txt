@@ -2156,6 +2156,7 @@ Monument Valley Size: 314.0M
 Monument Valley 2 Size: 329.0M
 Monument Valley 3 Size: 596.0M
 Moolii's Dreamland Size: 405.0M
+Moomintroll Winter's Warmth Size: 1.3G
 Moon Dancer Size: 122.0M
 Moonglow Bay Size: 1.2G
 Moonless Moon Size: 763.0M

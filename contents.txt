@@ -2531,6 +2531,7 @@ Psikyo Collection Vol.1 Size: 488.0M
 Psikyo Collection Vol.2 Size: 766.0M
 Pub Encounter Size: 213.0M
 Pudding Monsters Size: 106.0M
+Puddle Knights Size: 611.0M
 Pummel Party Size: 1.5G
 Puyo Puyo Champions Size: 2.8G
 Puyo Puyo Tetris Size: 1.1G

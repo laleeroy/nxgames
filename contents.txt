@@ -1239,6 +1239,7 @@ Dragon Quest Builders Size: 842.0M
 Dragon Sinker Size: 246.0M
 Dragon Takers Size: 612.0M
 Dragon's Dogma Dark Arisen Size: 12.1G
+Drawful 2 Size: 248.0M
 Dread Nautical Size: 3.0G
 DreadOut 2 Size: 5.4G
 DreadOut Remastered Collection Size: 3.4G
@@ -1422,6 +1423,7 @@ Fear Effect Size: 1.9G
 Fear Effect 2 Retro Helix Size: 2.2G
 Feeble Light Size: 73.0M
 Fernz Gate Size: 192.0M
+Fibbage XL Size: 102.0M
 Fida Puti Samurai Size: 553.0M
 Fight'N Rage Size: 463.0M
 Final Bubble Bobble Size: 19.0M
@@ -2562,6 +2564,8 @@ Quad Fighter K Size: 48.0M
 Quantum Recharged Size: 355.0M
 Quarantine Zone Border Zombie Checkpoint Size: 444.0M
 Quilts and Cats of Calico Size: 1.7G
+Quiplash Size: 88.0M
+Quiplash 2 InterLASHional The Say Anything Party Game Size: 407.0M
 Quit Today Size: 1.1G
 R-TYPE TACTICS III COSMOS Size: 12.9G
 R-Type Delta HD Boosted Size: 909.0M
@@ -3170,7 +3174,15 @@ The Hundred Line -Last Defense Academy- Novel Former Lives of the SDU File 03 - 
 The Hundred Line -Last Defense Academy- Soundtrack Size: 185.0M
 The Hundred Year Kingdom Size: 682.0M
 The Hungry Lamb Size: 2.2G
+The Jackbox Party Pack Size: 1.3G
 The Jackbox Party Pack 10 Size: 3.2G
+The Jackbox Party Pack 11 Size: 2.9G
+The Jackbox Party Pack 2 Size: 812.0M
+The Jackbox Party Pack 3 Size: 1.6G
+The Jackbox Party Pack 4 Size: 1.2G
+The Jackbox Party Pack 5 Size: 2.4G
+The Jackbox Party Pack 6 Size: 2.5G
+The Jackbox Party Pack 7 Size: 2.1G
 The Jackbox Party Pack 8 Size: 1.6G
 The Jackbox Party Pack 9 Size: 8.8G
 The Jackbox Party Starter Size: 6.1G

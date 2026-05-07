@@ -2341,6 +2341,7 @@ OPUS Echo of Starsong - Full Bloom Edition Size: 2.3G
 OPUS Prism Peak Size: 2.9G
 OPUS Rocket of Whispers Size: 494.0M
 OPUS The Day We Found Earth Size: 902.0M
+Observer Size: 18.0G
 Oceanhorn - Monster of Uncharted Seas Size: 462.0M
 Oceanhorn 2 Knights of the Lost Realm Size: 3.8G
 Octo's Balloon Challenge Size: 182.7M

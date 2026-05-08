@@ -133,6 +133,7 @@ Akash Path of the Five Size: 2.2G
 Akatsuki Lord of the Dawn Size: 198.0M
 Akinofa Size: 77.0M
 Akka Arrh Size: 272.0M
+Akuma Rise Size: 312.0M
 Alan Wake Remastered Size: 13.0G
 Alba A Wildlife Adventure Size: 642.0M
 Alchemic Cutie Size: 747.0M
@@ -1494,7 +1495,7 @@ Forgotten Memories Size: 4.9G
 Formula Legends Size: 5.3G
 Fort Boyard Size: 1.8G
 Fortress Challenge - Fort Boyard Size: 2.0G
-Fortuna Magus Size: 324.0M
+Fortuna Magus Size: 333.0M
 Fran Bow Size: 3.9G
 Frane Dragons' Odyssey Size: 575.0M
 Frank and Drake Size: 7.2G
